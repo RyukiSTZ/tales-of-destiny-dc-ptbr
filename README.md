@@ -4,6 +4,8 @@ Tradução completa para **português do Brasil** de *Tales of Destiny: Director
 
 > Tradução feita por **Ryuki** — dedicada ao meu amigo e irmão **Marcosuke**!
 
+> <img width="1968" height="996" alt="screenshots_traducao" src="https://github.com/user-attachments/assets/e47a6ab0-eab2-48a5-89d1-0ded8aa53c8b" />
+
 ## O que está traduzido
 
 - História completa (lado do Stahn e lado do Leon) e todas as skits
@@ -35,7 +37,8 @@ Tradução completa para **português do Brasil** de *Tales of Destiny: Director
 | `ferramentas` | Arquivos .bat usados no Windows |
 
 Os acentos usam símbolos ASCII que viram letras acentuadas na fonte redesenhada do jogo:
-`á→#  à→$  â→&  ã→;  é→=  ê→@  í→\  ó→^  ô→_  õ→`  ú→{  ç→|  É→}`
+`` á→#  à→$  â→&  ã→;  é→=  ê→@  í→\  ó→^  ô→_  õ→`  ú→{  ç→| É→} ``
+
 
 ## Créditos
 
