@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Neustadt... Como ser# que est# a <Ilene>?
+[ENDBLOCK]
+<Stahn>, voc@ ainda pensa na <Ilene>?
+[ENDBLOCK]
+Com certeza. Afinal, fizemos uma aposta!
+[ENDBLOCK]
+E faz muito tempo!
+Quero v@-la de novo!
+[ENDBLOCK]
+Ahh...
+[ENDBLOCK]
+H;? <Philia>? Al___?<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

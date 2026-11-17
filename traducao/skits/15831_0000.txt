@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O que est# havendo? } uma cidade t;o
+grande, mas n;o vejo ningu=m!
+[ENDBLOCK]
+Deve ter sido declarada lei marcial. Ningu=m
+pode sair de casa.
+[ENDBLOCK]
+Talvez todo mundo esteja tirando
+uma soneca ao mesmo tempo!
+[ENDBLOCK]
+Duvido muito.<x00><x00><x00><x00><x00>
+[ENDBLOCK]

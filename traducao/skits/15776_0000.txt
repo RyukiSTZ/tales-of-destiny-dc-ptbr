@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+*suspiro*...
+[ENDBLOCK]
+H# algo errado com a <Mary>?
+Ela suspira t;o triste.
+[ENDBLOCK]
+Talvez esteja desejando algo.
+[ENDBLOCK]
+Sinceramente... voc@ n;o pode dizer isso.
+[ENDBLOCK]
+Achei que a <Mary> era solteira...
+[ENDBLOCK]
+Minha tiara...
+[ENDBLOCK]
+...Ela devia gostar muito dela.<x00>
+[ENDBLOCK]

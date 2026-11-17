@@ -1,0 +1,31 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o os Aetherianos viviam nestas
+cidades a=reas, n=?
+[ENDBLOCK]
+Eu diria que o contr#rio =
+muito mais prov#vel.
+[ENDBLOCK]
+O conflito acabou antes que
+pudessem realizar isso.
+[ENDBLOCK]
+...Algo na cabe|a?
+[ENDBLOCK]
+S^ estava pensando como se sentiram ao deixar
+a vida na Terra pra viver no c=u.
+[ENDBLOCK]
+N;o posso responder por todos os que
+deixaram suas vidas para tr#s.
+[ENDBLOCK]
+Depende de cada pessoa.
+[ENDBLOCK]
+Tem raz;o... Se eu vivesse naquela =poca,
+com certeza teria ficado na Terra.
+[ENDBLOCK]
+...Acho que cada pessoa seria diferente.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

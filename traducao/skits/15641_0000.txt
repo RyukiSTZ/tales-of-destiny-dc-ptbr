@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Voc@ = daqui, <Stahn>?
+[ENDBLOCK]
+N;o. Na verdade sou de Fitzgald.
+[ENDBLOCK]
+Fitzgald, =? Estive l#
+h# pouco tempo!
+[ENDBLOCK]
+S=rio? Talvez a gente j# tenha se visto!
+[ENDBLOCK]
+Nah, acho que n;o.
+[ENDBLOCK]
+}. O mundo = bem grande, mesmo
+que $s vezes pare|a pequeno.
+[ENDBLOCK]
+Verdade.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

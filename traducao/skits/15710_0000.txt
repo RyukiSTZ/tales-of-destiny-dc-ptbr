@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Temos que pegar o <Greybum>! Vamos
+voltar logo a Darilsheid!
+[ENDBLOCK]
+Eu... nunca sa\ do templo de verdade...
+[ENDBLOCK]
+...Ent;o n;o sei onde fica.
+[ENDBLOCK]
+Pra que lado fica Darilsheid mesmo?
+[ENDBLOCK]
+H;;;;;...
+[ENDBLOCK]
+N;o force o c=rebro. Fica
+ao sul do Templo Straylize.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Agora, vamos rumo ao Castelo de Terazzi!
+Est;o prontos pra briga?
+[ENDBLOCK]
+Pode contar com a gente!
+[ENDBLOCK]
+...De algum jeito, o <Johnny> virou
+o l\der do nosso grupinho.
+[ENDBLOCK]
+Mas acho que tudo bem.
+[ENDBLOCK]
+Vamos at= o fim nisso.<x00><x00>
+[ENDBLOCK]

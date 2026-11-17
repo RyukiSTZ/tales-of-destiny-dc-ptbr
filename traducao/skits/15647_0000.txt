@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...Ah, que irritante!
+[ENDBLOCK]
+} uma vergonha uma ca|adora de lentes
+cair numa armadilha t;o simples.
+[ENDBLOCK]
+Ah, ent;o voc@ = ca|adora de lentes?
+[ENDBLOCK]
+Isso mesmo. Vou a qualquer lugar por
+lentes, n;o importa o risco!
+[ENDBLOCK]
+...Esse = o lema dos ca|adores de lentes.
+[ENDBLOCK]
+Ent;o se caiu numa armadilha, voc@
+n;o devia reclamar.
+[ENDBLOCK]
+Aquilo foi...! Foi s^ um deslize! Normalmente
+sou mais habilidosa que isso!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

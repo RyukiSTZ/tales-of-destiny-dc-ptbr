@@ -1,0 +1,916 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+O que est# acontecendo?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+As pessoas perceberam que o chefe
+da Oberon est# envolvido nos
+estranhos acontecimentos
+pelo mundo todo.
+[ENDBLOCK]
+Elas come|aram a protestar
+na frente da mans;o...
+[ENDBLOCK]
+
+[ENDBLOCK]
+Oper#rio
+[ENDBLOCK]
+O Presidente <Hugo> est# se
+recuperando de uma doen|a
+grave.
+[ENDBLOCK]
+Por favor, n;o acreditem nos boatos
+que est;o circulando. N;o s;o verdade.
+[ENDBLOCK]
+Ora, isso n;o = verdade.
+[ENDBLOCK]
+Ent;o tragam o <Hugo> aqui fora!
+[ENDBLOCK]
+Isso = ruim. Se continuar assim,
+os ca|adores v;o se revoltar.
+[ENDBLOCK]
+Como voc@ pode ter certeza?
+[ENDBLOCK]
+A oferta e a procura de lentes
+est;o totalmente desequilibradas.
+[ENDBLOCK]
+O que isso quer dizer?
+[ENDBLOCK]
+Quer dizer que os ca|adores de
+lentes v;o perder todo o dinheiro.
+[ENDBLOCK]
+Ent;o v;o perder o ganha-p;o.
+Isso = mesmo um problema.
+[ENDBLOCK]
+Mas o que d# pra fazer pra resolver?
+[ENDBLOCK]
+O problema = que a Oberon n;o d# conta
+de tanta gente tentando vender
+lentes em grande quantidade.
+[ENDBLOCK]
+Se essas pessoas tivessem s^
+um pouco mais de paci@ncia...
+[ENDBLOCK]
+Assim, aos poucos, a Oberon
+poderia comprar mais lentes.
+[ENDBLOCK]
+Ent;o = s^ acalmar
+esse pessoal?
+[ENDBLOCK]
+Bom, algo assim.
+[ENDBLOCK]
+Deixa comigo!
+[ENDBLOCK]
+O qu@? O que voc@
+vai fazer?
+[ENDBLOCK]
+Pessoal, por favor, me escutem.
+[ENDBLOCK]
+Eu me encontrei com o Presidente
+<Hugo> ontem mesmo!
+[ENDBLOCK]
+Ele mesmo me disse que, apesar de
+estar bem doente, logo vai estar
+de p= de novo!
+[ENDBLOCK]
+Deve ser verdade!
+[ENDBLOCK]
+N;o acredito!
+[ENDBLOCK]
+Eu estava l# com ele.
+[ENDBLOCK]
+Se os dois est;o dizendo,
+deve ser verdade, n=?
+[ENDBLOCK]
+Ent;o... talvez fosse
+mesmo s^ um boato...
+[ENDBLOCK]
+Ent;o foi tudo um mal-entendido.
+[ENDBLOCK]
+N;o acredito que deu certo,
+mas... n;o gosto de mentir.
+[ENDBLOCK]
+N;o = nada de mais. Voc@ fez o que
+tinha que fazer. Com certeza est# tudo bem.
+[ENDBLOCK]
+Estou preocupado com as outras
+cidades. Vamos dar uma olhada.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Voc@ tem entrado e sa\do
+bastante da mans;o.
+Voc@ mora l#?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Faz tempo que n;o vejo o chefe
+da Oberon nem o mordomo dele.
+[ENDBLOCK]
+Esta = a mans;o do chefe da
+Oberon. N;o = magn\fica?
+[ENDBLOCK]
+A mon... A montanha sumiu!
+[ENDBLOCK]
+Quer dizer que o chefe da Oberon
+= o mentor por tr#s disso?
+S^ pode ser brincadeira!
+[ENDBLOCK]
+Se a Oberon = mesmo respons#vel,
+a empresa inteira devia
+ser fechada.
+[ENDBLOCK]
+} verdade que a arma secreta que
+est;o construindo no castelo usa
+muitas lentes?
+[ENDBLOCK]
+Sempre que ou|o a palavra "lente",
+n;o consigo deixar de pensar
+na Companhia Oberon.
+[ENDBLOCK]
+A arma secreta de lentes n;o
+tem nada a ver com a Oberon, tem?
+[ENDBLOCK]
+Todos est;o contando com voc@s!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Guarda
+[ENDBLOCK]
+N;o foi divulgado que o Mestre
+<Lion> = filho do presidente.
+[ENDBLOCK]
+Fiquem atentos e informem
+qualquer suspeito.
+[ENDBLOCK]
+Toda vez que ou|o falar dos feitos do
+Mestre <Lion>, d# vontade de me gabar dele.
+[ENDBLOCK]
+O Sr. <Hugo> agora = um bem importante
+para o nosso pa\s. Estou aqui para
+garantir a seguran|a dele.
+[ENDBLOCK]
+Fui dispensado da guarda da
+mans;o do <Hugo>. } uma ordem
+direta dos meus superiores.
+[ENDBLOCK]
+E, mesmo assim, por costume,
+continuo aqui.
+[ENDBLOCK]
+Era o Sr. <Hugo> quem estava
+transmitindo. Assim que
+ouvi a voz dele, eu soube.
+[ENDBLOCK]
+Trair o pr^prio pa\s = um crime
+grave. Nunca vou perdoar o <Hugo>.
+[ENDBLOCK]
+Recebi ordens de vigiar a
+propriedade. Por isso, n;o
+vou sair deste posto.
+[ENDBLOCK]
+
+[ENDBLOCK]
+A <Marian>, que trabalha na
+mans;o, est# esperando
+algu=m voltar para casa.
+[ENDBLOCK]
+N;o acho que haja algu=m
+que voltaria para esta
+mans;o agora.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Uma vida livre da influ@ncia
+das lentes. Nem consigo imaginar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+O chefe da Oberon, <Hugo>,
+tem tantas conquistas
+magn\ficas.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Antes de o Sr. <Rembrandt> me
+encontrar, eu era ca|ador de lentes.
+[ENDBLOCK]
+N;o fui escolhido para subir aos
+c=us. Ent;o n;o sou digno.
+[ENDBLOCK]
+Quando eu era ca|ador de lentes,
+vivia correndo perigo.
+[ENDBLOCK]
+A Aetherosfera tapando o c=u
+n;o me assusta nem um pouco.
+[ENDBLOCK]
+Conto com voc@, bruxa gananciosa!
+[ENDBLOCK]
+Conto com voc@s!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aprendiz
+[ENDBLOCK]
+Bom dia!
+[ENDBLOCK]
+Ainda sou aprendiz,
+mas estou ansiosa para ajudar.
+[ENDBLOCK]
+Ai. Ainda sou aprendiz...
+[ENDBLOCK]
+Ficou sabendo da {ltima fofoca?
+Parece que o Mestre <Lion> =,
+na verdade, desta mans;o o...
+[ENDBLOCK]
+D-Desculpe! N;o = nada.
+Esque|a o que eu disse!
+[ENDBLOCK]
+Nem cochichar nos deixam
+na mans;o. Essas regras
+s;o sufocantes...
+[ENDBLOCK]
+Vi uma luz caindo l# do
+alto do c=u.
+[ENDBLOCK]
+Uma luz t;o incr\vel, nunca
+vi nada parecido.
+[ENDBLOCK]
+Agora que o patr;o e o mordomo se
+foram, a resid@ncia est# largada.
+[ENDBLOCK]
+Tenho certeza de que nem vou receber
+por todo o trabalho que fiz...
+[ENDBLOCK]
+A <Marian> voltou, mas tem
+algo diferente nela.
+[ENDBLOCK]
+A <Marian> insistiu que eu ajudasse
+a levar lentes para o castelo.
+[ENDBLOCK]
+<Rutee>...
+[ENDBLOCK]
+Ah, que coincid@ncia. Achei
+que voc@ estivesse dormindo.
+[ENDBLOCK]
+Achei que, se viesse aqui, ia te ver.
+[ENDBLOCK]
+Heh. Sabe, essa cantada n;o foi ruim.
+[ENDBLOCK]
+Bom, voc@ passou raspando...
+...acho?
+[ENDBLOCK]
+Passei no qu@?
+[ENDBLOCK]
+Estou falando de mostrar
+o seu valor como homem.
+[ENDBLOCK]
+Sabe, o que voc@ vai fazer
+quando esta luta acabar?
+[ENDBLOCK]
+Estou pensando em fazer
+outra viagem.
+[ENDBLOCK]
+Ainda tenho muito
+a aprender, sabe.
+[ENDBLOCK]
+Hmm, entendo.
+[ENDBLOCK]
+...Estamos todos ligados por um
+destino estranho, n;o =?
+[ENDBLOCK]
+Acho que voc@ tem raz;o...
+[ENDBLOCK]
+Sabe, quando te acharam escondido
+no Draconis... voc@ n;o quase
+foi executado?
+[ENDBLOCK]
+Parece que faz s=culos.
+[ENDBLOCK]
+Naquela hora, uma coisa voou do
+nada e acertou um dos soldados,
+e eu me salvei.
+[ENDBLOCK]
+Ah, fui eu.
+[ENDBLOCK]
+F-Foi voc@?
+[ENDBLOCK]
+Voc@ era t;o bobo que eu
+tive que te ajudar.
+[ENDBLOCK]
+<Rutee>, voc@ foi o meu anjo da guarda...
+[ENDBLOCK]
+Foi a\ que tudo come|ou,
+mas passamos por muita
+coisa desde ent;o.
+[ENDBLOCK]
+}, = verdade...
+[ENDBLOCK]
+Foi mesmo... muita coisa...
+[ENDBLOCK]
+Mas amanh; acaba. } a {ltima vez
+que vou ter que te aturar.
+[ENDBLOCK]
+Vai ser um al\vio.
+[ENDBLOCK]
+<Rutee>, sabe de uma coisa?
+[ENDBLOCK]
+Quando essa batalha acabar, por que
+a gente n;o viaja junto?
+[ENDBLOCK]
+Que tal?
+[ENDBLOCK]
+Voc@ est#... Est# me cantando?
+[ENDBLOCK]
+O qu@?
+[ENDBLOCK]
+H;...? O que voc@
+quer dizer com isso?
+[ENDBLOCK]
+Eu s^ queria continuar
+ao seu lado.
+[ENDBLOCK]
+Visitar os mesmos lugares, viver coisas
+novas e olhar para o mesmo c=u.
+Juntos...
+[ENDBLOCK]
+No mundo normal, quando algu=m fala
+esse tipo de coisa, chama-se
+cantar a pessoa.
+[ENDBLOCK]
+}-} mesmo...?
+Eu n;o fazia ideia...
+[ENDBLOCK]
+N;o fique todo atrapalhado depois
+de falar. Que coisa mais desajeitada.
+[ENDBLOCK]
+Bom... acho que voc@
+= assim mesmo.
+[ENDBLOCK]
+E ent;o, qual = a sua resposta?
+[ENDBLOCK]
+...Voc@ quer ouvir?
+[ENDBLOCK]
+Certamente.
+[ENDBLOCK]
+Minha resposta =...
+[ENDBLOCK]
+...
+[ENDBLOCK]
+...} segredo.
+[ENDBLOCK]
+Que hist^ria = essa!?
+N;o = justo!
+[ENDBLOCK]
+N;o sou obrigada a responder. Acha
+que reclamar vai adiantar?
+[ENDBLOCK]
+} verdade, mas...
+[ENDBLOCK]
+Bom, vamos deixar isso
+pra depois. Eu te conto
+quando voltarmos s;os e salvos.
+[ENDBLOCK]
+Vai ficar emburrado?
+[ENDBLOCK]
+N;o estou emburrado.
+[ENDBLOCK]
+...Droga, acho que n;o
+tenho escolha.
+[ENDBLOCK]
+Certo? N;o basta s^ vencer
+amanh;. Tem que ser
+desse jeito.
+[ENDBLOCK]
+Vamos vencer e vamos voltar
+vivos. Todos n^s, juntos.
+Entendeu?
+[ENDBLOCK]
+Voc@ quer ouvir minha resposta, n;o quer?
+Ent;o, custe o que custar, sobreviva!
+[ENDBLOCK]
+Voc@ tamb=m, <Rutee>. Depois de
+dizer tudo isso, = bom voc@
+cumprir essa promessa.
+[ENDBLOCK]
+Claro. Sou eu, lembra?
+N;o morro nem se me matarem.
+[ENDBLOCK]
+Promete?
+[ENDBLOCK]
+Sim, prometo.
+[ENDBLOCK]
+...Acho que = isso por enquanto?
+[ENDBLOCK]
+Certo.
+[ENDBLOCK]
+Agora que temos algo pelo que
+esperar, vamos voltar para
+os outros, que tal?
+[ENDBLOCK]
+Onde est# todo mundo?
+[ENDBLOCK]
+Devem estar reunidos no bar.
+} dif\cil dormir numa hora dessas.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x9C><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA0><x00><x80>
+<x18><x65><x58><xA4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x88><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

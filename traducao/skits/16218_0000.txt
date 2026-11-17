@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Sobre seu pai, o mestre <Hugo>...
+[ENDBLOCK]
+Acha que ele sabe que a
+<Rutee> = filha dele?
+[ENDBLOCK]
+N;o tenho certeza...
+[ENDBLOCK]
+...Por=m, pelo que disse aquele soldado
+que me passou a ordem...
+[ENDBLOCK]
+...Acho que o <Hugo> talvez saiba...
+[ENDBLOCK]
+Ser# que, talvez...
+[ENDBLOCK]
+J# que seria bem dram#tico, dois irm;os
+perdidos reunidos depois de tanto tempo...
+[ENDBLOCK]
+...Talvez ele estivesse preparando o palco pra isso?
+[ENDBLOCK]
+...Duvido seriamente que seja o caso...<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

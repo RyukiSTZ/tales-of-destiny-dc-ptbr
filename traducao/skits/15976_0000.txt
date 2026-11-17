@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Depois de chegar a Helraios, n;o
+devemos demorar a restaurar Ignasea.
+[ENDBLOCK]
+Vamos de Ignasea a Rodeon,
+e de l# a Helraios.
+[ENDBLOCK]
+Entendeu, <Stahn>?
+[ENDBLOCK]
+H;... sim.
+[ENDBLOCK]
+Devemos ter o cuidado de repor os
+suprimentos necess#rios em Radisrol.
+[ENDBLOCK]
+Revise bem as provis`es
+antes de seguir em frente.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

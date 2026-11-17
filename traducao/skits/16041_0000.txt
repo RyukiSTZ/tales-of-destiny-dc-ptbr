@@ -1,0 +1,24 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Qual = o seu sonho, <Woodrow>?
+[ENDBLOCK]
+Devolver a Phandaria sua devida gl^ria. Pra ser
+justo, = mais um dever que um sonho.
+[ENDBLOCK]
+N;o se preocupe, Rei <Woodrow>! Com certeza
+voc@ vai ser um governante espl@ndido.
+[ENDBLOCK]
+Obrigada.
+[ENDBLOCK]
+E ao lado do Rei <Woodrow>,
+eu sempre vou estar... KYAAAAH~!
+[ENDBLOCK]
+O que deu na <Chelsea>?
+[ENDBLOCK]
+As ilus`es da juventude.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

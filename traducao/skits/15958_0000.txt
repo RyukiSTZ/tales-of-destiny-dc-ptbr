@@ -1,0 +1,31 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Philia>, o que est# fazendo?
+[ENDBLOCK]
+Estou aperfei|oando uma bomba nova...
+[ENDBLOCK]
+Mas n;o est# saindo como eu esperava...
+[ENDBLOCK]
+Ei, velho, tudo bem algu=m como
+ela mexer com esse l\quido inst#vel?
+[ENDBLOCK]
+O que espera que eu fa|a? Que a encare?
+Olhe s^ o olhar perigoso dela.
+[ENDBLOCK]
+Agora, se eu misturar aquilo com isto... A
+pot@ncia vai aumentar cem vezes!
+[ENDBLOCK]
+Pena que n;o d# pra produzir em massa, hmhmhm...
+[ENDBLOCK]
+<Philia>! Acorda!!
+[ENDBLOCK]
+Ah! O-O que eu estava...!?
+[ENDBLOCK]
+Parece que n;o era s^ o
+olhar dela que era perigoso...<x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Jovem mestre, o que foi?
+[ENDBLOCK]
+Dava pra ver um pr=dio daquela praia...
+[ENDBLOCK]
+Estava pensando no que poderia
+haver l#?
+[ENDBLOCK]
+Algo importante, voc@ acha?
+[ENDBLOCK]
+Bem, acho que n;o importa muito.
+[ENDBLOCK]
+S^ me d# um mau pressentimento, s^ isso.<x00>
+[ENDBLOCK]

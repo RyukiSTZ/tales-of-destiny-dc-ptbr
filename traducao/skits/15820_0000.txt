@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Johnny>, voc@ e o <Fayte> s;o melhores amigos, n=?
+[ENDBLOCK]
+Nos conhecemos desde crian|as.
+Ele = quase como um irm;o pra mim.
+[ENDBLOCK]
+Tamb=m tenho um amigo assim na minha terra.
+} bom ter amigos de inf&ncia, n=?
+[ENDBLOCK]
+Acho que sim. Fizemos tanta coisa juntos que $s vezes
+as lembran|as me deixam sem palavras.
+[ENDBLOCK]
+} assim que voc@ se sente...?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

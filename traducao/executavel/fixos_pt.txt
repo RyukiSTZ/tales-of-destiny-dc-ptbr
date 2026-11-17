@@ -1,0 +1,32 @@
+0x19b7c8|[TAG_015] virou [TAG_016].
+0x19b7e8|[TAG_015] virou [TAG_016], mas não cabe.
+0x19b818|[Rutee] achou [TAG_015] Gald.
+0x19b838|[Rutee] achou [TAG_015] Gald, mas não cabe.
+0x19b868|[Rutee] achou [TAG_016]x [TAG_015].
+0x19b888|[Rutee] achou [TAG_016]x [TAG_015], sem espaço.
+0x19b8b8|[Rutee] achou [TAG_015].
+0x19b8d0|[Rutee] achou [TAG_015], mas não cabe.
+0x19b8f8|[TAG_016] feito de [TAG_015].
+0x19b918|[TAG_016] feito de [TAG_015], mas não cabe.
+0x19b950|[TAG_015] de [TAG_016] subiu de nível!
+0x19b980|[TAG_015] subiu de nível!
+0x19b9a0|[TAG_016] brotou de [TAG_015].
+0x19b9c0|[TAG_016] brotou de [TAG_015], mas não cabe.
+0x19b9f0|[TAG_015] de [Kongman] aumentou.
+0x19ba10|Nunca mais se ouviu falar dele...
+0x19ba40|Nunca mais se ouviu falar dele...
+0x19ba78|Nunca mais se ouviu falar deles...
+0x19bab0|Ah, qual é! Eu estava pegando leve!
+0x19bae8|Hmpf! Nem vale enferrujar a lâmina.
+0x19bb10|Kukuku... Bem o que eu[LINE]precisava pro tédio.
+0x19bb40|Pelo bem do meu país.[LINE]Me perdoem.
+0x19bb68|Não me arrependo.
+0x19bb90|Não me arrependo[LINE]do que fiz.
+0x19bbc0|Sinto muito por isso...[LINE]Sinto muito.
+0x19bbe8|[Ilene]... Eu te vinguei...
+0x19bc08|[Ilene]... Vocês foram mais[LINE]divertidos que o Leon
+0x19bc38|Que pena... mas se não podem[LINE]superar esta provação...!
+0x19bc78|Aqui acaba a sua história![LINE]Não sobrou ninguém para ter pena!
+0x19bcc0|Hi hi hi! Por mais que tentem,[LINE]lixo é lixo.
+0x19bcf8|Droga! Então é isso...[LINE]Nem valia a pena matar.
+0x19bd28|Nunca mais se ouviu falar deles...

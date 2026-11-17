@@ -1,0 +1,27 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Jovem mestre! Ei, JOVEM MESTRE!
+[ENDBLOCK]
+Por que est# t;o euf^rico agora?
+[ENDBLOCK]
+Que gosto ser# que tem o Sorvete Cremoso?
+[ENDBLOCK]
+Preciso saber!
+[ENDBLOCK]
+Entendo...
+[ENDBLOCK]
+Voc@ nunca p_de comer
+algo assim, Chal...
+[ENDBLOCK]
+Por isso, jovem mestre...
+[ENDBLOCK]
+Se for muito gostoso, voc@ TEM QUE
+me contar tudo, t#?
+[ENDBLOCK]
+Claro, se eu estiver com vontade.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

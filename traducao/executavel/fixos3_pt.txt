@@ -1,0 +1,73 @@
+0x19a000|Disco do[LINE]Tales of Destiny Directors Cut[LINE]não inserido.
+0x19a058|O disco mudou. Insira o disco do[LINE]Tales of Destiny Directors Cut.
+0x19a0c0|Verificando o disco.
+0x19a0e0|Aguarde.
+0x19a820|Deseja pular?
+0x19a838|Sim
+0x19a840|Não
+0x19b0c0|Carregando
+0x19b0d0|Deseja pular?
+0x19b0e8|Sim
+0x19b0f0|Não
+0x19b130|Comida
+0x19b138|[TAG_007][TAG_016][TAG_019] [TAG_015][LINE][center]obtido.
+0x19b168|[TAG_007]Há [TAG_016][TAG_019] [TAG_015], mas[LINE]não dá para levar tudo.[LINE][center]Levar [TAG_017][TAG_019], largar [TAG_018][TAG_019][LINE]Devolver
+0x19b1e0|[TAG_007][[TAG_015]] obtido.
+0x19b208|[TAG_007]Achou [[TAG_015]], mas[LINE]não dá para carregar mais.
+0x19b248|[TAG_007]Achou [[TAG_015]],[LINE]mas não pode ficar.
+0x19b280|[TAG_007][TAG_015] Gald obtidos.
+0x19b2a8|[TAG_007][TAG_015] descoberto.
+0x19b2c8|[TAG_007][TAG_015] aprendeu [turquoise][TAG_016][/color].
+0x1a52f8|Caos
+0x1a5308|Hard
+0x1a5320|Simples
+0x1aa9f0|Navio lendário, afundado nas profundezas.[LINE]Esquecido por todos.
+0x1ab578|[Select_ani]Personagem [Triangle_ani]Ordem [Square_ani]Suporte
+0x1ab5b0|[Select_ani]Personagem [Triangle_ani]Ordem
+0x1ab5d8|[Select_ani]Ajustar [Circle_ani]OK [Cross_ani]Cancelar
+0x1ab600|[TAG_007]Que comece a batalha.[LINE]Está pronto?[LINE]Sim[LINE]Não
+0x1ab680|Artes
+0x1ab690|Itens
+0x1ab6a0|Comida
+0x1ab6b0|Tática
+0x1ab6c0|Equipar
+0x1ab6d0|Rerise
+0x1ab6e0|Status
+0x1ab6f0|Salvar
+0x1ab700|Pausar
+0x1ab770|[Select_ani]Ajustar [Circle_ani]OK [Cross_ani]Cancelar
+0x1ab7a0|[TAG_007]Deixe um membro do grupo[LINE]pronto para lutar.
+0x1ab7e0|[TAG_007]Não dá para trocar o membro[LINE]do talento de suporte.
+0x1ab848|Suporte
+0x1ab878|Tempo
+0x1ab8e0|Local
+0x1ab908|[Select_ani]Personagem [Triangle_ani]Ordem [Square_ani]Suporte
+0x1ab940|[Select_ani]Personagem [Triangle_ani]Ordem
+0x1bf0e8|Guerr.
+0x1bf308|Saco Comida
+0x1bf318|Livro
+0x1bf320|Cartão
+0x1bf328|Frigideira
+0x1bf338|Cinto
+0x1bf348|Fita
+0x1bf350|Bandana
+0x1bf360|Adaga
+0x1bf368|Arco L.
+0x1bf370|Pingen.
+0x1bf378|Luvas
+0x1bf388|Bracel.
+0x1bf390|Único
+0x1bf3a0|Joia
+0x1bf3a8|Manto
+0x1bf3b0|Capa
+0x1bf3c0|Roupa
+0x1bf3c8|Peitoral
+0x1bf3d8|Armadura
+0x1bf3e8|Concha
+0x1bf3f0|Soqueiras
+0x1bf400|Cordas
+0x1bf418|Espada
+0x1bf420|Receita
+0x1bf440|Outro
+0x1bf448|De Uso
+0x1bf4c0|Efeitos espec.

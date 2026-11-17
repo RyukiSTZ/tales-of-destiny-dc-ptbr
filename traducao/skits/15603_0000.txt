@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Uau, est# nevando.
+[ENDBLOCK]
+Neve = novidade pra voc@, n=?
+[ENDBLOCK]
+De onde voc@ =, <Stahn>?
+[ENDBLOCK]
+De uma vila chamada Lienea, em Fitzgald.
+[ENDBLOCK]
+Entendo. Ouvi dizer que l# o clima = quente.
+[ENDBLOCK]
+N;o = $ toa que a neve te surpreendeu.
+[ENDBLOCK]
+}, isso mesmo.<x00>
+[ENDBLOCK]

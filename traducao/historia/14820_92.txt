@@ -1,0 +1,1063 @@
+□SafePack Level 1 Get
+
+[ENDBLOCK]
+□SafePack Level 2 Get
+
+[ENDBLOCK]
+□SafePack Level 3 Get
+
+[ENDBLOCK]
+□SafePack Level 4 Get
+
+[ENDBLOCK]
+□SafePack not buy
+
+[ENDBLOCK]
+<TAG_005>Toda a fama, riqueza e gl^ria...
+Era para ser tudo meu...
+[ENDBLOCK]
+<TAG_005>A rever@ncia = nossa {nica prote|;o...
+[ENDBLOCK]
+<TAG_005>Meu {nico desejo = ser supremo...
+[ENDBLOCK]
+<TAG_005>Os mais fracos s;o os mais
+propensos a fazer o mal...
+[ENDBLOCK]
+<TAG_005> "Justi|a" decidida por pilhas de cad#veres...
+[ENDBLOCK]
+<TAG_005>Voc@ JAMAIS conhecer# o perd;o!
+[ENDBLOCK]
+<TAG_005>Mesmo com o passar do tempo,
+meu rancor = eterno...
+[ENDBLOCK]
+<TAG_005><Dymlos>... Aqui voc@ encontrar# o descanso eterno!
+[ENDBLOCK]
+直値計算です	param = <x1D><x76><x00><x80>
+
+[ENDBLOCK]
+現在値：<TAG_034>, 最大値：<TAG_035>, 加算：<TAG_075>, <x1D><x76><x00><x80>
+
+[ENDBLOCK]
+計算値：<x1D><x76><x00><x80>	目標：<TAG_076>
+
+[ENDBLOCK]
+新しい値：<TAG_034>	値or割合：<x1D><x76><x00><x80>
+
+[ENDBLOCK]
+宝箱の設置......番号：<x17><x66><x10><x0B><x70><x00><xAB><x80>, データ：<x17><x66><x10><x0B><x70><x04><xAB><x80>, <x17><x66><x10><x0B><x70><x08><xAB><x80>
+
+[ENDBLOCK]
+座標：<x1D><x66><x14><x0F><x74><x00><xAB><x80>, <x1D><x66><x14><x0F><x74><x04><xAB><x80>, <x1D><x66><x14><x0F><x74><x08><xAB><x80>, Rot:<x17><x66><x14><x0F><x6C><x0C><xAB><x80>, No:<x17><x66><x50><x18><x0B><x70><x04><xAB><x80>
+
+[ENDBLOCK]
+宝箱アクションの開始	<x17><x66><x10><x0B><x70><x04><xAB><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ru\nas Arcana
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+Os ba{s de tesouro t@m efeitos
+especiais dentro das <x18><x66><x1C><x00><x80>.
+
+[ENDBLOCK]
+Alguns restauram sua for|a e
+reabastecem sua comida, enquanto
+outros drenam sua for|a
+e deixam voc@ com fome.
+
+[ENDBLOCK]
+Todos os ba{s da mesma cor num
+andar t@m o mesmo efeito. Abra
+um para descobrir qual =.
+
+[ENDBLOCK]
+×	ActExTBox時に無効な値が発生	<x17><x66><x50><x10><x07><x66><x10><x0B><x70><x08><xAB><x8B><xE8><xCF><x70><x00><xAA><x80>	×
+
+[ENDBLOCK]
+Ba{ de Tesouro: Recupera HP
+
+[ENDBLOCK]
+<center>Ba{s desta cor parecem
+restaurar a sa{de.
+[ENDBLOCK]
+Ba{ de Tesouro: Reduz HP
+
+[ENDBLOCK]
+<center>Ba{s desta cor parecem
+drenar sua for|a.
+[ENDBLOCK]
+<center>Ba{s desta cor parecem
+<center>aumentar os Pontos EX.
+[ENDBLOCK]
+Ba{ de Tesouro: Aumenta Pontos EX
+Quantia: <TAG_032>	Atual: <TAG_034>
+
+[ENDBLOCK]
+Ba{ de Tesouro: Reduz Pontos EX
+Quantia: <TAG_032>	Atual: <TAG_034>
+
+[ENDBLOCK]
+<center>Ba{s desta cor parecem
+reduzir os Pontos EX atuais.
+[ENDBLOCK]
+Ba{ de Tesouro: Aumenta Comida
+Atual: <TAG_032>
+
+[ENDBLOCK]
+<center>Ba{s desta cor parecem
+reabastecer a comida.
+[ENDBLOCK]
+Ba{ de Tesouro: Perde Comida
+Atual: <TAG_032>
+
+[ENDBLOCK]
+<center>Ba{s desta cor parecem
+destruir parte da sua comida.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Cyglorg
+[ENDBLOCK]
+Que surpresa encontrar voc@s nas <TAG_052>.
+
+[ENDBLOCK]
+Seria um prazer oferecer
+ajuda na sua jornada.
+
+[ENDBLOCK]
+Claro, vai custar alguns dos seus
+Pontos EX. Mas quem sabe?
+Se eu estiver de bom humor,
+posso ajudar de gra|a.
+
+[ENDBLOCK]
+De qualquer forma, n;o esque|am
+que podem gastar seus Pontos
+EX na entrada.
+
+[ENDBLOCK]
+Aceitando ou n;o minha oferta, assim
+que esta conversa acabar, eu sumo.
+
+[ENDBLOCK]
+Bem, ent;o, vamos aos neg^cios.
+
+[ENDBLOCK]
+エラータイプ
+[ENDBLOCK]
+★ＨＰ回復開始
+
+[ENDBLOCK]
+現在ＥＰ：<TAG_035>（消費ＥＰ：<TAG_034>）
+
+[ENDBLOCK]
+Andar Atual:<TAG_077>
+
+[ENDBLOCK]
+Se pedirem com jeitinho, posso
+restaurar totalmente sua for|a.
+[ENDBLOCK]
+Claro, vai custar <TAG_034> Pontos EX.
+O que acham, neg^cio fechado?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+<TAG_007>Pontos EX Restantes <TAG_035>
+Sim, fechado.
+De jeito nenhum!
+
+[ENDBLOCK]
+O HP foi restaurado.
+
+[ENDBLOCK]
+Pronto, tudo melhor agora.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Espero que venham
+me visitar de novo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Oh, que triste. Voc@s n;o t@m o suficiente.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Espero que nos vejamos logo.
+[ENDBLOCK]
+Espero que sobrevivam o bastante
+para se arrependerem dessa escolha.
+[ENDBLOCK]
+★HP Recovery Complete.
+
+[ENDBLOCK]
+★Item → EP
+
+[ENDBLOCK]
+<x1A><x72><x40><x14><x80><x17><x72><x40><x24><x80>個を代価に<TAG_077>が貰えます
+
+[ENDBLOCK]
+Eu quero seu <x17><x72><x40><x20><x80>.
+
+[ENDBLOCK]
+<TAG_007>Se me der <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>],
+aumento seus Pontos EX.
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Interessados na minha oferta?
+[ENDBLOCK]
+Trocar <x17><x72><x40><x24><x80>x [<x1A><x72><x40><x14><x80>]	 (Estoque Atual: <x17><x72><x40><x14><x20><x24><x02><x15><x40><x80>）
+Fechado.
+Nada feito.
+
+[ENDBLOCK]
+Fabuloso! Vou levar <x17><x72><x40><x24><x80> <x1A><x72><x40><x14><x80>
+[ENDBLOCK]
+Voc@s ganharam <TAG_077> Pontos EX.
+[ENDBLOCK]
+★Item→EP End
+
+[ENDBLOCK]
+★アイテム取得開始
+
+[ENDBLOCK]
+Eu lhes dou [<x1A><x72><x40><x14><x80>].
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_034> <x1A><x72><x40><x14><x80> obtido.
+[ENDBLOCK]
+
+[ENDBLOCK]
+At= a pr^xima.
+[ENDBLOCK]
+★アイテム取得終了
+
+[ENDBLOCK]
+★ＥＰ→アイテム開始
+
+[ENDBLOCK]
+<x1A><x72><x40><x14><x80><TAG_034>個が貰えます（アイテムレート<TAG_076>）
+
+[ENDBLOCK]
+現在EP<x17><x72><x40><x20><x80>、減少EP<TAG_077>
+
+[ENDBLOCK]
+Voc@s podem gastar <TAG_077> Pontos EX
+para comprar <TAG_034> [<x1A><x72><x40><x14><x80>].
+
+[ENDBLOCK]
+Pontos EX Restantes	<x17><x72><x40><x20><x80>
+Fechado.
+Nada feito.
+
+[ENDBLOCK]
+Muito bem, vou levar <TAG_077> Pontos EX.
+[ENDBLOCK]
+★ＥＰ→アイテム終了
+
+[ENDBLOCK]
+Vermelho
+[ENDBLOCK]
+★Begin Chest Info
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<red>Vermelho
+[ENDBLOCK]
+<blue>Azul
+[ENDBLOCK]
+<green>Verde
+[ENDBLOCK]
+Restaura a sa{de
+[ENDBLOCK]
+Reduz a sa{de
+[ENDBLOCK]
+D# Pontos EX
+[ENDBLOCK]
+Reduz Pontos EX
+[ENDBLOCK]
+Adiciona comida ao saco.
+[ENDBLOCK]
+Diminui o estoque de comida.
+[ENDBLOCK]
+この値<x17><x66><x50><x20><x07><x72><x40><x10><x8B><xE8><xCF><x70><x00><xAA><x80>は無効の値です。<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Deixem-me dar umas informa|`es
+sobre os ba{s deste andar.
+[ENDBLOCK]
+Neste andar, os ba{s <TAG_054></color> t@m o
+seguinte efeito: <TAG_055>
+[ENDBLOCK]
+★宝箱情報終了
+
+[ENDBLOCK]
+★アイテム→フードサック開始
+
+[ENDBLOCK]
+<x1A><x72><x40><x1C><x80><TAG_075>個が必要です（現在所持数：<TAG_076>個）
+
+[ENDBLOCK]
+最低でも<x17><x72><x40><x24><x80>個が必要です
+
+[ENDBLOCK]
+Se trocarem <TAG_075> <x1A><x72><x40><x1C><x80>,
+posso reabastecer toda a sua comida.
+[ENDBLOCK]
+Trocar <TAG_075> <x1A><x72><x40><x1C><x80>?  Estoque Atual: <x17><x72><x40><x1C><x20><x24><x02><x15><x40><x80>）
+Fechado.
+Nada feito.
+
+[ENDBLOCK]
+Fabuloso, vou levar <x1A><x72><x40><x1C><x80>(x <TAG_075>)
+[ENDBLOCK]
+Seu Saco de Comida
+est# cheio.
+
+[ENDBLOCK]
+★アイテム→フードサック終了
+
+[ENDBLOCK]
+[<x18><x66><x10><x00><x80>]のイベントは
+用意されていません。
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_031>は無効値です。アップルグミの番号を返却します。
+
+[ENDBLOCK]
+<TAG_031>は無効値です。レートを０とします。
+
+[ENDBLOCK]
+<TAG_031>は無効値です。最低数を15とします。
+
+[ENDBLOCK]
+○気絶から復帰：パッド入力開始
+
+[ENDBLOCK]
+○跳躍から復帰：パッド入力開始
+
+[ENDBLOCK]
+○転倒から復帰：パッド入力開始
+
+[ENDBLOCK]
+Seguir para o pr^ximo andar
+[ENDBLOCK]
+Salvar e continuar (<x17><x72><x40><x1C><x08><xC9><x75><x00><x80> Pontos EX)
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sair das Ru\nas Arcana
+[ENDBLOCK]
+
+[ENDBLOCK]
+Cancelar
+[ENDBLOCK]
+<TAG_007>Pontos EX	<x17><x08><x96><x74><x00><x80>
+<x18><x66><x50><x24><x00><x80>
+<x18><x66><x50><x28><x00><x80>
+<x18><x66><x50><x2C><x00><x80>
+<x18><x66><x50><x30><x00><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>Tem certeza?
+Sim
+N;o
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@s est;o sem Pontos EX.
+[ENDBLOCK]
+戦終了後の割り込み設定
+
+[ENDBLOCK]
+クリアタイム：フレーム＝<TAG_032>
+
+[ENDBLOCK]
+Tempo: Minutos＝<TAG_032>
+
+[ENDBLOCK]
+B_nus de Grupo：<TAG_075>
+
+[ENDBLOCK]
+全滅割り込み
+
+[ENDBLOCK]
+<TAG_005>Os fracos devem ser eliminados.
+[ENDBLOCK]
+<TAG_031>はEXダンジョン番号ではありません。
+
+[ENDBLOCK]
+<TAG_032>は階層番号ではありません。
+
+[ENDBLOCK]
+	<TAG_032>F
+[ENDBLOCK]
+？？？？???
+[ENDBLOCK]
+マップ名称の設定
+
+[ENDBLOCK]
+EX Points-><TAG_032>, 加算-><TAG_031>
+
+[ENDBLOCK]
+EX Points補正 <x17><x71><x45><x88><x80> -> <x09><x9F><x86><x01><x00>
+
+[ENDBLOCK]
+○○○階層クリア時のパーティーボーナス：<TAG_032>
+
+[ENDBLOCK]
+○○○階層クリア時間から得られるポイント：<TAG_033>
+
+[ENDBLOCK]
+パーティの人数：<x17><x20><x14><x23><x80>
+
+[ENDBLOCK]
+○○○階層クリア時のパーティーボーナス：<TAG_031>
+
+[ENDBLOCK]
+Grupo: <Lilith> <TAG_031>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolha do Grupo
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00>Escolha o grupo que vai enfrentar
+este andar. Voc@ pode escolher
+de 1 a 5 membros.
+[ENDBLOCK]
+<x19><x21><x72><x00><x8B><x80>, <x17><x45><x56><x98><x00><x72><x00><x8B><xE8><x40><x80>
+
+[ENDBLOCK]
+パーティ参加人数：<x17><x72><x40><x64><x80>、戦闘参加：<x17><x72><x40><x68><x80>、サポート：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+party_list[0] = <x17><x6A><x40><x9C><x80>（パーティ人数）
+
+[ENDBLOCK]
+party_list[<TAG_031>] = <x17><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>（<x19><x46><x50><x9C><x00><x72><x00><x8B><xE8><x40><x80>）
+
+[ENDBLOCK]
+<TAG_007>O grupo foi escolhido.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<grey1>Confirmar
+[ENDBLOCK]
+
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x19><x21><x72><x08><x8B><x80>は<x17><x45><x56><x98><x00><x72><x08><x8B><xE8><x40><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80><x18><x66><x50><x58><x00><x80><x18><x66><x50><x5C><x00><x80><x18><x66><x50><x60><x00><x80><x18><x66><x50><x64><x00><x80><x18><x66><x50><x68><x00><x80><x18><x66><x50><x6C><x00><x80><x18><x66><x50><x70><x00><x80><x18><x66><x50><x74><x00><x80>
+
+[ENDBLOCK]
+<TAG_007>Continuar com este grupo?
+Sim
+N;o
+
+[ENDBLOCK]
+</color>Confirmar
+[ENDBLOCK]
+Escolha do Apoio
+[ENDBLOCK]
+Nenhum Escolhido
+
+[ENDBLOCK]
+<TAG_007><x06><xF8><x00><x00><x00><x18><x66><x50><x40><x00><x80><x18><x66><x50><x44><x00><x80><TAG_069><x18><x66><x50><x4C><x00><x80><x18><x66><x50><x50><x00><x80><x18><x66><x50><x54><x00><x80>Voltar $ Escolha do Grupo
+[ENDBLOCK]
+sem membro de apoio
+[ENDBLOCK]
+<TAG_007>Voltar $ escolha do grupo?
+Sim
+N;o
+
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x58><x00><x80> ser# seu apoio?
+Sim
+N;o
+
+[ENDBLOCK]
+<TAG_076> = <x19><x72><x40><x18><x21><x8B><x80>
+
+[ENDBLOCK]
+party_list[<x17><x6A><x01><x80>] = <x17><x46><x13><x00><x6A><x01><x8B><xE8><x40><x80> = <x19><x46><x13><x00><x6A><x01><x8B><xE8><x40><x80>
+
+[ENDBLOCK]
+j = <x17><x6A><x02><x80>	HPを１に変更
+
+[ENDBLOCK]
+パーティを再編成します
+
+[ENDBLOCK]
+更新人数：<x17><x6A><x02><x21><x8C><x80>、戦闘要員：<x17><x69><x49><x91><x80>
+
+[ENDBLOCK]
+<yellow>Escolhido (Restam <x17><x69><x46><x98><x21><x8C><x80>)  <Stahn>
+
+[ENDBLOCK]
+<grey1>N;o Escolhido (Restam <x17><x69><x46><x98><x80>)  <Stahn>
+
+[ENDBLOCK]
+<yellow>Escolhida (Restam <x17><x69><x46><x99><x21><x8C><x80>)  <Rutee>
+
+[ENDBLOCK]
+<grey1>N;o Escolhida (Restam <x17><x69><x46><x99><x80>)  <Rutee>
+
+[ENDBLOCK]
+<yellow>Escolhida (Restam <x17><x69><x46><x9A><x21><x8C><x80>)  <Philia>
+
+[ENDBLOCK]
+<grey1>N;o Escolhida (Restam <x17><x69><x46><x9A><x80>)  <Philia>
+
+[ENDBLOCK]
+<yellow>Escolhido (Restam <x17><x69><x46><x9B><x21><x8C><x80>)  <Woodrow>
+
+[ENDBLOCK]
+<grey1>N;o Escolhido (Restam <x17><x69><x46><x9B><x80>)  <Woodrow>
+
+[ENDBLOCK]
+<yellow>Escolhido (Restam <x17><x69><x46><x9C><x21><x8C><x80>)  <Lion>
+
+[ENDBLOCK]
+<grey1>N;o Escolhido (Restam <x17><x69><x46><x9C><x80>)  <Lion>
+
+[ENDBLOCK]
+<yellow>Escolhida (Restam <x17><x69><x46><x9D><x21><x8C><x80>)  <Mary>
+
+[ENDBLOCK]
+<grey1>N;o Escolhida (Restam <x17><x69><x46><x9D><x80>)  <Mary>
+
+[ENDBLOCK]
+<yellow>Escolhida (Restam <x17><x69><x46><x9E><x21><x8C><x80>)  <Chelsea>
+
+[ENDBLOCK]
+<grey1>N;o Escolhida (Restam <x17><x69><x46><x9E><x80>)  <Chelsea>
+
+[ENDBLOCK]
+<yellow>Escolhido (Restam <x17><x69><x46><x9F><x21><x8C><x80>)  <Johnny>
+
+[ENDBLOCK]
+<grey1>N;o Escolhido (Restam <x17><x69><x46><x9F><x80>)  <Johnny>
+
+[ENDBLOCK]
+<yellow>Escolhido (Restam <x17><x69><x46><xA0><x21><x8C><x80>)  <Kongman>
+
+[ENDBLOCK]
+<grey1>N;o Escolhido (Restam <x17><x69><x46><xA0><x80>)  <Kongman>
+
+[ENDBLOCK]
+<yellow>Escolhida (Restam <x17><x69><x46><xA1><x21><x8C><x80>)  <Lilith>
+
+[ENDBLOCK]
+<grey1>N;o Escolhida (Restam <x17><x69><x46><xA1><x80>)  <Lilith>
+
+[ENDBLOCK]
+</color><Stahn>
+
+[ENDBLOCK]
+</color><Rutee>
+
+[ENDBLOCK]
+</color><Philia>
+
+[ENDBLOCK]
+</color><Woodrow>
+
+[ENDBLOCK]
+</color><Lion>
+
+[ENDBLOCK]
+</color><Mary>
+
+[ENDBLOCK]
+</color><Chelsea>
+
+[ENDBLOCK]
+</color><Johnny>
+
+[ENDBLOCK]
+</color><Kongman>
+
+[ENDBLOCK]
+</color><Lilith>
+
+[ENDBLOCK]
+</color><Stahn>
+[ENDBLOCK]
+</color><Rutee>
+[ENDBLOCK]
+</color><Philia>
+[ENDBLOCK]
+</color><Woodrow>
+[ENDBLOCK]
+</color><Lion>
+[ENDBLOCK]
+</color><Mary>
+[ENDBLOCK]
+</color><Chelsea>
+[ENDBLOCK]
+</color><Johnny>
+[ENDBLOCK]
+</color><Kongman>
+[ENDBLOCK]
+</color><Lilith>
+[ENDBLOCK]
+セーブしていた	次マップ<x17><x71><x46><x84><x80> == <x17><x15><x4E><x80>
+
+[ENDBLOCK]
+Sair da masmorra
+Cancelar
+[ENDBLOCK]
+
+[ENDBLOCK]
+負けました
+
+[ENDBLOCK]
+Desafiar Barbatos
+[ENDBLOCK]
+Salvar e desafiar Barbatos （<x17><x72><x04><x08><xC9><x75><x00><x80>Pontos EX）
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Salvar e...? （<x17><x72><x04><x08><xC9><x75><x00><x80>Pontos EX）
+[ENDBLOCK]
+<TAG_007>EX Points	<x17><x20><x16><x42><x80>
+<x18><x66><x1C><x00><x80>
+<TAG_052>
+<TAG_053>
+<TAG_054>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ sente uma presen|a maligna...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>Tem certeza de que deseja prosseguir?
+Vamos!
+Pensando bem...
+
+[ENDBLOCK]
+rotX = <x1D><x76><x40><x10><x80>
+
+[ENDBLOCK]
+rotX = <x1D><x14><x4B><x80>
+
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><xB8><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x59><xA8><x00><x80><x18><x65><x59><xAC><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xDC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><xD8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x49><xCC><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x49><xCC><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><xD0><x00><x80>
+<x18><x65><x59><xD4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x49><xB8><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

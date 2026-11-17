@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Rutee>, o que acha da
+situa|;o do <Lion>?
+[ENDBLOCK]
+Como o <Stahn> diz, tendo a acreditar
+que h# algo errado.
+[ENDBLOCK]
+H# t;o pouca informa|;o que = dif\cil dizer.
+[ENDBLOCK]
+Mas uma coisa eu sei...
+[ENDBLOCK]
+O que = aquilo...?
+[ENDBLOCK]
+Vai ser ruim se n;o ficarmos focados.
+[ENDBLOCK]
+Se acabarmos mesmo lutando com ele, vamos
+morrer se n;o levarmos a s=rio.
+[ENDBLOCK]
+Bem...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

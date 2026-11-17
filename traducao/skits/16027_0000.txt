@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Precisamos embarcar no Avitus Draconis pra
+ir ao Laborat^rio de P&D Swordian.
+[ENDBLOCK]
+Quando superarmos o teste final,
+seremos Mestres Swordian de verdade!
+[ENDBLOCK]
+} estranho pensar que vamos montar o mesmo
+drag;o que nos atacou naquela vez.
+[ENDBLOCK]
+} mesmo, n=?
+[ENDBLOCK]
+O Avitus Draconis est# estacionado logo
+fora da cidade. Vamos ach#-lo.<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

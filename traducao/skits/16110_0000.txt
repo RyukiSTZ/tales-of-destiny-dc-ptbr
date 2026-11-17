@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+A <Philia> est# em apuros. Precisamos cur#-la!
+[ENDBLOCK]
+Pare de entrar em p&nico. } s^ usar uma Garrafa
+da Vida que ela fica bem.
+[ENDBLOCK]
+<Lion>, voc@ = sempre t;o calmo.
+[ENDBLOCK]
+Como consegue ficar tranquilo com
+seus companheiros em apuros?
+[ENDBLOCK]
+Entrar em p&nico como voc@ n;o adianta nada.
+[ENDBLOCK]
+S^ me traga logo uma Garrafa da Vida.
+[ENDBLOCK]
+C-Certo.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

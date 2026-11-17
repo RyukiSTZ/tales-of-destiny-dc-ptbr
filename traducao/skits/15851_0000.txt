@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Querido vov_ e <Lilith>. Cheguei
+a Phandaria e...
+[ENDBLOCK]
+Ei, <Stahn>. Voc@ ainda n;o
+mandou aquela carta, s=rio?
+[ENDBLOCK]
+Est#... t;o frio aqui...
+[ENDBLOCK]
+...Argh, n;o adianta! Minhas m;os est;o
+congeladas! N;o consigo escrever nada!
+[ENDBLOCK]
+...Algo me diz que a fam\lia dele nunca
+vai receber essa carta.<x00><x00><x00><x00>
+[ENDBLOCK]

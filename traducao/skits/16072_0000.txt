@@ -1,0 +1,12 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+N;o vou deixar o esfor|o do <Ritora> ser em v;o.
+Vamos derrubar o <Miktran> de uma vez por todas!
+[ENDBLOCK]
+Vamos embarcar no Draconis e ir a Dycroft!<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

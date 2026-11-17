@@ -1,0 +1,560 @@
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Darzen>
+[ENDBLOCK]
+Alteza, deseja
+descansar?
+Sim
+N;o
+
+[ENDBLOCK]
+Todos v;o descansar?
+Sim
+N;o
+
+[ENDBLOCK]
+Alguns monstros do <Greybum>
+podem prejudicar suas habilidades.
+[ENDBLOCK]
+N;o baixem a guarda.
+[ENDBLOCK]
+Loja de Armas
+[ENDBLOCK]
+Eu vendia armas na cidade. Se
+virem algo que gostem, = s^ me
+avisar. Com seu gald.
+[ENDBLOCK]
+Loja de Itens
+[ENDBLOCK]
+Trouxe algumas coisas da loja.
+Fiquem $ vontade para usar se
+precisarem. Pagando, claro.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Loja de Unicos
+[ENDBLOCK]
+Por que num momento
+como este...?
+[ENDBLOCK]
+Bem-vindo. O que
+vai querer?
+[ENDBLOCK]
+Menino
+[ENDBLOCK]
+O sr. <Darzen> me trouxe aqui.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Ele e eu conseguimos
+fugir juntos.
+[ENDBLOCK]
+O resto da minha fam\lia
+fugiu separado, por=m.
+Espero que estejam bem...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+As pessoas aqui s;o as que
+se rebelaram contra o <Greybum>.
+[ENDBLOCK]
+Pr\ncipe <Woodrow>, por favor!
+Traga a paz de volta a Heidelberg!
+[ENDBLOCK]
+Todos, por favor! Tragam
+a paz de volta a Heidelberg!
+[ENDBLOCK]
+Merceeiro
+[ENDBLOCK]
+Um rei pode governar o povo,
+mas a fome governa o rei.
+[ENDBLOCK]
+Por causa do <Greybum>, o povo
+do castelo est# apavorado.
+[ENDBLOCK]
+Como ele controla
+tantos monstros?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Talvez o Olho de Atamoni...?
+[ENDBLOCK]
+De qualquer forma, s;o os que
+entraram na rebeli;o que
+merecem nossa pena.
+[ENDBLOCK]
+O <Greybum> os conquistou com
+promessas de revolu|;o, e
+eles ca\ram direitinho.
+[ENDBLOCK]
+Agora, com nossas casas em chamas,
+estamos $ merc@ dele!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Imposs\vel... O <Dalis>
+jamais deixaria isso
+acontecer!
+[ENDBLOCK]
+Por que ainda defende
+aquele homem?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Esque|a.
+Continue falando.
+[ENDBLOCK]
+Sua Majestade fez a escolha
+certa, afinal...
+[ENDBLOCK]
+} natural que aqueles que
+amea|am a Fam\lia Real
+sejam subjugados.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Fomos amea|ados?
+O que quer dizer?
+[ENDBLOCK]
+Vossa Alteza n;o
+sabia?
+[ENDBLOCK]
+H# dois anos, um grupo de Cyril
+veio ao castelo. Exigiram
+independ@ncia imediata.
+[ENDBLOCK]
+Amea|aram que, se o rei
+recusasse, eles se revoltariam.
+[ENDBLOCK]
+N;o pode ser...!
+[ENDBLOCK]
+N;o, eu n;o sabia
+disso...
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+ Ent;o o Ex=rcito Real foi
+enviado para subjugar Cyril...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Eles amea|aram uma revolta.
+} natural que ele fizesse
+isso.
+[ENDBLOCK]
+N;o... Isso n;o pode
+estar certo. O <Dalis>
+jamais faria isso!
+[ENDBLOCK]
+Onde no castelo
+est# o <Greybum> agora?
+[ENDBLOCK]
+Ele = visto com frequ@ncia na torre.
+Deve estar l# ainda agora.
+[ENDBLOCK]
+E o <Dalis>?
+[ENDBLOCK]
+Claro que estar# por perto.
+Afinal, ele = praticamente
+o bra|o direito do
+<Greybum>.
+[ENDBLOCK]
+Parece que s^ h# um
+lugar para ir, n=?
+[ENDBLOCK]
+N;o entendo... No que o
+<Dalis> estava pensando!?
+[ENDBLOCK]
+Ser# que eu n;o o
+conhecia de verdade?
+[ENDBLOCK]
+<Mary>, levante a cabe|a. Voc@
+chegou at= aqui, tem que
+descobrir a verdade.
+[ENDBLOCK]
+N;o se preocupe. Estou
+aqui com voc@.
+[ENDBLOCK]
+C-Certo...
+[ENDBLOCK]
+Precisamos ir.
+[ENDBLOCK]
+}, tem raz;o.
+Vamos resolver isso!
+[ENDBLOCK]
+Se o <Dalis> est# mesmo ajudando
+o <Greybum> por vontade pr^pria...
+[ENDBLOCK]
+Quando chegar a hora...
+[ENDBLOCK]
+<Darzen>, como era o meu
+falecido pai do seu
+ponto de vista?
+[ENDBLOCK]
+Era um governante incr\vel,
+digno do t\tulo de
+"Rei S#bio".
+[ENDBLOCK]
+Ele sempre pensou no bem de Phandaria.
+Embora tivesse que fazer escolhas
+dif\ceis, era sempre decidido.
+[ENDBLOCK]
+Nunca vacilou em suas cren|as,
+nem duvidou de si mesmo.
+[ENDBLOCK]
+Entendo...
+[ENDBLOCK]
+Alteza, as esperan|as do
+povo agora est;o no senhor.
+[ENDBLOCK]
+Assim que derrotar o <Greybum>,
+precisar# assumir o trono
+o quanto antes.
+[ENDBLOCK]
+Eu nunca soube... Ele cometeu
+tamanha atrocidade...
+[ENDBLOCK]
+Sou mesmo digno de
+suceder meu pai?
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Lorde <Woodrow>?
+[ENDBLOCK]
+Ah, perd;o. J# vou
+logo atr#s de voc@s.
+[ENDBLOCK]
+Fam\lia...
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Algum problema?
+[ENDBLOCK]
+O que voc@ est# fazendo a\?
+Vamos, mexa-se!
+[ENDBLOCK]
+Eu sei, j# vou!
+[ENDBLOCK]
+...Quando esta miss;o acabar,
+provavelmente nunca mais a verei...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x98><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x98><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x9C><x00><x80>
+<x18><x65><x58><xA0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x84><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

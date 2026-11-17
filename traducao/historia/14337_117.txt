@@ -1,0 +1,671 @@
+ mset_person_
+[ENDBLOCK]
+
+[ENDBLOCK]
+fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+RECT[<TAG_075>] = <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x10><x0F><x72><x40><x14><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Soldado de Phandaria
+[ENDBLOCK]
+Bem-vindos ao Castelo de Heidelberg!
+[ENDBLOCK]
+O General <Darzen>
+me falou de voc@s.
+[ENDBLOCK]
+Bem-vindo de volta,
+Majestade!
+[ENDBLOCK]
+Este = o sal;o
+de audi@ncias.
+[ENDBLOCK]
+S^ podemos defender
+este castelo e a cidade.
+[ENDBLOCK]
+Sabemos que voltar#
+triunfante, Rei <Woodrow>!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Todos no castelo
+sabem quem voc@s s;o!
+[ENDBLOCK]
+Desejo ao Rei <Woodrow>
+o melhor nesta luta!
+[ENDBLOCK]
+Desejo a voc@s
+boa sorte.
+[ENDBLOCK]
+Parece que a paz verdadeira
+ainda est# um pouco longe...
+[ENDBLOCK]
+At= a paz ser alcan|ada de fato,
+esperaremos com paci@ncia.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+O castelo foi danificado na
+Rebeli;o do <Greybum>. Enfim
+foi consertado.
+[ENDBLOCK]
+Majestade, por favor,
+cuide-se.
+[ENDBLOCK]
+Por favor, cuidem-se.
+[ENDBLOCK]
+A boa rela|;o com Cyril foi
+restaurada. O reinado do Rei <Woodrow>
+ser# uma verdadeira era de ouro.
+[ENDBLOCK]
+Nunca pensei que
+veria esse dia.
+[ENDBLOCK]
+Majestade, o senhor n;o = s^ o
+orgulho de Phandaria. Para mim,
+o senhor } Phandaria.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Garota-Gato
+[ENDBLOCK]
+Com meus belos encantos femininos,
+vou ganhar o cora|;o do Rei <Woodrow>!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Argh! Imposs\vel chegar perto
+do rei com aquela pirralha
+grudada nele o tempo todo!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ah, Rei <Woodrow>! Est#
+lindo hoje! Qu@!?
+Aquela pirralha ainda est# a\!?
+[ENDBLOCK]
+Iih! O senhor d# medo, Majestade...
+N-N;o, esque|a. N;o = nada!
+[ENDBLOCK]
+Voc@ est# me fuzilando com o olhar!
+Paro de brincar, prometo!
+[ENDBLOCK]
+Se ao menos eu pudesse ficar
+ao lado do Rei <Woodrow>...
+[ENDBLOCK]
+Majestade, faremos uma
+festa enorme para o senhor
+quando voltar!
+[ENDBLOCK]
+Faremos uma grande festa quando
+todos voltarem s;os e salvos!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dalis>!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Uma emboscada?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+Avisei para deixarem estas terras.
+Por que vieram aqui?
+[ENDBLOCK]
+Tem uma coisa que
+preciso te perguntar!
+[ENDBLOCK]
+...E com <Woodrow> Kelvin ao
+seu lado, ainda por cima.
+[ENDBLOCK]
+Se = assim, s^ tenho
+uma resposta para voc@s.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Dalis>, espere! A mem^ria da <Mary>
+voltou! Ela se lembra de voc@!
+[ENDBLOCK]
+...Est# perdendo seu tempo.
+Defenda-se!
+[ENDBLOCK]
+Por qu@? Me diga por qu@! Por
+que voc@ lutou contra n^s!?
+[ENDBLOCK]
+<Mary>... Voc@ continua t;o
+linda quanto era
+dois anos atr#s...
+[ENDBLOCK]
+Seu grande tolo...!
+[ENDBLOCK]
+<Dalis>, voc@ sabe qual = o
+verdadeiro plano do <Greybum>?
+[ENDBLOCK]
+...Sei.
+[ENDBLOCK]
+Ent;o por qu@!?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+<Stahn>, calma. Deixe
+a <Mary> falar.
+[ENDBLOCK]
+Tem raz;o...
+Desculpa.
+[ENDBLOCK]
+<Dalis>...
+[ENDBLOCK]
+<Woodrow>, o que
+voc@ est# fazendo!?
+[ENDBLOCK]
+Ele vai...?
+[ENDBLOCK]
+<Woodrow>, n;o!
+[ENDBLOCK]
+<Mary>, por favor, afaste-se.
+[ENDBLOCK]
+Ah...!
+[ENDBLOCK]
+De p=,
+<Dalis> Vincent.
+[ENDBLOCK]
+Estou pronto. Vou
+aceitar meu destino.
+[ENDBLOCK]
+Otimo.
+[ENDBLOCK]
+<Woodrow>! Por favor, pare!
+[ENDBLOCK]
+N;o = seguro voc@ ficar
+aqui. R#pido, fuja
+do castelo.
+[ENDBLOCK]
+O qu@...?
+[ENDBLOCK]
+Primeiro, cuide dos ferimentos.
+Conversaremos depois.
+[ENDBLOCK]
+O que voc@s pensam
+que est;o fazendo?
+[ENDBLOCK]
+Seguirei um caminho diferente do
+meu pai. Trabalharemos juntos
+pelo futuro de Phandaria.
+[ENDBLOCK]
+...!
+[ENDBLOCK]
+Lutaremos at= o fim sobre o
+caminho que nosso pa\s tomar#.
+[ENDBLOCK]
+N;o com nossas l&minas,
+mas com nossas palavras.
+[ENDBLOCK]
+O filho de Isaac, o S#bio, =
+ainda mais s#bio que o pai.
+[ENDBLOCK]
+Eu... eu admito a derrota.
+[ENDBLOCK]
+<Dalis>... <Dalis>!
+[ENDBLOCK]
+N;o vou te deixar!
+Nunca mais vou te
+deixar!!
+[ENDBLOCK]
+O <Dalis> n;o estava mesmo
+trabalhando com o <Greybum>, n=?
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+<center>} mais prov#vel que o nome dele
+tenha sido usado para recrutar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Que desprez\vel!
+[ENDBLOCK]
+<Greybum>! Nunca vou
+te perdoar!
+[ENDBLOCK]
+Pessoal... Tenho um favor a pedir.
+[ENDBLOCK]
+Eu... eu quero ficar com o <Dalis>.
+[ENDBLOCK]
+<Mary>? Quer dizer...?
+[ENDBLOCK]
+Desculpem... mas eu...
+Estou em casa agora...
+[ENDBLOCK]
+N;o quero ser guerreira,
+s^ quero ser esposa do <Dalis>.
+[ENDBLOCK]
+Certo. Vai em frente, <Mary>.
+[ENDBLOCK]
+Isso mesmo. Dizer n;o quando
+voc@ est# t;o feliz seria
+horr\vel da nossa parte.
+[ENDBLOCK]
+Boa sorte, voc@s dois!
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+<center>Est# tudo bem com isso, Mestre <Lion>?
+Ela est# presa, afinal.
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+...Hmph. Vou relatar assim:
+ela se feriu e n;o tivemos
+escolha a n;o ser deix#-la.
+[ENDBLOCK]
+Obrigada, pessoal...
+Que sorte eu tenho...!
+[ENDBLOCK]
+<Woodrow>.
+[ENDBLOCK]
+Obrigada por poupar a vida do <Dalis>.
+Agrade|o de verdade, do fundo
+do meu cora|;o.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Eu = que devo agradecer.
+Gra|as a voc@, estou mais
+preparado.
+[ENDBLOCK]
+Preparado para qu@?
+[ENDBLOCK]
+Agora sei qual = minha responsabilidade,
+e estou pronto para carregar o
+fardo de um governante.
+[ENDBLOCK]
+...Portanto, antes de tudo, temos
+que levar o <Greybum> $ justi|a.
+[ENDBLOCK]
+Tem raz;o.
+Vamos!
+[ENDBLOCK]
+Pessoal! Por favor, cuidem-se!
+Sei que voc@s conseguem!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x98><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x98><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x9C><x00><x80>
+<x18><x65><x58><xA0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x84><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

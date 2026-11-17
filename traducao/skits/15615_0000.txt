@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Com o que seu pai trabalha, <Woodrow>?
+[ENDBLOCK]
+Bem... Acho que se pode dizer que ele
+cria la|os entre as pessoas.
+[ENDBLOCK]
+Entendi, ele = meio que um professor.
+[ENDBLOCK]
+Haha... } a primeira vez que
+ou|o algu=m cham#-lo assim.
+[ENDBLOCK]
+Mas talvez voc@ tenha acertado em cheio.<x00><x00><x00><x00>
+[ENDBLOCK]

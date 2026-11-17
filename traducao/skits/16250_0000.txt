@@ -1,0 +1,10 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A equipe avan|ada j# est# a caminho de Harmentz.
+N;o tenho tempo pra desvios assim!<x00><x00>
+[ENDBLOCK]

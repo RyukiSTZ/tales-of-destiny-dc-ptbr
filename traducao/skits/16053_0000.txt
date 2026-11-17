@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Chelsea>, qual = o seu sonho?
+[ENDBLOCK]
+} bem ^bvio. Nem precisa perguntar.
+[ENDBLOCK]
+Ser esposa, claro! Do Rei
+<Woodrow>, naturalmente.
+[ENDBLOCK]
+Eu n;o disse.
+[ENDBLOCK]
+A <Chelsea> = incr\vel. Ela tem
+um sonho t;o claro.
+[ENDBLOCK]
+N;o = um sonho, = um desejo n;o realizado.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,38 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Chegou a hora.
+[ENDBLOCK]
+Depois de ouvir sobre nossa miss;o final,
+fiquei pensando em qual ser# o resultado...
+[ENDBLOCK]
+Temos ^timos mestres. Vamos vencer.
+[ENDBLOCK]
+Estou nervosa...
+[ENDBLOCK]
+Todos sabem o que precisa ser feito amanh;?
+[ENDBLOCK]
+Lutar ao lado dos nossos mestres at= a vit^ria.
+[ENDBLOCK]
+N;o podemos deixar a hist^ria se repetir...
+[ENDBLOCK]
+E mais uma coisa... A volta segura
+dos nossos mestres.
+[ENDBLOCK]
+Uhum. Isso nem precisa ser dito.
+[ENDBLOCK]
+Vamos, como Swordians, cumprir a miss;o
+para a qual fomos criados.
+[ENDBLOCK]
+...Custe o que custar.
+[ENDBLOCK]
+Sim...
+[ENDBLOCK]
+...Certo.
+[ENDBLOCK]
+Amanh;, tudo termina.<x00><x00><x00><x00><x00>
+[ENDBLOCK]

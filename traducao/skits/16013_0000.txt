@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Voc@ disse que luta em nome de
+Aquaveil. Voc@ = t;o forte assim?
+[ENDBLOCK]
+N;o sei. Tenho a v; esperan|a
+de ser de alguma utilidade.
+[ENDBLOCK]
+Eu sou o campe;o de Neustadt!
+[ENDBLOCK]
+Quando isto acabar, vamos ver quem
+= mais forte na arena!
+[ENDBLOCK]
+<Kongman>, por que tudo = uma competi|;o?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

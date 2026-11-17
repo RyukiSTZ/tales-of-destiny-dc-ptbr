@@ -1,0 +1,1464 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+段階なし：D1R_EPI001START 	～	D1R_032_030_000
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+第一段階：D1R_032_040_000	～	D1R_034_020_000
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+第二段階：D1R_034_030_000	～	D1R_038_080_000
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+第三段階：D1R_038_090_000	～	D1R_040_040_000
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+最終段階：D1R_EPI040_END	～	D1R_EPI052_END
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+全時系列：D1R_EPI001START	～	D1R_EPI052_END
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+時間は夜です。
+
+[ENDBLOCK]
+通常：no_bg_sora
+
+[ENDBLOCK]
+空の作成失敗（戻り値：<TAG_062>）
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+全段階：D1R_032_040_000	～	D1R_EPI052_END
+
+[ENDBLOCK]
+時間は夜です。<TAG_062>>=<TAG_059>>=<TAG_061>
+
+[ENDBLOCK]
+通常第三：no_bg_gaikaku2 <x09><xAF><x01><x00><x00>
+
+[ENDBLOCK]
+通常最終：no_bg_gaikaku3 <x09><xB2><x01><x00><x00>
+
+[ENDBLOCK]
+= <TAG_060>
+
+[ENDBLOCK]
+外殻の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+通常：no_bg_kumo01
+
+[ENDBLOCK]
+雲の作成失敗（戻り値：<TAG_063>）
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+オブジェクト操作モード開始
+Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
+
+[ENDBLOCK]
+オブジェクト操作開始
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+オブジェクト操作モード終了
+[ENDBLOCK]
+オブジェクト操作終了
+
+[ENDBLOCK]
+オブジェクト再選択
+
+[ENDBLOCK]
+ステータス選択
+
+[ENDBLOCK]
+フォグステータス
+[ENDBLOCK]
+<TAG_007>フォグ始点距離：<D_FOG_START>
+フォグ終点距離：<D_FOG_END>
+始点のフォグ率：<D_FOG_RATE_START>
+終点のフォグ率：<D_FOG_RATE_END>
+フォグカラー赤：<D_FOG_COLOR_R>
+フォグカラー緑：<D_FOG_COLOR_G>
+フォグカラー青：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+<TAG_069>のステータス
+[ENDBLOCK]
+
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+<grey1>空（存在しません）</color>
+[ENDBLOCK]
+
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+<grey1>外殻（存在しません）</color>
+[ENDBLOCK]
+
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+<grey1>雲１（存在しません）</color>
+[ENDBLOCK]
+
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+<grey1>雲２（存在しません）</color>
+[ENDBLOCK]
+オブジェクト選択
+[ENDBLOCK]
+<x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
+<TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
+<TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
+<TAG_054>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x03><x8B><x80>）
+
+[ENDBLOCK]
+<TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
+
+[ENDBLOCK]
+ステータス選択
+[ENDBLOCK]
+座標
+色値
+拡大率
+角度
+
+[ENDBLOCK]
+<TAG_073>, <TAG_072>
+
+[ENDBLOCK]
+不正なオブジェクト
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+<TAG_054>の座標
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+加算 = <TAG_051>
+
+[ENDBLOCK]
+番号（<TAG_033>）：座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+<TAG_054>の色値<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+※128が標準の色値です
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+<TAG_054>の拡大率
+[ENDBLOCK]
+※4096が標準のサイズです
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+<TAG_054>の回転角度
+[ENDBLOCK]
+※360度＝4096です
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Irm;...? O que houve?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Irm;
+[ENDBLOCK]
+<Rutee>!? N;o me assuste
+desse jeito!
+[ENDBLOCK]
+Por que est# t;o
+nervosa?
+[ENDBLOCK]
+Veio ver o
+prefeito?
+[ENDBLOCK]
+Shh, aqui n;o. Vamos conversar
+no orfanato.
+[ENDBLOCK]
+Venham comigo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Quer que eu v# tamb=m?
+[ENDBLOCK]
+Ent;o, o que houve?
+[ENDBLOCK]
+}, conta pra gente o
+que est# acontecendo.
+[ENDBLOCK]
+Bem, as crian|as do orfanato
+v;o apresentar uma pe|a em breve...
+[ENDBLOCK]
+O que isso tem a ver
+com o prefeito?
+[ENDBLOCK]
+Calma, j# chego l#.
+[ENDBLOCK]
+Voc@ j# sabe, <Rutee>, mas o
+prefeito e a esposa n;o gostam
+muito deste lugar.
+[ENDBLOCK]
+Eu n;o fazia ideia.
+[ENDBLOCK]
+N;o = bem um
+segredo por aqui.
+[ENDBLOCK]
+Bem, os dois v;o
+assistir $ pe|a.
+[ENDBLOCK]
+Espero que a apresenta|;o das
+crian|as mude o que eles
+pensam do orfanato...
+[ENDBLOCK]
+Mas... desconfio que a
+esposa do prefeito quer
+nos sabotar...
+[ENDBLOCK]
+Ent;o voc@ ia falar com
+o prefeito sobre isso?
+[ENDBLOCK]
+Uhum. Mas n;o sei o
+que eu diria.
+[ENDBLOCK]
+}, n;o d# pra simplesmente
+entrar l# e perguntar "Voc@s
+querem nos sabotar?"
+[ENDBLOCK]
+Ent;o, tenho um favor
+a pedir, <Rutee>.
+[ENDBLOCK]
+Pode descobrir o que a esposa
+do prefeito est# planejando?
+[ENDBLOCK]
+O que voc@ e a
+<Rutee> est;o conversando?
+[ENDBLOCK]
+Nada. Nada mesmo!
+[ENDBLOCK]
+Bem, preciso da sua ajuda
+com uma coisa, se voc@
+n;o se importar.
+[ENDBLOCK]
+Sim, j# vou.
+[ENDBLOCK]
+Isto vai ser nosso
+segredinho.
+[ENDBLOCK]
+Obrigada por cuidar
+disso pra mim, <Rutee>.
+[ENDBLOCK]
+E-Ei, espera a\...!
+[ENDBLOCK]
+E agora, o que fazemos?
+[ENDBLOCK]
+Bem, acho que devemos come|ar
+indo $ casa do prefeito.
+[ENDBLOCK]
+Acho que sim...
+[ENDBLOCK]
+O que foi, <Rutee>?
+[ENDBLOCK]
+Shh! N;o ouve vozes
+dentro da casa?
+[ENDBLOCK]
+Tem raz;o! Estou
+ouvindo algo...
+[ENDBLOCK]
+Mas n;o d# pra entender
+o que dizem.
+[ENDBLOCK]
+Ei! Que sorriso bobo
+= esse na sua cara?
+[ENDBLOCK]
+S^ estava pensando... Isso
+faz da gente espi`es!
+[ENDBLOCK]
+Ah, cres|a...
+[ENDBLOCK]
+...Mesmo assim, se voc@ fosse espi;o,
+conseguiria ouvir, n=?
+[ENDBLOCK]
+O que foi, <Philia>?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+N;o est# ouvindo?
+[ENDBLOCK]
+Sim, tem vozes vindo
+l# de dentro.
+[ENDBLOCK]
+Mas n;o d# pra entender
+o que dizem.
+[ENDBLOCK]
+}... Se ao menos a gente pudesse-
+[ENDBLOCK]
+Shh! Estou tentando ouvir!
+[ENDBLOCK]
+<Philia>? Voc@ consegue
+entender?
+[ENDBLOCK]
+Ei, <Stahn>.
+Cala a boca!!
+[ENDBLOCK]
+Tamb=m preciso que voc@
+fique quieta, <Rutee>.
+[ENDBLOCK]
+Ou|o uma voz de mulher.
+[ENDBLOCK]
+Deve ser a esposa
+do prefeito.
+[ENDBLOCK]
+A pe|a...preparado...
+O orfanato...
+[ENDBLOCK]
+...ser# esmagado.
+[ENDBLOCK]
+O que ela est# tramando...?
+[ENDBLOCK]
+Desculpem. N;o consegui
+entender isso.
+[ENDBLOCK]
+Desculpem, pessoal, mas preciso que
+a gente v# at= o fim nisso.
+[ENDBLOCK]
+Tenho que proteger o orfanato a
+qualquer custo. N;o posso deixar a
+esposa do prefeito se safar.
+[ENDBLOCK]
+Entendo. Ent;o a esposa do
+prefeito est# tramando algo.
+[ENDBLOCK]
+}, mas n;o sei
+exatamente o qu@...
+[ENDBLOCK]
+Desculpem... Se ao menos
+eu tivesse...
+[ENDBLOCK]
+Ora, vamos. N;o seja
+t;o dura consigo mesma.
+[ENDBLOCK]
+Muita gente vai $ pe|a.
+N;o v;o conseguir fazer
+nada precipitado.
+[ENDBLOCK]
+N^s tamb=m estaremos l#.
+[ENDBLOCK]
+}. Se tentarem alguma
+gracinha, podemos impedir.
+[ENDBLOCK]
+Bem, ent;o. A pe|a = amanh;.
+Fiquem $ vontade para dormir aqui.
+[ENDBLOCK]
+Ainda n;o come|aram...
+[ENDBLOCK]
+N;o se preocupe, <Rutee>.
+[ENDBLOCK]
+Sim. Tenho certeza de que as crian|as
+s^ precisam de mais tempo pra se aprontar.
+[ENDBLOCK]
+Por Atamoni, as crian|as
+sumiram!
+[ENDBLOCK]
+O qu@!?
+[ENDBLOCK]
+Aonde elas podem
+ter ido!?
+[ENDBLOCK]
+N;o sei! Mas elas
+estavam aqui agora
+h# pouco...
+[ENDBLOCK]
+N;o podem ter
+ido longe.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Esposa do Prefeito
+[ENDBLOCK]
+Est# tudo bem?
+[ENDBLOCK]
+Na verdade, as crian|as
+sumiram...
+[ENDBLOCK]
+Ah, querida, que pena!
+[ENDBLOCK]
+N;o vem com essa! Voc@ mandou
+sequestrar elas, n=!?
+[ENDBLOCK]
+Como ousa me acusar!
+Sou a esposa do prefeito!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Esposa do prefeito
+[ENDBLOCK]
+Que mocinha mal-educada.
+} claro que n;o teve
+uma boa cria|;o!
+[ENDBLOCK]
+Ah, sim, esqueci de dizer,
+ali#s...
+[ENDBLOCK]
+Se a pe|a de hoje por acaso
+fracassar, n;o teremos escolha a
+n;o ser cortar a verba do orfanato!
+[ENDBLOCK]
+N;o pode ser s=rio!
+[ENDBLOCK]
+Isso n;o pode ser verdade!
+[ENDBLOCK]
+N;o! Voc@ n;o
+pode fazer isso!
+[ENDBLOCK]
+Ah, que esquecida eu sou. Desculpe,
+deve ter fugido da minha cabe|a.
+[ENDBLOCK]
+Bem, estou ansiosa pela
+pe|a. Ohohoho~!
+[ENDBLOCK]
+Ela claramente est# envolvida.
+[ENDBLOCK]
+Esque|a isso por ora. A pe|a
+vai come|ar a qualquer minuto.
+Temos que correr!
+[ENDBLOCK]
+As fantasias delas n;o
+est;o no orfanato.
+[ENDBLOCK]
+} poss\vel que estejam pela
+cidade ainda fantasiadas.
+[ENDBLOCK]
+Entendido!
+[ENDBLOCK]
+Vamos nos separar. N^s
+quatro devemos conseguir
+ach#-las!
+[ENDBLOCK]
+...N;o...N;o pode ser...!
+[ENDBLOCK]
+Elas n;o voltaram a tempo...
+[ENDBLOCK]
+Ah, que pena!
+Ohohoho...
+[ENDBLOCK]
+Se o orfanato
+fechar, ent;o...
+[ENDBLOCK]
+N;o temam! Assim que derrubarmos esta
+monstruosidade, faremos no lugar a mais
+requintada galeria de arte!
+[ENDBLOCK]
+Nem brinque
+com isso!
+[ENDBLOCK]
+N;o importa o que diga.
+N;o h# lugar para voc@s aqui!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Garota
+[ENDBLOCK]
+} tudo culpa nossa... Se a gente
+n;o estivesse brincando de esconde-esconde...
+[ENDBLOCK]
+N;o! N;o se culpem!
+A culpa n;o = nada de voc@s!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Menino
+[ENDBLOCK]
+Srta. <Rutee>, isso quer dizer
+que vamos perder nosso lar?
+[ENDBLOCK]
+N;o! Quero ficar
+com todo mundo!
+[ENDBLOCK]
+Ah, o que est;o dizendo?
+Vai ficar tudo bem!
+[ENDBLOCK]
+Mesmo sem orfanato, voc@s
+v;o se virar bem desde que
+fiquem juntos!
+[ENDBLOCK]
+Sim, h# coisas que n;o se
+consegue fazer sozinho, mas
+juntos voc@s conseguem tudo.
+[ENDBLOCK]
+Afinal, somos uma
+fam\lia, n=?
+[ENDBLOCK]
+Viram? Vamos acreditar nas
+palavras da irm;, t#?
+[ENDBLOCK]
+}! S^ preciso da
+minha fam\lia!
+[ENDBLOCK]
+Eu tamb=m!
+[ENDBLOCK]
+Chega dessa farsa pat=tica
+de "fam\lia feliz"!
+[ENDBLOCK]
+Sugiro que voc@s
+sumam daqui,
+agora!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Prefeito
+[ENDBLOCK]
+Chega, querida.
+[ENDBLOCK]
+O-O que est#
+dizendo, querido?
+[ENDBLOCK]
+Sei que este lugar
+te incomoda.
+[ENDBLOCK]
+Na verdade, sinto o mesmo. Do\a
+em n^s dois ver este lugar.
+[ENDBLOCK]
+Como assim?
+[ENDBLOCK]
+A verdade = que amamos crian|as.
+[ENDBLOCK]
+V;o mesmo ficar a\
+parados mentindo
+desse jeito!?
+[ENDBLOCK]
+N;o estou mentindo. Mais que tudo,
+quer\amos um filho nosso.
+[ENDBLOCK]
+Por=m... A deusa nunca
+quis nos aben|oar...
+[ENDBLOCK]
+Sempre que eu via uma crian|a
+abandonada como estes ^rf;os...
+[ENDBLOCK]
+N;o podia deixar de achar que n;o
+seriam melhores que os pais que
+os deixaram aqui.
+[ENDBLOCK]
+N;o temos o direito
+de ter uma fam\lia!
+[ENDBLOCK]
+A culpa = minha, por=m. Minha culpa
+por deixar meu preconceito
+chegar a esse ponto.
+[ENDBLOCK]
+Querido...
+[ENDBLOCK]
+Sinto muito...
+[ENDBLOCK]
+N;o vou mais incomodar
+voc@s. Est;o livres
+para ficar aqui.
+[ENDBLOCK]
+Vamos, querida.
+Vamos pra casa.
+[ENDBLOCK]
+Espere, sr. Prefeito...
+[ENDBLOCK]
+Deixe-me dizer uma coisa. O
+senhor disse que n;o merecia
+ter uma fam\lia?
+[ENDBLOCK]
+Bem, se acredita mesmo nisso,
+ent;o talvez n^s tamb=m n;o
+mere|amos uma fam\lia.
+[ENDBLOCK]
+Mesmo assim... Bem, aqui
+estamos. Juntos.
+[ENDBLOCK]
+O que est#
+tentando dizer?
+[ENDBLOCK]
+Estou dizendo que podem nos
+visitar quando quiserem.
+[ENDBLOCK]
+Confiaria estas crian|as a n^s?
+Mesmo depois do que
+tentamos fazer?
+[ENDBLOCK]
+Bem, acho que podemos deixar
+isso pra l#... Com uma condi|;o.
+[ENDBLOCK]
+...Uma condi|;o?
+[ENDBLOCK]
+Precisam prometer fazer parte
+de verdade da nossa fam\lia.
+[ENDBLOCK]
+Fam\lia de verdade se perdoa, n;o
+importa o qu@. Voc@s sabem, n=?
+[ENDBLOCK]
+Voc@s todos ser;o
+filhos de verdade deles.
+N;o s^ de faz de conta!
+[ENDBLOCK]
+Ela = minha nova m;e!
+[ENDBLOCK]
+Vem, nova m;e!
+Vamos brincar!
+[ENDBLOCK]
+...Obrigada, todos voc@s.
+[ENDBLOCK]
+Ah! Voc@ me achou!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Isto aqui era uma cidadezinha
+tranquila do interior. Cresceu
+muito r#pido.
+[ENDBLOCK]
+A esposa do prefeito = da cidade grande.
+Aposto que = ela que manda em tudo!
+[ENDBLOCK]
+<Rutee>, voc@ n;o est# aprontando,
+n=? Por favor, n;o
+cause problemas.
+[ENDBLOCK]
+Se a <Rutee> sair da linha,
+coloquem ela no lugar!
+[ENDBLOCK]
+<Rutee>! Que diabos est#
+acontecendo?
+[ENDBLOCK]
+O que est# havendo com o c=u...?
+[ENDBLOCK]
+Monstros! Na nossa cidade!
+N;o acredito!
+[ENDBLOCK]
+<Rutee>... Ser# que voc@
+podia ficar na cidade?
+[ENDBLOCK]
+Eu me sentiria bem mais
+segura com voc@ aqui.
+[ENDBLOCK]
+Fazem armas t;o incr\veis em
+Darilsheid? Eu sabia que aquele
+rei era confi#vel!
+[ENDBLOCK]
+H# uma casa nos arredores da
+cidade com muitas criancinhas.
+[ENDBLOCK]
+Aah! } a <Rutee>, a "Bruxa Gananciosa"!
+[ENDBLOCK]
+Aah! Espera, quem = voc@?
+[ENDBLOCK]
+Ouvi que houve uma grande tempestade
+na capital. O rei est# bem?
+[ENDBLOCK]
+Estou com medo... Por favor,
+fa|am alguma coisa!
+[ENDBLOCK]
+N;o estou chorando! Monstros
+n;o me assustam!
+[ENDBLOCK]
+Voc@ consegue!
+[<x1A><x2C><x00><x00><x05><x00><x72><x00><x15><x7A><x98><x80>]～！
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Loja de Itens
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Bem-vindo. O que
+vai querer?
+[ENDBLOCK]
+
+[ENDBLOCK]
+O que precisa, <Rutee>?
+[ENDBLOCK]
+
+[ENDBLOCK]
+N;o adianta se afligir
+com isso. S^ d@ o seu melhor.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x4A><x00><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x59><xF0><x00><x80><x18><x65><x59><xF4><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4A><x24><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5A><x20><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x4A><x14><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x4A><x14><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x5A><x18><x00><x80>
+<x18><x65><x5A><x1C><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x4A><x00><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

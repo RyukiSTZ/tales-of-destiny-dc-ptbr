@@ -1,0 +1,611 @@
+select
+[ENDBLOCK]
+Retu
+[ENDBLOCK]
+rn <x19><x6A><x00><x80> to the party?
+Yes
+No
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+N;o podemos abandonar <x19><x6A><x04><x80>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+N;o podemos deixar <x19><x6A><x04><x80> aqui.
+[ENDBLOCK]
+Opa, quase deixamos
+<x19><x6A><x04><x80> pra tr#s.
+[ENDBLOCK]
+N;o devemos excluir <x19><x6A><x04><x80>.
+[ENDBLOCK]
+N;o sairei do seu lado,
+<x19><x6A><x04><x80>.
+[ENDBLOCK]
+N;o vamos mesmo deixar
+<x19><x6A><x04><x80> aqui.
+[ENDBLOCK]
+N;o sairei do lado do Lorde
+<x19><x6A><x04><x80>!
+[ENDBLOCK]
+N;o podemos deixar <x19><x6A><x04><x80> sozinho.
+[ENDBLOCK]
+N;o podemos deixar <x19><x6A><x04><x80>
+num lugar como este.
+[ENDBLOCK]
+N;o quero deixar
+<x19><x6A><x04><x80> aqui.
+[ENDBLOCK]
+Deixar <x19><x6A><x04><x80> aqui
+seria m# ideia.
+[ENDBLOCK]
+N;o podemos deixar <x19><x6A><x04><x80>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Vou fazer uma pausa aqui.
+[ENDBLOCK]
+Agora voc@s v;o l#
+e resolvam logo isso.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+J# volto. Fiquem
+de olhos abertos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Pois =.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Vou ficar aqui com <Igtenos>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Eu fico com voc@.
+[ENDBLOCK]
+N;o, <Chelsea>, v# com
+o <Stahn> e os outros.
+[ENDBLOCK]
+N;o sabemos o que h# pela
+frente. Quanto mais for|as,
+melhor.
+[ENDBLOCK]
+Entendo, Lorde <Woodrow>,
+se o senhor diz...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Eu fico. <Stahn>, por favor, leve
+os outros e v# na frente.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Se sentirem que est;o
+em perigo, me chamem!
+[ENDBLOCK]
+Onde quer que eu esteja,
+chego num piscar de olhos!
+[ENDBLOCK]
+E-Entendi...
+Obrigado pela
+ajuda.
+[ENDBLOCK]
+Quem voc@ quer que fique?
+
+[ENDBLOCK]
+<Rutee>
+
+[ENDBLOCK]
+<Philia>
+
+[ENDBLOCK]
+<Woodrow>
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+<TAG_055><x18><x66><x50><x20><x00><x80><x18><x66><x50><x24><x00><x80><x18><x66><x50><x28><x00><x80>
+[ENDBLOCK]
+Bem-vindos de volta.
+Pegaram a chave?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+<Rutee>, h;...
+[ENDBLOCK]
+Ent;o vamos sair daqui.
+Cansei de esperar.
+[ENDBLOCK]
+H;...
+[ENDBLOCK]
+Obrigada por esperar,
+Lorde <Woodrow>.
+[ENDBLOCK]
+Vejo que pegaram a Chave R.
+[ENDBLOCK]
+Vamos voltar, ent;o?
+[ENDBLOCK]
+Desculpe a demora,
+srta. <Philia>!
+[ENDBLOCK]
+Obrigada pelo esfor|o,
+<Stahn> e <Kongman>.
+[ENDBLOCK]
+Que = isso? N;o precisa
+agradecer. N;o foi nada.
+[ENDBLOCK]
+Que bom que est# tudo bem.
+Agora, vamos andando.
+[ENDBLOCK]
+N;o v# ficar com saudade s^
+porque eu n;o estou l#.
+[ENDBLOCK]
+Haha, at= parece.
+[ENDBLOCK]
+<Chelsea>, tenha cuidado.
+[ENDBLOCK]
+Todos, cuidem da
+<Chelsea> por mim.
+[ENDBLOCK]
+Eu fico bem. Por favor,
+tenham cuidado.
+[ENDBLOCK]
+} aqui que fica
+a Chave R?
+[ENDBLOCK]
+N;o sabia que havia um
+lugar assim perto de Lienea.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+<center>N;o d# pra chegar aqui sem vir
+pelo mar. N;o admira que
+voc@ n;o tenha notado.
+[ENDBLOCK]
+Certo! <Lion>... Chegou a hora
+de eu te vingar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+...Sobre isso, <Stahn>.
+[ENDBLOCK]
+<center>N;o deixe o que aconteceu
+com o <Lion> te consumir.
+[ENDBLOCK]
+Est# dizendo que eu devia
+simplesmente esquec@-lo?
+[ENDBLOCK]
+<center>N;o = isso que estou dizendo. Por=m, esse
+rancor que voc@ guarda pode ser perigoso.
+[ENDBLOCK]
+Nunca perca de vista a causa
+pela qual voc@ est# lutando.
+[ENDBLOCK]
+Eu sei, eu sei. Precisamos
+derrotar o <Hugo> e recuperar
+o Olho de Atamoni.
+[ENDBLOCK]
+} verdade, mas...
+[ENDBLOCK]
+Tudo bem. N;o
+esqueci de nada.
+[ENDBLOCK]
+Certo. Vamos, pessoal!
+Em frente, atr#s da Chave R!
+[ENDBLOCK]
+<Rutee>, quanta paix;o. Quanto vigor!
+[ENDBLOCK]
+Pois = ♪
+[ENDBLOCK]
+<Mary>... por que est#
+encarando a <Rutee>?
+[ENDBLOCK]
+Bem...
+[ENDBLOCK]
+} um beco sem sa\da.
+[ENDBLOCK]
+Calma. Olhem ali.
+[ENDBLOCK]
+<center>As ru\nas est;o seladas de modo que
+n;o se pode avan|ar sem uma chave especial.
+[ENDBLOCK]
+<center>A chave, = claro,
+somos n^s, as Swordians.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+<center>Em resumo, voc@s precisam
+inserir um de n^s ali.
+[ENDBLOCK]
+Entendo.
+[ENDBLOCK]
+<center>O selo s^ se rompe
+enquanto estivermos encaixados.
+[ENDBLOCK]
+Quer dizer que temos que deixar
+uma Swordian pra tr#s, n=?
+[ENDBLOCK]
+N;o me sinto bem deixando minha
+Swordian sozinha. Prefiro ficar
+com ele.
+[ENDBLOCK]
+Ei, <Rutee>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Hugo>
+[ENDBLOCK]
+Povo da Terra!
+[ENDBLOCK]
+Aceitem nosso presente! Mais
+um disparo do Belcrant!
+[ENDBLOCK]
+O qu@...!?
+[ENDBLOCK]
+Ent;o j# s;o dois disparos...
+[ENDBLOCK]
+<center>A energia est# sendo reposta mais r#pido
+que o esperado. Desse jeito, o
+terceiro disparo vir# logo.
+[ENDBLOCK]
+...Precisamos voltar
+r#pido a Radisrol.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x47><xD8><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x57><xDC><x00><x80>
+<x18><x65><x57><xE0><x00><x80><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x47><xC4><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Com o Arco Draconis parado, agora
+devemos voltar a Ignasea.
+[ENDBLOCK]
+Vamos rumo a Helraios.
+[ENDBLOCK]
+Iamos passar primeiro por Deimos
+e depois voltar a Ignasea, n=?
+[ENDBLOCK]
+H;, e depois...?
+[ENDBLOCK]
+Esque|a os detalhes. Devemos
+ir logo para Ignasea.
+[ENDBLOCK]
+Resolvemos o resto quando chegarmos.<x00><x00>
+[ENDBLOCK]

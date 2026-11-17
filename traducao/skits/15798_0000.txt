@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Eu j# disse, eu entendi!
+[ENDBLOCK]
+N;o! Voc@ n;o entendeu nada! N;o importa quantas
+vezes eu diga, voc@ esquece toda vez!
+[ENDBLOCK]
+Cansei das suas broncas por enquanto! Fique
+a\ e pense no que voc@ fez!
+[ENDBLOCK]
+<Stahn>! Aonde voc@ vai!?
+Volte aqui AGORA MESMO!
+[ENDBLOCK]
+Ah, a maior fraqueza de uma Swordian:
+n;o ter pernas.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

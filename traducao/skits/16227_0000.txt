@@ -1,0 +1,30 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Voc@ e o <Chaltier> parecem ser
+t;o bons amigos, <Lion>.
+[ENDBLOCK]
+Bem, estamos juntos h#
+muito tempo, sabe.
+[ENDBLOCK]
+Sim, de fato!
+[ENDBLOCK]
+Estou ao lado dele quando ele acorda!
+At= tomo banho com ele!
+[ENDBLOCK]
+V-Voc@ toma banho com sua espada, <Lion>?
+[ENDBLOCK]
+Chal, por que voc@ foi
+pensar em dizer isso!?
+[ENDBLOCK]
+Ei, = s^ um exemplo!
+[ENDBLOCK]
+E-Ele toma banho com a espada...
+[ENDBLOCK]
+Otimo. Agora v;o come|ar boatos estranhos
+sobre mim. Muito obrigado, Chal.
+[ENDBLOCK]

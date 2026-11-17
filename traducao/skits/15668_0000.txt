@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Certo! Vamos rumo $
+vila de Harmentz.
+[ENDBLOCK]
+Espere, <Stahn>. Leve este mapa.
+[ENDBLOCK]
+Imagino que voc@ n;o tenha um, n=?
+[ENDBLOCK]
+Obrigado. Vou cuidar bem dele.
+[ENDBLOCK]
+Use bem o mapa pra gente
+n;o se perder.<x00><x00><x00><x00><x00>
+[ENDBLOCK]

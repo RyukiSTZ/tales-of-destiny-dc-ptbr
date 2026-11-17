@@ -1,0 +1,30 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<center>Por que o <Hugo> ia querer reviver
+o Reino Aetheriano?
+[ENDBLOCK]
+N;o sei. Acho que s^ vamos saber
+se perguntarmos direto a ele.
+[ENDBLOCK]
+N;o sei que alegria ele teria em governar
+um mundo onde n;o existe mais ningu=m.
+[ENDBLOCK]
+N;o faz sentido.
+[ENDBLOCK]
+Quem sabe...
+[ENDBLOCK]
+Mas uma coisa = certa.
+[ENDBLOCK]
+N;o pode haver felicidade num
+mundo que sacrifica tantos.
+[ENDBLOCK]
+<Stahn>...
+[ENDBLOCK]
+Devemos deter as ambi|`es do <Hugo>.
+Custe o que custar.<x00><x00><x00><x00>
+[ENDBLOCK]

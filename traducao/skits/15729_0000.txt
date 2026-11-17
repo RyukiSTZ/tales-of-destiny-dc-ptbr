@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ei, <Dymlos>, as Swordians precisam ser polidas?
+[ENDBLOCK]
+De onde veio isso?
+[ENDBLOCK]
+Voc@ vai enferrujar e lascar se eu n;o
+cuidar de voc@, n=?
+[ENDBLOCK]
+Tenho certeza de que est# tudo bem. Pelo menos, acho...
+[ENDBLOCK]
+Mas olha, tem uma coisa em voc@, bem aqui!
+[ENDBLOCK]
+} s^ sujeira. Se voc@ notou,
+por que ainda n;o limpou!?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

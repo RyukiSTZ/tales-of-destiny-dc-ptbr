@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Rei <Woodrow>, h# algo em que
+eu possa ajudar?
+[ENDBLOCK]
+No momento, n;o. Temos toda a
+ajuda de que precisamos.
+[ENDBLOCK]
+Se precisar de algo, por favor,
+me avise na hora.
+[ENDBLOCK]
+Obrigado. Isso me tranquiliza.
+[ENDBLOCK]
+Claro! Fico muito feliz em
+servir, Rei <Woodrow>.
+[ENDBLOCK]
+A <Chelsea> est# mesmo perseverando, n=?
+[ENDBLOCK]
+} bem louv#vel.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

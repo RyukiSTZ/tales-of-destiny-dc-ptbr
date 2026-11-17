@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Fiquei feliz em ver o <Dalis> bem.
+[ENDBLOCK]
+A <Mary> tamb=m parecia muito feliz.
+[ENDBLOCK]
+Eu adoraria que a <Mary> viesse
+com a gente, mas entendo.
+[ENDBLOCK]
+} ^bvio que o <Dalis> = mais
+importante pra ela agora.
+[ENDBLOCK]
+Tem raz;o.
+[ENDBLOCK]
+Certo, bem, vamos para Heidelberg.
+[ENDBLOCK]
+Precisamos ver o <Woodrow>.<x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Voc@ tem muita sorte de ter uma irm; como a <Lilith>.
+[ENDBLOCK]
+Mas quando estou em casa, ela vive me dando ordens
+e ficando brava comigo.
+[ENDBLOCK]
+Mesmo assim, d# pra ver que voc@s dois
+se gostam e confiam muito um no outro.
+[ENDBLOCK]
+Acha mesmo? Hum...
+[ENDBLOCK]
+Certo! Pela minha fam\lia, vou seguir em frente!<x00><x00><x00>
+[ENDBLOCK]

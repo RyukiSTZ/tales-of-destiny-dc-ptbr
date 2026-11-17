@@ -1,0 +1,687 @@
+select
+[ENDBLOCK]
+<TAG_007>Voltar $ entrada?
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+O Olho de Atamoni! Est# brilhando
+mais forte que nunca!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Miktran>
+[ENDBLOCK]
+Er'thers! Est;o vendo
+o que eu criei?
+[ENDBLOCK]
+Este mundo = um para\so!
+Exuberante e transbordando
+de vida!
+[ENDBLOCK]
+Essa = a verdadeira natureza da
+Aetherosfera! Sua Terra nojenta
+jamais se compararia!
+[ENDBLOCK]
+Meu povo logo despertar# do
+sono. A ressurrei|;o dos
+Aetherianos est# pr^xima!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Nosso mundo pertence a todos!
+[ENDBLOCK]
+Seu "para\so" n;o passa de uma farsa!
+Voc@ n;o vai tomar mais nada da Terra!!
+[ENDBLOCK]
+Malditos Er'thers, = claro que
+voc@s resistiriam!
+[ENDBLOCK]
+Que assim seja. Aetherianos ou Er'thers...
+[ENDBLOCK]
+Vamos decidir de uma vez por todas...
+Qual das nossas ra|as vai perecer!
+[ENDBLOCK]
+Vamos, <Miktran>!
+[ENDBLOCK]
+I-Imposs\vel! Eu sou o
+rei dos Aetherianos!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<center>Est# vendo, <Miktran>?
+Este = nosso verdadeiro poder.
+[ENDBLOCK]
+Malditos!!
+[ENDBLOCK]
+Recuso-me a cair aqui! Gente como
+voc@s n;o vai me deter!!!
+[ENDBLOCK]
+Olho de Atamoni...! Todo o seu
+poder... Conceda-o a mim!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+<center>Aquilo =...! Ele est# tentando fazer
+o mesmo que o <Greybum>?
+[ENDBLOCK]
+Com certeza ele sabe o que vai
+ acontecer se fizer isso!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Ah n;o!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+N;o pode ser...!
+[ENDBLOCK]
+Er'thers imundos.
+N;o vou perder para
+voc@s.
+[ENDBLOCK]
+Vou guiar este mundo $
+verdadeira prosperidade como
+seu governante supremo!
+[ENDBLOCK]
+Ent;o pretende governar
+como se fosse um deus?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Cai fora! A {ltima coisa de que o mundo
+precisa = de um tirano como voc@!
+[ENDBLOCK]
+Atamoni vive no cora|;o das
+pessoas! N;o atrav=s de voc@!
+[ENDBLOCK]
+N^s decidimos nosso futuro!
+Vamos chegar l# sozinhos!
+[ENDBLOCK]
+Essa = a verdadeira alegria
+de estar vivo!
+[ENDBLOCK]
+N;o precisamos que voc@
+nos diga o que fazer!!
+[ENDBLOCK]
+Pirralhos insolentes...!
+[ENDBLOCK]
+O poder do Olho de Atamoni
+vai lan|#-los na
+dana|;o eterna!!
+[ENDBLOCK]
+Que luz = essa?
+[ENDBLOCK]
+<center><Stahn>, todos,
+n;o tenham medo!
+[ENDBLOCK]
+<center>De fato. Estamos bem aqui
+ao seu lado.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Igtenos>
+[ENDBLOCK]
+Vamos superar isto juntos.
+[ENDBLOCK]
+Confiem nos la|os que criamos!
+[ENDBLOCK]
+Sim. Claro que acreditamos em
+voc@s. Acreditamos em todos!
+[ENDBLOCK]
+Estivemos juntos nas horas
+boas e ruins. Somos
+insepar#veis!
+[ENDBLOCK]
+Pensamos todos igual.
+Vamos fazer isto juntos.
+[ENDBLOCK]
+Sim! Vamos acabar com
+isto! De uma vez por todas!!
+[ENDBLOCK]
+C-Conseguimos...
+Conseguimos mesmo!!
+[ENDBLOCK]
+Parece que acabou.
+[ENDBLOCK]
+Nenhum sinal do
+<Miktran> em lugar nenhum.
+[ENDBLOCK]
+Vencemos, n;o foi?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+ISSO AI!!
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Que al\vio.
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+Rei <Woodrow>...
+Estou t;o feliz!
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Acho que d# pra escrever uma
+obra-prima sobre isto!
+[ENDBLOCK]
+Agora s^ falta cuidar
+do Olho de Atamoni.
+[ENDBLOCK]
+O-O que = esse tremor?
+[ENDBLOCK]
+<center>N;o! Dycroft est# come|ando a cair!
+[ENDBLOCK]
+<center>Se n;o a destruirmos, a Aetherosfera
+inteira vai se chocar contra o solo!
+[ENDBLOCK]
+O qu@? A coisa toda!?
+[ENDBLOCK]
+Estamos perdidos! Fizemos
+tudo isso $ toa!!
+[ENDBLOCK]
+N;o d# pra fazer nada?
+[ENDBLOCK]
+<center>Chegamos a isto, ent;o.
+Teremos que usar nosso {ltimo recurso.
+[ENDBLOCK]
+   Todos, escutem com aten|;o.
+Levem-nos ao Olho de Atamoni.
+[ENDBLOCK]
+<center>S^ h# um jeito de deter
+isto. Precisamos destru\-lo.
+[ENDBLOCK]
+Destru\-lo?
+[ENDBLOCK]
+<center>Agora conseguimos.
+Confiem em n^s.
+[ENDBLOCK]
+Vou explicar o que voc@s t@m que fazer.
+[ENDBLOCK]
+<center>Primeiro, devem cravar no Olho
+n^s quatro, as Swordians.
+[ENDBLOCK]
+<center>Ent;o vibraremos nossos cristais-n{cleo
+contra o Olho de Atamoni.
+[ENDBLOCK]
+<center>Ele ser# destru\do por dentro,
+e a rea|;o em cadeia
+romper# a Aetherosfera.
+[ENDBLOCK]
+<center>Sem o Olho, a Aetherosfera
+n;o conseguir# se manter unida.
+[ENDBLOCK]
+<center>Assim, podemos impedi-la
+de destruir a superf\cie.
+[ENDBLOCK]
+<center><Stahn>. Assim que estivermos l#, todos
+devem sair deste lugar imediatamente.
+[ENDBLOCK]
+O qu@...?
+[ENDBLOCK]
+<center>Quando o Olho de Atamoni for
+destru\do, uma quantidade enorme
+de energia ser# liberada.
+[ENDBLOCK]
+<center>Dycroft e o Olho ser;o
+completamente destru\dos.
+[ENDBLOCK]
+Espere! Voc@s
+n;o v;o...?
+[ENDBLOCK]
+Isto = um adeus, para sempre.
+[ENDBLOCK]
+N;o...!
+[ENDBLOCK]
+<center>} o {nico jeito.
+Por favor, entendam.
+[ENDBLOCK]
+Por que n;o nos
+contaram isso?
+[ENDBLOCK]
+Pra evitar que mud#ssemos
+de ideia...?
+[ENDBLOCK]
+N;o! Voc@s n;o podem fazer isso!
+[ENDBLOCK]
+Chegamos at= aqui juntos!
+N;o pode terminar assim!
+[ENDBLOCK]
+Vamos voltar pra casa juntos!
+Vamos dar um jeito! Tem que
+haver outro jeito!
+[ENDBLOCK]
+Escute, seu completo tolo!
+[ENDBLOCK]
+...!
+[ENDBLOCK]
+Se voc@ vacilar aqui, a
+Terra ser# destru\da!
+[ENDBLOCK]
+Mas...!
+[ENDBLOCK]
+ <Stahn>! Voc@ = um Mestre Swordian!
+Sabe o que precisa ser feito! Fa|a!!
+[ENDBLOCK]
+...!!
+[ENDBLOCK]
+...Eu vou primeiro.
+[ENDBLOCK]
+Nosso tempo juntos foi curto,
+mas nesse tempo, voc@ serviu
+bem minha fam\lia.
+[ENDBLOCK]
+Obrigado, <Igtenos>.
+[ENDBLOCK]
+<center>Gl^ria a Phandaria. Sei que
+voc@ a levar# $ prosperidade.
+[ENDBLOCK]
+Nunca esquecerei o
+que voc@ me ensinou.
+[ENDBLOCK]
+Vou sentir sua falta, <Clemente>.
+[ENDBLOCK]
+Viva bem, <Philia>.
+[ENDBLOCK]
+Sabe, voc@ e eu estamos juntas
+desde que eu me lembro...
+[ENDBLOCK]
+Obrigada, <Atwight>. Obrigada
+por tudo...
+[ENDBLOCK]
+<center>Gostei do nosso tempo juntas.
+Era como ter uma irm;zinha.
+Espero que voc@ nunca mude, <Rutee>.
+[ENDBLOCK]
+N;o h# mais nada que eu
+precise dizer. Acredito em voc@.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x98><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x98><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x9C><x00><x80>
+<x18><x65><x58><xA0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x84><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

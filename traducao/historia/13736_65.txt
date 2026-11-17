@@ -1,0 +1,1224 @@
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+Me chamaram de
+"mulher gananciosa"...
+[ENDBLOCK]
+Ultimamente, o povo tem tratado
+muito mal quem mora na mans;o,
+como se f_ssemos a mesma coisa
+que a Companhia Oberon.
+[ENDBLOCK]
+Me acusaram de ser uma mulher
+gananciosa atr#s da fortuna da companhia...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Como podem dizer coisas
+t;o horr\veis!?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Ei, <Marian>, por que voc@
+n;o larga tudo e vai
+embora daqui?
+[ENDBLOCK]
+Isso =...!
+[ENDBLOCK]
+<Rutee>!
+[ENDBLOCK]
+Assim... assim... voc@ n;o vai
+mais se machucar, <Marian>!
+[ENDBLOCK]
+Aquilo =...
+[ENDBLOCK]
+Era o que ele queria...
+[ENDBLOCK]
+Hmm...?
+[ENDBLOCK]
+De qualquer jeito, voc@ devia
+ir embora, <Marian>...
+[ENDBLOCK]
+...N;o. Eu vou ficar!
+[ENDBLOCK]
+Voc@ chegaria a esse ponto...
+[ENDBLOCK]
+<Marian>...
+[ENDBLOCK]
+Senhorita... <Rutee>?
+[ENDBLOCK]
+Ei, <Marian>... Tem uma
+coisa que eu queria
+te pedir.
+[ENDBLOCK]
+Sim...?
+[ENDBLOCK]
+No futuro, quando tudo virar
+uma boa lembran|a, voc@
+pode visitar...
+[ENDBLOCK]
+Se for, trate de sair
+daqui...
+[ENDBLOCK]
+<Rutee>...
+[ENDBLOCK]
+Por favor... pare de sofrer tanto
+por quem n;o est# mais aqui...
+[ENDBLOCK]
+Senhorita <Rutee>...
+[ENDBLOCK]
+Porque, se voc@ n;o for feliz,
+tenho certeza de que ele vai ficar muito bravo...
+[ENDBLOCK]
+...Obrigada, senhorita <Rutee>.
+[ENDBLOCK]
+Bem-vindo de volta, Mestre <Lion>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Vieram ver o
+dono da casa?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Emilio, aguente firme. Seja
+forte e nunca desista.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Emilio, n;o se
+esforce demais.
+[ENDBLOCK]
+Tenha um bom dia, Emilio.
+[ENDBLOCK]
+Tenha um bom dia,
+Mestre <Lion>.
+
+[ENDBLOCK]
+Bem-vindo de volta, Mestre <Lion>.
+
+[ENDBLOCK]
+Obrigada por toda a
+ajuda neste assunto.
+[ENDBLOCK]
+Vou cuidar da casa at=
+o Mestre <Lion> voltar.
+[ENDBLOCK]
+Bem-vindo, Sr. <Stahn>.
+[ENDBLOCK]
+Bem-vindos.
+[ENDBLOCK]
+Ent;o hoje somos
+s^ voc@ e eu?
+[ENDBLOCK]
+Sejam todos bem-vindos.
+[ENDBLOCK]
+Todos voc@s, por favor...
+[ENDBLOCK]
+...por favor, nos ajudem.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Hugo>
+[ENDBLOCK]
+<Marian>, por favor.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<center>Voc@s demoraram, hein!
+O que estavam fazendo!?
+[ENDBLOCK]
+Ah, qual =, me d#
+um tempo!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+<center><Dymlos>, por favor, acalme-se.
+Eles n;o sabem o que est# acontecendo.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Segundo textos antigos, existem
+seis Swordians ao todo.
+[ENDBLOCK]
+Deles, metade est# reunida aqui...
+} impressionante pensar nisso, n;o?
+[ENDBLOCK]
+Opa, ent;o voc@ est# dizendo que tem
+mais tr@s Swordians por a\?
+[ENDBLOCK]
+Enfim, vou passar a voc@s
+os detalhes agora.
+[ENDBLOCK]
+Voc@s devem ir ao norte,
+ao Templo de Straylize.
+[ENDBLOCK]
+Voc@ quer que a gente garanta que o
+Olho de Atamoni est# seguro, n=?
+[ENDBLOCK]
+Sim. Essa = a prioridade n{mero um.
+[ENDBLOCK]
+Finalmente, = a minha chance
+de virar cavaleiro!
+[ENDBLOCK]
+Isso nem est# entre as dez primeiras!
+[ENDBLOCK]
+Pois devia estar! N;o estraga
+a minha alegria!
+[ENDBLOCK]
+Parem de falar como se eu tivesse
+aceitado tudo isso de gra|a!
+[ENDBLOCK]
+Voc@s sabem quem eu sou, n=?
+N;o sou garota de recados de ningu=m!
+[ENDBLOCK]
+Que tal 200.000 Gald?
+[ENDBLOCK]
+Aahn?
+[ENDBLOCK]
+Como recompensa por um trabalho bem
+feito, = claro. Que tal?
+[ENDBLOCK]
+Eu... Eu n-n;o sei...
+[ENDBLOCK]
+250.000, ent;o.
+[ENDBLOCK]
+B-Bom, se voc@ coloca desse jeito,
+a-acho que = aceit#vel.
+[ENDBLOCK]
+Ela mudou de ideia rapidinho.
+[ENDBLOCK]
+...Ela com certeza virou
+uma mulher durona.
+[ENDBLOCK]
+Vou falar bem de voc@ para
+o rei tamb=m, <Stahn>.
+[ENDBLOCK]
+Ent;o, por favor, tragam os
+resultados que esperamos.
+[ENDBLOCK]
+Entendido! Deixa comigo!
+[ENDBLOCK]
+Espero grandes coisas
+de voc@s.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Dispositivos Swordian de <Stahn> e <Rutee>
+<center>agora podem ser usados.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+<Marian>!
+[ENDBLOCK]
+Mestre <Lion>, o que houve?
+[ENDBLOCK]
+N;o fale assim,
+n;o tem mais ningu=m aqui.
+[ENDBLOCK]
+Entendo. Desculpe, Emilio.
+[ENDBLOCK]
+Mas... voc@ n;o estava de sa\da?
+[ENDBLOCK]
+Pensei em vir te ver
+mais uma vez.
+[ENDBLOCK]
+Tinha esquecido de
+me despedir.
+[ENDBLOCK]
+} s^ por isso?
+[ENDBLOCK]
+Vou sentir sua falta.
+[ENDBLOCK]
+Voc@ n;o tem jeito. O Mestre <Hugo>
+vai te dar bronca, sabia?
+[ENDBLOCK]
+N;o fale daquele homem!
+[ENDBLOCK]
+Emilio... Voc@ n;o devia
+falar assim.
+[ENDBLOCK]
+Desculpa, <Marian>... foi
+errado da minha parte.
+[ENDBLOCK]
+Que bom que voc@ entende.
+[ENDBLOCK]
+Bom... eu j# volto.
+[ENDBLOCK]
+Emilio... por favor,
+tome cuidado, t#?
+[ENDBLOCK]
+Vou tomar. N;o se preocupe.
+[ENDBLOCK]
+
+[ENDBLOCK]
+...E a\ aquele tal de <Stahn>
+me disse uma coisa
+esquisita.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Disse que me considerava um
+"bom amigo". S=rio, quem
+fala desse jeito?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Pra mim, parece que voc@ ficou
+feliz em ouvir isso.
+[ENDBLOCK]
+N-N;o seja boba.
+[ENDBLOCK]
+Pfft... Por favor, tome
+mais uma x\cara de ch#.
+[ENDBLOCK]
+Ah, sim. Obrigado.
+[ENDBLOCK]
+Enfim... que bom que tudo
+acabou bem.
+[ENDBLOCK]
+} verdade... Espero mesmo
+que tenha acabado...
+[ENDBLOCK]
+} impress;o minha, ou parece
+a calmaria antes da tempestade?
+[ENDBLOCK]
+Disse alguma coisa, Emilio?
+[ENDBLOCK]
+Ah, nada... S^ estava pensando
+que o seu ch# estava delicioso.
+[ENDBLOCK]
+<TAG_007>
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>Quando eu era crian|a...
+[ENDBLOCK]
+<TAG_007>...eu olhava pra cima, e ela sempre
+me dava aquele sorriso gentil.
+[ENDBLOCK]
+<TAG_007>Com o tempo, fui crescendo e n;o
+precisava mais olhar pra cima
+para ver aquele sorriso.
+[ENDBLOCK]
+<TAG_007>Mas estar na mesma altura dos
+olhos dela ainda n;o bastava.
+[ENDBLOCK]
+<TAG_007>Meu pai nunca se importou muito comigo.
+[ENDBLOCK]
+<TAG_007>Por isso eu queria virar adulto logo,
+para ser independente do meu pai.
+[ENDBLOCK]
+<TAG_007>Eu s^ queria duas coisas...
+[ENDBLOCK]
+<TAG_007>...que tudo fosse por ela,
+e ser digno...
+[ENDBLOCK]
+<Marian>?
+[ENDBLOCK]
+Ah, Emilio.
+Desculpe.
+[ENDBLOCK]
+} que anda fazendo bem
+mais calor esses dias, ent;o...
+[ENDBLOCK]
+Estava sonhando acordada
+de novo? N;o vou te impedir.
+[ENDBLOCK]
+Ah, Emilio, n;o me
+provoque assim.
+[ENDBLOCK]
+Ali#s, voc@ est# de
+servi|o hoje?
+[ENDBLOCK]
+N;o, n;o tenho nenhum
+compromisso hoje.
+[ENDBLOCK]
+Ent;o acho que vou ficar
+de boa em casa hoje.
+[ENDBLOCK]
+Ah, qual =. Algu=m t;o
+jovem como voc@ n;o devia
+dizer essas coisas.
+[ENDBLOCK]
+O que est# dizendo, <Marian>?
+Voc@ n;o = t;o mais
+velha que eu.
+[ENDBLOCK]
+Embora eu fique feliz
+de ouvir isso de voc@...
+[ENDBLOCK]
+N;o = como se a nossa diferen|a
+de idade fosse diminuir.
+[ENDBLOCK]
+Mas...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Soldado
+[ENDBLOCK]
+Com licen|a.
+[ENDBLOCK]
+Sr. <Lion>, vim informar que
+h# uma tarefa urgente para o senhor.
+[ENDBLOCK]
+Mesmo sendo emerg@ncia, quem
+te deu permiss;o pra invadir
+a minha casa assim?
+[ENDBLOCK]
+P-Perdoe-me, por favor.
+Por=m...
+[ENDBLOCK]
+Deixa pra l#. Desembucha.
+O que querem
+comigo?
+[ENDBLOCK]
+Mestre <Lion>, vou deix#-los a s^s.
+[ENDBLOCK]
+Ah, desculpe, <Marian>.
+[ENDBLOCK]
+Recebemos informa|`es de que os
+ladr`es que procur#vamos
+foram encontrados.
+[ENDBLOCK]
+O que esses ladr`es t@m de t;o
+especial para exigir a minha
+presen|a?
+[ENDBLOCK]
+Voc@s n;o deviam conseguir
+resolver isso sozinhos?
+[ENDBLOCK]
+Foi o que o capit;o disse, mas o
+presidente <Hugo> insistiu que o
+senhor cuidasse disso, Sr. <Lion>.
+[ENDBLOCK]
+O <Hugo>? Nesse caso, quem
+s;o esses ladr`es?
+[ENDBLOCK]
+S;o <Rutee> Katrea
+e <Mary> Argent.
+[ENDBLOCK]
+<Rutee>... Katrea?
+[ENDBLOCK]
+S;o uma dupla de ladras.
+Extors;o tamb=m est#
+entre os crimes delas.
+[ENDBLOCK]
+Parece tamb=m que, desta
+vez, outra pessoa se
+juntou a elas.
+[ENDBLOCK]
+Segundo o relat^rio, parece que
+<Rutee> Katrea tem uma
+espada misteriosa.
+[ENDBLOCK]
+Por causa dela, conseguiram
+escapar da captura at= agora.
+[ENDBLOCK]
+Uma espada misteriosa?
+Entendo, ent;o = isso.
+[ENDBLOCK]
+Entendido. Onde elas
+est;o agora?
+[ENDBLOCK]
+Na Vila de Harmentz.
+[ENDBLOCK]
+A equipe avan|ada j# partiu,
+e pedem que o senhor
+parta imediatamente.
+[ENDBLOCK]
+Vou me retirar agora.
+[ENDBLOCK]
+Ouviu isso, Chal?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+<center>Sim, j# ouvi o bastante,
+Jovem Mestre.
+[ENDBLOCK]
+<center>A tal "espada misteriosa"...
+provavelmente = um Swordian.
+[ENDBLOCK]
+Um Swordian al=m do Chal, e a
+criminosa procurada <Rutee> Katrea...
+[ENDBLOCK]
+<center>Mas, se bem me lembro, a <Rutee>
+n;o = a sua irm; perdida,
+Jovem Mestre?
+[ENDBLOCK]
+N;o, ainda n;o temos
+certeza. Al=m disso, eu
+nunca a conheci.
+[ENDBLOCK]
+De qualquer forma, ela deve ser
+demais para aqueles soldados
+in{teis darem conta.
+[ENDBLOCK]
+Chal, vamos correndo
+para Harmentz.
+[ENDBLOCK]
+<center>Sim, Jovem Mestre.
+[ENDBLOCK]
+<TAG_007>E assim, minha miss;o terminou.
+[ENDBLOCK]
+<x06><xD8><x00><x00><x00><TAG_007>"...Virar adulto..."
+[ENDBLOCK]
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20><center>Ser# que eu consegui mesmo
+o que eu buscava...
+[ENDBLOCK]
+<TAG_007><center>Ironicamente, ganhei outra coisa
+nesta jornada. Algo que eu nem
+sabia que queria.
+[ENDBLOCK]
+<x06><xD8><x00><x00><x00><TAG_007> "...Amizade..."
+[ENDBLOCK]
+<x06><x15><x01><x00><x40><x06><x2A><x01><x00><x20><center>Agora eu entendo o que vinha
+crescendo dentro de mim a cada dia...
+[ENDBLOCK]
+<TAG_007><center>O Chal me disse uma coisa
+no meio da jornada.
+[ENDBLOCK]
+ "Voc@ n;o devia ficar focado
+s^ em coisas s=rias assim."
+[ENDBLOCK]
+<TAG_007>Ser# que um dia eu vou
+conseguir admitir isso...
+[ENDBLOCK]
+Bom dia, <Marian>.
+[ENDBLOCK]
+Ora! Voc@ acordou cedo
+hoje, Emilio.
+[ENDBLOCK]
+Vou correndo preparar
+o caf= da manh;.
+[ENDBLOCK]
+J# sei, por que voc@ n;o toma
+caf= comigo, <Marian>?
+[ENDBLOCK]
+} gentil da sua parte,
+mas acho que vou recusar.
+[ENDBLOCK]
+Est;o me esperando
+no castelo hoje.
+[ENDBLOCK]
+Voc@ parece ter ficado
+muito ocupado ultimamente.
+[ENDBLOCK]
+Comparado $ minha viagem pelo
+mundo, isto n;o = nada.
+[ENDBLOCK]
+J# faz dois meses desde
+ent;o, n;o =?
+[ENDBLOCK]
+Parece que foi ontem que eu
+estava me despedindo do <Stahn>
+e dos outros...
+[ENDBLOCK]
+Voc@ se sente sozinho agora que
+seus amigos n;o est;o com voc@?
+[ENDBLOCK]
+...Ah, qual =. Voc@ sabe
+que eu n;o sou assim.
+[ENDBLOCK]
+Hehehe~! Voc@ mudou
+tanto, Emilio.
+[ENDBLOCK]
+O que isso quer dizer?
+Gostava mais de mim antes?
+[ENDBLOCK]
+De jeito nenhum. O jeito que
+voc@ = agora = maravilhoso.
+[ENDBLOCK]
+Bom, j# vou indo.
+[ENDBLOCK]
+Ahh, acabei de lembrar.
+Tome, pegue isto.
+[ENDBLOCK]
+O que = isto...?
+[ENDBLOCK]
+Uma coisinha que eu preparei.
+Que ela te proteja.
+[ENDBLOCK]
+Obrigado, <Marian>.
+[ENDBLOCK]
+Voc@ j# contou essa hist^ria tantas
+vezes. Mas, toda vez, parece que
+voc@ se divertiu muito.
+[ENDBLOCK]
+N-N;o = nada
+disso!
+[ENDBLOCK]
+Enfim, tome. Mais uma
+x\cara de ch#.
+[ENDBLOCK]
+Obrigada.
+[ENDBLOCK]
+Ali#s, voc@ anda de muito
+bom humor ultimamente, n=?
+[ENDBLOCK]
+} porque... o seu ch# =
+sempre t;o bom, <Marian>.
+[ENDBLOCK]
+Desculpe incomodar, Sr. <Lion>, mas
+surgiu algo urgente que precisa
+da sua aten|;o.
+[ENDBLOCK]
+Obrigado por vir. Ent;o, qual
+= o assunto urgente?
+[ENDBLOCK]
+Desculpe, n;o fui informado dos detalhes.
+S^ me pediram para solicitar que o senhor
+se apresente ao <King> imediatamente.
+[ENDBLOCK]
+Entendido. Vou para
+l# agora mesmo.
+[ENDBLOCK]
+Bem, ent;o, com
+licen|a.
+[ENDBLOCK]
+Bom, voc@ ouviu,
+<Marian>.
+[ENDBLOCK]
+Sim. Por favor, tome cuidado. Ah!
+Espere, antes que eu esque|a!
+[ENDBLOCK]
+Hum?
+[ENDBLOCK]
+Parece que o Mestre <Hugo>
+volta para casa hoje.
+[ENDBLOCK]
+O <Hugo> vai voltar?
+[ENDBLOCK]
+Algum problema, Mestre <Lion>?
+[ENDBLOCK]
+...Nada. S^ estava pensando que
+faz tempo que n;o o vejo.
+[ENDBLOCK]
+} s^ isso.
+[ENDBLOCK]
+Bom, ent;o, eu j# volto.
+[ENDBLOCK]
+At= logo!
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x9C><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA0><x00><x80>
+<x18><x65><x58><xA4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x88><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

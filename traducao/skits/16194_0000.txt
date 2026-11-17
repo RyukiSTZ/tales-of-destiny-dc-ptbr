@@ -1,0 +1,29 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Est# me ouvindo, <Hugo>!?
+[ENDBLOCK]
+N;o vamos deixar voc@ fazer o que quer! Vamos
+fazer voc@ pagar pelo que fez!
+[ENDBLOCK]
+N^s VAMOS achar o caminho at= l#!
+N^s VAMOS revingar o <Lion>!
+[ENDBLOCK]
+Certo! Corta!
+[ENDBLOCK]
+Ei, <Stahn>? A fala = "*vingar*
+o <Lion>", n;o "revingar"...
+[ENDBLOCK]
+Opa, desculpa! Eu disse "revingar"?
+[ENDBLOCK]
+Desculpem, pessoal! Vamos fazer de novo, por favor!
+[ENDBLOCK]
+Pode deixar. Epis^dio 33, Cena 8,
+tomada 2. E... a|;o!
+[ENDBLOCK]
+Est# me ouvindo, <Hugo>!?<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

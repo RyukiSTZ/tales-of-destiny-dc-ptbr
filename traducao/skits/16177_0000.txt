@@ -1,0 +1,36 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pergunta!
+[ENDBLOCK]
+Pronto!
+[ENDBLOCK]
+Esperem um pouco. Posso dizer uma coisa antes?
+[ENDBLOCK]
+} sobre a pergunta do Michel de antes...
+[ENDBLOCK]
+Pra ser exato, ele foi exilado em
+Aquaveil como prisioneiro pol\tico.
+[ENDBLOCK]
+H;? Nunca vi essa teoria
+nas minhas pesquisas.
+[ENDBLOCK]
+Eu tamb=m nunca ouvi isso.
+[ENDBLOCK]
+Duvidam? Mas = verdade.
+[ENDBLOCK]
+Voc@s dois sabem mesmo muito...
+[ENDBLOCK]
+Mas a verdade da hist^ria e o que est#
+nos livros muitas vezes n;o batem.
+[ENDBLOCK]
+Que irritante. Onde o <Johnny> descobriu isso?
+[ENDBLOCK]
+Bem, os registros sobre Michel Shiden dizem...
+[ENDBLOCK]
+Ah...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

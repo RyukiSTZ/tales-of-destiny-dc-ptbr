@@ -1,0 +1,76 @@
+0|[Left+Right_blink]Mudar [L1_ani]Desfazer [R1_ani]Padrão [Cross_ani]Voltar
+1|[Circle_ani]Mudar [L1_ani]Desfazer [R1_ani]Padrão [Cross_ani]Voltar
+2|[Circle_ani]+[L+U+R+D_blink]Mudar [L1_ani]Desfazer [R1_ani]Padrão [Cross_ani]Voltar
+3|[Circle_ani][Cross_ani][Square_ani][Triangle_ani][L1_ani][R1_ani][L2_ani][R2_ani]Mudar[Left_blink]Voltar
+4|[Circle_ani]+[Left+Right_blink]Mudar [Cross_ani]Voltar
+5|[Circle_ani]Escolher [Cross_ani]Cancelar
+6|Vel. Mensagem
+7|Msg. Automática
+8|Dificuldade
+9|Controles
+10|Posição da Tela
+11|Vibração
+12|Legendas
+13|Câmera Batalha
+14|Câmera Horizontal
+15|Câmera Vertical
+16|Vel. Veículo
+17|Saída de Som
+18|Volume
+19|Golpe Certeiro
+20|Tipo de Retrato
+21|Muda a velocidade das mensagens.[LINE]1 é instantâneo.[LINE]
+22|Ligado, as mensagens avançam[LINE]sozinhas, sem apertar botões.
+23|dummy
+24|Muda os botões na batalha.
+25|Ajusta a posição da tela.
+26|Liga/desliga a vibração.
+27|Liga/desliga legendas nos vídeos.
+29|Muda o sentido de giro[LINE]do botão [L1_ani][R1_ani].
+30|Inverte o veículo ao apertar[LINE][Up+Down_blink] no direcional ou analógico.
+31|Velocidade do veículo. Menor é mais rápido.
+32|Escolhe se o som sai em[LINE]estéreo ou mono.
+33|Muda sons específicos do jogo.
+35|Muda a aparência dos personagens[LINE]no menu principal e de status.
+36|[Simples]
+37|Dificuldade menor, inimigos[LINE]usam menos artes
+38|[Normal]
+39|Dificuldade normal.
+40|[Second]
+41|Mais difícil que o Normal. Muda o[LINE]multiplicador de dano de todos.
+42|[Difícil]
+43|Mais difícil, mas aumenta os bônus[LINE]de experiência e pontos de dispositivo.
+44|[Evil]
+45|Dificuldade Evil, o bônus de experiência[LINE]por golpes seguidos é ainda maior.
+46|[Caos]
+47|A pior dificuldade. Aliados e inimigos[LINE]ganham multiplicador crítico de 4X.
+48|[Alvo]
+49|Foca no alvo.
+50|[Grupo]
+51|Foca nos aliados.
+52|[Inimigo]
+53|Foca nos inimigos.
+54|[Todos]
+55|Foca em todos
+56|[ON]
+57|Aproveite fazendo as combinações[LINE]indicadas na batalha.
+58|[OFF]
+59|Desliga a exibição do Golpe Certeiro.
+60|Atacar
+61|Artes
+62|Defender
+63|Menu
+64|Blast Caliber
+65|Trocar Alvo
+66|Atalho 1
+67|Atalho 2
+68|Vermelho
+69|Verde
+70|Azul
+71|Opacidade
+72|Música
+73|Efeitos
+74|Vozes Batalha
+75|Vozes
+76|Skit
+77|Vídeo

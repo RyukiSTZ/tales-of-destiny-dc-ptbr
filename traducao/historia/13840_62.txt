@@ -1,0 +1,1278 @@
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>H# u
+[ENDBLOCK]
+s 
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+m livro intitulado:
+"Hist^ria das Lentes para Leigos".
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ler?
+Sim
+N;o
+[ENDBLOCK]
+<TAG_005>Vamos explorar a hist^ria da
+fascinante subst&ncia conhecida
+como "Lente".
+[ENDBLOCK]
+<TAG_005>H# muito conhecemos a energia
+guardada nas Lentes, mas n;o
+consegu\amos aproveit#-la.
+[ENDBLOCK]
+<TAG_005>At= que a "Companhia Oberon"
+fez hist^ria.
+[ENDBLOCK]
+<TAG_005>Pouco depois de sua funda|;o,
+ela conseguiu extrair essa
+energia t;o dif\cil de obter.
+[ENDBLOCK]
+<TAG_005>Hoje, a energia das Lentes melhorou
+muito nossas vidas, trazendo mais
+seguran|a e conforto.
+[ENDBLOCK]
+<TAG_005>H# um livro intitulado:
+"A Aurora da Gl^ria de Seinegald -
+<Finlay> e os Sete Generais".
+[ENDBLOCK]
+<TAG_005>N;o = exagero dizer que Seinegald
+deve sua grande influ@ncia ao
+poder dos "Sete Generais".
+[ENDBLOCK]
+<TAG_005>"Enquanto um s^ dos sete pilares
+continuar de p=, o reino
+jamais cair#."
+[ENDBLOCK]
+<TAG_005>Estas palavras tranquilizam o povo
+e intimidam os inimigos.
+[ENDBLOCK]
+<TAG_005>O fundador dos Sete Generais foi
+<Finlay> Doug, um homem invicto
+em batalha que ganhou o nome
+de <Finlay>, o Feroz.
+[ENDBLOCK]
+<TAG_005><center>H# uma s=rie de livros de pesquisa
+intitulada "Registros Bot&nicos de Otto".
+[ENDBLOCK]
+<TAG_005>H# um livro de Seinegald intitulado:
+"Topografia do Mundo".
+[ENDBLOCK]
+<TAG_005>O mundo pode ser dividido,
+em linhas gerais, em cinco na|`es.
+[ENDBLOCK]
+<TAG_005>Primeiro, o Reino de Seinegald.
+Tem como centro a capital,
+Darilsheid, e abriga o Templo
+Principal de Straylize.
+[ENDBLOCK]
+<TAG_005>Segundo, o Reino de Phandaria,
+separado de Seinegald pela cordilheira
+de Heidelberg. Suas terras s;o nevadas.
+[ENDBLOCK]
+<TAG_005>Depois vem Fitzgald, um pa\s em
+desenvolvimento onde fica Neustadt.
+[ENDBLOCK]
+<TAG_005>A leste fica a Confedera|;o de
+Aquaveil, um grupo de ilhas que
+at= hoje bloqueia rela|`es
+diplom#ticas.
+[ENDBLOCK]
+<TAG_005>Por fim, h# Calvalese, uma ilha
+de vulc`es e desertos.
+[ENDBLOCK]
+<TAG_005>Embora seja em geral reconhecida
+como na|;o, muitos se recusam
+a aceit#-la como Estado
+por causa da sua hist^ria.
+[ENDBLOCK]
+<TAG_005>H# um livro intitulado:
+"A Arena Famosa no Mundo Todo".
+[ENDBLOCK]
+<TAG_005>Siga ao norte pela rua principal de
+Neustadt e voc@ vai dar de cara com
+um pr=dio circular sobre o mar.
+} a famosa Arena.
+[ENDBLOCK]
+<TAG_005>L#, guerreiros arriscam a honra
+dia ap^s dia. Entre eles est# o
+vencedor de lutas consecutivas,
+o atual campe;o...
+[ENDBLOCK]
+<TAG_005>H# um livro intitulado:
+"Ca|adores de Lentes: Uma Profiss;o".
+[ENDBLOCK]
+<TAG_005><center>As boas pessoas que fornecem $
+Oberon as Lentes vitais $s nossas
+vidas s;o os ca|adores de lentes.
+[ENDBLOCK]
+<TAG_005>Recentemente, o n{mero de ca|adores
+que se voltam para o crime vem
+aumentando, levando $ a|;o militar.
+[ENDBLOCK]
+<TAG_005>Livros de pesquisa sobre Straylize
+e a deusa Atamoni est;o
+enfileirados aqui.
+
+[ENDBLOCK]
+<TAG_005>H# um livro intitulado:
+"A Verdade sobre Calvalese".
+[ENDBLOCK]
+<TAG_005><center>Alguns afirmam que o povo de Calvalese
+foi levado para l# depois de uma guerra
+de um passado distante.
+[ENDBLOCK]
+<TAG_005><center>Por=m, nem os registros mais antigos
+conseguem comprovar essas
+afirma|`es.
+[ENDBLOCK]
+<TAG_005><center>Calvalese denuncia outros pa\ses
+repetidas vezes por causa de uma
+guerra fict\cia. Com certeza o futuro
+de um pa\s assim...
+[ENDBLOCK]
+<TAG_005><center>V#rios tratados sobre o uso militar
+das Lentes est;o enfileirados.
+[ENDBLOCK]
+<TAG_005>H# um livro intitulado:
+"Calend#rio das Estrelas".
+[ENDBLOCK]
+<TAG_005>...Fui buscar minha irm; antes
+que mam;e mandasse. Ela era
+sempre agrad#vel, mas mam;e
+era outra hist^ria.
+[ENDBLOCK]
+<TAG_005>Ao sair de casa, ouvi a voz da
+mam;e. Ela gritava. Suas palavras
+eram incompreens\veis. N;o parei.
+[ENDBLOCK]
+<TAG_005>...
+[ENDBLOCK]
+<TAG_005>...Ela vinha correndo at= mim.
+O rosto iluminado pelo mesmo sorriso.
+De repente, parou e virou
+a cabe|a para o c=u. Ergui a minha.
+[ENDBLOCK]
+<TAG_005>Uma enorme massa em chamas, t;o
+grande que parecia tapar o c=u
+inteiro, vinha em nossa dire|;o.
+[ENDBLOCK]
+<TAG_005>Como eu saberia depois, centenas de
+meteoritos ca\ram no planeta naquele dia...
+[ENDBLOCK]
+-----flag_check
+
+[ENDBLOCK]
+Ｓフラグ						:<x17><x24><x0B><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック84-0:<x17><x28><x47><x02><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック85-0:<x17><x28><x48><x02><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック85-1:<x17><x28><x0E><x03><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック86-0:<x17><x28><x49><x02><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック86-1:<x17><x28><x0F><x03><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック86-2:<x17><x28><x10><x03><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック87-0:<x17><x28><x4A><x02><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック87-1:<x17><x28><x11><x03><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック88-0:<x17><x28><x4B><x02><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック88-1:<x17><x28><x12><x03><x14><x2F><x80>
+
+[ENDBLOCK]
+サブシナリオチェック88-2:<x17><x28><x13><x03><x14><x2F><x80>
+
+[ENDBLOCK]
+discovery:<x17><x15><x7B><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Frantz
+[ENDBLOCK]
+O destino = a Floresta de
+Aquaveil. Conto com voc@s.
+[ENDBLOCK]
+Investiguem ao norte
+de Calviola.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sei l#! Mas! Sei que voc@s t@m que ir
+pra uma ilha a leste de Seinegald!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sacerdote
+[ENDBLOCK]
+O <Greybum> sabia conquistar o cora|;o
+das pessoas e ganhou muitos seguidores.
+[ENDBLOCK]
+Pensando bem, tudo isso pode ter sido
+prepara|;o para uma rebeli;o.
+[ENDBLOCK]
+Ser# que o <Greybum> agia
+j# prevendo esta
+situa|;o?
+[ENDBLOCK]
+N;o cabe a um mero mortal decidir
+quem vive e quem morre!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ministro
+[ENDBLOCK]
+Precisamos trabalhar com o Bispo <Ayles>
+para o templo voltar ao normal.
+[ENDBLOCK]
+O templo foi reconstru\do, mas as
+cicatrizes da rebeli;o continuam.
+[ENDBLOCK]
+Eu n;o fazia ideia de que as feridas
+da rebeli;o ainda estariam se curando...
+[ENDBLOCK]
+Muita gente veio a este
+templo em busca de salva|;o.
+[ENDBLOCK]
+Vamos dar o nosso melhor para
+tranquilizar essas pessoas.
+[ENDBLOCK]
+Tentei enfrentar o <Greybum>,
+mas os homens dele me
+espancaram at= eu desmaiar...
+[ENDBLOCK]
+} um milagre eu ainda estar vivo.
+[ENDBLOCK]
+Pensando bem, a <Batista> sempre
+me pareceu meio suspeita.
+[ENDBLOCK]
+Ouvi dizer que o <Greybum> estava
+sendo manipulado pelo mentor
+de toda essa confus;o.
+[ENDBLOCK]
+Isso = verdade...?
+[ENDBLOCK]
+Deusa Atamoni,
+por favor, nos ajude...
+[ENDBLOCK]
+<Philia>, e todos voc@s. Por favor,
+cuidem do Olho de Atamoni.
+[ENDBLOCK]
+Por favor, tragam de volta o Olho
+de Atamoni. Eu imploro!
+[ENDBLOCK]
+H# muitos documentos neste
+templo. D# pra dizer que = um
+templo do conhecimento humano.
+[ENDBLOCK]
+O termo "Guerra de Aeth'er" de
+fato aparecia na literatura.
+[ENDBLOCK]
+Eu achava que era s^ uma
+lenda, mas = verdade.
+[ENDBLOCK]
+Ouvi dizer que, na {ltima Guerra de
+Aeth'er, um salvador apareceu e livrou
+a Terra da desgra|a...
+[ENDBLOCK]
+Por algum motivo, voc@
+me lembra ele.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x2C><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x1C><x00><x80><x18><x65><x58><x20><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x50><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><x4C><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x40><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x40><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x44><x00><x80>
+<x18><x65><x58><x48><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x2C><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ah~ Ser# que existe algu=m por a\
+com uma AURA REAL
+TOTALMENTE CARREGADA!
+[ENDBLOCK]
+N;o pode ser... Voc@!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+H;? Eu sou s^ o <Stahn>.
+[ENDBLOCK]
+O senhor n;o = o Rei <Woodrow>!?
+[ENDBLOCK]
+Ele n;o estava falando de mim, n=...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Correto. Precisa de mim
+para alguma coisa?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Calma, calma, <Stahn>.
+[ENDBLOCK]
+Meu nome = Frantz. Acredite
+se quiser, sou arque^logo.
+[ENDBLOCK]
+Que profiss;o
+maravilhosa.
+[ENDBLOCK]
+Se me permite, o que o senhor
+faz aqui, Rei <Woodrow>?
+[ENDBLOCK]
+} uma longa hist^ria, mas...
+[ENDBLOCK]
+Que ^timo momento!
+[ENDBLOCK]
+O qu@?
+[ENDBLOCK]
+Sabe, estou pesquisando os
+"Quatro Segredos do Mundo".
+[ENDBLOCK]
+Dizem que no mundo existem quatro
+pontos, de local n;o confirmado, conhecidos
+s^ como "Quatro Segredos do Mundo"...
+[ENDBLOCK]
+Aah, voc@ conhece?
+[ENDBLOCK]
+O que esses Quatro Segredos do
+Mundo t@m a ver com a gente?
+[ENDBLOCK]
+Bom, tenho motivos para crer que quase
+descobri onde fica o primeiro segredo.
+[ENDBLOCK]
+E, assim que eu descobrir, voc@s
+se importariam de ir conferir
+se eu disser aonde ir?
+[ENDBLOCK]
+Por que quer que
+a gente fa|a isso?
+[ENDBLOCK]
+Tr@s motivos.
+[ENDBLOCK]
+Um, eu odeio viajar! Mas voc@s
+parecem gostar.
+[ENDBLOCK]
+Dois, sou pobre! Mas voc@s parecem
+cheios da grana, ent;o n;o v;o ter
+problema em bancar a viagem.
+[ENDBLOCK]
+Tr@s, acima de tudo, sou curioso.
+Essa curiosidade = o que = preciso
+para se destacar nesta #rea!
+[ENDBLOCK]
+Hmm... Por algum motivo, tenho
+minhas d{vidas sobre o terceiro...
+[ENDBLOCK]
+Mas n;o parece divertido?
+[ENDBLOCK]
+A curiosidade est#
+tomando conta de mim!!
+[ENDBLOCK]
+Bom, ent;o, vou investigar
+o primeiro segredo.
+[ENDBLOCK]
+Se tiverem um tempinho
+durante a viagem, por favor,
+venham me ver!
+[ENDBLOCK]
+Desculpem. Ainda estou trabalhando
+nisso. Voltem mais tarde.
+[ENDBLOCK]
+Bom, como estudioso, = triste
+ver minha pesquisa chegar
+ao fim.
+[ENDBLOCK]
+Que bom ver voc@s.
+Tenho boas not\cias!
+[ENDBLOCK]
+Conta!
+[ENDBLOCK]
+Voc@ localizou o primeiro
+dos Quatro Segredos?
+[ENDBLOCK]
+Acertou.
+[ENDBLOCK]
+Certo, ent;o, que informa|;o
+voc@ tem?
+[ENDBLOCK]
+Antes disso... Como este = o
+primeiro dos Quatro Segredos,
+vou com voc@s.
+[ENDBLOCK]
+Vamos pegar um barco em
+Darilsheid pra come|ar.
+[ENDBLOCK]
+Tudo bem.
+[ENDBLOCK]
+Claro... Eu pediria que o
+senhor bancasse minhas
+despesas de viagem,
+Rei <Woodrow>.
+[ENDBLOCK]
+O qu@?
+[ENDBLOCK]
+Bom, vamos l#, <Stahn>!
+A aventura nos espera!!
+[ENDBLOCK]
+Ele n;o teve problema nenhum
+em me pedir pra pagar...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+H;? A gente n;o est# perto de...
+[ENDBLOCK]
+Mais importante, Sr. Frantz. Por favor,
+fale do primeiro dos quatro
+segredos do mundo.
+[ENDBLOCK]
+Ah, = mesmo! Vou
+contar!
+[ENDBLOCK]
+O primeiro dos quatro segredos do
+mundo = o [Recife do Dem_nio]!
+[ENDBLOCK]
+Hmm. Muitos navios se
+perderam no mar por
+aqui h# muito tempo...
+[ENDBLOCK]
+De fato. A causa desses
+incidentes sempre foi
+um mist=rio.
+[ENDBLOCK]
+Acontece que h# um drag;o enorme,
+conhecido como "Mensageiro dos Deuses",
+vivendo debaixo do mar aqui!
+[ENDBLOCK]
+H-H;, espera...
+[ENDBLOCK]
+Isso = bem interessante.
+[ENDBLOCK]
+Segundo a lenda, esse drag;o
+aparece para quem erguer
+uma espada para o c=u!
+[ENDBLOCK]
+E ele vai convidar voc@ a visitar
+seu pal#cio celestial, que
+hoje repousa no fundo do mar!
+[ENDBLOCK]
+Isso parece...
+[ENDBLOCK]
+Se for verdade, vai ser
+uma grande descoberta.
+[ENDBLOCK]
+Certo, l# vou eu!
+[ENDBLOCK]
+H;, acho que isso n;o
+vai adiantar nada.
+[ENDBLOCK]
+Est# insinuando que a
+minha pesquisa est# errada!?
+[ENDBLOCK]
+Por que voc@ acha isso?
+[ENDBLOCK]
+S;o o Leviathan e Radisrol!
+[ENDBLOCK]
+}=, a gente meio que j# fez
+o que o Frantz explicou...
+[ENDBLOCK]
+H;...?
+[ENDBLOCK]
+Vamos explicar pra ele...
+[ENDBLOCK]
+Hm, entendo. Afinal, eu n;o estava l#
+quando voc@s chamaram o Leviathan.
+[ENDBLOCK]
+Desculpa, Frantz. Eu devia
+ter percebido antes.
+[ENDBLOCK]
+UHUUUUUU!
+[ENDBLOCK]
+Ent;o = isso! Minha pesquisa
+estava certa desde o come|o!!
+[ENDBLOCK]
+Bom, foi meio uma pena...
+mas, mesmo assim, estou bem
+otimista!
+[ENDBLOCK]
+Vou pesquisar o pr^ximo Segredo.
+Voltem qualquer hora, por favor.
+[ENDBLOCK]
+Muahahhahaha... Finalmente,
+chegou a hora!
+[ENDBLOCK]
+O-O que foi, Frantz...!?
+[ENDBLOCK]
+Eu... tenho... novas... INFORMACOES!
+[ENDBLOCK]
+F-Frantz, voc@ est#
+meio assustador.
+[ENDBLOCK]
+Voc@s... t@@@m raz;o~. Mas a hist^ria
+de hoje = Extra AsSsSsustaDOOORA!
+[ENDBLOCK]
+T#, cansei da brincadeira. O
+pr^ximo Segredo seria uma
+Floresta de Fantasmas.
+[ENDBLOCK]
+Fantasmas?
+[ENDBLOCK]
+Dizem que certa floresta em
+Aquaveil = assombrada.
+[ENDBLOCK]
+E = um dos
+Segredos?
+[ENDBLOCK]
+} um verdadeiro... SEGREDO ASSOMBRADO!
+[ENDBLOCK]
+Bom, ent;o, conto
+com voc@, <Stahn>.
+[ENDBLOCK]
+Deixa comigo!
+[ENDBLOCK]
+Quem s;o voc@s?
+[ENDBLOCK]
+<Stahn>, ele disse
+mesmo isso?
+[ENDBLOCK]
+H-H;? O Frantz parece
+meio diferente...
+[ENDBLOCK]
+Ora! Se n;o s;o o <Stahn>
+e a <Rutee>!
+[ENDBLOCK]
+Ei!! Por que tem
+dois de voc@s!?
+[ENDBLOCK]
+Hahaha. N;o = nada disso. Este
+= o meu irm;o g@meo mais velho, Grantz.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Grantz
+[ENDBLOCK]
+Prazer em conhecer.
+[ENDBLOCK]
+Uau, voc@s dois s;o
+muito parecidos.
+[ENDBLOCK]
+} verdade. Por=m, por
+certas circunst&ncias... bom...
+[ENDBLOCK]
+Desculpem a apresenta|;o atrasada, sou
+o Grantz, irm;o mais velho do Frantz.
+Na verdade, sou soldado de Seinegald.
+[ENDBLOCK]
+H;, o mais velho = soldado e o
+mais novo = estudioso. S;o
+totalmente o oposto.
+[ENDBLOCK]
+Pois =, = bem misterioso, n=?
+Talvez, se eu tivesse nascido primeiro,
+eu seria o soldado e o Grantz
+seria o inteligente.
+[ENDBLOCK]
+Bom, no fim, isso provavelmente
+n;o = nada prov#vel.
+[ENDBLOCK]
+}, no fim, essa possibilidade
+= s^ o sonho de um fracote.
+[ENDBLOCK]
+Sonho de um fracote, =?
+Cabe|a-dura como sempre,
+hein, maninho?
+[ENDBLOCK]
+Bom, enfim, tem alguma
+informa|;o nova, Frantz?
+[ENDBLOCK]
+Tenho! O pr^ximo Segredo fica
+no Deserto de Calvalese.
+[ENDBLOCK]
+Aquele lugar quente de novo?
+A gente tem mesmo que voltar?
+[ENDBLOCK]
+Estou com um bom pressentimento
+sobre este!
+[ENDBLOCK]
+Argh...
+[ENDBLOCK]
+S^ sei que tem alguma coisa
+ao norte de Calviola...
+[ENDBLOCK]
+Bom, acho que vamos come|ar
+indo pra l#.
+[ENDBLOCK]
+Se eu tiver tempo, vou
+pra l# depois tamb=m.
+[ENDBLOCK]
+Tchauzinho~.
+[ENDBLOCK]
+Tchauzinho.
+[ENDBLOCK]
+Quando eles falam em coro,
+me d# at= arrepio.
+[ENDBLOCK]
+Parece que v;o invocar
+um monstro ou algo assim...
+[ENDBLOCK]
+Hehehe, que bom ver voc@s!
+[ENDBLOCK]
+Voc@ parece estranhamente
+tenso, Frantz...
+[ENDBLOCK]
+Ah, espera, j# sei! Voc@
+achou o pr^ximo dos
+Quatro Segredos!?
+[ENDBLOCK]
+Acertou! O pr^ximo fica numa
+ilha a leste de Seinegald!
+[ENDBLOCK]
+Ent;o, onde exatamente
+nessa ilha ele fica?
+[ENDBLOCK]
+T#, tudo bem. Ent;o, o que
+vai ter l#?
+[ENDBLOCK]
+Sabe, naquele lugar,
+num certo ano...
+[ENDBLOCK]
+Num certo ano?
+[ENDBLOCK]
+Foi s^ isso que estava
+escrito no livro!
+[ENDBLOCK]
+N;o sei se tem algo l#...
+mas v;o em frente!
+[ENDBLOCK]
+Entendido, j# voltamos!!
+[ENDBLOCK]

@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pode ser perigoso se a <Mary>
+e o <Dalis> se reencontrarem.
+[ENDBLOCK]
+Por qu@?
+[ENDBLOCK]
+} poss\vel que ela nos traia por
+ele se for preciso.
+[ENDBLOCK]
+O qu@!? A <Mary> jamais faria isso!
+[ENDBLOCK]
+Mas n;o d# pra dizer que = imposs\vel.
+[ENDBLOCK]
+Seria melhor ficar atento por enquanto.
+[ENDBLOCK]
+Mas...!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

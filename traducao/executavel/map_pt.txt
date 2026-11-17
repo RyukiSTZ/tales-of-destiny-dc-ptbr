@@ -1,0 +1,18 @@
+0|[Triangle_ani]Piloto Auto [Circle_ani]Loja [Square_ani]Zoom+ [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+1|[Triangle_ani]Piloto Auto [Circle_ani]Loja [Square_ani]Zoom+ [L1_ani][R1_ani]Categoria
+2|[Triangle_ani]Piloto Auto [Circle_ani]Loja [Square_ani]Zoom- [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+3|[Triangle_ani]Piloto Auto [Circle_ani]Loja [Square_ani]Zoom- [L1_ani][R1_ani]Categoria
+4|[Circle_ani]Loja [Square_ani]Zoom+ [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+5|[Circle_ani]Loja [Square_ani]Zoom+ [L1_ani][R1_ani]Categoria
+6|[Circle_ani]Loja [Square_ani]Zoom- [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+7|[Circle_ani]Loja [Square_ani]Zoom- [L1_ani][R1_ani]Categoria
+8|[Triangle_ani]Piloto Auto [Square_ani]Zoom+ [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+9|[Triangle_ani]Piloto Auto [Square_ani]Zoom+ [L1_ani][R1_ani]Categoria
+10|[Triangle_ani]Piloto Auto [Square_ani]Zoom- [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+11|[Triangle_ani]Piloto Auto [Square_ani]Zoom- [L1_ani][R1_ani]Categoria
+12|[Square_ani]Zoom+ [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+13|[Square_ani]Zoom+ [L1_ani][R1_ani]Categoria
+14|[Square_ani]Zoom- [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+15|[Square_ani]Zoom- [L1_ani][R1_ani]Categoria
+16|[Right_blink]Itens [Cross_ani]Voltar
+17|[Left_blink]Lojas [Cross_ani]Voltar [Square_ani]Info

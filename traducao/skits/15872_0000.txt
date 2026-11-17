@@ -1,0 +1,12 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O melhor jeito de entrar no Castelo de
+Heidelberg = pela rota de fuga.
+[ENDBLOCK]
+Primeiro temos que entrar na cidade de Heidelberg.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

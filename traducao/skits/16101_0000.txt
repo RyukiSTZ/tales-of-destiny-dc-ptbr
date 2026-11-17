@@ -1,0 +1,34 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+CC_PITCH=><x17><x24><x09><x24><x09><x15><xC3><x80>
+
+[ENDBLOCK]
+Havia algum campe;o antes de voc@, <Kongman>?
+[ENDBLOCK]
+Houve um campe;o lend#rio, ou sei l#
+como chamavam, em certa =poca.
+[ENDBLOCK]
+Mas n;o tem como ser melhor que eu.
+[ENDBLOCK]
+Gahahahahahahaha!
+[ENDBLOCK]
+Ah! Voc@ est# falando da tia Maggie, n=?
+[ENDBLOCK]
+J# ouvi essa hist^ria.
+[ENDBLOCK]
+O qu@!? Voc@s, h;, conhecem
+a "Maggie Brava"?
+[ENDBLOCK]
+O que foi, <Kongman>? Seu rosto
+ficou p#lido.
+[ENDBLOCK]
+Ahh~~! Me perdoem~! N;o quero
+que ela venha atr#s de mim~!
+[ENDBLOCK]
+E-Ei! <Kongman>!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

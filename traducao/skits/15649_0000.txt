@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Finalmente temos um passaporte! Com isso,
+podemos ir a Seinegald quando quisermos!
+[ENDBLOCK]
+Cuidado pra n;o perder.
+[ENDBLOCK]
+Eu sei, eu sei! Vou guardar na cueca.
+Assim vai ficar seguro com certeza!
+[ENDBLOCK]
+Nesse caso, como pretende
+mostrar ao guarda?
+[ENDBLOCK]
+Simples! } s^ eu tirar a roupa.
+[ENDBLOCK]
+...Bem, n;o vou te impedir, mas acho que vou
+manter dist&ncia quando chegar a hora.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

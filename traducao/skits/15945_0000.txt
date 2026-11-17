@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ele n;o me ouvia nada, mas uma conversa com
+a <Rutee> bastou pra mudar a cabe|a dele...
+[ENDBLOCK]
+Voc@ tem que considerar os sentimentos do <Stahn>.
+[ENDBLOCK]
+Devo amaldi|oar minha inaptid;o, ou devo ficar
+admirado com o poder do cora|;o de uma mulher?
+[ENDBLOCK]
+A segunda, obviamente. Voc@ n;o entende
+nada dessas coisas.
+[ENDBLOCK]
+...Voc@ acha?
+[ENDBLOCK]
+Isso.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

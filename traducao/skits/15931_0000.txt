@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+N;o podemos deixar acabar aqui. Vamos
+ver o <Ritora> o quanto antes!
+[ENDBLOCK]
+Nunca pensei que teria que ir a Radisrol de novo.
+[ENDBLOCK]
+Acho que est#vamos indo para Calvalese.
+[ENDBLOCK]
+Pra chegar a Radisrol com o Leviat;,
+v# a noroeste de Darilsheid.
+[ENDBLOCK]
+Radisrol j# deve ter emergido.
+Voc@ vai reconhecer quando vir.<x00><x00>
+[ENDBLOCK]

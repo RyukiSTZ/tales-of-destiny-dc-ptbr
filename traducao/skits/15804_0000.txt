@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Chal, aquele homem que chamam de <Johnny>...
+Voc@ j# o viu antes?
+[ENDBLOCK]
+Ele me parece muito familiar, como se
+j# o tivesse visto v#rias vezes...
+[ENDBLOCK]
+Voc@s se conhecem ou algo assim?
+[ENDBLOCK]
+N;o, nada disso... Afinal, ele
+n;o conseguia me ouvir.<x00><x00><x00>
+[ENDBLOCK]

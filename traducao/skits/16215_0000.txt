@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Mestre <Lion>, me lembre. Que tipo
+de lugar = Harmentz mesmo?
+[ENDBLOCK]
+Da {ltima vez que fui, parecia uma vila
+tranquila s^ com crian|as e idosos.
+[ENDBLOCK]
+Ent;o por que sua irm; iria a um
+lugar no interior desses?
+[ENDBLOCK]
+Boa pergunta...
+[ENDBLOCK]
+Talvez quisesse vender seus bens roubados,
+mas acabou sendo vendida.
+[ENDBLOCK]
+Costuma ser assim, n;o =?
+[ENDBLOCK]
+Ah, entendi. Perspicaz como
+sempre, jovem mestre!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

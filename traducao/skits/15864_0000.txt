@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+...
+[ENDBLOCK]
+...
+[ENDBLOCK]
+As coisas est;o bem tensas. Ser# que
+consigo aliviar o clima de algum jeito?
+[ENDBLOCK]
+H;...
+[ENDBLOCK]
+Ah, j# sei! Que tal isto?
+[ENDBLOCK]
+E a\, grand;o! Voc@ est# ^timo hoje~!
+[ENDBLOCK]
+...Brincadeira.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Desculpa...<x00><x00><x00>
+[ENDBLOCK]

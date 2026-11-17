@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Algu=m digno de ser mestre...
+Ser# que um dia consigo ser assim?
+[ENDBLOCK]
+H;...?
+[ENDBLOCK]
+Ser# que vou conseguir empunhar <Igtenos>,
+como meu pai conseguia...?
+[ENDBLOCK]
+Lorde <Woodrow>...<x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+H;? A <Rutee> n;o est# aqui. Aonde ela foi?
+[ENDBLOCK]
+Voltei! Olhem s^ isto! Que fartura~♪
+[ENDBLOCK]
+Voc@ est# catando gald no meio da batalha?
+[ENDBLOCK]
+H;, sim. Fiz isso o tempo todo.
+[ENDBLOCK]
+N;o d@ ouvidos a ele. N;o tem sido
+problema, ent;o continue.
+[ENDBLOCK]
+N;o precisa dizer duas vezes! Pode deixar!<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

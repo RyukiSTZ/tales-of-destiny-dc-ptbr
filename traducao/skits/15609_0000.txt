@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O Draconis foi atacado por monstros?
+Isso = mesmo raro.
+[ENDBLOCK]
+}?
+[ENDBLOCK]
+As lentes podem t@-los deixado mais violentos, mas
+aqueles monstros j# foram animais selvagens comuns.
+[ENDBLOCK]
+O instinto n;o os deixaria enfrentar algo
+t;o intimidador quanto o Draconis.
+[ENDBLOCK]
+Talvez um domador estivesse controlando...
+[ENDBLOCK]
+} prov#vel que estivessem sendo manipulados.
+[ENDBLOCK]
+Embora eu nunca tenha ouvido falar de algu=m
+capaz de tal coisa.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

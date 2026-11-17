@@ -1,0 +1,102 @@
+11c28|Planos de [Hugo]
+11d80|Contra Swordians
+11e60|Nova Missão
+11e70|[Select_ani]Carregar [Circle_ani]OK [Cross_ani]Voltar [Square_ani]Sinopse
+11ea8|[Select_ani]Carregar [Circle_ani]OK [Cross_ani]Sair
+11ed0|[Select_ani]Salvar [Circle_ani]OK [Cross_ani]Voltar [Triangle_ani]
+11f08|Novo Jogo+ [Square_ani]Sinopse
+11f28|[Select_ani]Salvar [Circle_ani]OK [Cross_ani]Voltar [Square_ani]Sinopse
+11f60|[Select_ani]Salvar [Circle_ani]OK [Cross_ani]Voltar
+11f88|[Circle_ani]OK [Cross_ani]Voltar [Square_ani]Sinopse
+11fb0|[Circle_ani]OK [Cross_ani]Voltar
+11fc8|[Circle_ani]OK [Cross_ani]Voltar [Triangle_ani]
+12020|Vazio
+12030|Erro
+12040|Incompatível
+12078|Vezes Zerado
+120b0|Sinopse
+120c0|Rápido
+7738|[TAG_007]Nenhum memory card (PS2) no[LINE]slot 1.
+7788|[TAG_007]Não dá para acessar[LINE]o memory card (PS2)[LINE]do slot 1.
+77d8|[TAG_007]O memory card (PS2)[LINE]do slot 1[LINE]não está formatado.[LINE] [LINE]Deseja formatá-lo?[LINE]Sim[LINE]Não
+7858|[TAG_007]Verificando o memory card (PS2)[LINE]do slot 1.[LINE]Não remova o memory card[LINE](PS2) nem desligue o console.
+78e8|[TAG_007]Formatando.[LINE]Não remova o memory card[LINE](PS2) nem desligue o console.
+7948|[TAG_007]A formatação falhou.
+7970|[TAG_007]Formatação concluída!
+7998|[TAG_007]Cancelar o save?[LINE]Sim[LINE]Não
+79c0|[TAG_007]Criar novo save.[LINE]Tem certeza?[LINE]Sim[LINE]Não
+7a00|[TAG_007]Não há espaço livre suficiente[LINE]no memory card (PS2) do slot 1[LINE]para criar um save deste jogo.[LINE]São necessários pelo menos[LINE][TAG_015]KB livres.
+7aa8|[TAG_007]O jogo será salvo por cima[LINE]do save escolhido.[LINE]Tem certeza?[LINE]Sim[LINE]Não
+7af0|[TAG_007]Salvando. Não remova o[LINE]memory card (PS2)[LINE]nem desligue o console.
+7b50|[TAG_007]O save falhou.
+7b70|[TAG_007]Save concluído!
+7b90|[TAG_007]Cancelar o carregamento?[LINE]Sim[LINE]Não
+7bb8|[TAG_007]Não há save de[LINE]Tales of Destiny Director's Cut.
+7c08|[TAG_007]Não há save da[LINE]versão original de[LINE]Tales of Destiny.
+7c50|[TAG_007]Carregar o save escolhido.[LINE]Tem certeza?[LINE]Sim[LINE]Não
+7c98|[TAG_007]Carregando. Não remova o memory[LINE]card nem desligue o console.
+7cf8|[TAG_007]Falha ao carregar.
+7d18|[TAG_007]Carregado!
+7d38|[TAG_007]Verificando espaço livre.[LINE]Não remova o[LINE]memory card (PS2)[LINE]nem desligue o console.
+7da0|[TAG_007]Deseja suspender o jogo?[LINE]O save suspenso será apagado[LINE]ao retomar o jogo.[LINE] Tem certeza?[LINE]Sim[LINE]Não
+7e18|[TAG_007]Deseja suspender o jogo?[LINE]O save suspenso será apagado[LINE]ao retomar o jogo.[LINE](O save suspenso será substituído.)[LINE]Tem certeza?[LINE]Sim[LINE]Não
+7eb0|[TAG_007]O memory card do slot 1[LINE]não tem espaço livre suficiente[LINE]para criar um save suspenso[LINE]deste jogo.[LINE]São necessários pelo menos[LINE][TAG_015]KB livres.
+7f58|[TAG_007]Transferir o save escolhido[LINE]e começar Novo Jogo+ [TAG_015]?[LINE]Sim[LINE]Não
+7fa0|[TAG_007]O memory card (PS2) do[LINE]slot 1 não está formatado.
+7ff8|[TAG_007]Parar de salvar?[LINE]Sim[LINE]Não
+81f8|Epílogo
+83b0|Rumo ao Amanhã
+8748|Noite Guerreira
+8a38|Falta Lens!
+8dd0|Em Busca do Berselium
+8f60|Teste Supremo
+90c0|Ataque à Cidade Aérea
+9420|Ataque Demônio
+94e8|Um Mundo nas Trevas
+96d8|Senhor dos Céus
+9920|Emboscada!
+9e28|Beldade em Luto
+a178|Saga Heroica
+a268|Arrumando Transporte
+a4f0|Objetivo: Aetherosfera
+a780|A Chave Oculta
+a9e0|Aerópolis Surge
+ab30|Início Pesadelo
+abd0|Segredo da Ilha
+b198|De Volta a Seinegald
+b3c8|Enfim, em Casa
+b580|Duelo em Heidelberg
+b758|Túnel Secreto
+b970|Memórias do Passado
+ba30|Floresta Gelada
+bc30|Porto do Sul
+bcd0|Atrás de [Greybum]
+bef0|Castelo [Tiberius]
+c018|Silêncio nas ruas
+c150|Fúria! Molusco do Mar
+c3a0|Castelo Moreau
+c5f0|Menestrel Feliz
+c7d0|O Abismo
+c938|Rumo a Moreau
+cb10|Ataque à Armada!
+d040|Coop. Alegre
+d408|Templo Estranho
+d560|Ilha Deserta
+d780|O Quarto Swordian
+db18|Um Templo em Silêncio
+dce8|Capital Darilsheid
+df50|Jovem Guerreiro
+e248|No Templo
+e2e0|Memória na Neve
+e3e0|A Fronteira
+e608|Perdida [Chelsea]
+e6c0|Cabana
+e890|[Stahn] tentou entrar escondido em Seinegald no Draconis, mas ele foi atacado por monstros. Para lutar, ele precisa de uma arma.
+e918|Espada Falante
+ea50|Pelo bem de alguém...
+ebc0|Alegria Perdida
+ee60|Monstro Desconhecido
+efc8|Tempo Juntos
+f300|Dois Soldados
+10630|O Abismo
+11740|[Lion] Decide

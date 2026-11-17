@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+} a segunda vez que uma miss;o
+te manda a Harmentz.
+[ENDBLOCK]
+}, tem raz;o...
+[ENDBLOCK]
+Naquela =poca, eu...
+[ENDBLOCK]
+N;o, agora n;o = hora de conversa fiada.
+Vamos para Harmentz.<x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,13 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Nossa pr^xima parada = Josaia, mas
+antes devemos voltar a Radisrol.
+[ENDBLOCK]
+Certo. Precisamos pegar
+os Neutralizadores.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

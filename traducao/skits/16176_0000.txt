@@ -1,0 +1,29 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pergunta!
+[ENDBLOCK]
+Pronto!
+[ENDBLOCK]
+Quem fundou o pa\s sobre o qual
+Aquaveil foi fundada?
+[ENDBLOCK]
+Essa = f#cil, <Philia>.
+A resposta = o Duque Michel.
+[ENDBLOCK]
+Al=m disso, o Duque era um errante vindo
+do primeiro reino, hoje chamado Seinegald.
+[ENDBLOCK]
+Que ing@nuo! Michel era Duque e
+aventureiro de Seinegald.
+[ENDBLOCK]
+Portanto, o termo "errante" est# incorreto.
+[ENDBLOCK]
+N;o, isso = s^ uma teoria.
+[ENDBLOCK]
+Voc@s dois s;o incr\veis~.<x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Eu diria que o sacrif\cio do <Lion> o
+redimiu. Recuso-me a condenar o cara.
+[ENDBLOCK]
+N;o concordo. O que o <Lion> fez foi imperdo#vel!
+[ENDBLOCK]
+Opa, ei! N;o = meio duro?
+[ENDBLOCK]
+} verdade que ele nos salvou no fim, e sou grata...
+mas se separar daquele jeito foi horr\vel.
+[ENDBLOCK]
+Fez a gente sentir que o abandonou!
+[ENDBLOCK]
+...Desse jeito, a <Rutee> vai...!
+[ENDBLOCK]
+Algo errado com a <Rutee>?
+[ENDBLOCK]
+Ah, n;o... N;o = nada.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

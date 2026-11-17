@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Sinto que o clima em Moreau
+acabou de ficar mais leve.
+[ENDBLOCK]
+Desde que o <Tiberius> invadiu,
+todos andavam aflitos.
+[ENDBLOCK]
+Mas agora est;o livres desse
+fardo gra|as a voc@s.
+[ENDBLOCK]
+Fico aliviado em ouvir isso....
+[ENDBLOCK]
+Fizemos a coisa certa, n;o foi?
+[ENDBLOCK]
+Certo.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

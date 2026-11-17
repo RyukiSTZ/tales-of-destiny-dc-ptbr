@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ah, =, ainda n;o nos apresentamos!
+Eu sou <Stahn> Aileron.
+[ENDBLOCK]
+<Stahn>, entendi.
+[ENDBLOCK]
+E estas duas aqui s;o a <Mary> e a <Rutee>.
+[ENDBLOCK]
+Voc@ = a <Mary>, e esta = a <Rutee>. Certo.
+[ENDBLOCK]
+Por {ltimo, o <Lion>. Ele = bem baixinho,
+mas forte demais!
+[ENDBLOCK]
+Ficou louco? Se o <Lion> ouvir voc@
+falando assim, vai eletrocutar todo mundo.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

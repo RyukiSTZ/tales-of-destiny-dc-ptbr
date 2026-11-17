@@ -1,0 +1,33 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Rei <Woodrow>~! Preciso te contar uma coisa!
+[ENDBLOCK]
+O que foi, <Chelsea>?
+[ENDBLOCK]
+Bem, sabe, hum...
+[ENDBLOCK]
+Parece que o <Stahn> est# tentando
+comprar algu=m pra ser esposa dele...!
+[ENDBLOCK]
+Ultimamente a <Philia> anda murmurando que a
+esposa dele custa uma fortuna!
+[ENDBLOCK]
+Hahaha, acho que n;o = nada disso.
+[ENDBLOCK]
+N;o se compra algu=m pra ser esposa.
+Voc@ deve ter entendido errado.
+[ENDBLOCK]
+Hunf! Isso n;o = brincadeira!
+[ENDBLOCK]
+...Mas talvez voc@ tenha raz;o. Posso
+ter tirado conclus`es precipitadas.
+[ENDBLOCK]
+Acho que eu devia ter olhado antes de pular!
+[ENDBLOCK]
+...Hmm...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

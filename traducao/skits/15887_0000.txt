@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Antes de ver o rei,
+vamos buscar o <Woodrow>.
+[ENDBLOCK]
+Vamos ter que pegar um barco em Neustadt.
+[ENDBLOCK]
+Neustadt fica a sudeste de Lienea.
+[ENDBLOCK]
+} meio trabalhoso, mas vamos ter que ir a p=.
+[ENDBLOCK]
+Vamos!<x00><x00><x00><x00><x00>
+[ENDBLOCK]

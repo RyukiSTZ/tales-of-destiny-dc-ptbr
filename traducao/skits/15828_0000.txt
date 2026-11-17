@@ -1,0 +1,13 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Espere s^, <Greybum>! Logo vamos
+chegar a Terazzi!
+[ENDBLOCK]
+O <Fayte> est# preparando os navios pra n^s. Vamos
+ao porto quando estivermos prontos.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

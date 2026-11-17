@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Certo, vamos em frente!
+[ENDBLOCK]
+Espere um pouco. O <Kongman> ainda est# ca\do.
+[ENDBLOCK]
+Ah, = mesmo.
+[ENDBLOCK]
+Ei, o que est# fazendo, Kong?
+Pare de brincar e levante!
+[ENDBLOCK]
+Acho que ele n;o est# brincando... Se
+n;o o socorrermos logo...<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

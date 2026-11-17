@@ -1,0 +1,29 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+<Philia>, voc@ est# bem?
+[ENDBLOCK]
+<Stahn>... por que pergunta isso?
+[ENDBLOCK]
+N;o sei explicar direito, mas estou
+meio preocupado com voc@, <Philia>.
+[ENDBLOCK]
+Espero que n;o seja nada.
+[ENDBLOCK]
+...Obrigada, <Stahn>.
+[ENDBLOCK]
+Essa sua gentileza me salvou de virar pedra
+e me mant=m viva, aqui e agora.
+[ENDBLOCK]
+} como se voc@ me desse vida... Espero
+poder retribuir um dia.
+[ENDBLOCK]
+Vai ficar tudo bem. Mantenha o foco
+e um dia seus desejos v;o se realizar.<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

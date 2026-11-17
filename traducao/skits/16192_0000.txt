@@ -1,0 +1,24 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A m#quina que o <Rembrandt> operava
+me surpreendeu muito.
+[ENDBLOCK]
+Por qu@?
+[ENDBLOCK]
+Nunca vi um mecanismo assim.
+[ENDBLOCK]
+Devia ser a vers;o dele das armas
+mec&nicas do Ex=rcito Aetheriano.
+[ENDBLOCK]
+Se for, = incr\vel.
+[ENDBLOCK]
+Hmm. Esse tipo de conhecimento
+devia ser usado para o bem.
+[ENDBLOCK]
+} muito triste.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

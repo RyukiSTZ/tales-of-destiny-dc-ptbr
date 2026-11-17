@@ -1,0 +1,33 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pa... Pa...
+[ENDBLOCK]
+Panela.
+[ENDBLOCK]
+La... La...
+[ENDBLOCK]
+Laranja assada.
+[ENDBLOCK]
+"Da", =...?
+[ENDBLOCK]
+Da... <Woodrow> Kelvin, o lema...
+[ENDBLOCK]
+Ah, qual =, "ma" de novo?
+[ENDBLOCK]
+La... La...
+[ENDBLOCK]
+Ma|; da <Chelsea>.
+[ENDBLOCK]
+Ei, espera. Voc@ terminou com o nome dela.
+[ENDBLOCK]
+Isso n;o = contra as regras.
+[ENDBLOCK]
+Argh, t#. "Sea", =?
+[ENDBLOCK]
+Sea... Sea... Sea...<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

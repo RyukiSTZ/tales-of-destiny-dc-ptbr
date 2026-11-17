@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O <Woodrow>, o mestre <Alba>, a <Chelsea>...
+Eram gente boa!
+[ENDBLOCK]
+Tivemos sorte desta vez. Nem todo
+mundo tem boas inten|`es.
+[ENDBLOCK]
+Ei, n;o seja assim! N;o = justo julgar
+algu=m antes de conhec@-lo!
+[ENDBLOCK]
+Melhor ter cuidado do que
+ser pego desprevenido.
+[ENDBLOCK]
+Talvez... Mas quero acreditar que n;o h#
+TANTA gente m# no mundo...<x00>
+[ENDBLOCK]

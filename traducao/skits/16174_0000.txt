@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Eba, ganhei!
+[ENDBLOCK]
+N;o se empolgue tanto com uma coisa dessas.
+[ENDBLOCK]
+Tudo bem ficar empolgado. Ganhei a corrida.
+[ENDBLOCK]
+Hahahaha!
+[ENDBLOCK]
+Se baixar a guarda, voc@ se
+abre pro fracasso.
+[ENDBLOCK]
+Mas como aquele garoto pode...
+Que curioso...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

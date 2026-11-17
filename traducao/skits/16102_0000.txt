@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Corta assim... frita no ponto... e depois...
+[ENDBLOCK]
+Acho que = hora de temperar, n;o acha?
+[ENDBLOCK]
+Ah, tem raz;o. Obrigada, <Mary>.
+[ENDBLOCK]
+} divertido cozinhar com voc@ assim.
+[ENDBLOCK]
+Beleza!
+[ENDBLOCK]
+Parece que a culin#ria criou uma
+amizade entre as duas.
+[ENDBLOCK]
+Que tal participar, <Rutee>?
+[ENDBLOCK]
+N;o sei se consigo acompanhar essas duas...
+[ENDBLOCK]
+...Vou ficar s^ comendo.<x00><x00><x00><x00><x00>
+[ENDBLOCK]

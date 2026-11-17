@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O teste final pra virar Mestre Swordian de verdade,
+=? Acho que n;o temos escolha.
+[ENDBLOCK]
+Vamos levar o Avitus Draconis
+ao Laborat^rio de P&D Swordian!
+[ENDBLOCK]
+Devemos ach#-lo perto de onde o
+primeiro disparo do Belcrant caiu, n=?
+[ENDBLOCK]
+Sim. Devemos ir a oeste
+saindo de Darilsheid.<x00><x00><x00>
+[ENDBLOCK]

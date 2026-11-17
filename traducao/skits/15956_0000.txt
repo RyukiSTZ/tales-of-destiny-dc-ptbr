@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Certo, vencemos de novo!
+[ENDBLOCK]
+Est# indo bem, <Stahn>! Continue
+assim. Contamos com voc@.
+[ENDBLOCK]
+}! Deixa comigo!
+[ENDBLOCK]
+...
+[ENDBLOCK]
+<Philia>, o que foi?
+[ENDBLOCK]
+N;o, n;o = nada...
+[ENDBLOCK]
+...?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

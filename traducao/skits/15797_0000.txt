@@ -1,0 +1,27 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A <Atwight> e o <Dymlos> s;o mais
+que s^ amigos, n=?
+[ENDBLOCK]
+S;o mais que s^ amigos...?
+[ENDBLOCK]
+Por que voc@ acha isso?
+[ENDBLOCK]
+Hum, que rea|;o sem gra|a. Achei que
+voc@ ia ficar mais sem jeito ou brava.
+[ENDBLOCK]
+Essa mulher = perspicaz demais.
+[ENDBLOCK]
+Mais que s^ amigos...
+[ENDBLOCK]
+J# sei!
+[ENDBLOCK]
+S;o "melhores amigos"!
+[ENDBLOCK]
+Nem mais uma palavra.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

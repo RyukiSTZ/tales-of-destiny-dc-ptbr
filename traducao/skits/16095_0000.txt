@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Embora o acaso tenha nos unido,
+estou ansiosa pra trabalhar com voc@s.
+[ENDBLOCK]
+Sim, eu tamb=m.
+[ENDBLOCK]
+Estou ansioso.
+[ENDBLOCK]
+Se meu irm;o fizer alguma
+coisa errada, me avisem.
+[ENDBLOCK]
+Eu dou uma bronca nele.
+[ENDBLOCK]
+Voc@ est# perdendo a moral, <Stahn>.
+[ENDBLOCK]
+...Cala a boca.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

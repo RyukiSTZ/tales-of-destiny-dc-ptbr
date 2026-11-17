@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Mary>, sua comida = simplesmente incr\vel!
+[ENDBLOCK]
+Que bom ouvir isso! Vou adorar
+cozinhar pra voc@ da pr^xima vez tamb=m.
+[ENDBLOCK]
+Ooh, posso fazer um pedido?
+Eu adoraria um ensopado!
+[ENDBLOCK]
+Ahh, seu favorito! Sem problema, deixa comigo!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

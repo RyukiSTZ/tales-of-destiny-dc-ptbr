@@ -1,0 +1,422 @@
+0|Uma Espada Falante[END]
+5|Cabana[END]
+7|Perdida [Chelsea][END]
+12|A Cidade da Fronteira[END]
+15|Memória na Neve[END]
+17|No Templo[END]
+24|Jovem Espadachim[END]
+29|Capital Darilsheid[END]
+33|Um Templo em Silêncio[END]
+40|O Quarto Swordian[END]
+45|Ilha Deserta[END]
+48|Um Templo Estranho[END]
+56|Cooperativa Alegre[END]
+63|Cooperativa Alegre[END]
+65|Cooperativa Alegre[END]
+67|Ataque à Armada![END]
+69|Ataque à Armada![END]
+71|Ataque à Armada![END]
+73|Rumo a Moreau[END]
+75|Rumo a Moreau[END]
+77|O Abismo[END]
+79|O Abismo[END]
+81|O Abismo[END]
+83|Menestrel Alegre[END]
+85|Menestrel Alegre[END]
+87|Menestrel Alegre[END]
+89|Menestrel Alegre[END]
+91|Castelo de Moreau[END]
+93|Castelo de Moreau[END]
+95|Castelo de Moreau[END]
+97|Castelo de Moreau[END]
+99|Fúria! Molusco do Mar[END]
+101|Fúria! Molusco do Mar[END]
+107|Castelo de [Tiberius][END]
+109|Castelo de [Tiberius][END]
+111|Castelo de [Tiberius][END]
+113|Castelo de [Tiberius][END]
+115|Atrás de [Greybum][END]
+117|Porto do Sul[END]
+119|Porto do Sul[END]
+121|Porto do Sul[END]
+123|Floresta Congelada[END]
+125|Memórias do Passado[END]
+127|Memórias do Passado[END]
+129|Memórias do Passado[END]
+131|Túnel Secreto[END]
+133|Túnel Secreto[END]
+135|Túnel Secreto[END]
+137|Duelo em Heidelberg[END]
+139|Duelo em Heidelberg[END]
+141|Duelo em Heidelberg[END]
+143|Enfim, em Casa[END]
+145|Enfim, em Casa[END]
+147|Enfim, em Casa[END]
+149|Enfim, em Casa[END]
+151|De Volta a Seinegald[END]
+153|De Volta a Seinegald[END]
+155|De Volta a Seinegald[END]
+157|De Volta a Seinegald[END]
+159|De Volta a Seinegald[END]
+161|De Volta a Seinegald[END]
+163|De Volta a Seinegald[END]
+165|De Volta a Seinegald[END]
+167|De Volta a Seinegald[END]
+169|De Volta a Seinegald[END]
+171|O Segredo da Ilha[END]
+173|Início do Pesadelo[END]
+175|Início do Pesadelo[END]
+177|Aerópolis Surge[END]
+179|Aerópolis Surge[END]
+181|Aerópolis Surge[END]
+183|Aerópolis Surge[END]
+185|A Chave Oculta[END]
+187|A Chave Oculta[END]
+189|A Chave Oculta[END]
+191|A Chave Oculta[END]
+201|Arrumando Transporte[END]
+203|Arrumando Transporte[END]
+205|Saga Heroica[END]
+207|Saga Heroica[END]
+209|Saga Heroica[END]
+211|Saga Heroica[END]
+213|Saga Heroica[END]
+215|Beldade em Luto[END]
+217|Beldade em Luto[END]
+219|Beldade em Luto[END]
+221|Beldade em Luto[END]
+223|Beldade em Luto[END]
+225|Beldade em Luto[END]
+227|Beldade em Luto[END]
+229|Beldade em Luto[END]
+231|Ataque Surpresa![END]
+233|Ataque Surpresa![END]
+235|Ataque Surpresa![END]
+237|Ataque Surpresa![END]
+239|Senhor dos Céus[END]
+241|Senhor dos Céus[END]
+243|Senhor dos Céus[END]
+245|Um Mundo nas Trevas[END]
+259|Ataque à Cidade Aérea[END]
+261|Ataque à Cidade Aérea[END]
+263|Teste Supremo[END]
+265|Teste Supremo[END]
+267|Teste Supremo[END]
+281|Falta Lens![END]
+283|Falta Lens![END]
+285|Falta Lens![END]
+287|Falta Lens![END]
+289|Falta Lens![END]
+303|Rumo ao Amanhã[END]
+305|Rumo ao Amanhã[END]
+307|Rumo ao Amanhã[END]
+309|Epílogo[END]
+311|Uma Nova Missão[END]
+317|Os Planos de [Hugo][END]
+319|Os Planos de [Hugo][END]
+321|Os Planos de [Hugo][END]
+323|Um Templo em Silêncio[END]
+325|Um Templo em Silêncio[END]
+327|Um Templo em Silêncio[END]
+329|Um Templo em Silêncio[END]
+331|Um Templo em Silêncio[END]
+333|A Decisão de [Lion][END]
+335|A Decisão de [Lion][END]
+337|A Decisão de [Lion][END]
+339|A Decisão de [Lion][END]
+341|O Quarto Swordian[END]
+343|O Quarto Swordian[END]
+345|O Quarto Swordian[END]
+347|Ilha Deserta[END]
+349|Ilha Deserta[END]
+351|Um Templo Estranho[END]
+353|Um Templo Estranho[END]
+355|Um Templo Estranho[END]
+357|Um Templo Estranho[END]
+359|Um Templo Estranho[END]
+361|Um Templo Estranho[END]
+363|Um Templo Estranho[END]
+365|Um Templo Estranho[END]
+367|Um Templo Estranho[END]
+369|Cooperativa Alegre[END]
+371|Cooperativa Alegre[END]
+373|Cooperativa Alegre[END]
+375|Cooperativa Alegre[END]
+377|Cooperativa Alegre[END]
+379|Ataque à Armada![END]
+381|Ataque à Armada![END]
+383|Ataque à Armada![END]
+385|Rumo a Moreau[END]
+387|Rumo a Moreau[END]
+389|O Abismo[END]
+395|Menestrel Alegre[END]
+400|Castelo de Moreau[END]
+404|Fúria! Molusco do Mar[END]
+410|Castelo de [Tiberius][END]
+415|Atrás de [Greybum][END]
+417|Porto do Sul[END]
+421|Floresta Congelada[END]
+423|Memórias do Passado[END]
+427|Túnel Secreto[END]
+431|Duelo em Heidelberg[END]
+435|Dois Soldados[END]
+441|Tempo Juntos[END]
+444|Monstro Desconhecido[END]
+449|Felicidade Perdida[END]
+1|Querendo viajar escondido a bordo[LINE]do Draconis, rumo a Seinegald,[LINE][Stahn] se vê atrás de uma arma[LINE]quando o navio é atacado por monstros.
+2|Perseguido por monstros, [Stahn][LINE]foge para o porão do navio,[LINE]onde ouve uma voz misteriosa[LINE]chamando por ele.[LINE]Atraído pela voz, [Stahn][LINE]procura de onde ela vem.
+3|[Stahn] acha uma espada misteriosa[LINE]no porão do Draconis.[LINE]Com a lâmina em mãos, ele acaba[LINE]rapidinho com os monstros.[LINE]Então o navio treme com força.[LINE][Stahn] sai do porão para[LINE]ver o que está acontecendo.
+4|Ao sair do porão, [Stahn] conhece[LINE]uma mulher misteriosa chamada [Rutee].[LINE]Pelo companheiro dela, ele descobre[LINE]que o Draconis vai cair,[LINE]e sai em busca de uma fuga.[LINE]O tempo está acabando![LINE]
+6|[Stahn] consegue fugir do Draconis[LINE]e faz um pacto com [Dymlos],[LINE]uma espada que se diz 'Swordian.'[LINE]Para retribuir [Woodrow] pelo resgate,[LINE][Stahn] vai com ele à montanha[LINE]atrás da cabana ajudar a procurar[LINE]uma menina perdida, a [Chelsea].
+8|Depois de achar a [Chelsea], [Stahn] e[LINE]os outros voltam à cabana, onde[LINE]o [Alba] espera ansioso.[LINE]
+9|[Alba] comemora a volta segura[LINE]de [Stahn] e dos outros.[LINE]A pedido de [Woodrow], [Stahn][LINE]entra com eles na cabana.[LINE]
+10|[Stahn] conta aos novos amigos[LINE]que saiu de casa para entrar[LINE]no exército de Seinegald.[LINE][Woodrow] se oferece para levá-lo[LINE]até Janos, na fronteira, no caminho[LINE]de casa. Os dois se despedem de [Alba][LINE]e [Chelsea] e partem para a cidade.[LINE]
+11|Curioso com a conversa entre[LINE][Alba] e [Woodrow], [Stahn] pergunta[LINE]se [Woodrow] quer assumir os negócios[LINE]da família. [Woodrow] diz duvidar[LINE]que tenha o que é preciso.[LINE]
+13|Ao chegar em Janos, [Stahn][LINE]e [Woodrow] se separam.[LINE][Stahn] vai ao portão norte,[LINE]que leva a Seinegald.
+14|Sem passe para cruzar o portão,[LINE][Stahn] conhece uma mulher[LINE]chamada [Mary]. Ao saber que[LINE]a companheira dela caiu numa[LINE]armadilha num templo próximo,[LINE][Stahn] aceita ir com a [Mary][LINE]para resgatá-la.
+16|A caminho do templo, [Mary][LINE]conta ao [Stahn] que tem amnésia.[LINE]A única pista do seu passado[LINE]é uma adaga gravada com[LINE]as iniciais 'D.V.'[LINE][LINE]
+18|Ao sair da caverna, [Stahn][LINE]se vê dentro do templo.[LINE]Segundo a [Mary], a amiga dela[LINE]está lá no fundo.
+19|Para surpresa do [Stahn], a[LINE]companheira da [Mary] é a mesma[LINE]mulher que ele viu no Draconis,[LINE]a [Rutee]. Depois de salvá-la,[LINE][Stahn] e as outras decidem[LINE]voltar para Janos.
+20|Ao sair do templo, [Stahn][LINE]e as outras são cercados[LINE]por um grupo de soldados.[LINE][Stahn] expulsa os soldados[LINE]a pedido da [Rutee].[LINE]Os três seguem de novo[LINE]rumo a Janos.[LINE]
+21|De volta a Janos, [Stahn][LINE]vai à taverna a convite[LINE]da [Rutee].[LINE]
+22|[Rutee] e [Mary] pedem que o[LINE][Stahn] seja o guarda-costas delas,[LINE]e ele aceita.[LINE]No dia seguinte, o grupo segue[LINE]para o portão norte de Seinegald.[LINE][LINE]
+23|Depois de encontrar o trio misterioso[LINE]chamado 'Asas Negras', o grupo sai[LINE]de Janos rumo à vila de Harmentz,[LINE]em Seinegald. A [Rutee] diz que[LINE]tem negócios a resolver lá.[LINE]
+25|[Stahn] e as outras chegam bem[LINE]à vila de Harmentz.[LINE]Graças a um morador prestativo,[LINE]a [Rutee] descobre onde está o [Walt].[LINE]Segundo ele, o [Walt] mora[LINE]na maior casa da vila.
+26|O grupo chega à casa do [Walt],[LINE]a [Rutee] anuncia a visita aos[LINE]guarda-costas dele, e eles são[LINE]convidados a subir ao[LINE]segundo andar.[LINE]
+27|A [Rutee] consegue vender ao [Walt][LINE]o tesouro achado no templo por[LINE]uma boa quantia. O [Walt] dá uma[LINE]grande recepção naquela noite[LINE]para o [Stahn] e as outras, mas na[LINE]manhã seguinte eles se veem[LINE]cercados por inimigos.[LINE]Agora precisam fugir!
+28|Eram soldados de Seinegald[LINE]que cercavam o grupo.[LINE][Stahn] e as outras acabam[LINE]lutando com o comandante da[LINE]tropa, um espadachim que[LINE]se apresenta como[LINE][Lion] Magnus.[LINE]
+30|[Stahn] e os outros são levados à capital[LINE]como criminosos, mas acabam enviados para[LINE]investigar o Templo de Straylize sob a[LINE]supervisão de [Lion]. A primeira tarefa[LINE]é recuperar os Swordians confiscados[LINE]na mansão do [Hugo].[LINE][LINE]
+31|[Stahn] e os outros conhecem o [Hugo],[LINE]presidente da Oberon Corporation,[LINE]e recebem os Swordians de volta.[LINE]Com novo ânimo, o grupo parte[LINE]para o Templo de Straylize[LINE]para proteger o Olho de Atamoni.
+32|Saindo de Darilsheid, [Stahn][LINE]e os outros seguem rumo[LINE]ao Templo de Straylize,[LINE]ao norte.
+34|O grupo chega ao Templo de Straylize[LINE]e o encontra vazio.[LINE]O que terá acontecido[LINE]com todo mundo?[LINE]
+35|Ao entrar no templo, [Stahn] e os[LINE]outros descobrem que alguém está[LINE]preso numa sala. A porta foi selada[LINE]com pedras-barreira, e todas[LINE]precisam ser destruídas[LINE]para desfazer o selo.[LINE][LINE]
+36|Eles destroem as pedras-barreira[LINE]e resgatam o bispo [Ayles],[LINE]que estava preso.[LINE]O bispo leva o grupo à catedral[LINE]para confirmar onde está[LINE]o Olho de Atamoni.[LINE]
+37|Na catedral, [Ayles] revela[LINE]uma passagem secreta[LINE]para o porão.[LINE]O Olho de Atamoni estaria[LINE]no fim da passagem.[LINE]
+38|O Olho de Atamoni foi levado[LINE]pelo Sumo Sacerdote [Greybum].[LINE][Stahn] e os outros libertam a[LINE]sacerdotisa [Philia] da petrificação[LINE]e partem com ela para Calvalese[LINE]atrás do [Greybum].[LINE]
+39|Só dá para chegar a Calvalese[LINE]de navio, então o grupo volta[LINE]a Darilsheid para conseguir[LINE]passagem no porto.[LINE]
+41|Na viagem para Calvalese,[LINE]os Swordians pedem ao grupo[LINE]que vá até um antigo navio de[LINE]transporte afundado no mar.[LINE]Segundo eles, o Swordian[LINE][Clemente] está guardado lá.[LINE]
+42|O grupo do [Stahn] vai ao fundo[LINE]do navio de transporte Radisrol[LINE]atrás do [Clemente].[LINE]A [Philia], que ficou na[LINE]entrada, ouve uma voz[LINE]misteriosa chamando por ela.
+43|O [Clemente] é achado no ponto[LINE]mais fundo de Radisrol.[LINE]Lá, a [Philia] se une ao grupo[LINE]e vira mestre do [Clemente],[LINE]entrando oficialmente[LINE]para o grupo do [Stahn].[LINE][LINE][LINE]
+44|Com o [Clemente] recuperado,[LINE][Stahn] e os outros saem[LINE]de Radisrol e embarcam[LINE]no Leviathan para seguir viagem.
+46|Ao chegar em Calvalese, o grupo[LINE]decide visitar o escritório da[LINE]Fundação [Baruk] na cidade de Cherik.[LINE]Mas logo percebem que o povo[LINE]não recebe bem os estranhos.[LINE]
+47|[Stahn] e os outros acham uma pista[LINE]do [Greybum], que teria ido[LINE]para a capital, Calviola.[LINE]Eles decidem segui-lo e saem[LINE]de Cherik rumo à capital.[LINE]
+49|Os moradores de Calviola contam ao[LINE]grupo onde fica outro Templo de[LINE]Straylize. Talvez o [Greybum][LINE]esteja lá.[LINE]
+50|O grupo acha o templo e bola[LINE]um plano. A [Philia] vai entrar[LINE]disfarçada de peregrina, e os[LINE]outros esperam a noite para[LINE]se juntar a ela.[LINE]
+51|[Stahn] e os outros esperam a noite[LINE]na pousada para começar a operação.[LINE]A [Philia] deve ter destrancado[LINE]a porta dos fundos para eles.[LINE][LINE][LINE]
+52|Graças à [Philia], o grupo consegue[LINE]se infiltrar no templo e vai até[LINE]a catedral, fugindo dos olhares[LINE]do clero. Talvez haja uma passagem[LINE]escondida, como no templo[LINE]de Seinegald.
+53|[Stahn] e os outros chegam ao[LINE]interior da catedral.[LINE]Lá, a [Philia] acha o mecanismo[LINE]e abre o caminho para o porão.[LINE]Será que finalmente vão achar o[LINE][Greybum] e o Olho de Atamoni?[LINE]
+54|O grupo enfim encara o [Greybum][LINE]no porão, mas ele consegue fugir.[LINE]O [Baruk] ajuda o grupo, que decide[LINE]ir a Cherik para seguir o [Greybum][LINE]até Neustadt pelo mar.
+55|O grupo volta a Cherik, de onde[LINE]precisa ir ao porto para[LINE]continuar a viagem.[LINE]
+57|Seguindo a trilha do [Greybum], o[LINE]grupo chega a Neustadt, capital[LINE]de Fitzgald. A primeira tarefa é[LINE]visitar a casa da [Ilene], chefe da[LINE]filial da Oberon na região.[LINE]
+58|O grupo se encanta com a beleza de[LINE]Neustadt. [Stahn] encontra um conhecido[LINE]da sua terra, o [Bacchus], e depois[LINE]seguem de novo para a casa da [Ilene].[LINE][LINE]
+59|A [Ilene] não está em casa quando[LINE]o [Stahn] e os outros chegam.[LINE]A [Rutee] sugere que todos[LINE]tomem um Softy Kreem.[LINE]Todos menos o [Lion] topam,[LINE]e saem para comprar.[LINE]
+60|O grupo vê uma menina tentando[LINE]vender flores desesperada, e percebe[LINE]a enorme diferença de riqueza[LINE]entre os moradores.[LINE]Depois, vão à praça comprar[LINE]Softy Kreem.[LINE][LINE][LINE]
+61|O grupo conhece a [Ilene] [Rembrandt][LINE]na barraca de Softy Kreem.[LINE]O campeão da Arena, [Kongman],[LINE]também aparece, e o [Stahn][LINE]acaba tendo que duelar com ele.[LINE][LINE]
+62|O duelo entre [Stahn] e [Kongman][LINE]acontece na Arena, e os dois[LINE]viram amigos depois da luta.[LINE]Então o [Lion] aparece com uma[LINE]notícia ruim: Neustadt está[LINE]sendo atacada por monstros.[LINE]
+64|O culpado pelo ataque e pelo caos[LINE]parece ser uma armada que surgiu[LINE]na costa. [Stahn] e os outros[LINE]ganham um barco da [Ilene] e[LINE]decidem enfrentar a armada.[LINE]
+66|No porto, o [Kongman] aparece[LINE]e oferece ajuda.[LINE]Com o grupo reforçado,[LINE]é hora de atacar a Armada![LINE][LINE][LINE]
+68|[Stahn] e os outros embarcam[LINE]depressa na nau capitânia da[LINE]armada. Precisam achar o líder[LINE]inimigo e derrotá-lo antes[LINE]que os reforços cheguem.
+70|Com o líder da frota, [Batista],[LINE]derrotado, o grupo volta triunfante[LINE]à cidade. O [Lion] deixa o [Batista][LINE]fugir de propósito e descobre[LINE]que o destino dele é Aquaveil.[LINE][LINE]
+72|Despedindo-se dos novos amigos[LINE]de Neustadt, [Stahn] e os outros[LINE]partem para Aquaveil. O que os[LINE]espera nesse novo lugar?[LINE][LINE]
+74|O navio chega perto da costa de[LINE]Shiden, território de Aquaveil.[LINE]Ele não pode entrar no porto por[LINE]causa do isolamento do país.[LINE]Então [Stahn] e os outros vão até[LINE]Shiden num barco menor.[LINE]
+76|O grupo descobre que o [Greybum][LINE]está na região de Moreau. A esperteza[LINE]do [Lion] revela uma caverna à beira-mar[LINE]ao sul da cidade, e o grupo[LINE]segue para lá.[LINE]
+78|[Stahn] e os outros entram na caverna[LINE]à beira-mar para chegar a Moreau.[LINE]O chão é ruim em vários pontos,[LINE]e parece ser o lar de monstros[LINE]terríveis. Será preciso[LINE]muito cuidado para avançar.
+80|No meio da caverna, [Stahn][LINE]e [Rutee] caem lá no fundo.[LINE]Os dois conversam enquanto[LINE]esperam o resgate, e o [Stahn][LINE]descobre por que a [Rutee][LINE]é obcecada por dinheiro.[LINE]
+82|No fim da caverna, um monstro[LINE]terrível ataca o grupo.[LINE]Eles conseguem afastá-lo e saem[LINE]da caverna, seguindo para Moreau.
+84|[Stahn] e os outros chegam a Moreau.[LINE]Para saber se o [Greybum] está[LINE]mesmo na cidade, precisam[LINE]interrogar os moradores.[LINE][LINE][LINE]
+86|Em Moreau, o grupo conhece um[LINE]menestrel solitário, e o [Stahn][LINE]se encanta com sua balada.[LINE]Então um soldado aparece com ordens[LINE]para todos irem ao porto, pois um[LINE]tal Rei [Tiberius] estará lá.
+88|[Stahn] e os outros são notados[LINE]pelo [Tiberius], que manda soldados[LINE]atrás deles. Mas uma ajuda do[LINE][Johnny], o menestrel que acabaram[LINE]de conhecer, evita a captura.
+90|Na verdade, o [Johnny] é da[LINE]família real de Shiden.[LINE]Ele vai sozinho ao Castelo de[LINE]Moreau resgatar o amigo [Fayte],[LINE]e o grupo vai logo atrás.[LINE]
+92|O grupo alcança o [Johnny] na[LINE]entrada secreta do castelo e[LINE]oferece ajuda. O [Johnny] aceita,[LINE]e juntos eles invadem o castelo.[LINE]Primeiro, precisam tirar o[LINE][Fayte] da cela onde está preso.
+94|O grupo conhece a esposa do [Fayte],[LINE][Rihanna], numa das celas.[LINE]O [Johnny] promete que vai salvar[LINE]o [Fayte] custe o que custar, e[LINE]o grupo procura o [Batista].[LINE][LINE]
+96|[Stahn] e os outros derrotam o[LINE][Batista] e resgatam o [Fayte].[LINE]Enquanto todos comemoram a volta[LINE]do [Fayte], a [Philia] se despede[LINE]do [Batista] sozinha, em silêncio.[LINE][LINE][LINE]
+98|A [Rihanna] recebe o grupo na[LINE]saída do Castelo de Moreau.[LINE]Eles combinam de ir a Terazzi num[LINE]navio da frota Cruz Negra do[LINE][Fayte] e seguem para o porto.[LINE]
+100|A bordo do Cruz Negra, a caminho[LINE]de Terazzi, o navio sofre um[LINE]impacto forte de repente.[LINE]Seria um ataque?[LINE][Stahn] e os outros vão ao convés[LINE]ver o que houve.[LINE]
+102|Depois de derrotar o Kraken,[LINE][Stahn] e [Lion] veem uma discussão[LINE]entre [Johnny] e [Fayte] no convés.[LINE]Quem é a [Eleanor], e[LINE]o que o [Johnny] está planejando?[LINE]
+103|Silêncio nas Ruas
+104|[Stahn] e os outros furam o bloqueio[LINE]de Terazzi e entram pelo porto.[LINE]Depois seguem para o cais da cidade[LINE]para invadir o castelo onde estão[LINE][Tiberius] e [Greybum].
+106|O grupo chega ao cais da cidade e,[LINE]com a ajuda de um aliado do [Johnny][LINE]que já tinha se infiltrado, segue[LINE]para o Castelo de Terazzi.[LINE]
+108|[Stahn] e os outros enfim chegam[LINE]ao Castelo de Terazzi, e [Tiberius][LINE]e [Greybum] parecem estar no[LINE]último andar.[LINE]Chegaram até aqui, só falta[LINE]um último esforço!
+110|Eles vencem o [Tiberius], mas o[LINE][Greybum] foge de novo usando[LINE]o Draconis.[LINE]O [Johnny] pega o [Chaltier] e[LINE]acaba com o [Tiberius] num duelo.[LINE][LINE]
+112|Ao sair do castelo, o grupo é[LINE]recebido com gritos de alegria[LINE]do povo. Para seguir o [Greybum],[LINE]agora precisam ir a Phandaria.[LINE][LINE][LINE][LINE][LINE]
+114|O [Johnny] se despede do grupo,[LINE]que faz os últimos preparativos[LINE]antes de zarpar para Phandaria.[LINE][LINE][LINE]
+116|Enquanto [Stahn] e os outros chegam[LINE]a Phandaria pelo mar, a [Mary][LINE]lembra de já ter visto aquela[LINE]paisagem nevada. Mas ainda não[LINE]consegue recuperar a memória.[LINE]
+118|Ao chegar ao porto de Frostheim, o[LINE]grupo encontra um soldado ferido[LINE]que conta que Phandaria está[LINE]em ruínas. Eles correm para a[LINE]cidade para investigar.[LINE]
+120|Em Frostheim, [Stahn] reencontra[LINE]o [Alba] e descobre, surpreso, que[LINE][Woodrow] e [Chelsea] estão sendo[LINE]caçados na floresta fora da cidade.[LINE]O grupo precisa correr[LINE]para salvá-los![LINE][LINE]
+122|A causa dos problemas de Phandaria[LINE]é uma revolta liderada pelo[LINE][Greybum] em Heidelberg.[LINE][Woodrow] e [Chelsea] entram no[LINE]grupo, e todos decidem seguir[LINE]para Heidelberg.[LINE][LINE]
+124|[Stahn] e os outros atravessam uma[LINE]floresta coberta de neve.[LINE]Enquanto o [Woodrow] reconhece[LINE]o crescimento do [Stahn], a paisagem[LINE]mexe ainda mais com a [Mary].[LINE]Será que a memória dela[LINE]está voltando...?
+126|Depois da floresta, o grupo[LINE]chega a Cyril, reduto dos[LINE]rebeldes e lugar muito[LINE]ligado à [Mary].[LINE]
+128|A memória da [Mary] volta toda[LINE]ao chegar em casa.[LINE]O [Dalis], o homem que acabaram de[LINE]conhecer, era o marido da [Mary].[LINE]O grupo precisa correr a Heidelberg[LINE]para saber se ele está mesmo[LINE]ajudando o [Greybum].[LINE]
+130|Saindo de Cyril para Heidelberg,[LINE]o [Woodrow] se pergunta por que[LINE]o pai teria tomado medidas tão[LINE]drásticas contra Cyril.[LINE][LINE][LINE]
+132|O grupo chega a Heidelberg[LINE]e a encontra silenciosa[LINE]como um cemitério.[LINE]Eles decidem usar um túnel[LINE]de emergência para entrar[LINE]no castelo.[LINE][LINE][LINE][LINE][LINE]
+134|No túnel de emergência, [Stahn][LINE]é atacado por um homem chamado[LINE][Darzen], que se revela um dos[LINE]principais vassalos de Phandaria.[LINE]Ele conta ao grupo os detalhes[LINE]da revolta.
+136|Ao saber que [Greybum] e [Dalis][LINE]estão na torre do relógio do castelo,[LINE]o grupo parte com o coração dividido.[LINE]O que os espera lá...?
+138|O grupo reencontra o [Dalis] e[LINE]luta contra ele. Depois do embate,[LINE]o [Woodrow] manda o [Dalis] fugir[LINE]do castelo, e a [Mary] decide ir[LINE]com ele. Só falta enfrentar[LINE]o [Greybum].[LINE]
+140|[Stahn] e os outros vão direto[LINE]para a torre do relógio.[LINE]O duelo decisivo com o [Greybum][LINE]está próximo!
+142|O [Greybum] é derrotado, e o grupo[LINE]volta a Seinegald com o Olho[LINE]de Atamoni.[LINE]Com a jornada terminada, é hora[LINE]de se despedir. [Stahn] percebe[LINE]que a [Rutee] sumiu e sai[LINE]para procurá-la.
+144|[Stahn] voltou a uma vida tranquila[LINE]na sua terra natal.[LINE]Sua irmã [Lilith] o mandou de novo[LINE]comprar ingredientes para o jantar.[LINE]E agora, o que ele vai comprar?
+146|A [Philia] traz o [Dymlos] e visita[LINE]o [Stahn] para contar que o[LINE]Draconis foi usado para roubar[LINE]o Olho de Atamoni.[LINE]Depois de convencer a [Lilith],[LINE][Stahn] parte com a [Philia].[LINE]
+148|[Stahn] e [Philia] chegam a[LINE]Neustadt e decidem ir ao porto[LINE]fretar um navio para Phandaria.[LINE]
+150|[Stahn] e [Philia] encontram o [Kongman][LINE]no porto, que oferece ajuda ao saber[LINE]que os dois vão sozinhos.[LINE]Assim, os dois seguem para Phandaria[LINE]com o [Kongman] junto.[LINE][LINE]
+152|Ao chegar a Frostheim, o grupo[LINE]encontra a [Mary] e o [Dalis],[LINE]que vieram às fontes termais[LINE]para a recuperação do [Dalis].[LINE]
+154|Por insistência do [Dalis], a [Mary][LINE]decide voltar ao grupo do [Stahn].[LINE]Com uma aliada de confiança,[LINE]o grupo parte para Heidelberg[LINE]para encontrar o [Woodrow].[LINE][LINE]
+156|O grupo encontra Heidelberg bem[LINE]mais animada que na última visita.[LINE]A [Philia] conta que o [Woodrow][LINE]subiu ao trono há pouco tempo,[LINE]e todos vão ao castelo[LINE]encontrá-lo.[LINE]
+158|O grupo encontra o [Woodrow] e a[LINE][Chelsea], que decidem seguir[LINE]com eles no resto da jornada.[LINE][LINE]
+160|Todos decidem ir à terra natal da[LINE][Rutee], a cidade de Cresta, em[LINE]Seinegald. Embora ela tenha avisado[LINE]o [Stahn] para nunca visitá-la, ele[LINE]acha que a situação permite[LINE]uma exceção.[LINE]
+162|O grupo enfim chega a Cresta[LINE]e se separa para procurar[LINE]a [Rutee]. Será que ela está[LINE]mesmo na cidade?[LINE][LINE][LINE]
+164|[Stahn] encontra a [Rutee] num[LINE]orfanato na periferia da cidade.[LINE]Ele tenta ir embora sem falar[LINE]com ela, mas ela o vê e[LINE]acaba entrando no grupo.
+166|O grupo se reúne perto da praça[LINE]da fonte e parte para o destino[LINE]final, a capital Darilsheid.[LINE]Talvez lá reencontrem[LINE]o [Lion].[LINE]
+168|O grupo ouve do rei de Seinegald[LINE]a verdade chocante: foi o [Lion][LINE]quem roubou o Olho de Atamoni.[LINE][Stahn] e os outros decidem ir[LINE]a uma instalação da Oberon para[LINE]descobrir o que está acontecendo.[LINE]
+170|O grupo embarca e segue para a[LINE]ilhota onde fica a instalação.[LINE]O que os espera lá?[LINE]
+172|[Stahn] e os outros chegam à[LINE]instalação da Oberon e entram[LINE]com cuidado para começar a busca.[LINE]Será que o [Lion] está mesmo aqui...?[LINE][LINE][LINE]
+174|O grupo não acha o [Lion] na[LINE]instalação, mas encontra um[LINE]elevador que leva a uma caverna[LINE]no fundo do mar.[LINE][LINE][LINE]
+176|O [Lion] estava mesmo do lado[LINE]do [Hugo]. Os apelos do [Stahn][LINE]não são ouvidos, e o grupo cruza[LINE]espadas com o [Lion]. Mas o pesadelo[LINE]não acaba aí: o [Lion] se perde,[LINE]e as Aerópoles se erguem de novo...
+178|Quem reviveu as Aerópoles foi[LINE]o próprio [Hugo], que declara o[LINE]início da Guerra de Aeth'er. O grupo[LINE]recebe ordens de [Ritora], comandante[LINE]das forças Er'ther, para se reunir,[LINE]e segue para Radisrol.
+180|[Stahn] e os outros vão no[LINE]Leviathan até Radisrol, onde[LINE]a [Ritora] deve estar[LINE]esperando por eles.[LINE]
+182|O objetivo do [Hugo] parece ser refazer[LINE]a Aetherosfera, mergulhando a superfície[LINE]na escuridão. Para impedir esse plano,[LINE][Stahn] e os outros entram em ação.[LINE]A primeira tarefa é conseguir o[LINE]equipamento que fará Radisrol[LINE]voar de novo.[LINE]
+184|O grupo sai de Radisrol rumo às[LINE]ruínas perto da vila de Lienea.[LINE][Stahn] jura vingar o [Lion],[LINE]enquanto a [Rutee] pensa no[LINE]sentido da última mensagem dele.[LINE][LINE]
+186|O grupo chega às ruínas que guardam[LINE]a Chave R, peça vital para Radisrol[LINE]voar. O [Dymlos] avisa o [Stahn][LINE]para não pensar demais no [Lion],[LINE]e o [Stahn] responde que não[LINE]esqueceu a missão...[LINE]
+188|Os selos das ruínas precisam de[LINE]uma chave especial: os Swordians.[LINE]Para chegar ao fundo, os Swordians[LINE]precisam ficar para trás.[LINE]Quem deve ficar, e[LINE]em que ordem?
+190|O grupo enfim chega ao ponto mais[LINE]fundo das ruínas e pega a Chave R.[LINE]Antes de voltar, a [Mary] pede ao[LINE][Stahn] que dê um jeito de animar[LINE]a [Rutee].[LINE]
+192|Ao sair das ruínas, a voz do [Hugo][LINE]ecoa de novo anunciando o segundo[LINE]disparo do Belcrant.[LINE]Com pouco tempo até a superfície[LINE]ser toda fechada, o grupo corre[LINE]de volta para Radisrol.
+193|Objetivo: Aetherosfera
+194|O grupo espera enquanto tudo[LINE]é preparado. A [Rutee] revela[LINE]a verdade chocante de que o [Hugo][LINE]é o pai dela, e sai correndo sozinha.[LINE][Stahn] decide ir atrás dela...[LINE][LINE][LINE]
+196|A [Rutee] está dividida ao saber que[LINE][Lion] e [Hugo] são sua família,[LINE]sem saber o que sentir.[LINE]O [Stahn] diz que eles devem viver[LINE]esse luto juntos.[LINE][LINE]
+198|Radisrol decola mirando Dycroft,[LINE]mas é derrubada pelo [Hugo].[LINE]Mudando os planos, o grupo decide[LINE]ir à Aerópolis chamada Ignasea.[LINE][LINE]
+200|Quando o grupo está para sair de[LINE]Radisrol, o [Reynolds] avisa que o[LINE]elevador antigravidade se ligou a[LINE]Darilsheid, permitindo voltar[LINE]à superfície.[LINE][LINE][LINE]
+202|[Stahn] e os outros cruzam a[LINE]Aetherosfera até Ignasea, onde[LINE]precisam tomar logo o terminal[LINE]de teletransporte.[LINE]
+204|Com o terminal de teletransporte[LINE]sob controle, o grupo define[LINE]Deimos como destino e segue.[LINE]
+206|Com o teletransporte, o grupo chega[LINE]a Deimos num instante. O próximo[LINE]alvo é a unidade de controle do[LINE]Arco Draconis, em Cloudius.[LINE][LINE][LINE]
+208|Com os sistemas de Deimos[LINE]desligados, o grupo não[LINE]consegue sair.[LINE]Por sugestão dos Swordians,[LINE]eles procuram unidades de energia[LINE]para religar tudo.[LINE][LINE][LINE][LINE]
+210|O grupo enfim chega a Cloudius,[LINE]toda coberta de mato verde e[LINE]denso. Segundo o [Dymlos], a[LINE]unidade de controle do Arco[LINE]Draconis fica bem no fundo.[LINE]
+212|No centro de Cloudius, o grupo é[LINE]esperado pelo Baruk, um dos[LINE]diretores da Oberon Corp.[LINE]Derrotado, o [Baruk] revela ao[LINE]grupo que tinha origem em[LINE]Calvalese antes de morrer.[LINE]
+214|O destino agora é Helraios.[LINE]Para chegar lá, é preciso voltar[LINE]a Ignasea por Deimos e ajustar[LINE]o teletransporte para Rodeon.[LINE]
+216|Em Rodeon, o [Stahn] pergunta ao[LINE][Dymlos] a diferença entre[LINE]Aeth'erianos e Er'thers.[LINE]O [Dymlos] diz que não havia[LINE]diferença biológica, era só[LINE]questão de posição.
+218|O grupo sai de Rodeon para cruzar[LINE]a Aetherosfera até Helraios.[LINE]Lá, esperam usar o laboratório[LINE]para consertar o [Igtenos].[LINE][LINE][LINE]
+220|[Stahn] e os outros entram em Helraios,[LINE]um dos principais redutos das[LINE]Aerópoles. É bem provável que outro[LINE]inimigo os espere lá dentro,[LINE]então precisam ter cuidado.[LINE][LINE][LINE]
+222|Atravessando Helraios, o grupo[LINE]ouve uma voz conhecida.[LINE]A voz da mulher com quem o[LINE][Stahn] discutiu ideais:[LINE][Ilene] [Rembrandt].[LINE]
+224|[Stahn] fica frente a frente com[LINE]a [Ilene] mais uma vez.[LINE]Seus caminhos se separaram,[LINE]e não há escolha senão lutar.[LINE][Stahn] perde a noção do que é[LINE]certo, mas a [Rutee] faz o possível[LINE]para animá-lo.
+226|Com o [Igtenos] enfim restaurado,[LINE]o [Woodrow] faz um pacto formal.[LINE]O grupo sabe pela [Ritora] que o[LINE]aparelho que neutraliza o escudo[LINE]espelho ficou pronto, e decide voltar[LINE]a Radisrol para buscá-lo.[LINE]
+228|Como que zombando do progresso,[LINE]o Belcrant dispara pela terceira[LINE]vez contra a superfície.[LINE]Mais um disparo e a Aetherosfera[LINE]estará completa. O tempo acaba.
+230|[Stahn] e os outros voltam rápido[LINE]a Radisrol. Com o neutralizador,[LINE]o próximo destino é Mikheil, para[LINE]pegar o cruzador que permitirá[LINE]invadir Dycroft![LINE][LINE]
+232|O grupo vai a Josaia por Ignasea[LINE]e, de lá, precisa cruzar a[LINE]Aetherosfera de novo até Mikheil.[LINE][LINE]
+234|O grupo sai de Josaia e começa[LINE]a travessia da Aetherosfera[LINE]rumo a Mikheil.[LINE]
+236|[Stahn] e os outros chegam a[LINE]Mikheil. Esperam que alguém os[LINE]aguarde, como em Cloudius[LINE]e Helraios, mas já não[LINE]dá para voltar atrás.
+238|O grupo vence a luta contra Shane[LINE][Rembrandt], pai da [Ilene].[LINE]Depois de devolver a refém[LINE][Marian] à superfície, o grupo[LINE]parte no cruzador para o Belcrant.[LINE]
+240|[Stahn] e os outros neutralizam a[LINE]barreira e invadem o Belcrant.[LINE]Agora precisam correr por Dycroft[LINE]até o topo, onde o Olho de[LINE]Atamoni está guardado!
+242|O grupo acha e religa uma estação[LINE]de teletransporte no Belcrant,[LINE]que permite voltar a Ignasea[LINE]quando quiser.[LINE]
+244|Depois de uma luta feroz, o grupo[LINE]vence o [Hugo], mas não pode nada[LINE]contra o recém-revivido [Miktran][LINE]e sofre uma derrota esmagadora.[LINE]Só conseguem fugir graças a um[LINE]último lampejo da vontade do [Hugo].
+246|Com a Casca Externa completa, a[LINE]superfície fica na escuridão total.[LINE]Pior: o grupo descobre que uma[LINE]enorme legião de monstros desceu[LINE]sobre Cresta. O [Johnny] entra[LINE]no grupo, que vai ajudar.
+247|Ataque de Demônios
+248|O grupo chega a Cresta e a encontra[LINE]em plena luta contra os monstros.[LINE]Será que o orfanato ainda[LINE]está a salvo?[LINE]
+250|[Stahn] e os outros chegam às crianças[LINE]bem a tempo de salvá-las.[LINE]Mas não há tempo para descansar:[LINE]Darilsheid também está sendo[LINE]atacada! O grupo segue para[LINE]a capital na hora.[LINE]
+252|O grupo volta a Darilsheid, onde[LINE]precisa eliminar logo os monstros[LINE]que vagam pela cidade![LINE]Darilsheid não pode cair nas[LINE]mãos do inimigo![LINE][LINE]
+254|O grupo derrota um bando de[LINE]monstros, mas logo vem outro.[LINE]Essa luta não vai ter fim?
+256|Darilsheid resiste ao ataque e[LINE]ganha um breve descanso.[LINE][Stahn] e os outros vão à[LINE]pousada se recompor.
+258|O [Dymlos] diz ao [Stahn] que, como[LINE]estão, não vencem o [Miktran], e o[LINE][Stahn] declara que nunca vai desistir.[LINE]Nesse momento, o grupo recebe[LINE]notícias do [Reynolds],[LINE]que acordou.
+260|Ainda há esperança.[LINE]O grupo vibra ao ouvir os detalhes[LINE]do plano de batalha final do [Reynolds].[LINE]Os Swordians também perguntam se[LINE]eles têm a determinação para passar[LINE]pela prova final e se tornarem[LINE]verdadeiros Mestres Swordian.
+262|[Stahn] e os outros são chamados ao[LINE]Castelo de Seinegald, onde o [Dalis][LINE]lhes confia o Avitus Draconis.[LINE]Com a nova nave, o grupo vai ao[LINE]local da prova final, o[LINE]Laboratório de P&D Swordian.[LINE][LINE]
+264|O grupo chega ao Laboratório[LINE]de P&D e entra.[LINE]O que os espera lá dentro?[LINE]Como será a prova?[LINE][LINE]
+266|Com os equipamentos do fundo do[LINE]laboratório, o grupo consegue[LINE]fortalecer os Swordians.[LINE]Depois vem o teste final de[LINE]cada um dos mestres.[LINE]
+268|O teste supremo é uma luta contra[LINE]o Mestre original.[LINE]Os Mestres atuais e seus Swordians[LINE]unem forças, e cada um supera[LINE]sua própria prova.[LINE][LINE]
+269|Em Busca do Berselium
+270|[Stahn] e os outros visitam Junkland[LINE]para achar o Berselium necessário[LINE]para consertar o Draconis.[LINE]Mas o povo não ajuda muito.[LINE]Sem outra escolha, eles mesmos[LINE]começam a procurar o material...
+272|Enquanto o grupo revira o lixo[LINE]atrás de Berselium, um rapaz[LINE]se aproxima e mostra o caminho[LINE]até a Montanha de Lixo.[LINE]
+274|[Stahn] e os outros entram na[LINE]Montanha de Lixo, um lugar perigoso[LINE]cheio de gases tóxicos.[LINE]Será que vão mesmo achar[LINE]Berselium lá?[LINE]
+276|O grupo enfim acha Berselium na[LINE]Montanha de Lixo. Mas a quantidade[LINE]está longe de ser suficiente.[LINE]Que opções ainda restam?[LINE]Para discutir outros planos,[LINE]eles seguem para a saída.[LINE]
+278|Graças ao esforço do povo de[LINE]Junkland, o grupo consegue[LINE]Berselium suficiente.[LINE]Depois de agradecer aos moradores,[LINE]eles seguem até onde está[LINE]o Draconis.[LINE]
+280|[Stahn] e os outros entregam o[LINE]Berselium em segurança.[LINE]Então sabem que o [Reynolds] quer[LINE]falar com eles pessoalmente, e[LINE]pedem que voltem ao Castelo[LINE]de Seinegald...[LINE]
+282|O Canhão de Lens está sendo montado[LINE]no pátio do castelo.[LINE]Mas o [Reynolds] avisa que não[LINE]há lens suficiente para o canhão,[LINE]e pede que o [Stahn] e os amigos[LINE]viajem pelo mundo para juntar mais.
+284|Depois de juntar as lens em Neustadt,[LINE][Stahn], [Kongman] e os outros são[LINE]recebidos com uma chuva de aplausos[LINE]que renova o ânimo para a luta.[LINE][LINE][LINE]
+286|O grupo chega a Heidelberg e recebe[LINE]as lens que o povo juntou.[LINE]O [Woodrow] promete ao [Darzen] que[LINE]os tempos difíceis logo vão acabar,[LINE]e pede que ele aguente firme[LINE]até lá.[LINE]
+288|[Stahn] e os outros chegam a Terazzi[LINE]para juntar mais lens.[LINE]Lá, o [Johnny] descobre que a[LINE][Rihanna] está grávida, e ela pede[LINE]que ele seja o padrinho.[LINE][LINE]
+290|O grupo chega a Calviola e recebe[LINE]as lens oferecidas.[LINE]Não houve aplausos da multidão,[LINE]mas a oferta disse tudo[LINE]o que precisava.[LINE]
+291|Noite dos Guerreiros
+292|O Canhão de Lens Integrado está[LINE]pronto e há lens suficiente.[LINE]O [King] de Seinegald insiste que[LINE]o grupo descanse esta noite, para[LINE]pôr o plano em prática[LINE]pela manhã.[LINE]
+294|[Stahn] e os outros podem fazer o que[LINE]quiserem até de manhã. O [Johnny] avisa[LINE]o [Stahn] que, se tiver algo pendente,[LINE]talvez não tenha outra chance.[LINE]O que o [Johnny] quis dizer?
+296|Com a ajuda da [Philia], o [Stahn][LINE]percebe e confessa o que sente[LINE]pela [Rutee]: quando tudo acabar,[LINE]quer viajar só com ela.[LINE]A [Rutee] só vai responder[LINE]quando eles voltarem.
+298|Não há mais espaço para arrependimentos.[LINE]A batalha final se aproxima.[LINE]O canhão do pátio deve estar[LINE]quase pronto para disparar.[LINE]A hora é agora.[LINE]
+300|Com o nobre sacrifício da [Ritora],[LINE]o canhão consegue furar a[LINE]Aetherosfera, lançando um raio[LINE]de esperança na terra escura.[LINE]Só falta ir a Dycroft[LINE]a bordo do Draconis.[LINE]
+302|Levando as esperanças e preces[LINE]da humanidade, [Stahn] e os[LINE]amigos sobem à Aetherosfera[LINE]rumo a Dycroft, o palco[LINE]da batalha final.
+304|A superfície da Aetherosfera parece[LINE]um mundo novo coberto de verde.[LINE]Essa falsa utopia criada pelo [Miktran][LINE]à custa da vida na superfície[LINE]é inaceitável.[LINE]Ela precisa acabar!
+306|Finalmente, [Stahn] e os amigos[LINE]encaram o [Miktran] no ponto[LINE]final de Dycroft. O [Miktran][LINE]desafia o grupo diante do Olho de[LINE]Atamoni, e começa a batalha final.[LINE]
+308|Depois de uma luta dura, [Stahn][LINE]e os outros enfim vencem[LINE]o [Miktran]. Mas a vitória teve[LINE]um preço alto: a despedida[LINE]final dos Swordians...[LINE]
+310|Um ano se passou desde a derrota[LINE]do [Miktran]. [Stahn] reencontra[LINE]os amigos em Lienea e, com a bênção[LINE]de todos, [Rutee] e [Stahn][LINE]partem juntos numa nova aventura.
+312|É um dia comum, e o [Lion] conversa[LINE]com a [Marian]. Mas ele recebe a missão[LINE]urgente de prender uns ladrões e, ao[LINE]perceber que quem usa um Swordian é[LINE]sua irmã, a [Rutee], parte para Harmentz.[LINE]
+313|Contra Swordians
+314|O [Lion] prende com facilidade a [Rutee][LINE]e os companheiros em Harmentz,[LINE]e descobre que tinham dois Swordians.[LINE]Ele volta a Seinegald para[LINE]relatar o sucesso.[LINE]
+316|A [Rutee] e os companheiros são[LINE]envolvidos no sumiço do Draconis.[LINE]O [Hugo] manda levá-los ao [King],[LINE]e o [Lion] vai à masmorra[LINE]buscá-los.[LINE]
+318|No interrogatório, chega a notícia[LINE]de um incidente no Templo de Straylize.[LINE]Por sugestão do [Hugo], o [Lion] fica[LINE]responsável pelo [Stahn] e pelos outros[LINE]e recebe ordens de investigar.[LINE]Ele vai à mansão buscar os[LINE]Swordians confiscados.
+320|O [Hugo] devolve os Swordians[LINE]ao [Stahn] e aos outros.[LINE]O grupo parte para o Templo[LINE]de Straylize para confirmar[LINE]que o Olho de Atamoni está seguro.
+322|Antes de sair da cidade, o [Stahn][LINE]estende a mão em amizade, mas[LINE]o [Lion] recusa.[LINE]Ele diz que o Templo de Straylize[LINE]fica ao norte de Darilsheid[LINE]e segue na frente.[LINE]
+324|O grupo chega ao Templo de Straylize[LINE]e o encontra vazio.[LINE]O que terá acontecido[LINE]com todo mundo?[LINE]
+326|Ao entrar no templo, [Lion] e os[LINE]outros descobrem que alguém está[LINE]preso numa sala. A porta foi[LINE]selada com pedras-barreira, e todas[LINE]precisam ser destruídas para[LINE]desfazer o selo.[LINE][LINE]
+334|[Lion] e os outros voltam a[LINE]Darilsheid para seguir para Calvalese.[LINE]O navio que o [Greybum] teria usado[LINE]já saiu do porto, então o [Lion][LINE]corre para pedir ao [King] um[LINE]transporte especial para a perseguição.
+336|O [Lion] consegue o transporte.[LINE]Mas percebe de novo que, para o[LINE][Hugo], ele é antes de tudo seu filho,[LINE]e não uma pessoa própria,[LINE]e fica desanimado.[LINE][LINE]
+338|Antes de zarpar, o [Lion] visita[LINE]a [Marian] para se despedir.[LINE]A [Marian] sente que algo o preocupa[LINE]e pergunta se ele pensaria em[LINE]voltar a usar o nome antigo.[LINE]O [Lion] recusa, lembrando[LINE]de seus objetivos.[LINE]
+340|[Lion] e os companheiros embarcam[LINE]no navio preparado pelo [Hugo][LINE]e zarpam para Calvalese, antes[LINE]chamado de 'Segundo Continente.'
+342|O [Lion], todo enjoado, recebe um[LINE]pedido dos Swordians: buscar o[LINE]companheiro perdido num navio de[LINE]transporte afundado no mar.[LINE]O Leviathan os ajuda a chegar[LINE]ao fundo do mar.
+344|O [Clemente] é achado no ponto[LINE]mais fundo de Radisrol.[LINE]Lá, a [Philia] se une ao grupo e vira[LINE]mestre do [Clemente], e o [Lion][LINE]aceita a [Philia] como companheira.[LINE]
+346|Com o poder do Swordian [Clemente],[LINE][Lion] e os outros deixam Radisrol[LINE]a bordo do Leviathan.[LINE]Eles retomam a perseguição ao[LINE][Greybum] e seguem para Calvalese.
+348|Ao chegar em Calvalese, [Lion] e os[LINE]outros decidem visitar o escritório[LINE]da Fundação [Baruk] em Cherik.[LINE]Mas logo percebem que o povo[LINE]não recebe bem os estranhos.[LINE]
+350|[Lion] e os outros acham uma pista[LINE]do [Greybum], que teria ido para[LINE]a capital, Calviola.[LINE]Eles decidem segui-lo e saem[LINE]de Cherik rumo à capital.[LINE]
+352|Os moradores de Calviola contam ao[LINE]grupo onde fica outro Templo de[LINE]Straylize. Parece que o templo[LINE]fica em algum lugar da cidade.
+354|O grupo acha o templo e bola um[LINE]plano. A [Philia] vai entrar disfarçada[LINE]de peregrina e esperar a noite para[LINE]abrir a entrada dos fundos[LINE]para os outros.
+356|O [Lion] passa um tempo pela cidade[LINE]e admite acreditar que o povo de[LINE]Calvalese só sobreviveu até hoje[LINE]porque abandonou quem virava[LINE]um fardo por ser fraco.[LINE]
+358|[Lion] e os outros esperam a noite na[LINE]pousada para começar a operação.[LINE]Quando a noite cai e a cidade[LINE]silencia, eles agem.[LINE]A [Philia] deve ter destrancado[LINE]a porta dos fundos para eles.[LINE]
+360|Graças à [Philia], o grupo se[LINE]infiltra no templo com segurança e[LINE]vai até a catedral, fugindo dos[LINE]olhares do clero. Talvez haja uma[LINE]passagem escondida, como no templo[LINE]de Seinegald.
+362|[Lion] e os outros chegam ao[LINE]interior da catedral.[LINE]Lá, a [Philia] acha o mecanismo[LINE]e abre o caminho para o porão.[LINE]Será que finalmente vão achar o[LINE][Greybum] e o Olho de Atamoni?
+364|O grupo enfim encara o [Greybum][LINE]no porão, mas ele consegue fugir.[LINE]Achando que o [Stahn] e os outros[LINE]viraram um fardo, o [Lion] parte[LINE]sozinho atrás do [Greybum].
+366|As palavras do [Baruk] fazem o [Lion][LINE]repensar, e ele volta para salvar[LINE]o [Stahn]. Quando o [Stahn] acorda,[LINE]o [Lion] diz que da próxima vez[LINE]vão proteger o Olho de Atamoni[LINE]sem falta.
+368|O grupo volta a Cherik e embarca[LINE]para Neustadt, seguindo as[LINE]informações do [Baruk].
+370|No convés, o [Lion] admite que ser[LINE]amigo do [Stahn] parece trair o[LINE][Chaltier]. Mas o [Chaltier] diz[LINE]que a amizade é algo precioso,[LINE]e que o [Lion] deve aceitar[LINE]esse companheirismo.
+372|Cansado de esperar a [Ilene] na[LINE]mansão dela, o [Lion] sai para[LINE]achar a barraca de Softy Kreem[LINE]em algum canto de Neustadt.[LINE]
+374|O passeio do [Lion] atrás de Softy[LINE]Kreem é interrompido por monstros[LINE]na cidade. Sabendo que não vence[LINE]sozinho, o [Lion] corre à Arena[LINE]para chamar o [Stahn] e os outros.
+376|O culpado pelo ataque e pelo caos[LINE]parece ser uma armada que surgiu[LINE]na costa. [Lion] e os outros ganham[LINE]um barco da [Ilene] e decidem[LINE]enfrentar a armada.[LINE]
+378|No porto, o [Kongman] aparece[LINE]e oferece ajuda.[LINE]Com o grupo reforçado,[LINE]é hora de atacar a Armada![LINE]
+380|[Lion] e os outros embarcam depressa[LINE]na nau capitânia da armada.[LINE]Precisam achar o líder inimigo[LINE]e derrotá-lo antes que os[LINE]reforços cheguem.
+382|Com o líder da frota, [Batista],[LINE]derrotado, o grupo volta triunfante[LINE]à cidade. O [Lion] deixa o [Batista][LINE]fugir de propósito e descobre[LINE]que o destino dele é Aquaveil.[LINE]
+384|Despedindo-se dos novos amigos de[LINE]Neustadt, [Lion] e os outros partem[LINE]para Aquaveil. O que os espera[LINE]nesse novo lugar?[LINE]
+386|O navio chega perto da costa de[LINE]Shiden, território de Aquaveil.[LINE]Ele não pode entrar no porto por[LINE]causa do isolamento do país.[LINE]Então [Lion] e os outros vão até[LINE]Shiden num barco menor.[LINE]
+388|O grupo descobre que o [Greybum][LINE]está na região de Moreau.[LINE]Ao saber de uma caverna à beira-mar[LINE]que leva a Moreau, [Lion] e os[LINE]outros seguem para lá.[LINE]
+391|No meio da caverna, [Stahn] e[LINE][Rutee] caem lá no fundo.[LINE]O [Lion] volta à região de[LINE]Shiden para ajudá-los.
+392|[Lion] e os outros voltam a Shiden[LINE]para achar uma corda.[LINE]O jeito é perguntar em todo[LINE]lugar até conseguir uma.
+393|[Lion] e os outros resgatam[LINE][Stahn] e [Rutee] sem problemas.[LINE]Agora precisam achar a saída[LINE]o mais rápido possível.
+394|No fim da caverna, o grupo é[LINE]atacado por um monstro terrível.[LINE]Eles conseguem afastá-lo e saem[LINE]da caverna, seguindo para Moreau.[LINE]
+396|[Lion] e os outros chegam a Moreau.[LINE]Para saber se o [Greybum] está[LINE]mesmo na cidade, precisam[LINE]interrogar os moradores.[LINE]
+397|Em Moreau, o grupo conhece um[LINE]menestrel solitário.[LINE]Logo um soldado aparece com ordens[LINE]para todos irem ao porto, pois um[LINE]tal Rei [Tiberius] estará lá.
+398|[Lion] e os outros são notados[LINE]pelo [Tiberius], que manda soldados[LINE]atrás deles. Mas uma ajuda do[LINE][Johnny], o menestrel que acabaram[LINE]de conhecer, evita a captura.
+401|O grupo alcança o [Johnny] na[LINE]entrada secreta do castelo e[LINE]oferece ajuda. O [Johnny] aceita,[LINE]e juntos eles invadem o castelo.[LINE]Primeiro, precisam tirar o[LINE][Fayte] da cela onde está preso.
+402|O grupo conhece a esposa do [Fayte],[LINE][Rihanna], numa das celas.[LINE]O [Johnny] promete que vai salvar[LINE]o [Fayte] custe o que custar, e[LINE]o grupo procura o [Batista].[LINE]
+403|[Lion] e os outros derrotam o[LINE][Batista] e resgatam o [Fayte].[LINE]Depois combinam de ir a Terazzi num[LINE]navio da frota Cruz Negra do [Fayte][LINE]e seguem para o porto. O [Greybum][LINE]está ao alcance![LINE]
+405|A bordo do Cruz Negra, a caminho[LINE]de Terazzi, o navio sofre um[LINE]impacto forte de repente.[LINE][Lion] e os outros correm ao convés[LINE]e encontram o Kraken, o temido[LINE]demônio do mar.
+406|No convés, o [Chaltier] diz ao [Lion][LINE]que quer pagar uma dívida antiga[LINE]com o [Johnny], mas o [Lion] fica[LINE]sem graça e corta a conversa.[LINE][LINE]
+408|[Lion] e os outros furam o bloqueio[LINE]de Terazzi e entram pelo porto.[LINE]Depois seguem para o cais da cidade[LINE]para invadir o castelo onde estão[LINE][Tiberius] e [Greybum].
+411|[Lion] e os outros enfim chegam[LINE]ao Castelo de Terazzi, e [Tiberius][LINE]e [Greybum] parecem estar no[LINE]último andar.[LINE]Chegaram até aqui, só falta[LINE]um último esforço!
+412|O [Lion] vence o [Tiberius], mas o[LINE][Greybum] foge de novo usando o[LINE]Draconis. Entendendo o desejo do[LINE][Chaltier] de ajudar o [Johnny], o[LINE][Lion] o empresta ao [Johnny] para[LINE]o duelo contra o [Tiberius].[LINE]
+414|O [Johnny] se despede do grupo, que[LINE]faz os últimos preparativos.[LINE]Antes de partir, o [Chaltier] agradece[LINE]por ter ajudado o [Johnny], e o laço[LINE]entre ele e o [Lion] fica mais forte[LINE]do que nunca.[LINE]
+416|Enquanto [Lion] e os outros chegam[LINE]a Phandaria pelo mar, a [Mary][LINE]lembra de já ter visto aquela[LINE]paisagem nevada. Mas ainda não[LINE]consegue recuperar a memória.[LINE]
+419|Em Frostheim, o [Stahn] reencontra[LINE]um senhor chamado [Alba].[LINE]O [Alba] conta que [Woodrow] e [Chelsea][LINE]estão sendo caçados na floresta[LINE]fora da cidade, e pede ao grupo[LINE]que vá ajudá-los.[LINE]
+420|A causa dos problemas de Phandaria[LINE]é uma revolta liderada pelo[LINE][Greybum] em Heidelberg.[LINE][Woodrow] e [Chelsea] entram no[LINE]grupo, e todos decidem seguir[LINE]para Heidelberg.[LINE]
+422|[Lion] e os outros atravessam uma[LINE]floresta coberta de neve. A paisagem[LINE]mexe muito com a [Mary], que desmaia.[LINE]Será que a memória dela[LINE]está voltando?[LINE]
+424|Depois da floresta, o grupo[LINE]chega a Cyril, reduto dos[LINE]rebeldes e lugar muito[LINE]ligado à [Mary].[LINE][LINE]
+426|Saindo de Cyril para Heidelberg,[LINE]o [Woodrow] se pergunta por que[LINE]o pai teria tomado medidas tão[LINE]drásticas contra Cyril.[LINE]
+428|O grupo do [Lion] chega a Heidelberg[LINE]e a encontra silenciosa[LINE]como um cemitério.[LINE]Eles decidem usar um túnel[LINE]de emergência para entrar[LINE]no castelo.[LINE][LINE][LINE][LINE][LINE]
+433|[Lion] e os outros vão direto[LINE]para a torre do relógio.[LINE]O duelo decisivo com o [Greybum][LINE]está próximo!
+434|O [Greybum] é derrotado, e o grupo[LINE]volta a Seinegald com o Olho[LINE]de Atamoni. Com a missão cumprida,[LINE]é hora de todos voltarem para casa.[LINE]O [Lion] vai à mansão, onde[LINE]a [Marian] o espera.[LINE][LINE]
+436|Terminada a jornada com o [Stahn][LINE]e os outros, o [Lion] volta à[LINE]vida de antes. Num dia como[LINE]outro qualquer, ele é chamado ao[LINE]castelo para cumprir seus deveres[LINE]de cavaleiro andante.
+437|A missão do [Lion] é escoltar um[LINE]bispo ao Templo de Straylize.[LINE]Ele também deve avaliar dois[LINE]jovens soldados durante a tarefa[LINE]e decidir qual deles serve mais[LINE]para capitão ao final.[LINE]
+438|Em Harmentz, eles descobrem que[LINE]um discípulo do bispo desmaiou[LINE]de cansaço. O [Lion] deixa o[LINE]discípulo aos cuidados do [Walt][LINE]e manda os dois soldados levarem[LINE]o bispo ao templo na hora.[LINE]
+439|O [Lion] alcança o bispo e os soldados[LINE]na floresta, mas o grupo é atacado[LINE]por monstros. Os soldados fogem com[LINE]o bispo enquanto o [Lion] derrota[LINE]o monstro, e ele segue para o[LINE]templo para cumprir a missão.
+440|O [Lion] volta ao castelo e decide[LINE]qual dos dois soldados serve[LINE]mais para capitão.[LINE]Com o dever do dia cumprido,[LINE]o [Lion] volta à mansão.
+442|O [Lion] acompanha a [Marian] nas[LINE]compras de ingredientes para o[LINE]chefe de cozinha. Depois, os dois[LINE]descansam no porto, onde a [Marian],[LINE]orgulhosa do homem que o [Lion] se[LINE]tornou, diz que não vai mais[LINE]chamá-lo de Emilio.
+443|Chega de Cresta um relatório sobre[LINE]um monstro desconhecido.[LINE]O [Lion] parte em missão para[LINE]investigar e patrulhar a área.[LINE][LINE]
+445|O [Lion] chega a Cresta e encontra[LINE]o soldado que enviou o relatório.[LINE]Ele diz que o monstro existe mesmo,[LINE]mas quem fez o relato foi alguém[LINE]do orfanato local, e o [Lion][LINE]vai até lá confirmar.
+446|No orfanato, o [Lion] descobre que[LINE]quem fez o relato saiu.[LINE]Segundo as crianças, o monstro foi[LINE]visto numa praia ao norte da cidade,[LINE]de onde se vê um prédio antigo[LINE]do outro lado do mar.[LINE]
+447|O [Lion] enfrenta luta após luta[LINE]contra os monstros que saem do mar.[LINE]Por fim, elimina todos os monstros[LINE]da região e volta ao castelo[LINE]para relatar.
+448|O [Lion] chega a Darilsheid muito[LINE]depois do pôr do sol.[LINE]Ele conta ao [Dryden] o resultado[LINE]da investigação e volta correndo[LINE]para a mansão.
+450|O [Lion] volta à mansão e não[LINE]encontra a [Marian] nem os outros[LINE]criados. Enquanto a procura, um[LINE][Hugo] mascarado aparece e força[LINE]o [Lion] a roubar o Draconis,[LINE]usando a [Marian] como refém.[LINE]
+451|O [Lion] invade o Draconis e vê que[LINE]o guarda era o soldado que ele[LINE]nomeou capitão.[LINE]Com muito pesar, o [Lion] o abate[LINE]e entra na ponte de comando.
+452|Pelo bem de alguém...
+453|O alvo do [Hugo] é o Olho de Atamoni.[LINE]O Draconis vai até a instalação onde[LINE]o Olho está selado, e o [Lion] desce[LINE]ao fundo para buscá-lo por ordem[LINE]do [Hugo].[LINE]
+454|O [Lion] lamenta sua impotência diante[LINE]da força esmagadora do [Hugo].[LINE]A única chance de salvar a [Marian][LINE]é arriscar tudo e enfrentar o[LINE][Stahn] e os outros em batalha.[LINE][LINE]

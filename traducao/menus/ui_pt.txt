@@ -1,0 +1,249 @@
+00051.md1|4b0|[TAG_007]Nenhum memory card (PS2) no slot 1.[LINE] [LINE]Para salvar este jogo, você precisa[LINE]ter pelo menos este espaço livre.[LINE] [LINE]Novo save precisa de<$81><$40>[TAG_015]KB ou mais[LINE]Save rápido precisa de<$81><$40>[TAG_016]KB ou mais[LINE] [LINE]Quer começar o jogo assim mesmo?[LINE]Sim[LINE]Não
+00051.md1|5c8|[TAG_007]Não dá para acessar o memory card[LINE](PS2) do slot 1.[LINE] [LINE]Quer começar o jogo assim mesmo?[LINE]Sim[LINE]Não
+00051.md1|648|[TAG_007]Não há espaço livre suficiente no[LINE]memory card (PS2) do slot 1.[LINE] [LINE]Para salvar este jogo, você precisa[LINE]ter pelo menos este espaço livre:[LINE] [LINE]Novo save precisa de<$81><$40>[TAG_015]KB ou mais[LINE]Save rápido precisa de<$81><$40>[TAG_016]KB ou mais[LINE] [LINE]Quer começar o jogo assim mesmo?[LINE]Sim[LINE]Não
+00054.md1|a940|[TAG_007]Procurando o Memory Card (PS2) no slot 1.[LINE]Não remova o Memory Card (PS2) nem desligue o console.
+00054.md1|a9d0|Música
+00054.md1|a9d8|Voz Batalha
+00054.md1|a9f8|Estéreo
+00054.md1|aa08|Vol. Voz
+00054.md1|aa18|Canção
+00054.md1|aaa8|[Circle_ani]Lista [Triangle_ani]Toca [Square_ani]Parar [L1_ani][R1_ani]4
+00054.md1|aad4|[R1_ani]Pular [R2_ani]Repetir [Cross_ani]Voltar
+00054.md1|ab00|[Circle_ani]Lista [Triangle_ani]Tocar [Square_ani]Parar [L1_ani][R1_ani]Pular [Cross_ani]Voltar
+00054.md1|ab48|[Left+Right_blink]Ajuste [Cross_ani]Voltar
+00054.md1|ab60|[Circle_ani]OK[Cross_ani]Voltar
+00054.md1|ab78|[Cross_ani]Voltar
+00055.md1|42b0|[Circle_ani]OK [Cross_ani]Cancelar
+00055.md1|42d0|[Triangle_ani]Título [Cross_ani]Voltar [Square_ani]Info [L1_ani][R1_ani]Trocar Personagem [Select_ani]Nome
+00055.md1|4320|[Cross_ani]Voltar [Square_ani]Info [L1_ani][R1_ani]Trocar Personagem [Select_ani]Nome
+00055.md1|4ff8|Nível
+00055.md1|5000|Título
+00055.md1|6e90|Talento Suporte
+00055.md1|6eb8|Resist.
+00055.md1|6ed8|Título
+00056.md1|27d0|[Triangle_ani]OK [Cross_ani]Sair [Square_ani]Apagar
+00056.md1|27f8|[Triangle_ani]OK [Cross_ani]Sair [Square_ani]Apagar
+00056.md1|281d|[L1_ani][R1_ani]Próx. Categoria
+00056.md1|2b58|Padrão
+00056.md1|2b78|Cancel.
+00056.md1|2b88|OK
+00056.md1|2b90|Apagar
+00056.md1|2b98|Símbol.
+00056.md1|2ba0|Letras
+00057.md1|7580|[Circle_ani]Compra [Cross_ani]Sair [Left+Right_blink]Qt [Square_ani]Info
+00057.md1|75b0|[Circle_ani]Trocar [Cross_ani]Voltar [Square_Press]Qtd +100 [Left+Right_blink]Qtd
+00057.md1|75f0|[Circle_ani]OK [Cross_ani]Voltar
+00057.md1|7608|[Circle_ani]Vender [Cross_ani]Voltar [Left+Right_blink]Qtd [Triangle_ani]Personagem [Square_ani]Info [L1_ani][R1_ani]Categoria
+00057.md1|7660|[Circle_ani]Comprar [Cross_ani]Voltar [Left+Right_blink]Qtd [Triangle_ani]Personagem [Square_ani]Info
+00057.md1|76a0|[Circle_ani]OK [Cross_ani]Cancelar
+00057.md1|8380|Comprar o item escolhido.[LINE]Confirmar compra?[LINE]Sim[LINE]Não[LINE]
+00057.md1|83c8|Vender o item escolhido.[LINE]Confirmar venda?[LINE]Sim[LINE]Não[LINE]
+00057.md1|8408|O Saco de Comida[LINE]já está cheio.
+00057.md1|8428|Gald insuficiente.
+00057.md1|8450|Encher Saco
+00057.md1|8465| gald enchem [PlaceHolderA] de comida.[LINE]Confirmar?[LINE]Sim[LINE]Não[LINE]
+00057.md1|84a8|Troca de Lens
+00057.md1|84b8|Trocar a lens escolhida por gald.[LINE]Confirmar?[LINE]Sim[LINE]Não[LINE]
+00057.md1|8528|Preço
+00057.md1|8550|Quer ajustar sua lista de porções?[LINE]Sim[LINE]Não[LINE]
+00057.md1|8588|Vender Lens
+00057.md1|8598|Equipar
+00057.md1|85a0|Saco Comida
+00057.md1|85b0|Encher
+00057.md1|8658|Comida Restante
+00057.md1|8668|Custo
+00057.md1|8698|Encher
+00057.md1|86a8|Cancel.
+00058.md1|2250|[Circle_ani]OK [Cross_ani]Cancelar
+00058.md1|2270|[Circle_ani]Mudar Tática [Cross_ani]Voltar
+00059.md1|575d|[PlaceHolderA] está com [PlaceHolderB],[LINE]tirar dele?[LINE]Tirar e Equipar[LINE]Cancelar
+00059.md1|57a8|[TAG_007]Não dá para tirar [PlaceHolderA].
+00059.md1|57d8|[TAG_007]Não dá para tirar essa arma.
+00059.md1|5800|[TAG_007]Não dá para tirar [PlaceHolderA] na batalha.
+00059.md1|5838|[TAG_007]Não dá para equipar [PlaceHolderA] na batalha.
+00059.md1|5870|[TAG_007]Não dá para tirar únicos.
+00059.md1|5898|[TAG_007][PlaceHolderA] está com [PlaceHolderB],[LINE]tirar dele?[LINE]Tirar e Equipar[LINE]Trocar.[LINE]Cancelar
+00059.md1|5968|[Circle_ani]Disp. Swordian [Square_ani]Próx. Pág. [L1_ani][R1_ani]Personagem
+00059.md1|59a8|[Circle_ani]Disp. Swordian [Square_ani]Próx. Pág.
+00059.md1|59d0|[Square_ani]Próx. Pág. [L1_ani][R1_ani]Personagem
+00059.md1|5a08|[Circle_ani]Escolher [Triangle_ani]Desfazer [Square_ani]Pág. [L1_ani][R1_ani]Personagem
+00059.md1|5a48|[Circle_ani]Escolher [Triangle_ani]Desfazer [Square_ani]Pág.
+00059.md1|5ab0|[Circle_ani]Escolher [Cross_ani]Voltar [Square_ani]Pág.
+00059.md1|5b78|Usando:[PlaceHolderC]
+00060.md1|5d45|On/Off [Cross_ani]Voltar [L1_ani][R1_ani]Swordian
+00060.md1|5d78|[Circle_ani]On/Off [Cross_ani]Voltar
+00060.md1|eac0|Proficiência:
+00060.md1|ead0|Proficiência:
+00060.md1|eb10|Nv:[PlaceHolderB]
+00060.md1|eb20|Pontos Disp.
+00061.md1|61ad|Escolher [Cross_ani]Voltar [Triangle_ani]Tirar [L1_ani][R1_ani]Personagem [Select_ani]Modo
+00061.md1|61f0|[Circle_ani]Usar Arte [Cross_ani]Voltar [Square_ani]On/Off [L1_ani][R1_ani]Personagem [Select_ani]Modo
+00061.md1|6240|[Cross_ani]Voltar [Square_ani]On/Off [L1_ani][R1_ani]Personagem [Select_ani]Modo
+00061.md1|6280|[Circle_ani]Escolher [Cross_ani]Voltar [Triangle_ani]Tirar [Select_ani]Modo
+00061.md1|62b0|[Circle_ani]Usar [Cross_ani]Voltar [Square_ani]On/Off [Select_ani]Modo
+00061.md1|62e8|[Square_ani]On/Off [Cross_ani]Sair [Select_ani]Modo
+00061.md1|6310|[Circle_ani]OK [Cross_ani]Voltar [Triangle_ani]Tirar [L1_ani][R1_ani]Trocar
+00061.md1|6348|[Circle_ani]Usar Arte [Cross_ani]Voltar [Square_ani]On/Off [L1_ani][R1_ani]Personagem
+00061.md1|6388|[Square_ani]On/Off [Cross_ani]Voltar[L1_ani][R1_ani]Personagem
+00061.md1|63b8|[Circle_ani]OK[Cross_ani]Voltar[Triangle_ani]Tirar
+00061.md1|63d8|[Circle_ani]Usar Arte [Cross_ani]Voltar [Square_ani]On/Off
+00061.md1|6400|[Square_ani]On/Off [Cross_ani]Voltar
+00061.md1|6450|Atalho
+00061.md1|6478|[Circle_ani]OK [Cross_ani]Voltar
+00061.md1|64c8|Semiauto
+00061.md1|6508|Uso
+00062.md1|7895|Usar [Cross_ani]Voltar
+00062.md1|78a8|[Circle_ani]Equipar [Cross_ani]Sair
+00062.md1|78c8|[Circle_ani]Usar [Cross_ani]Cancelar
+00062.md1|78e8|[Circle_ani]Escolher [Cross_ani]Cancelar [Left+Right_blink]Qtd
+00062.md1|7910|[Circle_ani]OK [Cross_ani]Cancelar
+00062.md1|7930|[Cross_ani]Voltar [Triangle_ani]Jogar Fora [Square_ani]Info [L1_ani][R1_ani]Categoria
+00062.md1|7988|Porção
+00062.md1|7998|Joia
+00062.md1|79a0|Único
+00062.md1|79b0|Armad.
+00062.md1|79b8|Arma
+00062.md1|86b0|Usar?[LINE]
+00062.md1|86c0|Ok[LINE]Não[LINE]
+00062.md1|86d0|[PlaceHolderA] em uso,[LINE]não dá para jogar fora.
+00062.md1|86f8|Não dá: [PlaceHolderA]
+00062.md1|8770|[PlaceHolderA] acabou.
+00062.md1|8788|Energia divina te protege.
+00062.md1|87b0|Seu corpo se cobre de maldade.
+00062.md1|8800|Usar
+00062.md1|8808|Equipar
+00062.md1|8810|Disp.
+00062.md1|8820|Rerise
+00062.md1|8858|Largar
+00062.md1|8860|Cancel.
+00062.md1|8878|Usar
+00062.md1|8880|Cancel.
+00062.md1|88a0|Quem vai usar?
+00062.md1|88d8|Quem vai equipar?
+00063.md1|8b98|[Up+Down_blink]Escolher [Cross_ani]Voltar [Square_ani]Info [L1_ani][R1_ani]Categoria
+00063.md1|8bd0|Nível Grupo
+00063.md1|8be8|Falta
+00063.md1|8bf8|Tem
+00063.md1|8c18|Precisa
+00063.md1|8c70|Usando: [PlaceHolderC]
+00063.md1|8c80|Joia
+00063.md1|8c88|Armad.
+00063.md1|8c90|Arma
+00063.md1|8d28|[Up+Down_blink]Escolher [Cross_ani]Voltar [Square_ani]Info [L1_ani][R1_ani]Categoria
+00063.md1|8da0|[TAG_007]Usar Rerise para[LINE]virar [PlaceHolderA]?[LINE][S14]([PlaceHolderB] será perdido)[TAG_002][LINE]Sim[LINE]Não
+00063.md1|8df0|[TAG_007]Falta lens para o Rerise.
+00063.md1|8e20|[TAG_007]Não cabe mais [PlaceHolderA].
+00063.md1|8e50|[TAG_007]Você ganhou [PlaceHolderA].
+00063.md1|8e78|[TAG_007][PlaceHolderA] não evolui mais.
+00063.md1|8eb0|[TAG_007]Não cabe mais [PlaceHolderA].
+00063.md1|8f58|[Up+Down_blink]Escolher [Circle_ani]OK [Cross_ani]Voltar [Square_ani]Info
+00063.md1|8fb8|[TAG_007]Usar Rerise para[LINE]virar [PlaceHolderA]?[LINE][S14]([PlaceHolderB] será perdido)[TAG_002][LINE]Sim[LINE]Não
+00063.md1|9008|[TAG_007]Falta lens para o Rerise.
+00063.md1|9038|[TAG_007]Não cabe mais [PlaceHolderA].
+00063.md1|9068|[TAG_007]Você ganhou [PlaceHolderA].
+00063.md1|9090|[TAG_007][PlaceHolderA] não evolui mais.
+00063.md1|90c8|[TAG_007]O nível do grupo não chegou[LINE]ao nível do Rerise.
+00063.md1|9110|Arco L.
+00063.md1|9118|Soqueira
+00063.md1|9128|Cordas
+00063.md1|9130|Concha
+00063.md1|9138|Armad.
+00063.md1|9148|Peito
+00063.md1|9158|Túnica
+00063.md1|9160|Capa
+00063.md1|9178|[TAG_007]Para usar Rerise em [PlaceHolderA][LINE]você precisa completar [turquoise][PlaceHolderB][/color][LINE]no Livro Colecionador
+00063.md1|91e0|[TAG_007]Precisa de [PlaceHolderA] para virar [PlaceHolderB].
+00063.md1|92c8|[Up+Down_blink]Escolher [Circle_ani]OK [Cross_ani]Voltar [Square_ani]Info
+00067.md1|ea0|[Cross_ani]Voltar [L3_ani][R3_ani]Trocar
+00067.md1|ed8|Feito
+00067.md1|ee8|HP Cura
+00067.md1|ef0|Comida
+00067.md1|f00|Vezes Feito
+00067.md1|f10|Combinação
+00068.md1|2e80|[Cross_ani]Voltar [Square_ani]Info [L1_ani][R1_ani]Categoria [L3_ani][R3_ani]Trocar
+00068.md1|2ee0|Visto
+00068.md1|2ef0|Visto
+00068.md1|2f08|Visto
+00068.md1|2f18|Visto
+00068.md1|2f28|Visto
+00068.md1|2f38|Visto
+00068.md1|2f48|Visto
+00068.md1|2f70|Saco Comida
+00068.md1|2f90|Frigid.
+00068.md1|2fb0|Fita
+00068.md1|2fb8|Bandana
+00068.md1|2fc8|Adaga
+00068.md1|2fd0|Arco L.
+00068.md1|2fd8|Pingen.
+00068.md1|2fe0|Luvas
+00068.md1|2ff0|Bracel.
+00068.md1|2ff8|Único
+00068.md1|3008|Joia
+00068.md1|3018|Capa
+00068.md1|3028|Túnica
+00068.md1|3030|Peito
+00068.md1|3040|Armad.
+00068.md1|3050|Concha
+00068.md1|3058|Soqueira
+00068.md1|3068|Cordas
+00068.md1|3080|Espada
+00068.md1|3088|Porção
+00068.md1|30a8|Ferram.
+00068.md1|30b0|De Uso
+00068.md1|3190|Efeitos Espec.
+00069.md1|9b8|[Cross_ani]Voltar [L3_ani][R3_ani]Trocar
+00069.md1|9f0|Visto
+00072.md1|2110|[Circle_ani]OK [Cross_ani]Cancelar
+00072.md1|2130|[Circle_ani]OK [Cross_ani]Sair [Left+Right_blink]Saco/Lista
+00072.md1|2160|[Circle_ani]Trocar [Left_blink]Saco
+00072.md1|2180|[Circle_ani]Trocar [Triangle_ani]Tirar [Select_ani]Inserir [Right_blink]Lista
+00072.md1|3640|Não dá para tirar todas as porções.
+00072.md1|3680|Inserir
+00072.md1|36b8|Se várias porções cumprirem a regra,[LINE]a de cima é a que será feita.
+00073.md1|2060|[Circle_ani]Confirmar
+00073.md1|2070|[Circle_ani]On/Off
+00073.md1|2080|[Circle_ani]Próx.
+00073.md1|3118|Começar assim
+00073.md1|3180|Começar um Novo Jogo[LINE]com estas opções?[LINE]Sim[LINE]Não
+00073.md1|31d0|Você pode começar o jogo[LINE]escolhendo as opções que quiser.[LINE]Até [TAG_015] disponíveis.
+00073.md1|3228|Herda estes dados:[LINE]<$99><$A2>Livros[LINE]<$99><$A2>Vezes cozinhadas[LINE]<$99><$A2>Títulos[LINE]<$99><$A2>Usos de artes
+00073.md1|3278|Ganhe estes itens-chave
+00073.md1|3298|Ganhe estas joias
+00073.md1|32b8|Ganhe estes itens
+00073.md1|32d8|Bem-vindo a uma nova aventura!
+00073.md1|32f8|Herda porções e comida máxima.[LINE]Aproveite de barriga cheia na estrada.
+00073.md1|3360|Herdar Porções
+00073.md1|3380|Herda as Artes que você aprendeu.[LINE]"Espera, essa espada parece familiar..."[LINE]Nem precisa fazer pacto de novo.
+00073.md1|3408|Herdar Artes
+00073.md1|3418|O dano cai para 1/40, mas reduz[LINE]seu HP máximo! Ele não volta,[LINE]então use por sua conta e risco.
+00073.md1|34b0|Modo Sobreviv.
+00073.md1|34c8|Aperte [Select_ani] para trocar de personagem.[LINE]Útil para dominar Golpes Certeiros.
+00073.md1|3548|Modo Seletor
+00073.md1|3560|Seu grupo fica só com o líder.[LINE]É duro, mas dobra seu CC![LINE]Para quem gosta de jogar RPG sozinho.
+00073.md1|35e8|Modo Solo
+00073.md1|3600|Aliados e inimigos caem bem mais devagar.[LINE]Pode ser difícil coordenar combos,[LINE]mas seu potencial aumentou.
+00073.md1|3690|Gravidade Baixa
+00073.md1|36a8|Movimentos não gastam mais CC.[LINE]Dá para pular ou recuar a cada ataque.
+00073.md1|3730|Movimento Livre
+00073.md1|3740|Aumenta o CC base dos personagens conforme[LINE]a dificuldade. Use se pretende jogar[LINE]sem modificações.
+00073.md1|37c8|Extensão de Combo
+00073.md1|37e0|Pontos Usados
+00073.md1|37f0|Pontos Livres
+00075.md1|1da0|[Circle_ani]Compra [Cross_ani]Sair [Left+Right_blink]Qt [Square_ani]Info
+00075.md1|1dd0|[Circle_ani]OK [Cross_ani]Cancelar
+00075.md1|1df0|Não cabe mais nenhuma Joia.
+00075.md1|1e28|Pontos
+00075.md1|1e60|Trocar pontos pelo item escolhido.[LINE]Tem certeza?[LINE]Sim[LINE]Não
+02990.md1|8b8|Stahn, seu idiota!
+02990.md1|8e8|É-É uma longa... história...?
+02990.md1|918|Então o que faz num lugar desses?
+02990.md1|958|Do que está falando? Eu não esqueci!
+02990.md1|998|...Não me diga... Esqueceu??
+02990.md1|9c0|Promessa...?
+02990.md1|9d0|Lembra da sua promessa? Foi muito inspiradora!
+02990.md1|a00|Ei, maninho!
+02990.md1|a20|...Lilith? O que faz aqui?
+02990.md1|a48|Fujam como ratos ou enfrentem a morte![LINE]Escolham!
+02990.md1|a90|Por que vocês, tolos, estão[LINE]andando em círculos?
+00054.md1|b308|Masmorras
+00054.md1|b318|Cidades

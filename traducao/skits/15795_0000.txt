@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Escute, <Stahn>. Voc@ n;o pode repetir
+uma palavra do que conversamos.
+[ENDBLOCK]
+Eu sei. N;o vou dizer nada. Eles nunca
+v;o saber que voc@ junta lentes pra...
+[ENDBLOCK]
+S}RIO!? Eu disse nem uma palavra!
+[ENDBLOCK]
+D-Desculpa.
+[ENDBLOCK]
+Esse cara bate bem da cabe|a...?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

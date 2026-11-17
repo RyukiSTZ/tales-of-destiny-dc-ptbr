@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A espada que a <Rutee> Katrea carrega...
+Acha mesmo que = uma Swordian?
+[ENDBLOCK]
+N;o tenho certeza absoluta. Vamos ter
+que ir l# descobrir.
+[ENDBLOCK]
+Provavelmente vamos encontrar uma velha
+amiga sua. N;o est# animado?
+[ENDBLOCK]
+Bem, entre as Swordians, sou o mais novo, ent;o...
+[ENDBLOCK]
+N;o consigo deixar de ficar nervoso de
+rev@-los depois de tanto tempo.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Acho que as Swordians tamb=m j#
+foram humanas, afinal...<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

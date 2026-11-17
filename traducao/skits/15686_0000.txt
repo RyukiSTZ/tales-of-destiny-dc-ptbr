@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ei, <Dymlos>?
+[ENDBLOCK]
+O que foi agora?
+[ENDBLOCK]
+Voc@ n;o sente as coisas? Sabe, tipo calor ou frio?
+[ENDBLOCK]
+Seria bem dif\cil cumprirmos
+nosso papel se sent\ssemos.
+[ENDBLOCK]
+Ent;o mesmo eu te segurando
+agora, voc@ n;o sente...?
+[ENDBLOCK]
+Hmmm... Ainda n;o entendo como
+as Swordians funcionam...
+[ENDBLOCK]
+N;o se preocupe. Eu ainda n;o entendo
+como o seu c=rebro funciona.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

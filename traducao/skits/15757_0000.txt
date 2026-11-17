@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Eu disse que ia escrever pra casa, mas...
+n;o sei o que escrever.
+[ENDBLOCK]
+N;o posso contar tudo, afinal.
+[ENDBLOCK]
+Imagino que bastaria dizer
+que voc@ est# bem.
+[ENDBLOCK]
+Acho que s^ isso j# basta pra
+deixar sua fam\lia tranquila.
+[ENDBLOCK]
+Ah, faz sentido!
+[ENDBLOCK]
+...Querido vov_ e <Lilith>...
+Acabei de chegar a Neustadt...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

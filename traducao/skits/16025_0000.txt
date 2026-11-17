@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o, como = conversar com uma espada?
+[ENDBLOCK]
+Acho que n;o = t;o diferente de
+conversar com uma pessoa.
+[ENDBLOCK]
+No come|o foi estranho, mas
+acabei me acostumando.
+[ENDBLOCK]
+Faz sentido.
+[ENDBLOCK]
+Mas talvez n;o queira fazer isso em p{blico.
+[ENDBLOCK]
+As pessoas podem achar que voc@ = louco.
+[ENDBLOCK]
+Acho que = meio tarde pra isso...<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

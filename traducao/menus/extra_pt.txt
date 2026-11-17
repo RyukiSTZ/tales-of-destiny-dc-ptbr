@@ -1,0 +1,11 @@
+00062.md1|7970|Usando:
+00062.md1|7980|Chave
+00062.md1|79c0|Itens
+00062.md1|79c8|Novos
+00057.md1|8518|Preço
+00057.md1|8520|Tem
+00057.md1|8378|Qtd
+00057.md1|83c0|Qtd
+00057.md1|85b8|Vender
+00057.md1|85c0|Comprar
+00057.md1|85c8|Nada

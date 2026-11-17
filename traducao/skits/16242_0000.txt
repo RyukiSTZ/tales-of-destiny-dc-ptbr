@@ -1,0 +1,13 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Credo, estou com sede...
+[ENDBLOCK]
+} porque voc@ n;o para de tagarelar.
+[ENDBLOCK]
+Talvez eu possa te oferecer isto pra beber?<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

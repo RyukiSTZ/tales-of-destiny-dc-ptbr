@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pessoal, terminei de polir suas gemas.
+Isso deve deix#-las mais eficazes.
+[ENDBLOCK]
+Bom trabalho, <Mary>. Voc@ = muito confi#vel.
+[ENDBLOCK]
+Muito obrigada.
+[ENDBLOCK]
+Mas <Mary>, tem certeza disso?
+Polir gemas d# muito trabalho.
+[ENDBLOCK]
+Quando se acostuma, = muito divertido.
+N;o precisam se preocupar comigo.
+[ENDBLOCK]
+Entendi. Se = assim, continue
+com o bom trabalho.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

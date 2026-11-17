@@ -1,0 +1,1408 @@
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<King>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>, I
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Conto com voc@s para investigar
+o Templo de Straylize.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ deve ir ao Templo de
+Straylize o quanto antes.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Fa|a o que for preciso para
+recuperar o Olho de Atamoni.
+Conto com voc@.
+[ENDBLOCK]
+Obrigado pelos seus esfor|os.
+Nos vemos na sua volta.
+[ENDBLOCK]
+Conto com voc@, <Lion>.
+[ENDBLOCK]
+...Recuperar o Olho de Atamoni = nossa
+prioridade n{mero um. N;o se esque|a.
+[ENDBLOCK]
+<Hugo>... voc@ me enganou
+esse tempo todo?
+[ENDBLOCK]
+Mestres Swordian, salvem Cresta.
+[ENDBLOCK]
+Pessoal, sei que est;o cansados,
+mas, por favor, v;o ver o <Reynolds>.
+[ENDBLOCK]
+Nosso pa\s far# tudo o que estiver
+ao nosso alcance para apoi#-los.
+[ENDBLOCK]
+Providenciei para que fiquem na
+hospedaria da cidade. Descansem bem.
+[ENDBLOCK]
+Fizemos tudo o que pod\amos. Agora
+depende de voc@s, meus amigos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dryden>
+[ENDBLOCK]
+
+[ENDBLOCK]
+N;o podemos, de jeito nenhum, deixar
+de atender ao que Sua Majestade espera.
+[ENDBLOCK]
+Cresta = uma cidade a leste
+da capital real.
+[ENDBLOCK]
+Quando chegarem $ cidade, procurem
+os soldados que deixamos l#.
+[ENDBLOCK]
+Se os Sete Generais estivessem
+aqui, isso n;o teria
+acontecido.
+[ENDBLOCK]
+Pensando bem, o envio dos Sete
+Generais tamb=m foi ideia do
+<Hugo>.
+[ENDBLOCK]
+Por causa do <Hugo>, infelizmente,
+me tornei inimigo do meu pa\s.
+[ENDBLOCK]
+Vou enviar ajuda militar imediatamente.
+Preciso que aguentem at= l#.
+[ENDBLOCK]
+O <Reynolds> quer falar com voc@s.
+[ENDBLOCK]
+A entrada do laborat^rio fica
+no p#tio do castelo.
+Tenham cuidado.
+[ENDBLOCK]
+Estamos mandando pedidos a todas
+as cidades do pa\s e
+coletando lentes.
+[ENDBLOCK]
+Sinto muito por pedir
+tanto de voc@s.
+[ENDBLOCK]
+A opera|;o est# marcada para
+amanh; de manh;.
+[ENDBLOCK]
+Acredito que sair;o vitoriosos,
+Mestres Swordian.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Soldado
+[ENDBLOCK]
+Esta = a sala
+do trono.
+[ENDBLOCK]
+Pessoal, sigam depressa
+para o p#tio.
+[ENDBLOCK]
+Por favor, sigam at= o trono
+de Sua Majestade.
+[ENDBLOCK]
+<Hugo>
+[ENDBLOCK]
+O navio que providenciei estar#
+atracado no porto de Darilsheid.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dalis>
+[ENDBLOCK]
+Tome cuidado l# fora, <Mary>.
+[ENDBLOCK]
+Cuide da <Mary>
+por mim, <Woodrow>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Por favor, cuide da <Mary>.
+Deixe Phandaria comigo.
+[ENDBLOCK]
+O Rei Aetheriano, <Miktran>...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Sim. Ele se autoproclamou governante
+dos Aetherianos e = o {nico
+respons#vel por esta crise.
+[ENDBLOCK]
+O roubo do Olho de Atamoni pelo <Lion>...
+e o ataque do <Hugo> $ Terra...
+[ENDBLOCK]
+A Aetherosfera escondendo o c=u...
+At= a rebeli;o do <Greybum>...
+[ENDBLOCK]
+Est# dizendo que tudo isso
+fazia parte do plano do <Miktran>?
+[ENDBLOCK]
+Conte-me mais sobre esse Rei Aetheriano.
+[ENDBLOCK]
+Numa s^ palavra: avassalador.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Uma aura de for|a inimagin#vel
+emanava dele. Ele controlava
+o <Belserius> com facilidade.
+[ENDBLOCK]
+Nunca vi nada igual.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+S^ nos restou fugir.
+Ele era forte demais.
+[ENDBLOCK]
+Se ao menos tiv=ssemos recuperado
+o Olho... Nunca me senti
+t;o incompetente.
+[ENDBLOCK]
+A culpa n;o = sua. Nosso pa\s
+= que deve responder por isso.
+[ENDBLOCK]
+N;o termos visto quem o <Hugo>
+realmente era e nossa confian|a cega
+nele = o que nos trouxe at= aqui.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Fayte>
+[ENDBLOCK]
+Em vez de remoer o passado,
+pensem no que est# por vir.
+[ENDBLOCK]
+Por obra do destino, os l\deres
+dos tr@s pa\ses est;o presentes.
+[ENDBLOCK]
+Devemos formar uma alian|a
+entre nossas na|`es e pensar
+em contramedidas.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Outra Guerra de Aeth'er...
+[ENDBLOCK]
+Se tiverem alguma sugest;o de
+como agir, Mestres Swordian,
+gostaria de ouvi-la.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Vamos subir de novo.
+[ENDBLOCK]
+Quantas vezes forem precisas. N;o vamos
+desistir at= derrotar o <Miktran>.
+[ENDBLOCK]
+Certo, <Dymlos>?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Sim, isso mesmo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Reynolds>
+[ENDBLOCK]
+P-Pessoal...
+[ENDBLOCK]
+<Reynolds>?
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Voc@s est;o todos machucados.
+O que aconteceu?
+[ENDBLOCK]
+Sinto muito, mas Radisrol caiu...!
+[ENDBLOCK]
+O qu@?
+[ENDBLOCK]
+Demos o nosso melhor, mas no fim
+eles nos sobrepujaram...
+[ENDBLOCK]
+Nem conseguimos mais
+usar o elevador de
+gravidade zero.
+[ENDBLOCK]
+O que aconteceu com o <Ritora>?
+[ENDBLOCK]
+O comandante est#...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Tratem dos ferimentos dele!
+[ENDBLOCK]
+Se Radisrol caiu mesmo, n;o
+temos como voltar.
+[ENDBLOCK]
+N;o pode ser...!
+[ENDBLOCK]
+Perdoem a interrup|;o.
+} uma emerg@ncia!
+[ENDBLOCK]
+O que foi agora!?
+[ENDBLOCK]
+As tropas em Cresta est;o
+pedindo refor|os!
+[ENDBLOCK]
+Uma horda de monstros desceu do
+c=u. Eles est;o sendo atacados!
+[ENDBLOCK]
+Cresta?
+[ENDBLOCK]
+<Miktran>!
+[ENDBLOCK]
+<center>N;o basta nos jogar na escurid;o,
+ele quer nos exterminar tamb=m.
+[ENDBLOCK]
+Ser# que ele mirou de prop^sito
+num lugar de defesa fraca?
+[ENDBLOCK]
+N;o pode ser... Isso s^
+pode ser brincadeira!
+[ENDBLOCK]
+Preciso fazer alguma coisa.
+Tenho que voltar agora!
+[ENDBLOCK]
+Sozinha voc@ n;o pode com a horda.
+Vou come|ar a preparar refor|os
+imediatamente.
+[ENDBLOCK]
+N;o d# pra confiar que v;o
+chegar a tempo!<x00><x00><x00><x00>
+[ENDBLOCK]
+Espera, <Rutee>! Eu
+vou com voc@!
+[ENDBLOCK]
+<Stahn>...
+[ENDBLOCK]
+N;o s^ eu...
+mas todos n^s.
+[ENDBLOCK]
+A situa|;o atual
+= grave.
+[ENDBLOCK]
+Seria melhor que todos n^s
+cuid#ssemos disso. Podemos
+agir r#pido.
+[ENDBLOCK]
+...Muito bem. Deixo com voc@s.
+Enviaremos nossas tropas assim
+que estiverem prontas.
+[ENDBLOCK]
+Eu vou com voc@s.
+[ENDBLOCK]
+<Johnny>?
+[ENDBLOCK]
+Voc@s precisam de toda ajuda poss\vel.
+Mesmo que seja pouca, vou
+emprestar minha for|a.
+[ENDBLOCK]
+Al=m disso, n;o d# pra ter uma
+equipe de verdade sem algu=m
+de Aquaveil, n;o =?
+[ENDBLOCK]
+J# conversamos sobre isso. Por favor,
+n;o hesitem em contar comigo.
+[ENDBLOCK]
+Obrigado, isso ajuda
+muito.
+[ENDBLOCK]
+Certo. Vamos correndo
+para Cresta!
+[ENDBLOCK]
+<Dalis>!
+[ENDBLOCK]
+Que bom que voc@ est# bem.
+Fiquei preocupada.
+[ENDBLOCK]
+Voc@ tamb=m parece
+bem, <Mary>.
+[ENDBLOCK]
+<Dalis>, n;o esperava voc@.
+O que est# acontecendo no nosso pa\s?
+[ENDBLOCK]
+Conseguimos conter os ataques
+de monstros em nossas terras.
+[ENDBLOCK]
+Entendo... Fico aliviada
+em ouvir isso.
+[ENDBLOCK]
+Vim aqui porque me pediram para
+fazer uma entrega para o Sr. <Darzen>.
+[ENDBLOCK]
+Lembra do drag;o que atacou
+o castelo durante a {ltima
+revolta do <Greybum>?
+[ENDBLOCK]
+Com algumas modifica|`es, foi
+poss\vel mont#-lo. N^s o chamamos
+de "Avitus Draconis". 
+[ENDBLOCK]
+Incr\vel... Nem achei que
+isso fosse poss\vel.
+[ENDBLOCK]
+Embora pare|a com o Draconis,
+ele n;o consegue voar
+a grandes altitudes.
+[ENDBLOCK]
+"Use-o como achar melhor. Confio que
+Vossa Majestade o usar# com sabedoria."
+[ENDBLOCK]
+Essa = a mensagem
+do Sr. <Darzen>.
+[ENDBLOCK]
+Ele est# estacionado fora
+da cidade. Vale a pena
+ver com seus pr^prios olhos.
+[ENDBLOCK]
+...Entendo. Vou fazer
+bom uso dele.
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+<center>Esse "Avitus Draconis" deve deixar
+as viagens mais eficientes.
+[ENDBLOCK]
+<center>Talvez possamos us#-lo para ir
+ao Laborat^rio Swordian.
+[ENDBLOCK]
+Sinto que os ventos do destino
+est;o come|ando a mudar.
+[ENDBLOCK]
+Geralmente = a\ que
+a sorte aparece.
+[ENDBLOCK]
+Obrigado, <Dalis>!
+[ENDBLOCK]
+N;o esqueci o que voc@
+me disse, <Woodrow>.
+[ENDBLOCK]
+Ent;o volte em seguran|a...
+Em seguran|a para a nossa terra,
+Phandaria.
+[ENDBLOCK]
+...Eu prometo.
+[ENDBLOCK]
+Equipe Swordian. Isso quer dizer
+que temos um plano de a|;o?
+[ENDBLOCK]
+Primeiro, vamos ao Laborat^rio
+Swordian para ficarmos mais fortes.
+[ENDBLOCK]
+Depois disso, vamos a Junkland
+buscar o Berselium.
+[ENDBLOCK]
+Enquanto isso, vou trabalhar
+no Canh;o Integrado de Lentes
+no p#tio do castelo.
+[ENDBLOCK]
+Com a ajuda de Sua Excel@ncia <Dryden>,
+est;o sendo feitos preparativos para
+nos ajudar a conseguir lentes.
+[ENDBLOCK]
+J# estamos pedindo a todas as cidades
+e vilas do pa\s que ofere|am
+suas lentes.
+[ENDBLOCK]
+Entendo. Meu pa\s far# tudo
+o que estiver ao seu alcance para
+apoiar voc@s.
+[ENDBLOCK]
+Me sinto mal por n;o poder fazer
+nada eu mesmo, mas n;o vou
+poupar esfor|os para ajudar.
+[ENDBLOCK]
+Conto com voc@s, pessoal.
+[ENDBLOCK]
+Certo. Ent;o vamos para
+o Laborat^rio Swordian!
+[ENDBLOCK]
+Todos da Equipe Swordian.
+Obrigado por todo o esfor|o.
+[ENDBLOCK]
+O Canh;o Integrado de Lentes est# pronto.
+Enfim, estamos prontos para contra-atacar.
+[ENDBLOCK]
+Vamos iniciar a opera|;o
+amanh; de manh;.
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Amanh;...
+[ENDBLOCK]
+Amanh;!
+[ENDBLOCK]
+Por isso, gostaria que todos
+tivessem uma boa noite de sono.
+[ENDBLOCK]
+Providenciei para que fiquem
+na pousada da cidade. Espero
+que descansem bem.
+[ENDBLOCK]
+Sei que querem muito voltar para
+visitar suas terras, mas n;o
+temos tempo. Sinto muito.
+[ENDBLOCK]
+N;o, senhor. Obrigado pela preocupa|;o.
+[ENDBLOCK]
+Bom, vamos para a cidade por ora.
+Ficar batendo papo diante do
+trono = falta de respeito.
+[ENDBLOCK]
+Ah, Sr. <Lion>.
+Finalmente
+voltou.
+[ENDBLOCK]
+O rei j# foi se deitar.
+E ent;o, como foi a investiga|;o?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Consegui confirmar a
+exist@ncia dos monstros
+poderosos e desconhecidos.
+[ENDBLOCK]
+Entendo. Ent;o vou enviar
+as tropas imediatamente.
+[ENDBLOCK]
+N;o, n;o ser# necess#rio.
+[ENDBLOCK]
+Creio que eliminei todos
+os monstros que estavam
+na regi;o.
+[ENDBLOCK]
+Ora, ora, tudo
+sozinho, hein?
+[ENDBLOCK]
+N;o, o <Chaltier> me ajudou.
+[ENDBLOCK]
+Hmm, entendo. Como se
+espera de um Swordian.
+[ENDBLOCK]
+Vou relatar seu excelente trabalho
+a Sua Majestade em seu nome.
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Fico meio sem gra|a quando
+o <Dryden> elogia a gente...
+[ENDBLOCK]
+O <Chaltier> tamb=m ficou muito contente.
+[ENDBLOCK]
+Mudando de assunto, Sr. <Lion>.
+Faz ideia de onde os
+monstros vieram?
+[ENDBLOCK]
+Todos eles sa\ram
+do oceano.
+[ENDBLOCK]
+Talvez algo tenha acontecido
+no fundo do oceano.
+[ENDBLOCK]
+Entendo. Vou mandar investigar
+esse assunto. Obrigado pela
+ajuda, Sr. <Lion>.
+[ENDBLOCK]
+Vou me retirar agora.
+[ENDBLOCK]
+Um momento, <Lion>.
+[ENDBLOCK]
+O que =, senhor?
+[ENDBLOCK]
+Em breve, os Sete Generais v;o
+fazer uma reuni;o. E ent;o...?
+[ENDBLOCK]
+...E ent;o o qu@, senhor?
+[ENDBLOCK]
+Como Cavaleiro Andante, sua
+participa|;o nos assuntos internos
+do castelo foi limitada at= agora.
+[ENDBLOCK]
+Por isso, gostaria de apresent#-lo
+aos outros Generais.
+[ENDBLOCK]
+Tem certeza de que quer
+que eu esteja l#?
+[ENDBLOCK]
+Posso entender essa resposta
+como um sim?
+[ENDBLOCK]
+Sim, com certeza, senhor!
+[ENDBLOCK]
+Entendo. Est# ficando tarde. Vamos
+continuar esta conversa amanh;.
+[ENDBLOCK]
+Muito bem. J#
+estou indo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x98><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x98><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x9C><x00><x80>
+<x18><x65><x58><xA0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x84><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+Majestade, apresento-lhe
+os Sete Generais.
+[ENDBLOCK]
+Faz meses que n;o reunimos
+todos voc@s assim.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Leen>
+[ENDBLOCK]
+E ent;o, Majestade? O que
+quer desta vez!?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lewein>
+[ENDBLOCK]
+<Leen>, como ousa falar assim
+com Sua Majestade?
+[ENDBLOCK]
+Hahahaha. N;o se importe. <Leen>,
+voc@ n;o mudou nada.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Melina>
+[ENDBLOCK]
+Majestade, talvez n;o devesse
+mimar tanto o <Leen>.
+[ENDBLOCK]
+Leen
+[ENDBLOCK]
+Olha s^, Srta. <Melina>.
+Querendo tomar o poder, =?
+[ENDBLOCK]
+Idiota! N;o foi isso que eu-
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Ashley>
+[ENDBLOCK]
+Vamos, voc@s dois, calma.
+Est# na cara que o <Leen> gosta de voc@.
+[ENDBLOCK]
+} por isso que ele vive
+implicando com voc@.
+[ENDBLOCK]
+Para com isso! S^ de pensar
+me d# arrepios!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Ascus>
+[ENDBLOCK]
+Achei que fosse o sonho de
+toda mulher o <Leen> se
+apaixonar por ela!
+[ENDBLOCK]
+Isso mesmo, <Ascus>!
+Bem dito, senhor!
+[ENDBLOCK]
+Voc@s est;o na presen|a
+do rei! Comportem-se!
+[ENDBLOCK]
+Enfim, Majestade, como o <Leen>
+tamb=m perguntou, por que motivo
+o senhor nos reuniu assim?
+[ENDBLOCK]
+} errado eu n;o
+ter um motivo?
+[ENDBLOCK]
+N;o foi isso que
+eu quis dizer!
+[ENDBLOCK]
+Algu=m se encrencou~!
+[ENDBLOCK]
+Ora, <Leen>!
+Diga alguma coisa, <Ascus>!
+[ENDBLOCK]
+Eu mesmo estou bem ocupado. Se
+n;o h# motivo, ent;o...
+[ENDBLOCK]
+Pela Deusa, at= o <Ascus>!
+[ENDBLOCK]
+Calma, <Melina>.
+[ENDBLOCK]
+Hahaha! Voc@s t@m raz;o. Eu devia
+ter pensado nisso desde o come|o.
+[ENDBLOCK]
+Portanto, vou cham#-los de
+novo numa outra ocasi;o,
+menos atarefada.
+[ENDBLOCK]
+Majestade...
+[ENDBLOCK]
+Pe|o desculpas. Est;o
+dispensados.
+[ENDBLOCK]
+Nunca pensei que o mundo
+ficaria assim.
+[ENDBLOCK]
+N^s vamos resolver
+isso, prometo.
+[ENDBLOCK]
+N;o, n;o = isso...
+[ENDBLOCK]
+Lamento muito n;o
+ter um herdeiro.
+[ENDBLOCK]
+Herdeiro...?
+[ENDBLOCK]
+O sucessor de Sua Majestade.
+[ENDBLOCK]
+N;o tenho d{vida de que voc@s v;o
+devolver ao mundo sua antiga gl^ria...
+[ENDBLOCK]
+Mas n;o sei se algum dia vou poder
+ver este pa\s em paz de novo com
+meus pr^prios olhos.
+[ENDBLOCK]
+Como esperado, ele...
+[ENDBLOCK]
+Algu=m! Tragam a <Queen>
+e o <Ashley> aqui.
+[ENDBLOCK]
+<Ashley>, apresentando-se.
+[ENDBLOCK]
+Pe|o desculpas por
+cham#-lo aqui.
+[ENDBLOCK]
+<Ashley>, voc@ foi chamado aqui
+hoje por um {nico motivo.
+[ENDBLOCK]
+Eu e a <Queen> conversamos sobre
+este assunto h# bastante tempo.
+[ENDBLOCK]
+Serei direto. Voc@ aceita
+se tornar meu herdeiro?
+[ENDBLOCK]
+O qu@...?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Queen>
+[ENDBLOCK]
+Meu marido e eu n;o fomos
+aben|oados com filhos. Por isso...
+[ENDBLOCK]
+T-Tem certeza de que = uma boa ideia?
+[ENDBLOCK]
+Sem d{vida. Originalmente eu
+tinha oferecido isto ao <Finlay>.
+[ENDBLOCK]
+Se voc@ = mesmo o irm;o
+mais novo do <Finlay>, = a
+{nica escolha ^bvia.
+[ENDBLOCK]
+<S12>(...de novo, meu irm;o...)
+[ENDBLOCK]
+O que me diz?
+[ENDBLOCK]
+E ent;o, <Ashley>?
+[ENDBLOCK]
+<S12>(...Eu...n;o sou um substituto...)
+[ENDBLOCK]
+Agora, queremos ouvir sua resposta.
+[ENDBLOCK]
+Sinto muito, Majestade. Temo que
+devo recusar sua oferta.
+[ENDBLOCK]
+Por que, <Ashley>?
+
+[ENDBLOCK]
+Com sua licen|a...
+[ENDBLOCK]
+<Ashley>...
+[ENDBLOCK]
+Nunca pensei que o mundo ficaria
+assim. Se ao menos o irm;o dele
+estivesse aqui...
+[ENDBLOCK]
+Ele sempre mantinha a compostura,
+mas sei que em sua alma havia
+uma paix;o ardente.
+[ENDBLOCK]
+<Dryden>, de quem
+voc@ est# falando?
+[ENDBLOCK]
+<Lion>.
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+<Lion>, ele = amigo do
+meu irm;o, n;o =?
+[ENDBLOCK]
+T#, t#.
+[ENDBLOCK]
+O <Hugo> era um homem
+insaci#vel, mas...
+[ENDBLOCK]
+Eu tinha grandes esperan|as no <Lion>.
+[ENDBLOCK]
+Mas agora ele est# morto!
+[ENDBLOCK]
+Sempre achei que voc@
+detestava o <Lion>, Sr. <Dryden>.
+[ENDBLOCK]
+N;o = verdade.
+[ENDBLOCK]
+Eu pensava que poderia me aposentar
+quando ele amadurecesse um pouco mais.
+[ENDBLOCK]
+T\nhamos planejado que o
+<Lion> fosse o novo
+S=timo General.
+[ENDBLOCK]
+O <Lion> como general!?
+[ENDBLOCK]
+Mas esse sonho
+quase se apagou...
+[ENDBLOCK]
+Ele sempre mantinha a compostura,
+mas sei que em sua alma havia
+uma paix;o ardente. 
+[ENDBLOCK]

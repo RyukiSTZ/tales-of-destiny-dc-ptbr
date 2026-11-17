@@ -1,0 +1,1803 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+オブジェクト操作モード開始
+Debug※（<TAG_065>）～（<TAG_067>）（<TAG_066>）～<TAG_068>）
+
+[ENDBLOCK]
+オブジェクト操作開始
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+引数で与えられたパラメータ→<TAG_047>, <TAG_048>, <TAG_049>
+
+[ENDBLOCK]
+オブジェクト操作モード終了
+[ENDBLOCK]
+オブジェクト操作終了
+
+[ENDBLOCK]
+オブジェクト再選択
+
+[ENDBLOCK]
+ステータス選択
+
+[ENDBLOCK]
+フォグステータス
+[ENDBLOCK]
+<TAG_007>フォグ始点距離：<D_FOG_START>
+フォグ終点距離：<D_FOG_END>
+始点のフォグ率：<D_FOG_RATE_START>
+終点のフォグ率：<D_FOG_RATE_END>
+フォグカラー赤：<D_FOG_COLOR_R>
+フォグカラー緑：<D_FOG_COLOR_G>
+フォグカラー青：<D_FOG_COLOR_B>
+
+[ENDBLOCK]
+<TAG_069>のステータス
+[ENDBLOCK]
+
+[ENDBLOCK]
+座標(x) = <D_COORD_X>
+座標(y) = <D_COORD_Y>
+座標(z) = <D_COORD_Z>
+色値(赤) = <D_COLOR_R>
+色値(緑) = <D_COLOR_G>
+色値(青) = <D_COLOR_B>
+色値(α) = <D_COLOR_A>
+拡大率(x) = <D_ZOOM_X>
+拡大率(y) = <D_ZOOM_Y>
+拡大率(z) = <D_ZOOM_Z>
+拡大率(a) = <D_ZOOM_A>
+角度(x) = <D_ANGLE_X>
+角度(y) = <D_ANGLE_Y>
+角度(z) = <D_ANGLE_Z>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+空
+[ENDBLOCK]
+<grey1>空（存在しません）</color>
+[ENDBLOCK]
+
+[ENDBLOCK]
+外殻
+[ENDBLOCK]
+<grey1>外殻（存在しません）</color>
+[ENDBLOCK]
+
+[ENDBLOCK]
+雲１
+[ENDBLOCK]
+<grey1>雲１（存在しません）</color>
+[ENDBLOCK]
+
+[ENDBLOCK]
+雲２
+[ENDBLOCK]
+<grey1>雲２（存在しません）</color>
+[ENDBLOCK]
+オブジェクト選択
+[ENDBLOCK]
+<x18><x66><x1C><x00><x80>（<x17><x66><x10><x1B><x70><x08><xAB><x20><x8B><x80>）
+<TAG_052>（<x17><x66><x10><x1B><x70><x08><xAB><x21><x8B><x80>）
+<TAG_053>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x02><x8B><x80>）
+<TAG_054>（<x17><x66><x10><x1B><x70><x08><xAB><x24><x03><x8B><x80>）
+
+[ENDBLOCK]
+<TAG_070>(<TAG_071>, <TAG_072> x <TAG_074> + <TAG_033>)
+
+[ENDBLOCK]
+ステータス選択
+[ENDBLOCK]
+座標
+色値
+拡大率
+角度
+
+[ENDBLOCK]
+<TAG_073>, <TAG_072>
+
+[ENDBLOCK]
+不正なオブジェクト
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の座標(x)→<TAG_078>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の座標(z)→<TAG_080>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の座標(y)→<TAG_079>
+
+[ENDBLOCK]
+<TAG_054>の座標
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+加算 = <TAG_051>
+
+[ENDBLOCK]
+番号（<TAG_033>）：座標(x) = <TAG_078>
+座標(y) = <TAG_079>
+座標(z) = <TAG_080>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+加算変更→<TAG_050>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(赤)→<TAG_036>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(緑)→<TAG_037>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(青)→<TAG_038>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の色値(α)→<TAG_039>
+
+[ENDBLOCK]
+<TAG_054>の色値
+[ENDBLOCK]
+※128が標準の色値です
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+色値(赤) = <TAG_036>
+色値(緑) = <TAG_037>
+色値(青) = <TAG_038>
+色値(α) = <TAG_039>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(x)→<TAG_040>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(y)→<TAG_041>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(z)→<TAG_042>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の拡大率(a)→<TAG_043>
+
+[ENDBLOCK]
+<TAG_054>の拡大率
+[ENDBLOCK]
+※4096が標準のサイズです
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+拡大率(x) = <TAG_040>
+拡大率(y) = <TAG_041>
+拡大率(z) = <TAG_042>
+拡大率(a) = <TAG_043>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の角度(x)→<TAG_044>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の角度(y)→<TAG_045>
+<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の角度(y)→<TAG_045>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+過去の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+現在の角度(z)→<TAG_046>
+
+[ENDBLOCK]
+<TAG_054>の回転角度
+[ENDBLOCK]
+※360度＝4096です
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+番号（<TAG_033>）、人番号（<TAG_034>）
+角度(x) = <TAG_044>
+角度(y) = <TAG_045>
+角度(z) = <TAG_046>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Menino
+[ENDBLOCK]
+Ei, mo|o!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Eu?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+<TAG_007>O que voc@ quer?
+N;o tenho assunto com crian|as.
+[ENDBLOCK]
+Que tipo de comida
+voc@ costuma comer?
+[ENDBLOCK]
+...H;...
+[ENDBLOCK]
+Que resposta foi
+essa? "H;;;"!
+[ENDBLOCK]
+N;o seja assim. Escuta!
+[ENDBLOCK]
+Ontem, quando n;o comi meus
+legumes, minha m;e ficou brava!
+[ENDBLOCK]
+Ela disse: "Voc@ n;o vai
+crescer se n;o comer
+os legumes".
+[ENDBLOCK]
+Ent;o tenho uma pergunta pra voc@.
+[ENDBLOCK]
+Tem alguma comida
+de que voc@ n;o gosta?
+[ENDBLOCK]
+N;o sou muito exigente, mas...
+n;o gosto nada de doce.
+[ENDBLOCK]
+Ah, = mesmooo~?
+[ENDBLOCK]
+Sim, = mesmo. Voc@
+n;o acredita?
+[ENDBLOCK]
+Eu vi voc@ encarando a barraca
+de Sorvete Cremoso, sabia.
+[ENDBLOCK]
+Eu estava... encarando
+com nojo, s^ isso!
+[ENDBLOCK]
+Hmmm... Ent;o, basicamente,
+eu cres|o se comer
+muito doce!
+[ENDBLOCK]
+<x17><x24><x0B><x14><x2F><x80>, <x17><x28><x44><x02><x14><x2F><x80>
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ah, =, nem n^s nem o
+<Lion> chegamos a comer
+aquele Sorvete Cremoso...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Barraca de Sorvete Cremoso
+[ENDBLOCK]
+Bem-vindos. Qual
+v;o querer?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ah, deixa pra l#. N;o
+quero nada.
+[ENDBLOCK]
+H;? Juro que j# ouvi essa
+antes em algum lugar.
+[ENDBLOCK]
+Ah, =! Foi pouco antes de a
+cidade ser atacada por monstros.
+[ENDBLOCK]
+Era meio baixinho e um
+tanto bonitinho tamb=m.
+[ENDBLOCK]
+
+[ENDBLOCK]
+...?
+[ENDBLOCK]
+Disse que n;o queria nada,
+mas n;o parava de olhar a barraca.
+[ENDBLOCK]
+Isso parece...!
+[ENDBLOCK]
+Acho que tem cara que acha que
+gostar de doce n;o = coisa de homem.
+[ENDBLOCK]
+}, isso com certeza parece
+algu=m que eu conhe|o...
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+reset---------
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Se ao menos eu achasse um
+homem com um f\sico perfeito
+e sem camisa!
+[ENDBLOCK]
+Ah! Voc@! Ningu=m
+al=m de voc@ serve!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+H;? T# falando comigo?
+[ENDBLOCK]
+Sei que = de repente, mas eu
+me apaixonei pelos seus m{sculos!
+[ENDBLOCK]
+Ha, ha, ha...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Cada um com seu gosto. Fico feliz
+por voc@, <Kongman>.
+[ENDBLOCK]
+Voc@ tamb=m n;o, <Philia>!
+[ENDBLOCK]
+Droga, eu n;o sou assim!
+[ENDBLOCK]
+Ah, n;o, senhor. Por favor, n;o
+me entenda mal.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Diretor Novato
+[ENDBLOCK]
+Sou diretor de teatro.
+[ENDBLOCK]
+Nosso ator principal est# doente,
+ent;o precisamos de um substituto!
+[ENDBLOCK]
+Ent;o voc@ quer o <Kongman>
+como substituto?
+[ENDBLOCK]
+Sim, isso mesmo.
+[ENDBLOCK]
+Que demais,
+<Kongman>!
+[ENDBLOCK]
+T# de brincadeira! Eu sou o
+Campe;o, n;o o substituto de
+nenhum astro mimado!
+[ENDBLOCK]
+Por favor! Meu futuro
+como diretor de teatro
+est# em jogo.
+[ENDBLOCK]
+<Kongman>, n;o = ^timo? Eu adoro
+apresenta|`es de teatro.
+[ENDBLOCK]
+B-Bom, se a <Philia> quer tanto
+me ver atuar, ent;o
+que seja!
+[ENDBLOCK]
+Eu... n;o iria t;o longe...
+[ENDBLOCK]
+S=rio!? Muito
+obrigado!
+[ENDBLOCK]
+Bom, vamos l#!
+[ENDBLOCK]
+O qu@, vai ser agora?
+[ENDBLOCK]
+Sim! O p{blico j#
+est# esperando!
+[ENDBLOCK]
+T# de brincadeira...
+[ENDBLOCK]
+N;o se preocupe, n;o tem
+falas. } s^ atuar como eu mandar.
+[ENDBLOCK]
+Certo, depressa! A pe|a
+vai come|ar!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+Atue conforme as instru|`es
+do diretor.
+[ENDBLOCK]
+Depois que o Diretor der as instru|`es,
+aperte o bot;o de atua|;o certo enquanto
+o rel^gio corre, e voc@ vai conseguir.
+[ENDBLOCK]
+A atua|;o funciona assim.
+[ENDBLOCK]
+<Triangle_ani> Pedido de casamento
+<Circle_ani> Pose triunfante
+<Cross_ani> Rir
+<Square_ani> Chorar
+[ENDBLOCK]
+} s^ isso. Quer ver a
+explica|;o de novo?
+[ENDBLOCK]
+Sim
+N;o
+[ENDBLOCK]
+Assim que voc@ entrar l#,
+a pe|a vai come|ar.
+[ENDBLOCK]
+Vou te dirigir daqui.
+[ENDBLOCK]
+} s^ seguir minhas
+instru|`es. Entendeu?
+[ENDBLOCK]
+O qu@? Tudo bem. Sei
+que voc@ consegue.
+[ENDBLOCK]
+Certo, = a sua vez!
+[ENDBLOCK]
+Arrasa!
+[ENDBLOCK]
+Boa sorte!
+[ENDBLOCK]
+ret <x17><x66><x14><x03><xE8><x80><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Atriz
+[ENDBLOCK]
+Oh, pobre de mim, aprisionada
+nesta torre medonha!
+[ENDBLOCK]
+Quando, oh, quando meu Pr\ncipe
+Encantado vir# me levar
+para uma vida melhor?
+[ENDBLOCK]
+Oh! Quem seria voc@?
+[ENDBLOCK]
+Certo, de joelhos!
+Fa|a ela se apaixonar por voc@!
+[ENDBLOCK]
+Ser#? }s tu o meu pr\ncipe, que
+vieste me salvar do cativeiro?
+[ENDBLOCK]
+Agora! Mostre a ela como
+voc@ = forte!
+[ENDBLOCK]
+Aah! Que maravilha!
+[ENDBLOCK]
+Depressa, leva-me
+para longe daqui!
+[ENDBLOCK]
+Certo, de novo! Pose de gal;!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ator
+[ENDBLOCK]
+Tu a\! N;o ouses tocar
+nela nem com um dedo!
+[ENDBLOCK]
+Q-Quem =s tu...?
+[ENDBLOCK]
+Sou apenas um homem perdidamente
+apaixonado por ti, embora seja
+um mero filho de lavrador.
+[ENDBLOCK]
+Minha raz;o sabe que jamais
+poder\amos ficar juntos, mas meu
+cora|;o n;o te deixa partir!
+[ENDBLOCK]
+Tens mesmo tanto amor
+no cora|;o por mim?
+[ENDBLOCK]
+Ent;o deixemos de lado o que a
+sociedade pensa! O que temos
+juntos = amor verdadeiro!
+[ENDBLOCK]
+Por favor, salva-me,
+de corpo e alma!
+[ENDBLOCK]
+Hei de proteger-te
+com minha vida, senhora!
+[ENDBLOCK]
+...Sim!
+[ENDBLOCK]
+Numa hora dessas, s^
+resta dar risada!
+[ENDBLOCK]
+Mas a\ a realidade bate, e
+voc@ n;o aguenta!
+[ENDBLOCK]
+Uau! Foi espl@ndido!
+[ENDBLOCK]
+Aposto que voc@ pode ser ator
+principal um dia! Uma estrela!
+[ENDBLOCK]
+Bom, para uma primeira
+apresenta|;o, at=
+que foi bom.
+[ENDBLOCK]
+Por favor, volte a se juntar a n^s.
+[ENDBLOCK]
+Gostaria de subir ao
+palco de novo?
+Sim
+N;o
+[ENDBLOCK]
+Ent;o vou explicar
+de novo.
+[ENDBLOCK]
+Vou ficar esperando.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Gostaria de provar um
+Sorvete Cremoso? } a
+especialidade de Neustadt!
+[ENDBLOCK]
+Aquele ataque do outro dia acabou
+com a minha barraca.
+[ENDBLOCK]
+Mas n;o podemos perder a
+especialidade da cidade
+por causa disso!
+[ENDBLOCK]
+Bem-vindos!
+Hoje est# extracremoso!
+[ENDBLOCK]
+As vendas n;o andam
+boas ultimamente.
+[ENDBLOCK]
+Acho que n;o = hora de
+vender Sorvete Cremoso.
+[ENDBLOCK]
+No fim, n;o tive coragem
+de fechar. Continuem
+o bom trabalho!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Viajante
+[ENDBLOCK]
+Perdi todo o meu Gald na arena.
+N;o consigo nem comprar almo|o agora!
+[ENDBLOCK]
+Vou ter que contar com o que
+eu pescar. Ah! Ser# que
+mordeu!?
+[ENDBLOCK]
+Achei que tinha pegado um peixe...
+Acho que foi s^
+impress;o.
+[ENDBLOCK]
+Bom, ainda bem que este lugar
+voltou a funcionar t;o r#pido.
+[ENDBLOCK]
+Se eu pescasse no porto,
+os pescadores me olhariam
+torto.
+[ENDBLOCK]
+Voc@s ouviram uma voz vindo
+de algum lugar? Me deu
+um susto.
+[ENDBLOCK]
+Pescar tamb=m = bem perigoso.
+Nunca se sabe quando
+um monstro vai atacar.
+[ENDBLOCK]
+Voc@s est;o juntando lentes?
+Pra que v;o usar
+elas?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+Tem uma mo|a muito simp#tica no bairro baixo.
+Ser# que consigo me aproximar dela?
+[ENDBLOCK]
+Espero que aquela mo|a do bairro baixo
+n;o tenha se machucado na confus;o...
+[ENDBLOCK]
+Aquela garota me viu com
+a minha irm; outro dia...
+[ENDBLOCK]
+Espero que ela n;o
+entenda errado.
+[ENDBLOCK]
+Como ser# que ela est# agora?
+Quero ir ver como ela est#,
+mas... hmmm.
+[ENDBLOCK]
+Ouvi dizer que ir ao bairro
+baixo anda perigoso.
+[ENDBLOCK]
+Hmm... O que eu fa|o?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Queria que acabassem com a arena.
+Odeio lidar com aqueles arruaceiros.
+[ENDBLOCK]
+Foi esta pra|a que
+sofreu os maiores
+danos.
+[ENDBLOCK]
+Mas foi sorte os danos ficarem
+concentrados. Assim foi mais
+f#cil consertar.
+[ENDBLOCK]
+A Srta. <Ilene> = condescendente demais
+com o pessoal do bairro baixo. Eu
+diria umas verdades a eles.
+[ENDBLOCK]
+Desde que Neustadt esteja segura,
+n;o me importa o resto.
+[ENDBLOCK]
+Esta situa|;o = mesmo
+terr\vel.
+[ENDBLOCK]
+Tem certeza de que s^ quer lentes?
+Tamb=m posso dar dinheiro, sabia?
+[ENDBLOCK]
+Ent;o, por favor, por favor, por favor!
+Por favor, nos ajudem!
+[ENDBLOCK]
+Pare de me encarar.
+Me deixe em paz!
+[ENDBLOCK]
+Minha barraca de Sorvete Cremoso
+voltou. Estou t;o feliz!
+[ENDBLOCK]
+Tive que comprar outro Sorvete Cremoso
+porque derreteu com toda a
+agita|;o.
+[ENDBLOCK]
+Tem mais crian|as do bairro baixo
+andando por aqui esses dias.
+[ENDBLOCK]
+Parece que s^ Neustadt
+= atacada!
+[ENDBLOCK]
+Quero pedir ao papai pra gente
+se mudar pra um lugar mais claro.
+[ENDBLOCK]
+O papai diz que eu devo me dar bem
+com as crian|as do bairro baixo. Por qu@?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Crian|a Pobre
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Espero que aquela mo|a
+gentil esteja bem...
+[ENDBLOCK]
+N;o tenho visto aquela mo|a
+gentil ultimamente...
+[ENDBLOCK]
+Eu tamb=m quero ir pra um mundo novo.
+Tenho certeza de que seria feliz.
+[ENDBLOCK]
+O que ser# que est# acontecendo
+em cima daquela coisa no
+c=u?
+[ENDBLOCK]
+Eu tamb=m juntei lentes.
+Espero que sejam
+{teis.
+[ENDBLOCK]
+S;o 60 Gald cada.
+
+[ENDBLOCK]
+<TAG_007>Gald total: <TAG_031>
+[ENDBLOCK]
+<TAG_007>Comprar
+N;o quero
+Trocar palito premiado
+[ENDBLOCK]
+Obrigada.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ n;o pode carregar
+mais <ITEM_006>.
+[ENDBLOCK]
+Parece que voc@ n;o tem
+Gald suficiente.
+[ENDBLOCK]
+Voc@ tem um palito premiado. Vou
+trocar por <ITEM_006>.
+[ENDBLOCK]
+Obrigado pela prefer@ncia.
+[ENDBLOCK]
+Se tiver <ITEM_070>, posso
+trocar pra voc@.
+[ENDBLOCK]
+Esta = a barraca de Sorvete Cremoso
+de que a <Mary> falou, n=?
+[ENDBLOCK]
+Com licen|a, pode me
+dar cinco, por favor?
+[ENDBLOCK]
+Quais sabores voc@s
+v;o querer?
+[ENDBLOCK]
+Nossa, tem muita
+op|;o. Hmm,
+qual ser#...
+[ENDBLOCK]
+Hmmm, qual eu escolho?
+[ENDBLOCK]
+O cl#ssico de moca ou o de
+cereja limitado? Qual eu
+escolho...? Ai, ai...
+[ENDBLOCK]
+Ei, qual voc@
+escolheria?
+[ENDBLOCK]
+H;? Eu?
+[ENDBLOCK]
+Eu? Com certeza
+iria de baunilha.
+[ENDBLOCK]
+Por que baunilha? Voc@ me ouviu
+dizer moca ou cereja, n=?
+[ENDBLOCK]
+Se n;o d# pra decidir entre duas
+op|`es, a resposta = uma
+terceira op|;o... n=?
+[ENDBLOCK]
+Entendi. Eu n;o tinha
+pensado nisso...
+[ENDBLOCK]
+Certo, ent;o vou querer
+um de baunilha, por favor!
+[ENDBLOCK]
+Ah, eu tamb=m.
+Cinco de baunilha!
+[ENDBLOCK]
+Desculpe a demora.
+Aqui est;o cinco de baunilha.
+[ENDBLOCK]
+Hmm, delicioso! O sabor baunilha
+daqui = mesmo o melhor!
+[ENDBLOCK]
+Basta uma visita a este lugar e
+nenhum outro se compara!
+[ENDBLOCK]
+<Stahn>, quer que eu
+ajude a carregar?
+[ENDBLOCK]
+N;o, tudo bem.
+[ENDBLOCK]
+Nossa, esses s;o seus
+companheiros? Voc@s
+dois s;o t;o fofos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Assim voc@ me deixa sem gra|a. Obrigado.
+[ENDBLOCK]
+Hmm...? Aquelas crian|as...
+[ENDBLOCK]
+Ei~ Voc@s tamb=m
+querem?
+[ENDBLOCK]
+Senhor, quero um para cada uma
+destas crian|as, por favor. Todas elas.
+[ENDBLOCK]
+Tem certeza, mo|a?
+[ENDBLOCK]
+Claro. Afinal, = melhor comer
+com todo mundo.
+[ENDBLOCK]
+Aqui est#, pessoal!
+Sorvete Cremoso, por minha conta!
+[ENDBLOCK]
+Ei, sem empurrar! Tem
+pra todo mundo.
+[ENDBLOCK]
+Que pessoa legal.
+[ENDBLOCK]
+Pois =.
+[ENDBLOCK]
+H#! Voc@ acha?
+[ENDBLOCK]
+Tem certeza de que uma rica|a daquelas
+n;o est# s^ se deliciando com a
+sensa|;o de superioridade?
+[ENDBLOCK]
+<Rutee>...?
+[ENDBLOCK]
+} melhor voltarmos logo. O
+Sorvete Cremoso vai derreter.
+[ENDBLOCK]
+F; do <Kongman>
+[ENDBLOCK]
+O Campe;o est# passando!
+Aten|;o, todo mundo, por favor!
+[ENDBLOCK]
+Ah! } o <Kongman>!
+[ENDBLOCK]
+<Kongman>...?
+[ENDBLOCK]
+Iii! <Kongman>!
+[ENDBLOCK]
+Garota
+[ENDBLOCK]
+<Kongman>!
+[ENDBLOCK]
+E a\, crian|ada. Voc@s
+est;o aguentando firme?
+[ENDBLOCK]
+Ora, que gracinha!
+Deve ser bom dar esmola
+pros pobres!
+[ENDBLOCK]
+N;o vejo isso como caridade.
+[ENDBLOCK]
+N;o pense que pode comprar tudo
+com dinheiro, <Ilene> <Rembrandt>!
+[ENDBLOCK]
+Aposto que voc@ compraria a alma de todo
+mundo em Fitzgald se pudesse!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<Ilene> <Rembrandt>? <Stahn>,
+esse nome com certeza =...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+J# expliquei as inten|`es da
+Companhia Oberon a voc@
+muitas vezes.
+[ENDBLOCK]
+Investimos nossos recursos na
+esperan|a de desenvolver Fitzgald.
+[ENDBLOCK]
+H#! Voc@s s^ querem lucrar!
+Quem mora aqui desde o
+come|o continua pobre!
+[ENDBLOCK]
+Isso... mas... n^s...!
+[ENDBLOCK]
+Hunf. O que voc@s de Seinegald
+sabem sobre Fitzgald?
+[ENDBLOCK]
+Forasteiro n;o tem nada a fazer aqui.
+Andem logo e sumam daqui!
+[ENDBLOCK]
+Ei... Voc@ n;o pode dizer isso!
+[ENDBLOCK]
+N;o se deve julgar
+algu=m por causa
+de onde ele vem!
+[ENDBLOCK]
+O que voc@ tem com isso, garoto?
+T# querendo me dar serm;o?
+[ENDBLOCK]
+<Stahn>... talvez seja melhor
+n;o nos metermos?
+[ENDBLOCK]
+Mas...
+[ENDBLOCK]
+V-Voc@...! Voc@ =...!
+[ENDBLOCK]
+Ah, de fato, meus olhos s;o aben|oados
+por contempl#-la, bela donzela...
+[ENDBLOCK]
+Quem, e-eu?
+[ENDBLOCK]
+Meu cora|;o! Est# disparado!
+Voc@ = exatamente o
+meu tipo!
+[ENDBLOCK]
+T#...?
+[ENDBLOCK]
+Aceita dividir um energ=tico
+comigo? Ou podemos fazer
+agachamentos juntos!
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+<center>Ora, ora. Que galanteador
+esse sujeito.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+<center>A personalidade dele mudou
+completamente...
+[ENDBLOCK]
+H;? H;, = que, hum, eu...
+[ENDBLOCK]
+Para com isso, voc@ est#
+assustando a <Philia>!
+[ENDBLOCK]
+N;o se mete, garoto! O que ela = sua?
+[ENDBLOCK]
+A <Philia> = minha amiga!
+[ENDBLOCK]
+Entendo...
+[ENDBLOCK]
+Parece que voc@ e eu
+estamos destinados a lutar!
+[ENDBLOCK]
+Eu te desafio para um duelo!
+Te espero na minha arena!
+[ENDBLOCK]
+Por que temos que duelar!?
+[ENDBLOCK]
+<center><Stahn>, voc@ n;o precisa entrar no jogo.
+N;o temos tempo para brincadeiras.
+[ENDBLOCK]
+Perdeu a coragem, garoto?
+Essa espada na sua cintura
+est# cega demais?
+[ENDBLOCK]
+O que voc@ disse, seu insolente-!?
+[ENDBLOCK]
+Se voc@ for homem de verdade, vai duelar!
+SE voc@ for homem de verdade, claro!
+[ENDBLOCK]
+T# bom... Se isso importa
+tanto pra voc@, eu topo!
+[ENDBLOCK]
+<center>Vou fazer voc@ se arrepender de me insultar.
+<Stahn>, vamos acabar com ele!
+[ENDBLOCK]
+<Philia>, por favor, n;o deixe de
+assistir. Depois, vamos brindar
+$ minha vit^ria!
+[ENDBLOCK]
+<center><Dymlos>... Se voc@ n;o vai impedi-lo,
+o que n^s vamos fazer?
+[ENDBLOCK]
+Argh... mas...
+[ENDBLOCK]
+Fa|am o que quiserem.
+N;o me incomoda.
+[ENDBLOCK]
+Desculpe, <Stahn>.
+Por minha causa,
+voc@...
+[ENDBLOCK]
+A culpa n;o = sua, <Philia>.
+Fui eu que decidi.
+[ENDBLOCK]
+Ent;o, onde fica a
+arena, afinal?
+[ENDBLOCK]
+Seguindo a rua principal da
+cidade ao norte, tem uma
+entrada no fim.
+[ENDBLOCK]
+Obrigado. Vou pra
+l# agora.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Meu Sorvete Cremoso...
+[ENDBLOCK]
+...Ah. Derreteu.
+[ENDBLOCK]
+Bem-vindo. Qual sabor
+vai querer?
+[ENDBLOCK]
+...Senhor?
+[ENDBLOCK]
+Com licen|a, senhor!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+<center>Mestre <Lion>, n;o fique com vergonha.
+Voc@ queria vir aqui.
+[ENDBLOCK]
+} verdade...
+[ENDBLOCK]
+Com licen|a. Vou querer
+um Sorvete Cremo-
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mo|a
+[ENDBLOCK]
+Aaahhh!
+[ENDBLOCK]
+O que foi?
+[ENDBLOCK]
+U-Um monstro...!
+[ENDBLOCK]
+<center>Mestre <Lion>, precisamos
+ajud#-la!
+[ENDBLOCK]
+HAAAH!
+[ENDBLOCK]
+Muito obrigado!
+[ENDBLOCK]
+<center>Estou preocupado com o resto
+da cidade. Vamos depressa!
+[ENDBLOCK]
+<TAG_007>Gald total: <TAG_033>
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><xC8><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x59><xB8><x00><x80><x18><x65><x59><xBC><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><xEC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><xE8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x49><xDC><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x49><xDC><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><xE0><x00><x80>
+<x18><x65><x59><xE4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+<TAG_007>ウェブサイトで入力する
+連動IDとゲームパスワードを忘れてしまった場合は
+フィッツガルドにあるTravelerの小屋で
+確認する事ができます。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x49><xC8><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

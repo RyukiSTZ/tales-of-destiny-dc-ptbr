@@ -1,0 +1,10 @@
+*.iso
+*.ISO
+*.BIN
+*.TBL
+*.42
+*.md1
+*.pak*
+*.tm2
+*.xdelta
+__pycache__/

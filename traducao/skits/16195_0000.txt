@@ -1,0 +1,40 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Certo, ent;o aqui o <Dymlos> diz..
+[ENDBLOCK]
+"...Fez bem em vir at= aqui, <Stahn>"...
+[ENDBLOCK]
+...A\ eu respondo, hum...
+[ENDBLOCK]
+"Eu sentia que nos encontrar\amos um dia...
+Talvez at= assim..."
+[ENDBLOCK]
+Hmm, ser# que digo assim mesmo?
+[ENDBLOCK]
+Entendo... Ent;o n;o preciso
+dizer meu nome.
+[ENDBLOCK]
+Quer ensaiar junto?
+[ENDBLOCK]
+Ah! Sr. <Dymlos>! Quanto tempo!
+[ENDBLOCK]
+Faz mesmo. Quando sou espada, gravam
+minhas falas no est{dio, sabe?
+[ENDBLOCK]
+Quase n;o vejo ningu=m.
+[ENDBLOCK]
+Hahaha, =, a gente quase n;o se encontra!
+Devemos agradecer pela chance!
+[ENDBLOCK]
+Afinal, esta = a {nica cena do jogo em que o <Stahn>
+e o <Dymlos> se encontram cara a cara.
+[ENDBLOCK]
+Ah! Sr. <Dymlos>! Quanto tempo!
+[ENDBLOCK]
+Opa! Se n;o = a <Rutee>! Como vai?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

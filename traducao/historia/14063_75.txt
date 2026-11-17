@@ -1,0 +1,1256 @@
+×××××<x9A>
+[ENDBLOCK]
+<xD4>空開始××××××
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Crian|a
+[ENDBLOCK]
+*snif*
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+O que houve?
+[ENDBLOCK]
+Meu pai... Ele nunca me diz
+nada de bom...
+[ENDBLOCK]
+Vamos, n;o chore.
+...Anime-se!
+[ENDBLOCK]
+Coitado...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Deixa pra l#. Temos
+trabalho a fazer.
+[ENDBLOCK]
+Mas, <Lion>...
+[ENDBLOCK]
+Voc@ = muito malvado! Voc@ n;o
+sabe nada sobre-
+[ENDBLOCK]
+Claro que n;o sei.
+Como eu saberia?
+[ENDBLOCK]
+Voc@ n;o entende o seu
+pr^prio pai e espera
+que eu entenda?
+[ENDBLOCK]
+<Lion>, ele = s^ uma crian|a,
+voc@ devi-
+[ENDBLOCK]
+<Stahn>, fique quieto.
+[ENDBLOCK]
+Ele = um completo estranho pra voc@,
+mesmo sendo seu pai.
+[ENDBLOCK]
+M-Mas o papai n;o...
+[ENDBLOCK]
+Se ele n;o vai mudar, ent;o cabe
+a voc@ mudar o seu jeito
+de pensar.
+[ENDBLOCK]
+Sim... Essa = a
+coisa certa a fazer...
+[ENDBLOCK]
+<Lion>...?
+[ENDBLOCK]
+Eu... Eu n;o entendo nada!!
+[ENDBLOCK]
+Ei, vamos.
+[ENDBLOCK]
+Eu... C-Certo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+
+[ENDBLOCK]
+Uma senha comunit#ria ser# gerada.
+Digitando esta senha no site, voc@
+pode expandir o mundo de Destiny.
+[ENDBLOCK]
+A senha = xxxxxxxxx
+(O site saiu do ar, foi mal).
+[ENDBLOCK]
+Senhas podem ser geradas depois de
+completar eventos e minigames.
+[ENDBLOCK]
+Se esquecer a senha do site
+comunit#rio, ela fica na
+Cabana do Viajante em Fitzgald.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Velho Tagarela
+[ENDBLOCK]
+Mais um encontro {nico na vida.
+Gostaria de descansar?
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+Gostaria de descansar?
+Sim
+N;o
+[ENDBLOCK]
+Passem aqui
+quando quiserem.
+[ENDBLOCK]
+Personaliza|;o de Menu Liberada!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Um novo item, [Tipo de Retrato], foi
+liberado na se|;o Personalizar do
+menu principal.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Para abrir a tela de personaliza|;o: aperte
+<Triangle_ani> para abrir o menu e depois <Select_ani>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+A Tela de Pintura foi liberada.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Interagindo com a tela em branco no
+quarto da <Chelsea>, na cabana do
+<Alba>, voc@ pode ver express`es
+diferentes dos seus amigos.
+[ENDBLOCK]
+A Arte do Rali da Pedra!
+[ENDBLOCK]
+Vale a pena observar este
+quarto de &ngulos diferentes.
+[ENDBLOCK]
+H# pedras por todo o mundo. Elas
+v;o dar o melhor de si para ser
+essa nova possibilidade.
+[ENDBLOCK]
+Terras a leste, cheias de prata.
+Volte para o lado de quem voc@ ama!
+[ENDBLOCK]
+Ou|a as palavras do velho. V# at=
+o <Dalis>. Quem sabe o que voc@
+pode encontrar l#.
+[ENDBLOCK]
+
+[ENDBLOCK]
+oldflag -><x17><x71><x48><x98><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+newflag -><x17><x71><x48><x9C><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+diffflag -><x17><x71><x48><xA0><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+openflag -><x17><x71><x48><xA0><x80>
+
+[ENDBLOCK]
+As senhas do site foram liberadas.
+Novas possibilidades se abriram neste
+mundo. Ou|a com aten|;o o
+Velho Tagarela.
+[ENDBLOCK]
+Agora = poss\vel mudar as
+pedras que caem pelo mundo.
+[ENDBLOCK]
+Numa cabana perto do centro de Fitzgald.
+Examinando os pontos de press;o
+daquele quarto, a pedra muda.
+[ENDBLOCK]
+O evento extra do <Dalis> foi adicionado.
+Vamos para Cyril.
+[ENDBLOCK]
+連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+Se esquecer a senha do jogo
+que digitou no site, pode
+sempre me perguntar.
+[ENDBLOCK]
+Ao completar um evento ou minigame
+no jogo, voc@ pode receber um ID
+de v\nculo e uma senha do jogo.
+[ENDBLOCK]
+Digitando esta senha no site, voc@
+pode expandir o mundo de Destiny.
+[ENDBLOCK]
+Se esqueceu o ID e a senha que digitou
+no site, fale com o Velho Tagarela
+e escolha a op|;o de confirmar
+seu ID e senha.
+[ENDBLOCK]
+Talvez voc@ possa ver seus amigos
+de um jeito que normalmente n;o v@.
+
+[ENDBLOCK]
+N;o acha que vai ser
+um pouco divertido...?
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Nunca vi seu rosto antes.
+Voc@ = de Fitzgald?
+[ENDBLOCK]
+Meu nome = <Stahn>. Sou
+da vila de Lienea.
+[ENDBLOCK]
+Ora, ora, ora, me chamam de Velho
+Tagarela. Prazer em conhec@-lo.
+[ENDBLOCK]
+O... Velho Tagarela...?
+Bom, prazer em conhecer.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Hmmm. A chance de conhecer algu=m
+pela primeira vez = um evento {nico
+na vida, que deve ser valorizado.
+[ENDBLOCK]
+N;o entendi...?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Ele quer dizer: n;o estrague a primeira
+impress;o quando conhecer algu=m.
+[ENDBLOCK]
+Ahh... Entendi!
+Obrigado!
+[ENDBLOCK]
+Ah, = voc@!
+[ENDBLOCK]
+Fiquei bravo com aquele mo|o
+afeminado que estava com voc@
+antes, lembra?
+[ENDBLOCK]
+Ah... }, bons tempos?
+[ENDBLOCK]
+Voc@ n;o lembra, n=?
+[ENDBLOCK]
+Ah, bom...
+[ENDBLOCK]
+...Desculpa.
+[ENDBLOCK]
+N;o = nada de mais. Mas, s=rio,
+cad@ aquele mo|o afeminado?
+[ENDBLOCK]
+H;...
+[ENDBLOCK]
+Eu queria agradecer a ele!
+[ENDBLOCK]
+S=rio?
+[ENDBLOCK]
+Mudei meu jeito de pensar como ele
+disse, e meu pai mudou tamb=m!
+[ENDBLOCK]
+Ei, voc@ gosta desse "novo" pai?
+[ENDBLOCK]
+Gosto, e acho que = porque
+eu cresci um pouco.
+[ENDBLOCK]
+Ele ainda = meio cabe|a-dura, mas
+agora me mostra um lado mais legal.
+[ENDBLOCK]
+Nosso amigo n;o est# aqui agora,
+mas sei que ele ficaria feliz
+com o que voc@ acabou de me contar.
+[ENDBLOCK]
+S=rio? Ele n;o parece o tipo
+de pessoa que fica feliz
+ouvindo hist^ria de crian|a.
+[ENDBLOCK]
+Esse garoto s^ viu o <Lion> uma vez,
+mas enxerga direto a alma dele...
+[ENDBLOCK]
+Enfim, se virem aquele mo|o
+afeminado de novo, por favor,
+mandem meu obrigado!
+[ENDBLOCK]
+Tchau~
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>D@ a volta pelos fundos!
+[ENDBLOCK]
+<TAG_005>Na hist^ria de Aquaveil, "Shiden" se refere
+a um grande ninja que comandava os raios.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ol#! Voc@s est;o em Shiden, a
+maior na|;o de Aquaveil!
+[ENDBLOCK]
+
+[ENDBLOCK]
+D# pra ver que voc@s n;o s;o
+daqui. S;o contrabandistas? Nada
+de gracinha.
+[ENDBLOCK]
+Procuram uma corda?
+N;o sei onde poderia
+ter alguma.
+[ENDBLOCK]
+Este = o territ^rio de Shiden...
+Ei, que diabos est#
+acontecendo?
+[ENDBLOCK]
+} o terceiro pr\ncipe!
+Que bom ver que o senhor
+est# bem.
+[ENDBLOCK]
+Ah, s;o voc@s! Os amigos
+do jovem!
+[ENDBLOCK]
+Prazer em conhec@-lo, rapaz!
+[ENDBLOCK]
+Pessoal, por favor, protejam
+este mundo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Loja de Itens
+[ENDBLOCK]
+
+[ENDBLOCK]
+Venham dar uma olhada!
+[ENDBLOCK]
+Corda? N;o temos.
+[ENDBLOCK]
+} isto que temos.
+[ENDBLOCK]
+At= agora, n;o afetou
+o meu neg^cio.
+[ENDBLOCK]
+Est# cada vez mais dif\cil
+repor o estoque. Se quiserem
+comprar algo, a hora = agora.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Loja de Acess^rios
+[ENDBLOCK]
+
+[ENDBLOCK]
+Serve pra enfeitar! Serve pra
+usar! Posso oferecer
+umas joias?
+[ENDBLOCK]
+Somos uma Loja de Acess^rios.
+N;o temos corda.
+[ENDBLOCK]
+Mais importante, deem
+uma olhada nas joias.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Loja de Armas
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Confio na nossa sele|;o.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Corda?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Desculpe, mas voc@s v;o ter
+que procurar em outro lugar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+N;o h# obst#culo capaz de esmagar
+o esp\rito do povo de Shiden.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Menino
+[ENDBLOCK]
+O territ^rio de Moreau tem uma frota
+naval incr\vel, a Frota da Cruz Negra!
+[ENDBLOCK]
+Meu pai e eu est#vamos pescando perto
+de uma caverna quando fomos atacados
+por um monstro.
+[ENDBLOCK]
+Depois que conseguimos fugir,
+meu corpo inteiro ficou dormente.
+Foi muito dif\cil voltar
+pra cidade.
+[ENDBLOCK]
+Ouvi dizer que o Lorde <Fayte> do
+territ^rio de Moreau foi capturado.
+[ENDBLOCK]
+Outro dia pedi ao <Johnny> que
+montasse uma frota em Shiden tamb=m.
+[ENDBLOCK]
+Ouvi uma voz estranha no c=u.
+} verdade que isso = obra de
+Seinegald?
+[ENDBLOCK]
+<Johnny>! Eu te imploro.
+Por favor, fa|a alguma coisa!
+[ENDBLOCK]
+Eu imploro, por favor,
+fa|am alguma coisa!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ = o cara, <Johnny>! Eu sabia
+que voc@ ia dar um jeito.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Garota
+[ENDBLOCK]
+N;o tem nada divertido
+pra fazer por aqui?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Eu adoro o Rali da Pedra.
+[ENDBLOCK]
+N;o importa como o mundo mude,
+as pessoas ainda precisam se divertir.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Continue treinando nas
+pedras fora da cidade.
+[ENDBLOCK]
+Estou ensinando esse
+jogo a todo mundo.
+[ENDBLOCK]
+Primeiro, voc@ precisa chutar
+uma pedra pelo menos 32 vezes.
+[ENDBLOCK]
+Vejamos... voc@ precisa chutar
+pelo menos 64 vezes.
+[ENDBLOCK]
+Vejamos... voc@ precisa chutar
+pelo menos 96 vezes.
+[ENDBLOCK]
+Vejamos... voc@ precisa chutar
+pelo menos 128 vezes.
+[ENDBLOCK]
+Uau! Voc@ est# indo muito bem! Agora
+o desafio supremo: pelo menos
+160 vezes.
+[ENDBLOCK]
+Hmmm. Acho que pelo menos mais 48
+vezes v;o resolver.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Rapaz
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+H# uma caverna ao sul da cidade,
+mas n;o entre nela sem cuidado.
+[ENDBLOCK]
+
+[ENDBLOCK]
+O ch;o = inst#vel, h# muitos
+monstros e, se n;o tomar
+cuidado, voc@ nunca mais
+sai de l#.
+[ENDBLOCK]
+...Corda.
+[ENDBLOCK]
+Deve ter alguma
+no porto, n=?
+[ENDBLOCK]
+A caverna ao sul da
+cidade = ligada ao
+territ^rio de Moreau?
+[ENDBLOCK]
+Aquela transmiss;o estranha
+tem a ver com aquela
+forma|;o de rocha estranha
+no c=u, n=?
+[ENDBLOCK]
+Quanto da Terra est# sendo
+puxado pra tapar o c=u?
+[ENDBLOCK]
+H;? Voc@s n;o t@m um livro
+de Registros de Batalha?
+[ENDBLOCK]
+Voc@s parecem fortes o bastante.
+Fiquem com isto.
+[ENDBLOCK]
+Ele ensina a t=cnica eficaz de abater
+monstros, o "Golpe Definitivo".
+[ENDBLOCK]
+Cuidem bem dele.
+[ENDBLOCK]
+Voc@ pode fazer um Golpe Definitivo
+ligando [Golpe Definitivo] em "ON"
+no menu Personalizar, dentro do
+Menu principal.
+[ENDBLOCK]
+Com o Golpe Definitivo em "ON", voc@
+tamb=m pode ver o de cada monstro
+no Livro de Monstros.
+[ENDBLOCK]
+N;o tenho mais nada
+para dar a voc@s.
+[ENDBLOCK]
+N;o tenho nada a
+dizer a voc@s agora.
+[ENDBLOCK]
+Voltem quando tiverem
+aprimorado mais suas habilidades.
+[ENDBLOCK]
+Uau, ent;o isto = Shiden?
+Os pr=dios s;o todos
+t;o diferentes.
+[ENDBLOCK]
+Bom, vamos procurar a
+filial da Oberon daqui,
+como em Calvalese?
+[ENDBLOCK]
+N;o tem nenhuma aqui.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Lembra? Aquaveil tem uma
+pol\tica de isolamento nacional.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Ali#s, tamb=m n;o tem
+Templo de Straylize
+aqui.
+[ENDBLOCK]
+Bom, ent;o, o que
+fazemos agora?
+[ENDBLOCK]
+A <Mary> e eu vamos dar uma volta
+e tentar descobrir informa|`es.
+[ENDBLOCK]
+Voc@s fiquem quietos
+por esta #rea.
+[ENDBLOCK]
+Voc@s v;o ficar bem
+s^ as duas?
+[ENDBLOCK]
+Vamos ficar melhor se formos s^ n^s
+duas. Vamos chamar muita aten|;o
+se formos todos juntos.
+[ENDBLOCK]
+A <Rutee> ainda n;o voltou...
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+O <Tiberius> fez a repress;o
+militar de
+Moreau?
+[ENDBLOCK]
+O porto de Moreau foi bloqueado.
+O que vai ser das nossas rotas comerciais?
+[ENDBLOCK]
+Parece que o <Tiberius> chamou
+um forasteiro como
+conselheiro militar.
+[ENDBLOCK]
+Ouvi falar disso.
+O nome dele era Grey...
+alguma coisa.
+[ENDBLOCK]
+<Greybum>!
+[ENDBLOCK]
+Shh! Sil@ncio!
+[ENDBLOCK]
+Tamb=m h# boatos de
+que o terceiro pr\ncipe
+est# indo para Moreau.
+[ENDBLOCK]
+Ele n;o est# s^ passeando como sempre?
+Aquele libertino sem jeito...
+[ENDBLOCK]
+Ele j# foi uma
+pessoa sensata.
+[ENDBLOCK]
+<center>} poss\vel que tenhamos conseguido
+a informa|;o que quer\amos.
+[ENDBLOCK]
+Ent;o o <Greybum> n;o est# aqui.
+Dev\amos ir conferir
+Moreau.
+[ENDBLOCK]
+Mas como...? Se os portos est;o
+fechados, n;o d# pra usar navio.
+[ENDBLOCK]
+Homem Misterioso
+[ENDBLOCK]
+Dois homens e uma mulher.
+Voc@s devem ser os refor|os.
+[ENDBLOCK]
+H;?
+[ENDBLOCK]
+Voc@s devem ir a Moreau
+imediatamente. Vou avisar
+o Jovem Pr\ncipe.
+[ENDBLOCK]
+H;, voc@ n;o est# nos confundindo
+com outras pessoas?
+[ENDBLOCK]
+De fato, somos os refor|os. Qual =
+o melhor jeito de chegar a Moreau?
+[ENDBLOCK]
+Voc@s podem usar a caverna da mar=.
+H# uma entrada para ela
+ao sul da cidade.
+[ENDBLOCK]
+Certo, entendi.
+[ENDBLOCK]
+O ch;o da caverna = muito
+fr#gil. Por favor, tenham cuidado.
+[ENDBLOCK]
+Tamb=m h# monstros terr\veis vivendo
+l#. Tentem n;o se demorar.
+[ENDBLOCK]
+Voc@ vai simplesmente
+mentir pra ele assim?
+[ENDBLOCK]
+Foi ele quem cometeu um
+erro t;o descuidado.
+[ENDBLOCK]
+Voltamos. Ouvimos umas coisas
+do povo da cidade. Parece
+que o <Greybum> est# em Moreau.
+[ENDBLOCK]
+A gente sabe.
+[ENDBLOCK]
+Bom, ent;o, parece que Moreau est#
+sob repress;o militar.
+[ENDBLOCK]
+}, tamb=m ouvimos isso.
+[ENDBLOCK]
+B-Bom, voc@s sabem do
+Pr\ncipe? Ele est# em Moreau
+agora mesmo.
+[ENDBLOCK]
+Sim, sabemos.
+[ENDBLOCK]
+Ei, <Mary>. Estou com vontade de gritar
+com toda a for|a agora mesmo.
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Vou seguir voc@.
+[ENDBLOCK]
+Dev\amos ir para a caverna da mar=.
+A entrada fica ao sul da cidade.
+[ENDBLOCK]
+T#, t#, tanto faz.
+[ENDBLOCK]
+Procurem em todo lugar onde possa
+haver corda. N;o deixem
+pedra sobre pedra.
+[ENDBLOCK]
+N;o enrolem, voc@s dois!
+[ENDBLOCK]
+S-Sim, senhor!
+[ENDBLOCK]
+<TAG_007>Gald total: <TAG_033>
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><TAG_013b></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><xE0><x00><x80><x18><x65><x58><xE4><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x14><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x10><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x49><x04><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x49><x04><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><x08><x00><x80>
+<x18><x65><x59><x0C><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><xF0><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

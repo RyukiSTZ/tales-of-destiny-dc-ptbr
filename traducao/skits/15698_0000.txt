@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pensar que nesta era h# pessoas vivas capazes
+de lidar com o poder das Pedras de Barreira...
+[ENDBLOCK]
+Tamb=m me pegou de surpresa. Acha que quem
+fez isso sabe mesmo controlar esse poder?
+[ENDBLOCK]
+N;o importa. Est;o atr#s do Olho de Atamoni.
+As coisas podem piorar r#pido se conseguirem.
+[ENDBLOCK]
+De fato. Precisamos descobrir o que houve.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

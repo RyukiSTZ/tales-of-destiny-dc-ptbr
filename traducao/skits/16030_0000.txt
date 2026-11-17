@@ -1,0 +1,10 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O Laborat^rio de P&D Swordian fica a oeste de Darilsheid.
+N;o d# pra chegar l# sem o Avitus Draconis.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

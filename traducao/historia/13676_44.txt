@@ -1,0 +1,707 @@
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Olha, um passarinho.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ser# que est#
+fazendo um ninho?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Balconista
+[ENDBLOCK]
+Isso mesmo. Todo ano,
+eles botam ovos no nosso telhado.
+[ENDBLOCK]
+Que maravilha. Adoraria
+presenciar esse momento.
+[ENDBLOCK]
+Ah, tenho quase certeza de que vimos eles
+deixarem o ninho no come|o do ano. Mas
+pode passar aqui depois pra conferir.
+[ENDBLOCK]
+Nossa, est# se formando um ninho.
+[ENDBLOCK]
+Antes era um p#ssaro s^,
+mas hoje s;o dois.
+[ENDBLOCK]
+Esse p#ssaro = muito raro. O macho
+constr^i o ninho primeiro para
+atrair uma parceira.
+[ENDBLOCK]
+Ah, ent;o eles s;o do
+tipo que toma iniciativa.
+[ENDBLOCK]
+Voc@ = uma mo|a estranha
+e engra|ada.
+[ENDBLOCK]
+} igualzinho a quando eu fui
+parar na casa do <Dalis>.
+[ENDBLOCK]
+Ha-ha-ha. Os dois s;o
+jovens estranhos.
+[ENDBLOCK]
+Mas, <Mary>, aquele p#ssaro
+ainda = rec=m-casado.
+[ENDBLOCK]
+O que est# dizendo, <Stahn>?
+Esses p#ssaros s;o mais
+do que esper#vamos.
+[ENDBLOCK]
+Ah, hoje s^ tem
+um p#ssaro.
+[ENDBLOCK]
+Aquele n;o = o marido dela?
+[ENDBLOCK]
+Parece que = hora da
+troca de turno, n=?
+[ENDBLOCK]
+Troca de turno?
+[ENDBLOCK]
+<Stahn>, est# vendo aquilo?
+Tem um ovo!
+[ENDBLOCK]
+}. Estou vendo dois ovos,
+com certeza. Devem ser g@meos.
+[ENDBLOCK]
+Estou bem animado.
+[ENDBLOCK]
+Eu tamb=m! Espero que choquem logo.
+[ENDBLOCK]
+Parece que os ovos chocaram.
+[ENDBLOCK]
+Mesmo com o mundo do jeito que
+est#, este aqui conseguiu.
+[ENDBLOCK]
+Mas n;o eram
+dois ovos?
+[ENDBLOCK]
+O outro ovo
+n;o vingou.
+[ENDBLOCK]
+} mesmo...?
+[ENDBLOCK]
+Espero que pelo menos os filhotes
+que restaram deixem o ninho com
+sa{de.
+[ENDBLOCK]
+Acho que est# na hora de
+voc@ deixar o ninho.
+[ENDBLOCK]
+Eles est;o deixando
+o ninho!
+[ENDBLOCK]
+Vamos!
+[ENDBLOCK]
+Isso!
+[ENDBLOCK]
+Eles conseguiram
+deixar o ninho.
+[ENDBLOCK]
+Espera, e os pais
+dos passarinhos?
+[ENDBLOCK]
+Eles n;o v;o junto?
+[ENDBLOCK]
+Eles n;o acompanham os filhos.
+[ENDBLOCK]
+Os pais dos filhotes voam para
+longe e encontram um lugar para
+morrer juntos.
+[ENDBLOCK]
+O qu@? Por qu@?
+[ENDBLOCK]
+N;o sei por qu@, mas acho que, depois
+de criar os filhotes, eles n;o t@m
+mais prop^sito neste mundo.
+[ENDBLOCK]
+Entendo...
+[ENDBLOCK]
+At= os p#ssaros que acabaram de sair
+do ninho ter;o o mesmo destino ano que vem.
+[ENDBLOCK]
+} por esse ciclo que se faz
+o futuro da linhagem deles.
+[ENDBLOCK]
+}, n;o = triste.
+[ENDBLOCK]
+Os sentimentos ligam vidas e criam
+o futuro. Ser# que esse = o
+nosso papel?
+[ENDBLOCK]
+Tem alguma coisa
+no ninho.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005><center>O Jornal de Harmentz
+"Incidente misterioso em Seinegald?"
+[ENDBLOCK]
+<TAG_005><center>O Jornal de Harmentz
+"O Grande Raio e a Teia A=rea!"
+[ENDBLOCK]
+<TAG_005><center>O Jornal de Harmentz
+"Especial Urgente: Este Mist=rio Sombrio"
+[ENDBLOCK]
+<TAG_005><center>O Jornal de Harmentz
+"Furo sobre a suposta nova arma!"
+[ENDBLOCK]
+<TAG_005><center>O Jornal de Harmentz
+"Edi|;o Extra! Juntem as Lentes do Mundo"
+[ENDBLOCK]
+<TAG_005><center>O Jornal de Harmentz
+"De perto: o trabalho do Sr. <Walt>!"
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Menino
+[ENDBLOCK]
+
+[ENDBLOCK]
+Uau! Voc@ = um
+cavaleiro do castelo?
+[ENDBLOCK]
+Fiquei surpreso com o quanto
+voc@ = forte.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Rapazes, voc@s s;o viajantes?
+[ENDBLOCK]
+Ah, voc@ = o espadachim. N;o
+se esqueceu, n=?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mo|as, voc@s s;o viajantes?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Esta = Harmentz, uma vila onde
+corre #gua cristalina e
+as plantas crescem.
+[ENDBLOCK]
+Um tempo atr#s, passou um soldado.
+Para onde ser# que ele foi?
+[ENDBLOCK]
+Fiquei surpreso com o quanto
+voc@ = forte.
+
+[ENDBLOCK]
+Por que tem uma voz vindo
+do c=u? Quem est# falando?
+[ENDBLOCK]
+O c=u escureceu...
+O que vai acontecer agora?
+[ENDBLOCK]
+Eu tamb=m juntei lentes!
+Espero que sejam {teis!
+[ENDBLOCK]
+Boa sorte!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Pode entrar.
+[ENDBLOCK]
+Foi uma bela captura.
+Quando os g=is acabarem,
+n;o esque|am de comprar mais.
+[ENDBLOCK]
+Aconte|a o que acontecer, vou
+continuar tocando esta loja.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+
+[ENDBLOCK]
+Se quiser ir $ capital real,
+Darilsheid, = s^ sair desta vila
+e seguir para leste.
+[ENDBLOCK]
+Tamb=m fiquei surpreso que
+s^ tr@s caras derrubaram
+tantos soldados...
+[ENDBLOCK]
+Fico ainda mais impressionado
+que voc@s os pegaram.
+[ENDBLOCK]
+Darilsheid est# bem?
+[ENDBLOCK]
+Ser# que algum dia vamos ver
+a luz do sol de novo...
+[ENDBLOCK]
+Voc@s rodam o mundo pra
+juntar lentes? Estou impressionado.
+[ENDBLOCK]
+Espero que voc@s ven|am.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+} gra|as ao <Walt> que esta
+vila est# prosperando.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Muita gente fala mal daquele
+cara, mas eu sou grato a ele.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Gra|as $ decis;o do Sr. <Walt>, a
+paz da vila foi preservada.
+[ENDBLOCK]
+} verdade que Darilsheid
+foi atacada?
+[ENDBLOCK]
+O Sr. <Walt> deixou a vila segura.
+Eu sabia que pod\amos contar com ele.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Velha
+[ENDBLOCK]
+
+[ENDBLOCK]
+O povo de Seinegald = muito
+devoto. Foi por isso que o
+Templo de Straylize foi constru\do.
+[ENDBLOCK]
+Achei que era um tempo de
+paz, mas n;o percebi que
+esses jovens estavam lutando.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Oh, Deusa... Por favor, nos salve...
+Salve Seinegald...
+[ENDBLOCK]
+N;o basta pedir ajuda $
+Deusa, tamb=m temos que
+nos esfor|ar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><xA8><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x98><x00><x80><x18><x65><x58><x9C><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xCC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xC8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><xBC><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><xBC><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xC0><x00><x80>
+<x18><x65><x58><xC4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><xA8><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

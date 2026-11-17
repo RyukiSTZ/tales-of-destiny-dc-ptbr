@@ -1,0 +1,5 @@
+0x19c0c0|[Circle_ani]Ir ao campo
+0x19c0f8|[TAG_007]Se é sua primeira vez jogando,[LINE]recomendamos começar pelo[LINE]"Lado do [Stahn]."[LINE]Quer mesmo começar um novo[LINE]jogo pelo "Lado do [Lion]?"[LINE]Sim[LINE]Não
+0x19c1b0|Escolha a história para jogar.
+0x19c1d0|[TAG_007][TAG_002]<$0E><$00><$00><$04><$00>Comece o jogo pela visão do[LINE]Stahn. Se nunca jogou ou nunca[LINE]terminou o Tales of Destiny[LINE]original, comece por aqui.
+0x19c280|[TAG_007][TAG_002]<$0E><$00><$00><$04><$00>Comece o jogo pela visão do[LINE]Leon. É um outro ponto de vista[LINE]dos fatos da história. É muito[LINE]recomendado jogar antes[LINE]o lado do Stahn.

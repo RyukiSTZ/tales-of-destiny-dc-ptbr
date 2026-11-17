@@ -1,0 +1,33 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A situa|;o com o <Dalis> terminou bem, n;o
+s^ pra <Mary>, mas pro <Woodrow> tamb=m.
+[ENDBLOCK]
+Sim. O falecido pai... Parece que a morte
+do Rei Isaac pesava muito nele.
+[ENDBLOCK]
+Talvez isso tire um pouco
+desse peso dos ombros dele...
+[ENDBLOCK]
+Olhando assim, fico pensando no quanto
+os pais s;o importantes pros filhos.
+[ENDBLOCK]
+N;o que eu saiba, por=m.
+[ENDBLOCK]
+<Rutee>, voc@... gostaria de
+saber dos seus pais?
+[ENDBLOCK]
+Bem... As vezes eu penso
+neles. S^ $s vezes, por=m.
+[ENDBLOCK]
+Entendo...
+[ENDBLOCK]
+Bem, chega disso. Vamos andando.
+[ENDBLOCK]
+...<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

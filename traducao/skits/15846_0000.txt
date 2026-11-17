@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pensando bem, eu e a <Mary> nos
+conhecemos em Phandaria.
+[ENDBLOCK]
+Tamb=m te conhecemos l#, n;o foi?
+[ENDBLOCK]
+Bem, tecnicamente, te conhecemos no Draconis.
+[ENDBLOCK]
+Ah, = mesmo.
+[ENDBLOCK]
+Bem, mas a gente se esbarrou
+em Phandaria tamb=m.
+[ENDBLOCK]
+Parece que toda vez que venho a este
+pa\s, conhe|o algu=m novo.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

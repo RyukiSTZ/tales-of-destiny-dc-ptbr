@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Voc@ tem um sonho, <Johnny>?
+[ENDBLOCK]
+Claro que tenho.
+[ENDBLOCK]
+Voc@ quer viver uma vida tranquila
+sem consequ@ncias, n=?
+[ENDBLOCK]
+<Rutee>. Isso n;o = meio maldade? S^
+porque o <Johnny> pode parecer...
+[ENDBLOCK]
+Acertou em cheio. Muito bem, <Rutee>.
+[ENDBLOCK]
+Acho que ele = mesmo superficial.<x00><x00><x00><x00>
+[ENDBLOCK]

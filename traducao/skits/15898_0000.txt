@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o, que tipo de pessoa = a srta. <Atwight>?
+[ENDBLOCK]
+Hmm, bem... Acho que d# pra dizer
+que ela = tipo minha irm; mais velha?
+[ENDBLOCK]
+Ent;o ela = confi#vel?
+[ENDBLOCK]
+Bem, ela n;o consegue ficar calma. Vive
+pegando no meu p= quando estou trabalhando.
+[ENDBLOCK]
+S^ estou tentando te impedir de infringir a lei. Quem
+sabe em que encrenca voc@ se meteria se eu ficasse quieta?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

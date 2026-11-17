@@ -1,0 +1,15 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Como enfrent#vamos duas Swordians, eu
+estava pronto pra uma luta dura, mas...
+[ENDBLOCK]
+Voc@ os esmagou, jovem mestre! Agora =
+relatar seu sucesso com orgulho!
+[ENDBLOCK]
+Agora, vamos voltar a Darilsheid.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

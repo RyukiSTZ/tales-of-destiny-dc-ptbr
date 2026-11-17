@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Aquela maldita <Ilene>, nunca vou perdo#-la.
+Da pr^xima vez que a vir, vou dar uma bronca!
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x80>
+
+[ENDBLOCK]
+Houve algum conflito anterior entre
+essa tal de <Ilene> e a <Rutee>?
+[ENDBLOCK]
+Que eu saiba, n;o... Acho que
+elas s^ n;o se davam bem.
+[ENDBLOCK]
+...As rela|`es entre mulheres s;o
+mesmo dif\ceis de entender.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

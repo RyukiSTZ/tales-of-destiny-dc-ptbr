@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Mesmo sem o Imperador <Tiberius>, as coisas
+ainda n;o voltaram ao normal.
+[ENDBLOCK]
+}. Preferia deixar essa trabalheira com minha fam\lia e
+o <Fayte>, mas... Quem sabe o que vai acontecer?
+[ENDBLOCK]
+O que acha que vai acontecer com
+Aquaveil daqui pra frente?
+[ENDBLOCK]
+Bem, o <Tiberius> n;o tinha herdeiro, ent;o vai
+ser dif\cil Terazzi continuar.
+[ENDBLOCK]
+Talvez seja uma chance de a Grande Saga
+da Unifica|;o de Aquaveil continuar...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

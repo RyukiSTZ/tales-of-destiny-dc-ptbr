@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Stahn>. Tenho um favor a te pedir.
+[ENDBLOCK]
+Se eu puder ajudar, sou todo ouvidos.
+[ENDBLOCK]
+Queria tocar no seu cabelo. Preciso
+saber se = duro ou macio.
+[ENDBLOCK]
+C-Claro. Pode tocar.
+[ENDBLOCK]
+Hmmm... parece duro, mas na verdade
+= bem fofinho.
+[ENDBLOCK]
+Pessoal, v;o achar que somos
+uns esquisitos.<x00><x00><x00><x00>
+[ENDBLOCK]

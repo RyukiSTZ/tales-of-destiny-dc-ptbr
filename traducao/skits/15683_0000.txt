@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o esta floresta leva ao Templo
+Straylize? } surpreendentemente sombria...
+[ENDBLOCK]
+Eu diria que = o lugar perfeito
+pra uma ladra como voc@.
+[ENDBLOCK]
+Sou ca|adora de lentes, n;o ladra!
+[ENDBLOCK]
+D# no mesmo, se quer saber.
+[ENDBLOCK]
+} a mesma coisa?
+[ENDBLOCK]
+NAO!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

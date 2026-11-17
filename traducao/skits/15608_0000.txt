@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o, <Stahn>, por que voc@
+estava a bordo do Draconis?
+[ENDBLOCK]
+Eu queria muito ir a Seinegald.
+[ENDBLOCK]
+Mas... n;o tinha dinheiro pro barco.
+[ENDBLOCK]
+Ent;o voc@ simplesmente entrou escondido?
+N;o devia ser t;o imprudente.
+[ENDBLOCK]
+N;o tive escolha! A passagem custava
+muito mais do que eu podia pagar.
+[ENDBLOCK]
+Se n;o tinha dinheiro suficiente,
+por que n;o juntou?
+[ENDBLOCK]
+Ah, acho que eu podia ter feito isso...
+[ENDBLOCK]
+Ele sinceramente nem pensou
+nisso at= eu falar...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

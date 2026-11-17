@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pra consertar o Draconis, precisamos
+de Berselium, certo?
+[ENDBLOCK]
+Sim. Vamos a Junkland.
+[ENDBLOCK]
+Algu=m disse que Junkland
+fica em Calvalese?
+[ENDBLOCK]
+Sim. Da capital, Calviola, d#
+pra v@-la l# a oeste.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

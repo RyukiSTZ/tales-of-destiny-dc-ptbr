@@ -1,0 +1,479 @@
+Like
+[ENDBLOCK]
+ a dream
+[ENDBLOCK]
+A Ironia do Destino de Leon
+[ENDBLOCK]
+DokiDoki <Chelsea>
+[ENDBLOCK]
+Suba de n\vel
+[ENDBLOCK]
+
+[ENDBLOCK]
+???
+[ENDBLOCK]
+<yellow>★</color>
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Tocar os Tambores de Sua Majestade
+[ENDBLOCK]
+<x18><x20><x08><x95><x01><x00><x80><x18><x25><x7A><x08><x19><x02><x00><x80>
+<x18><x21><x08><x95><x01><x00><x80><x18><x25><x29><x08><x19><x02><x00><x80>
+<x18><x24><x02><x08><x95><x01><x00><x80><x18><x25><x28><x08><x19><x02><x00><x80>
+<x18><x24><x03><x08><x95><x01><x00><x80><x18><x25><x27><x08><x19><x02><x00><x80>
+Return
+
+[ENDBLOCK]
+Como Jogar
+[ENDBLOCK]
+O que s;o os Tambores de Sua Majestade?
+Controles
+Sele|;o de M{sicas
+Como Mudar de Modo
+Voltar
+
+[ENDBLOCK]
+Tocar os Tambores de Sua Majestade
+Como Jogar
+Mudar de Modo
+Sair
+[ENDBLOCK]
+Mudar de Modo
+[ENDBLOCK]
+Selecione a dificuldade
+    F#cil
+    Normal
+    Dif\cil
+[ENDBLOCK]
+Voc@ escolheu uma m{sica que
+ainda n;o est# dispon\vel.
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O que s;o os Tambores de Sua Majestade
+[ENDBLOCK]
+"Tambores de Sua Majestade" = um jogo
+de ritmo em que voc@ bate o tambor
+no tempo da m{sica.
+[ENDBLOCK]
+Primeiro, selecione "Sele|;o de M{sicas"
+e escolha a m{sica que quer tocar.
+[ENDBLOCK]
+Durante a m{sica, tr@s lentes coloridas
+correm da direita para a esquerda numa
+moldura perto do centro da tela.
+[ENDBLOCK]
+As lentes surgem no c\rculo azul do
+lado direito da moldura. Quando
+sobrepuserem o c\rculo cinza,
+aperte o bot;o certo.
+[ENDBLOCK]
+Se acertar o tempo, o medidor no
+canto superior direito sobe.
+Se errar o tempo, a lente se perde.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Controles
+[ENDBLOCK]
+Lente Vermelha (Don)：<Left_blink> ou <Circle_ani>
+Lente Azul (Ka)：<L1_ani> ou <R1_ani>
+
+[ENDBLOCK]
+Lente Vermelha Grande (Don)：<Left_blink> e <Circle_ani> juntos
+Lente Azul Grande (Ka)：<L1_ani> e <R1_ani> juntos
+
+[ENDBLOCK]
+Lente Amarela (rajada)：
+Aperte 'Ka' e 'Don' repetidamente.
+
+[ENDBLOCK]
+Use <Select_ani> durante a m{sica
+para voltar ao menu principal.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sele|;o de M{sicas
+[ENDBLOCK]
+No come|o, s^ duas m{sicas estar;o
+dispon\veis. Mais ser;o liberadas
+conforme voc@ vence as dispon\veis.
+[ENDBLOCK]
+M{sicas vencidas ser;o
+marcadas com uma <yellow>★</color>.
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Como Mudar de Modo
+[ENDBLOCK]
+O modo padr;o = 'F#cil'. Neste
+modo, s^ aparecem 'Lentes Vermelhas'.
+
+[ENDBLOCK]
+Na dificuldade 'Normal', Lentes
+Amarelas e Azuis aparecem
+junto com as Vermelhas.
+[ENDBLOCK]
+No 'Dif\cil', voc@ encontrar#
+'Lentes Grandes', al=m dos
+outros tr@s tipos de lente.
+[ENDBLOCK]
+<x17><x71><x4A><xF4><x80>
+
+[ENDBLOCK]
+_SET_FVECTOR( line[0] , <x1D><x75><x4A><xF8><x80>,<x1D><x75><x4B><x00><x80>,<x1D><x75><x4B><x08><x80>);
+
+[ENDBLOCK]
+_SET_FVECTOR( line[1] , <x1D><x75><x4A><xFC><x80>,<x1D><x75><x4B><x04><x80>,<x1D><x75><x4B><x0C><x80>);
+
+[ENDBLOCK]
+Dreias
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Quem est# a\?
+Apare|a!
+[ENDBLOCK]
+Faz eras que um humano n;o
+sentia minha presen|a.
+[ENDBLOCK]
+Um monstro que fala!?
+[ENDBLOCK]
+O povo de Aquaveil me conhece h# muito
+como o deus que vela pela
+aurora e pelo crep{sculo.
+[ENDBLOCK]
+Uaau, que legal!
+Ah, credo, que falta de educa|;o!
+[ENDBLOCK]
+Meu nome =...
+[ENDBLOCK]
+J# sei seu nome. N;o
+precisa gastar f_lego.
+[ENDBLOCK]
+Igualzinho a um deus!
+Muito convincente!
+[ENDBLOCK]
+Mas eu n;o sabia que voc@
+era t;o cheio de
+ast{cia.
+[ENDBLOCK]
+Ast{cia...? N;o
+entendi, mas obrigado!
+[ENDBLOCK]
+H;, voc@ = o fantasma de que
+o Frantz falava?
+[ENDBLOCK]
+} bem poss\vel. Perdoe minha
+grosseria, mas preciso lhe
+pedir algo.
+[ENDBLOCK]
+Um pedido?
+O que =?
+[ENDBLOCK]
+...Eu desejo...
+[ENDBLOCK]
+DEVORAR VOCE!!!
+[ENDBLOCK]
+} como eu suspeitava. Voc@ guarda
+um grande poder dentro de si.
+[ENDBLOCK]
+Agora vou dizer qual =
+meu verdadeiro pedido.
+[ENDBLOCK]
+Seu verdadeiro pedido...?
+[ENDBLOCK]
+Desde que se formou a terra que
+cobre o c=u, os animais que
+vivem em Aquaveil sofrem.
+[ENDBLOCK]
+Os menores e mais vulner#veis
+s;o os mais afetados. Ficam
+mais fracos a cada dia.
+[ENDBLOCK]
+N;o precisa dizer mais
+nada. Deixe comigo.
+[ENDBLOCK]
+Fala a verdade?
+[ENDBLOCK]
+Uau!!
+[ENDBLOCK]
+Muito bem. Confiamos nosso mundo
+a voc@, Her^i da Aurora.
+[ENDBLOCK]
+...Adeus.
+[ENDBLOCK]
+Tem algo aqui, eu sei.
+Se ao menos meus sentidos fossem mais agu|ados...
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ilha de Um Ano
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x4B><x2C><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x5B><x1C><x00><x80><x18><x65><x5B><x20><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x4B><x50><x98><x80>
+[ENDBLOCK]
+<x18><x65><x5B><x4C><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x4B><x40><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x4B><x40><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x5B><x44><x00><x80>
+<x18><x65><x5B><x48><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x4B><x2C><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

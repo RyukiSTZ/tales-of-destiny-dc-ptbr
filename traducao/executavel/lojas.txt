@@ -1,0 +1,9 @@
+Loja de Itens => Itens 
+Mercearia => Mercado 
+Loja de Armas => Armas 
+Loja de Armaduras => Armaduras 
+Loja de Acessórios => Acess. 
+Vendedor de Armas => Armeiro 
+Ambulante => Mascate 
+Cruz dos Cavaleiros => Cruz Cavaleira
+Cruz do Cavaleiro => Cruz Cavaleira

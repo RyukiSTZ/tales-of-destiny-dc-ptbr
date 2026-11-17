@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A personalidade do <Ritora> estava em Radisrol, ent;o...
+[ENDBLOCK]
+O <Ritora> e o <Clemente> dividiram a mesma nave o tempo todo...
+[ENDBLOCK]
+N;o sabia que estivemos juntos esses mil
+anos. Que travesso, n;o me contar.
+[ENDBLOCK]
+Embora juntos, nossas fun|`es estavam paradas.
+N;o poderia te contar nem se quisesse.
+[ENDBLOCK]
+Ent;o, mesmo se eu falasse mal de voc@,
+voc@ n;o saberia?
+[ENDBLOCK]
+N;o, nesse caso eu teria
+acordado na hora.
+[ENDBLOCK]
+} dif\cil saber se voc@ est# falando s=rio ou brincando...<x00><x00><x00><x00><x00>
+[ENDBLOCK]

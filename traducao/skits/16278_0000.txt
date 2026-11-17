@@ -1,0 +1,12 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Precisamos dar um jeito naquela
+armada que apareceu na costa.
+[ENDBLOCK]
+Vamos pegar um barco no porto.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

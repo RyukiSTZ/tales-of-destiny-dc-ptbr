@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Isso = ruim... N;o sei o que fazer...
+[ENDBLOCK]
+...Ah, <Mary>. Voc@ viu meus ^culos?
+[ENDBLOCK]
+I'm <Stahn>.
+[ENDBLOCK]
+Sinto muito. N;o enxergo
+quase nada sem os ^culos.
+[ENDBLOCK]
+Parece que voc@ vai precisar dos ^culos
+pra achar os ^culos.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

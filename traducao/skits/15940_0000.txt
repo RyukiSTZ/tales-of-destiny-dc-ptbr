@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A Chave R deve estar no fundo do
+templo. Vamos peg#-la r#pido.
+[ENDBLOCK]
+Com a Chave R, podemos fazer
+Radisrol emergir, n=?
+[ENDBLOCK]
+Vamos conseguir... Vamos vingar o <Lion> e recuperar
+o Olho de Atamoni, custe o que custar!
+[ENDBLOCK]
+...<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

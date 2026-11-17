@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+N;o d# medo n;o lembrar de nada?
+[ENDBLOCK]
+Na verdade = bem divertido! Cada vis;o
+e cada som = uma experi@ncia nova.
+[ENDBLOCK]
+Por que n;o experimenta, <Stahn>?
+[ENDBLOCK]
+Falando assim, nem parece
+t;o ruim!
+[ENDBLOCK]
+S^ pode ser brincadeira...<x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Voc@ treina arco e flecha com
+o mestre <Alba>, <Woodrow>?
+[ENDBLOCK]
+Sim. Comecei quando crian|a.
+J# s;o quase 20 anos.
+[ENDBLOCK]
+Vinte anos, =? Se est;o juntos
+h# tanto tempo, s;o praticamente fam\lia.
+[ENDBLOCK]
+Hmm, com certeza. Aprendi muito com ele. N;o
+s^ sobre arco e flecha, mas sobre a vida.
+[ENDBLOCK]

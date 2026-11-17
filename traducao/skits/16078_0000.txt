@@ -1,0 +1,14 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Chegamos longe. S^ falta
+derrotar o <Miktran>.
+[ENDBLOCK]
+Temos que vencer a qualquer custo.
+[ENDBLOCK]
+Vamos vencer o <Miktran> e retomar nosso mundo!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

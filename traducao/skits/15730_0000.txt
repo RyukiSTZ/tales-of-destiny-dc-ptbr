@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A Companhia Oberon tem mesmo
+filiais no mundo todo?
+[ENDBLOCK]
+Tem. A sede fica em Seinegald, mas mandaram
+executivos formar filiais em outras terras.
+[ENDBLOCK]
+Em resumo, o <Baruk> deve estar bem
+no alto da hierarquia da empresa.
+[ENDBLOCK]
+Entendo.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

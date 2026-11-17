@@ -1,0 +1,1169 @@
+×××××<x9A>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<xD4>空開始××××××
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+reset---------
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Marinheiro
+[ENDBLOCK]
+H;? Voc@ n;o =...?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Est;o falando de mim?
+[ENDBLOCK]
+Ah, = mesmo! Voc@ = aquele
+cara que conseguiu vencer a <Lilith>
+na arena, n=?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lilith>
+[ENDBLOCK]
+Est;o falando de mim!?
+[ENDBLOCK]
+}-} voc@!
+[ENDBLOCK]
+Voc@ tem coragem, falando
+como se eu n;o estivesse aqui!
+[ENDBLOCK]
+Bom, enfim, precisa
+de alguma coisa?
+[ENDBLOCK]
+O-O qu@? B-Bom, h;...
+[ENDBLOCK]
+A <Lilith> vai ficar bem.
+Por favor, conte pra gente.
+[ENDBLOCK]
+Nesse caso, recebi uma informa|;o
+interessante que eu ia contar a voc@s.
+[ENDBLOCK]
+S=rio?
+O que =?
+[ENDBLOCK]
+Um tempo atr#s, uns piratas
+atacaram esta cidade, n=?
+[ENDBLOCK]
+Isso, quando a gente
+lutou contra a <Batista>.
+[ENDBLOCK]
+Bom, parece que um dos
+navios afundou durante
+a luta.
+[ENDBLOCK]
+} poss\vel que algum tesouro
+tenha afundado junto.
+[ENDBLOCK]
+Tem certeza de que tudo bem
+voc@ nos contar essa
+informa|;o assim?
+[ENDBLOCK]
+Bom, o navio est# debaixo d'#gua. N;o
+= como se eu pudesse ir l# sozinho.
+[ENDBLOCK]
+Bom, obrigado!
+[ENDBLOCK]
+Vamos, <Lilith>,
+agrade|a.
+[ENDBLOCK]
+Muito obrigado!
+[ENDBLOCK]
+Queria ser mais forte.
+Sou meio in{til, n=?
+[ENDBLOCK]
+Begin creating the ocean.
+
+[ENDBLOCK]
+失敗しました（戻り値：<TAG_031>）
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Loja de Armaduras
+[ENDBLOCK]
+
+[ENDBLOCK]
+Minhas armas s;o as melhores.
+Deem uma olhada!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ningu=m sabe o que vai acontecer
+numa hora dessas. } bom
+estar bem preparado.
+[ENDBLOCK]
+
+[ENDBLOCK]
+A|ougueiro
+[ENDBLOCK]
+A carne de Fitzgald
+= deliciosa!
+[ENDBLOCK]
+N;o sei quanto tempo esta cidade
+vai aguentar, mas vou continuar
+fazendo neg^cio at= o fim!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Fruteiro
+[ENDBLOCK]
+Que tal umas
+frutas fresquinhas
+colhidas agora?
+[ENDBLOCK]
+Ainda temos estoque, ent;o
+fiquem $ vontade.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Verdureiro
+[ENDBLOCK]
+Bem-vindos. Querem
+comprar alguma coisa?
+[ENDBLOCK]
+Agora que o sol sumiu, a
+produ|;o das colheitas me preocupa.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Crian|a
+[ENDBLOCK]
+Se voc@ ficar por aqui tempo
+suficiente, ganha as sobras!
+[ENDBLOCK]
+Pego o que der aqui e como
+com a minha fam\lia em casa.
+[ENDBLOCK]
+Estou com fome...
+[ENDBLOCK]
+Vi um navio estranho atracar aqui.
+Um cara com cara de sacerdote embarcou.
+[ENDBLOCK]
+Ultimamente, s^ tem
+restos pra comer.
+[ENDBLOCK]
+<Kongman>, por favor!
+Traga o sol de volta!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Senhora
+[ENDBLOCK]
+A presen|a da Companhia Oberon
+na cidade tem sido pol@mica.
+[ENDBLOCK]
+Moro aqui h# muito tempo, mas acho
+bom a cidade se desenvolver.
+[ENDBLOCK]
+A Srta. <Ilene> retirando os cidad;os
+sem se preocupar consigo
+mesma foi t;o admir#vel...
+[ENDBLOCK]
+Ser# que a <Ilene> desistiu
+desta cidade...?
+[ENDBLOCK]
+Seinegald mandou muitos soldados
+para a #rea atingida.
+[ENDBLOCK]
+Mas o governo deste pa\s
+n;o est# fazendo nada!
+[ENDBLOCK]
+O governo n;o faz nada, mesmo sem
+sabermos se a cidade vai ser
+atacada de novo ou n;o!
+[ENDBLOCK]
+Em vez de esperar pelos poderosos,
+eu estava pensando em fazer
+o que eu mesmo pudesse.
+[ENDBLOCK]
+N;o foi muito, mas dei as
+lentes que pude.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mocinha
+[ENDBLOCK]
+N;o sei por que aquele b#rbaro,
+<Kongman> ou sei l# o qu@, = t;o
+popular.
+[ENDBLOCK]
+O <Kongman> acabou com uma armada sozinho!?
+Hmm... talvez eu estivesse errado sobre ele.
+[ENDBLOCK]
+<Kongman>, voc@ vai a algum lugar?
+[ENDBLOCK]
+Ei, para onde o <Kongman> vai?
+[ENDBLOCK]
+<Kongman>, voc@ = o her^i desta
+cidade, n=? Ent;o fa|a o seu trabalho!
+[ENDBLOCK]
+<Kongman>, eu estava errado. Desculpe
+por ter sido t;o ego\sta.
+[ENDBLOCK]
+Boa sorte na miss;o de salvar
+o mundo! Mighty! Mighty! Mighty!
+[ENDBLOCK]
+Vai com tudo, <Kongman>!
+Mighty! Mighty!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Irm;
+[ENDBLOCK]
+Quem = obcecado por ganhos
+materiais sempre carece de
+realiza|;o espiritual.
+[ENDBLOCK]
+Mais do que nunca, esta cidade precisa
+de uma filial do Templo de Straylize.
+[ENDBLOCK]
+Queria que tiv=ssemos um templo
+nesta cidade.
+[ENDBLOCK]
+} em horas assim que devemos
+espalhar os ensinamentos de
+Atamoni ao povo da cidade.
+[ENDBLOCK]
+Ser# mais uma prova que
+Atamoni nos deu...?
+[ENDBLOCK]
+Atamoni com certeza vai guiar
+voc@s no caminho adiante.
+[ENDBLOCK]
+Ainda estamos nos preparando para a
+pr^xima viagem. Voltem mais tarde,
+t#?
+[ENDBLOCK]
+Aconte|a o que acontecer, vamos zarpar.
+Vou mostrar do que um homem do
+mar = capaz!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Peixeiro
+[ENDBLOCK]
+Que tal um peixe
+fresquinho pescado
+agora?
+[ENDBLOCK]
+Vou ficar aberto
+aconte|a o que acontecer!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+H;? Voc@s n;o t@m um livro
+de Registros de Batalha?
+[ENDBLOCK]
+Voc@s parecem fortes o bastante.
+Fiquem com isto.
+[ENDBLOCK]
+Ele ensina a t=cnica eficaz de abater
+monstros, o "Golpe Definitivo".
+[ENDBLOCK]
+Cuidem bem dele.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+Voc@ pode fazer um Golpe Definitivo
+ligando [Golpe Definitivo] em "ON"
+no menu Personalizar, dentro do
+Menu principal.
+
+[ENDBLOCK]
+Com o Golpe Definitivo em "ON", voc@
+tamb=m pode ver o de cada monstro
+no Livro de Monstros.
+[ENDBLOCK]
+N;o tenho mais nada
+para dar a voc@s.
+[ENDBLOCK]
+N;o tenho nada a
+dizer a voc@s agora.
+[ENDBLOCK]
+Voltem quando tiverem
+aprimorado mais suas habilidades.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Ent;o esta = Neustadt... a cidade
+no cora|;o de Fitzgald.
+[ENDBLOCK]
+Minha terra, Lienea, tamb=m
+fica aqui em Fitzgald.
+[ENDBLOCK]
+Mas agora n;o = hora pra isso.
+Temos que achar o <Greybum>!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Primeiro, vamos visitar
+a mans;o da <Ilene>.
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+<center>A <Ilene> = a chefe da filial
+da Companhia Oberon em Fitzgald.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<center>Boa ideia. A influ@ncia dela
+com certeza nos seria {til.
+[ENDBLOCK]
+Preparem um navio. Vamos
+contra-atacar aquela armada.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Espera! Eu vou com voc@s!
+[ENDBLOCK]
+<Kongman>!?
+[ENDBLOCK]
+Temos que proteger a nossa cidade!
+[ENDBLOCK]
+A <Ilene> tamb=m est# dando o melhor. N;o
+vou deixar ela me passar pra tr#s!
+[ENDBLOCK]
+Certo! Vamos lutar
+juntos!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Capit;o
+[ENDBLOCK]
+Quando estiverem prontos, = s^
+me chamar que a gente zarpa!
+[ENDBLOCK]
+H# uma boa quantidade de navios
+inimigos. Assim que sairmos
+do porto, vamos atacar!
+[ENDBLOCK]
+Podem vir! Vou esmagar cada
+um deles em pedacinhos!
+[ENDBLOCK]
+<center>Nosso alvo = a nau capit&nia. N;o
+temos tempo para uma busca minuciosa.
+[ENDBLOCK]
+Certo, temos que acabar com
+isso, e r#pido. Levem a gente
+ao maior navio que houver!
+[ENDBLOCK]
+Vai balan|ar um pouco,
+ent;o segurem firme!
+[ENDBLOCK]
+Obrigado pela recep|;o
+calorosa, pessoal!
+[ENDBLOCK]
+Seu Campe;o, o <Kongman>,
+esmagou a armada maligna e
+trouxe a paz de volta $ cidade!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mighty!	Mighty!	Mighty!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+...N;o = como se ele tivesse
+feito tudo sozinho...
+[ENDBLOCK]
+<Ilene>...?
+[ENDBLOCK]
+Cansei desse barulho. Vamos
+voltar para a mans;o da <Ilene>.
+[ENDBLOCK]
+Acabei de lembrar de uma coisa que
+preciso fazer. Podem ir na frente.
+[ENDBLOCK]
+Hmmmm. O <Stahn> parece bem
+preocupado com a <Ilene>.
+[ENDBLOCK]
+Ser# que ele gosta de
+mulheres mais velhas...
+[ENDBLOCK]
+<Philia>, voc@ est#... com ci{me?
+[ENDBLOCK]
+N-Nada disso! Eu jamais!
+} imposs\vel! Totalmente
+fora de quest;o!
+[ENDBLOCK]
+Nossa, voc@ negou isso
+com todas as for|as!
+[ENDBLOCK]
+Hmm... O que era
+aquele navio?
+[ENDBLOCK]
+Do que voc@ est#
+falando?
+[ENDBLOCK]
+Enquanto voc@s lutavam no
+mar, um navio da armada
+veio pra c#...
+[ENDBLOCK]
+Mas foi embora quase na hora.
+O que diabos foi aquilo?
+[ENDBLOCK]
+Um navio...?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Ilene>
+[ENDBLOCK]
+Ao chegarem perto de Aquaveil,
+por favor, usem um bote para ir
+at= a terra.
+[ENDBLOCK]
+Obrigado por arranjar
+tudo isso, <Ilene>.
+[ENDBLOCK]
+Bu##... <Philia>, voc@ vai
+mesmo embora, n=?
+[ENDBLOCK]
+Se eu n;o estivesse ajudando a reconstruir
+a cidade, iria com voc@ na
+hora!
+[ENDBLOCK]
+Calma, calma. O povo da cidade
+precisa de voc@, <Kongman>.
+[ENDBLOCK]
+<Philia>, voc@ = t;o gentil! Que
+inspira|;o! Bu#####!
+[ENDBLOCK]
+Esse = um jeito de ver.
+Que bom que ele est# levando bem.
+[ENDBLOCK]
+<Stahn>! Voc@ vai proteger a
+<Philia> no meu lugar!
+[ENDBLOCK]
+Se acontecer alguma coisa com ela,
+eu acabo com voc@!!!!
+[ENDBLOCK]
+N;o se preocupe, vai dar tudo certo.
+Pode contar comigo.
+[ENDBLOCK]
+Bom, ent;o, estamos indo. S=rio,
+muito obrigado!
+[ENDBLOCK]
+<Stahn>, n;o esque|a do nosso
+desafio de antes, t#?
+[ENDBLOCK]
+N;o vou esquecer. Quem realiza
+o ideal primeiro, n=?
+[ENDBLOCK]
+Espero que, da pr^xima vez que nos
+virmos, os dois tenham progredido.
+[ENDBLOCK]
+Ideais, =...? Ser# que isso
+= mais f#cil falar
+do que fazer?
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+<Rutee>...?
+[ENDBLOCK]
+E-Esquece.
+[ENDBLOCK]
+Bom, ent;o,
+se cuidem!
+[ENDBLOCK]
+Vamos embarcar.
+[ENDBLOCK]
+Pois =.
+[ENDBLOCK]
+Esperem, pessoal!
+[ENDBLOCK]
+Ah, ei, <Kongman>!
+Como voc@ est#?
+[ENDBLOCK]
+Sou o campe;o!
+Estou ^timo!
+[ENDBLOCK]
+Voc@s v;o para Phandaria,
+n=? Eu vou com voc@s!
+[ENDBLOCK]
+Mas voc@ = o campe;o. Tudo
+bem voc@ sair da cidade?
+[ENDBLOCK]
+Vai ficar tudo bem! Al=m disso,
+estou preocupado com voc@s.
+[ENDBLOCK]
+Agrade|o a preocupa|;o, mas voc@
+n;o precisa se esfor|ar tanto...
+[ENDBLOCK]
+Voc@ n;o precisa esconder
+o que sente por mim...
+[ENDBLOCK]
+O que sinto...? H;?
+[ENDBLOCK]
+Enfim, eu vou com voc@s!
+J# est# decidido!
+[ENDBLOCK]
+T# bom, <Kongman>! Vamos
+contar com voc@!
+[ENDBLOCK]
+Deixem tudo comigo!
+Ga-ha-ha-ha!
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x8C><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x7C><x00><x80><x18><x65><x58><x80><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xB0><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xAC><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><xA0><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><xA0><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA4><x00><x80>
+<x18><x65><x58><xA8><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x8C><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+Querem pegar o navio?
+[ENDBLOCK]
+Devo enviar a Frota da Cruz Negra?
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x4C><x00><x80>
+Sim
+N;o
+[ENDBLOCK]
+Porto de Darilsheid
+
+[ENDBLOCK]
+Porto de Cherik
+
+[ENDBLOCK]
+Porto de Neustadt
+
+[ENDBLOCK]
+Porto de Shiden
+
+[ENDBLOCK]
+Porto de Moreau
+
+[ENDBLOCK]
+Porto de Terazzi
+
+[ENDBLOCK]
+Porto de Frostheim
+
+[ENDBLOCK]
+<TAG_007>Para onde gostaria de ir?
+<x18><x66><x50><x2C><x00><x80><x18><x66><x50><x30><x00><x80><x18><x66><x50><x34><x00><x80><x18><x66><x50><x38><x00><x80><x18><x66><x50><x3C><x00><x80><x18><x66><x50><x40><x00><x80>
+[ENDBLOCK]
+Aah! <Kongman>. Me ajude, por favor!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mais do que nunca, est;o
+surgindo brigas.
+[ENDBLOCK]
+Que tipo de brigas?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Seinegaldense
+[ENDBLOCK]
+Credo, e esta = pra ser a melhor
+cidade do continente?
+[ENDBLOCK]
+N;o tivemos escolha, precis#vamos
+ir para um lugar seguro.
+[ENDBLOCK]
+Est;o vendo! Refugiados de Seinegald
+v@m chegando um atr#s do outro.
+[ENDBLOCK]
+Desse jeito, a cidade vai ficar t;o cheia
+que vamos ficar feito sardinha em lata!
+[ENDBLOCK]
+Al=m disso, eles s^ reclamam e
+fazem barulho... Estou farto disso!
+[ENDBLOCK]
+Ei, voc@! } voc@ que n;o
+para de reclamar!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Morador da Cidade
+[ENDBLOCK]
+Esta cidade j# est# cheia demais,
+voltem para o seu pa\s!
+[ENDBLOCK]
+Que falta de educa|;o. Gente
+como voc@ me d# nojo!
+[ENDBLOCK]
+Nesse caso, = melhor
+voc@ ir embora!
+[ENDBLOCK]
+Olha s^ quem fala.
+Some daqui.
+[ENDBLOCK]
+O QUE!? } por causa de gente como
+voc@ que esta cidade nunca vai prosperar!
+[ENDBLOCK]
+EI! Parem com isso, todos voc@s!
+O que deu em voc@s!?
+[ENDBLOCK]
+N;o se mete nisso!
+[ENDBLOCK]
+Pessoal, calma! O que a
+<Ilene> pensaria disso?
+[ENDBLOCK]
+A <Ilene> foi embora, n;o foi?
+Ela n;o passava de uma
+idealista falastrona.
+[ENDBLOCK]
+Voc@ est# errado. Ela era
+completamente iludida.
+[ENDBLOCK]
+O que voc@ disse!?
+[ENDBLOCK]
+<Stahn>, para com isso. O que a
+gente faz se voc@ perder a cabe|a?
+[ENDBLOCK]
+N;o brinca. Seja l# o que a <Ilene>
+dizia fazer por esta cidade, n;o
+tem nada pra mostrar!
+[ENDBLOCK]
+Isso =...!
+[ENDBLOCK]
+Isso n;o = verdade! A Srta. <Ilene>
+ensinou muitas coisas pra gente!
+[ENDBLOCK]
+Os adultos, ricos ou pobres,
+s^ pensam em si mesmos!
+[ENDBLOCK]
+Mas n^s somos diferentes.
+[ENDBLOCK]
+Isso mesmo! De um jeito ou de outro,
+vamos achar um jeito de mudar esta cidade!
+[ENDBLOCK]
+Isso a\, pessoal! Voc@s v;o mesmo
+deixar as crian|as passarem
+na frente de voc@s assim?
+[ENDBLOCK]
+Acho que n;o d# pra
+dizer que eles est;o errados!
+[ENDBLOCK]
+}... com certeza = pat=tico levar
+uma bronca dessas de crian|a...
+[ENDBLOCK]
+Isso mesmo. Isso mesmo!
+Dev\amos todos trabalhar para
+fazer desta cidade a melhor poss\vel!
+[ENDBLOCK]
+<Ilene>... Parece que voc@ passou
+na minha frente na nossa aposta.
+[ENDBLOCK]
+N;o tem nenhum Her^i
+da Cidade por a\?
+[ENDBLOCK]

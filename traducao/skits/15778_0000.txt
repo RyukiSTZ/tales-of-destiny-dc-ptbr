@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o, me conte. Como = o <Chaltier>?
+[ENDBLOCK]
+Isso n;o = algo que voc@ precise saber.
+[ENDBLOCK]
+Sinceramente, n;o sei se ele = s^
+educado ou vago de prop^sito.
+[ENDBLOCK]
+Ent;o, basicamente, voc@ n;o sabe por onde pegar ele, n=?
+[ENDBLOCK]
+Hmph, uma espada sem cabo pra pegar?
+Parece perigoso...
+[ENDBLOCK]
+<Mary>, voc@ est# brincando? Ou
+estava falando s=rio...?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,33 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Bom dia, Rainha <Chelsea>!
+[ENDBLOCK]
+Aahh...Bom dia, a todos...
+[ENDBLOCK]
+Srta. <Rutee>, prepare meu lanche de
+sempre da manh;, agora mesmo!
+[ENDBLOCK]
+Srta. <Philia>, cuide do
+jardim real. Aaahh...
+[ENDBLOCK]
+Agora mesmo, minha Rainha!
+[ENDBLOCK]
+Agora mesmo, minha Rainha!
+[ENDBLOCK]
+E eu, Alteza?
+[ENDBLOCK]
+Haaah... Vejamos...
+[ENDBLOCK]
+Vamos jogar nosso joguinho de sempre, srta. <Mary>!
+[ENDBLOCK]
+Ei, srta. <Mary>? Est# ouvindo?
+[ENDBLOCK]
+Srta.... <Mary>...
+[ENDBLOCK]
+Gahh! Q-Que sonho foi ESSE...?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

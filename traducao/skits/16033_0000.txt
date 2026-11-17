@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Agora = hora de destruir o Olho de Atamoni.
+...Acho que o <Stahn> pode ter raz;o.
+[ENDBLOCK]
+Com nossa for|a combinada pode dar certo, n=?
+[ENDBLOCK]
+Por=m... conseguir de fato fazer isso...
+[ENDBLOCK]
+Por ora, vamos focar tudo em derrotar o
+<Miktran>. Pensamos no Olho depois.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

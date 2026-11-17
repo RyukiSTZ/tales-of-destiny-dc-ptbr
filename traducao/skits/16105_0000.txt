@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Que peso... Se eu soubesse que achar\amos tantas
+lentes, teria vendido algumas antes...
+[ENDBLOCK]
+Se o peso das lentes te deixar lenta,
+podemos ter problemas em combate.
+[ENDBLOCK]
+Que tal largar algumas?
+[ENDBLOCK]
+Jogar fora nossas lentes suadas?
+S^ pode estar brincando.
+[ENDBLOCK]
+Se for a {nica solu|;o, eu simplesmente n;o luto!
+[ENDBLOCK]
+<Rutee>, j# ouviu falar em "ter as
+prioridades em ordem"?<x00>
+[ENDBLOCK]

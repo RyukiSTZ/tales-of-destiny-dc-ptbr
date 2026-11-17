@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A Oberon deve estar muito bem pra
+poder largar uma f#brica dessas...
+[ENDBLOCK]
+Mas talvez seja s^ fachada, pra parecer
+uma f#brica abandonada e fechada.
+[ENDBLOCK]
+Foi preparado pra algo assim?
+Tudo parece t;o bem planejado...
+[ENDBLOCK]
+Tsc. } bem t\pico daqueles
+desgra|ados da Oberon...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

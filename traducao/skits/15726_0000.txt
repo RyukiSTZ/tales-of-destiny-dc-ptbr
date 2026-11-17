@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O povo daqui de Calvalese tem
+uma vida dif\cil, n=?
+[ENDBLOCK]
+Ouvi dizer que sofrem igual
+mesmo quando saem do pa\s.
+[ENDBLOCK]
+Parece que alguns chegam a esconder
+que s;o de Calvalese.
+[ENDBLOCK]
+Espero que o <Baruk> consiga tornar
+este pa\s um lugar melhor pra viver...
+[ENDBLOCK]
+}, eu tamb=m!<x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ufa... Depois de Junkland, o ar
+fresco = uma maravilha.
+[ENDBLOCK]
+Que bom ter a velha <Philia> de volta.
+[ENDBLOCK]
+Por favor, n;o fale como se eu fosse
+uma pessoa completamente diferente.
+[ENDBLOCK]
+<Philia>, posso falar com voc@?
+[ENDBLOCK]
+S-Sim.
+[ENDBLOCK]
+Ela estava agindo totalmente louca... n=?
+[ENDBLOCK]
+...}.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

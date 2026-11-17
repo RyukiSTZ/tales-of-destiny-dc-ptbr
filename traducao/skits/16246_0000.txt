@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Certo, desta vez tentei
+fazer hamb{rgueres!
+[ENDBLOCK]
+Segui o livro de receitas $ risca.
+Deve estar perfeito!
+[ENDBLOCK]
+...E por que est# servindo pra mim?
+[ENDBLOCK]
+B-Bem, a <Rutee> n;o quis comer, por mais
+que eu dissesse que segui a receita...
+[ENDBLOCK]
+Ent;o leve pro <Stahn>.
+Ele come qualquer coisa, n=?
+[ENDBLOCK]
+N;o posso fazer algo t;o constrangedor!
+[ENDBLOCK]
+...Voc@ est# mesmo tentando me irritar?<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

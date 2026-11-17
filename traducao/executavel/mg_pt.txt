@@ -1,0 +1,71 @@
+0|Pausa
+1|Parabéns
+2|Fim do Tempo
+3|Começar
+8|Decisão
+9|Voo
+10|Tempestade
+11|Céu Morto
+12|[Select_ani]：Voltar ao Título
+13|TEMPO
+14|SEQ. MÁX.
+15|HITS MÁX.
+19|FORA
+20|RANKING
+21|PONTOS
+22|RANK
+28|DEUS
+29|VOCÊ É CAMPEÃO
+30|[Circle_Press]ESPERAR
+31|[Cross_ani]PULAR
+32|[Cross_Press]PULAR
+33|Controles Simples!
+35|Segure [Circle_Press] para carregar!
+36|Mire com [L_stick_Press]!
+37|É só isso!
+39|Junte pontos antes que
+40|o tempo acabe e...!
+41|Barra de Força
+43|As estrelas que enchem
+44|ao carregar são
+45|a barra de força.
+47|Cada nível tem um efeito,
+48|então preste atenção!
+49|Itens
+51|　　　Atira 3 flechas
+52|　　　Flechas atravessam
+53|　　　Flechas vão retas
+54|　　　Sem dano
+55|　　　Pontos em dobro
+56|　　　Especial, use com [Square_ani2]
+57|Subir de Rank
+59|Cumpra metas de tempo e
+60|pontos para subir de rank.
+61|Quanto maior o rank,
+62|mais inimigos enfrenta
+63|e mais pontos ganha.
+64|Capriche e ganhe prêmios!!
+65|Sequência
+67|Derrote inimigos sem
+68|errar um tiro! Quanto
+69|maior a Sequência,
+70|mais pontos. O contador
+71|fica no alto à direita!
+72|Veja quando é seguro!
+73|Mira Mais Alta
+75|Você pula com [Triangle_ani2].
+76|Assim carrega mais rápido
+77|e evita ataques do chão,
+78|mas cuidado: a carga
+79|some quando você pousa.
+80|Dicas de Pontos
+82|1. Um tiro, vários inimigos!
+83|2. Aumente a Sequência!
+84|3. Não desperdice tiros!
+85|4. Anule tiros inimigos!
+86|5. Use os itens!
+87|Equipe
+88|Programação
+89|Gráficos
+90|Som
+91|Agradecimentos

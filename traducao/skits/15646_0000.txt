@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o por que voc@s duas
+estavam naquele templo?
+[ENDBLOCK]
+N;o = ^bvio, bobo? S^ h# um motivo
+pra algu=m ir a um lugar daqueles!
+[ENDBLOCK]
+Ah, entendi. Algu=m te desafiou!
+[ENDBLOCK]
+N;o, n;o = isso!
+[ENDBLOCK]
+Ah, entendi. Voc@s estavam brincando de esconde-esconde!
+[ENDBLOCK]
+Credo, que cora|;o mais puro!<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

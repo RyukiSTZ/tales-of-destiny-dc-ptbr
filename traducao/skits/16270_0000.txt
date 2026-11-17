@@ -1,0 +1,13 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ainda falta um tempo at= anoitecer.
+[ENDBLOCK]
+Que tal darmos uma volta pela cidade?
+[ENDBLOCK]
+Parece bom.
+[ENDBLOCK]

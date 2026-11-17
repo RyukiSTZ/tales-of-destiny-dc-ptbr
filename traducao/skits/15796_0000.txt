@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Diz a\, <Dymlos>... Swordians sentem fome?
+[ENDBLOCK]
+Claro que voc@ ia perguntar isso...
+[ENDBLOCK]
+Quanto mais falo com voc@, mais humano
+voc@ parece. Fico pensando...
+[ENDBLOCK]
+Humanos sentem fome, ent;o voc@
+n;o devia sentir tamb=m?
+[ENDBLOCK]
+N=, <Lion>?
+[ENDBLOCK]
+...N;o me olhe como se eu seguisse
+sua l^gica ou algo assim.
+[ENDBLOCK]

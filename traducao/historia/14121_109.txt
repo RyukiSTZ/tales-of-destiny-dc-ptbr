@@ -1,0 +1,628 @@
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005>N;o h# nada dentro.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+Voc@s s;o...! ...N;o,
+deixa pra l#.
+[ENDBLOCK]
+Por favor, mantenham o Lorde <Johnny> seguro.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@s v;o para Terazzi?
+Por favor, cuidem-se.
+[ENDBLOCK]
+Como orgulhoso oficial de Shiden,
+trabalho para melhorar nossas
+rela|`es com Moreau.
+[ENDBLOCK]
+Numa hora dessas, Aquaveil
+precisa se unir como uma s^!
+[ENDBLOCK]
+Lorde <Johnny>! H#
+algo que eu possa
+fazer pelo senhor?
+[ENDBLOCK]
+Estou pronto pra fazer qualquer
+coisa pelo Lorde <Johnny>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Lorde <Johnny>! Vamos espalhar sua
+can|;o de vit^ria pelo mundo!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+O que o <Tiberius> disse sobre a sua
+espada = verdade. Ela ficava
+originalmente aqui em Aquaveil.
+[ENDBLOCK]
+Desde que a fam\lia real de Shiden
+a encontrou, meus antepassados
+a guardaram como tesouro
+sagrado.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Ent;o por que o
+<Lion> est# com ela?
+[ENDBLOCK]
+Ela foi roubada do
+santu#rio h# uns
+dez anos.
+[ENDBLOCK]
+Hmmm...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+N;o fui eu! N;o me olhem
+desse jeito!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Nem eu sei quem me roubou.
+[ENDBLOCK]
+Cha-... Esta espada agora = minha,
+n;o vou entreg#-la.
+[ENDBLOCK]
+N;o me importa. Afinal, isso foi h#
+muito tempo. Al=m disso, sou
+um desastre com espadas.
+[ENDBLOCK]
+Pois bem...
+[ENDBLOCK]
+Agrade|o por virem at= aqui,
+mas, no fim, n;o vou
+precisar de voc@s.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Como assim?
+[ENDBLOCK]
+N;o tenho a menor vontade de
+brigar com o <Tiberius>.
+[ENDBLOCK]
+Vim a Moreau por puro capricho.
+S^ quero passar meus dias
+o mais despreocupado poss\vel.
+[ENDBLOCK]
+Por n^s, tudo bem.
+[ENDBLOCK]
+Mas voc@ est# mesmo tranquilo
+com isso, <Johnny>?
+[ENDBLOCK]
+O <Tiberius> com certeza vai invadir
+Shiden em seguida, n=?
+[ENDBLOCK]
+Isso = com os meus compatriotas.
+Mesmo que eu me importasse, n;o
+h# nada que eu pudesse fazer.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Ele = exatamente como
+o povo da cidade
+o descreveu...
+[ENDBLOCK]
+Voc@ sabe algo sobre o
+novo conselheiro do
+<Tiberius>, o <Greybum>?
+[ENDBLOCK]
+Sei, sim. Agora ele est#
+em Terazzi, a terra natal
+do <Tiberius>.
+[ENDBLOCK]
+Ou seja, acabamos
+de nos desencontrar.
+[ENDBLOCK]
+H# algum jeito de
+chegar a Terazzi?
+[ENDBLOCK]
+N;o. As #guas deles t@m seguran|a
+ainda mais r\gida que Moreau.
+[ENDBLOCK]
+Agora, se voc@s tivessem a armada
+da Cruz Negra do <Fayte> do seu lado...
+Talvez a\ conseguissem
+passar.
+[ENDBLOCK]
+<Fayte>...?
+[ENDBLOCK]
+Lorde <Johnny>, tenho not\cias urgentes!
+V;o executar o Lorde <Fayte>!
+[ENDBLOCK]
+Aquela maldita nova governadora, a
+<Batista>, acabou de anunciar!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Batista>!?
+[ENDBLOCK]
+Hoho. Essa = uma hist^ria
+que fede a sangue.
+[ENDBLOCK]
+Meu senhor, agora = a hora de agir!
+O senhor n;o pode ficar parado
+e deixar o Lorde <Fayte> morrer!
+[ENDBLOCK]
+Ele sempre esteve preparado
+para isso. N;o h# nada que
+eu possa fazer por ele agora.
+[ENDBLOCK]
+Mas, meu senhor, o Lorde
+<Fayte> n;o = seu amigo?
+[ENDBLOCK]
+Ah, qual =, eu n;o passo de
+um palha|o. Entendo como voc@ se sente,
+mas isso = press;o demais
+pra mim.
+[ENDBLOCK]
+Pr\ncipe!
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<center>Ele = pra ser da realeza?
+Inacredit#vel...
+[ENDBLOCK]
+Ei, somos os refor|os de Shiden.
+Nos informe da situa|;o.
+[ENDBLOCK]
+C-Claro.
+[ENDBLOCK]
+O Lorde <Fayte>, filho do antigo
+senhor de Moreau, est# confinado
+dentro do castelo.
+[ENDBLOCK]
+A esposa dele, <Rihanna>, est# com ele...
+Aah... Desse jeito, eles v;o...!
+[ENDBLOCK]
+Barqueiro
+[ENDBLOCK]
+Ei, voc@! Voc@ contou ao Lorde
+<Johnny> sobre o Lorde <Fayte>!?
+[ENDBLOCK]
+Ele est# indo sozinho para o
+Castelo de Moreau!
+[ENDBLOCK]
+Sozinho!? O que ele
+pretende fazer?
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+<center>Parece que esse era o
+plano dele desde o come|o.
+[ENDBLOCK]
+Mesmo depois de dizer que
+n;o ia ajudar, hein?
+[ENDBLOCK]
+Temos que ir atr#s
+do <Johnny>!
+[ENDBLOCK]
+Concordo. Enquanto a <Batista>
+estiver envolvida, n;o podemos
+deixar isso assim.
+[ENDBLOCK]
+Por favor, pessoal! Eu imploro,
+por favor, ajudem o Lorde <Johnny>!
+[ENDBLOCK]
+Tudo bem. Tirando o <Johnny>, esse
+tal de <Fayte> pode ser {til.
+[ENDBLOCK]
+Por causa da Armada da
+Cruz Negra, n=?
+[ENDBLOCK]
+Ele = nossa {nica op|;o se
+quisermos chegar a Terazzi.
+[ENDBLOCK]
+Ent;o est# decidido!
+[ENDBLOCK]
+A entrada da frente do castelo foi
+fechada. Vou levar voc@s pelos
+fundos de barco.
+[ENDBLOCK]
+Vou deixar o barco esperando l# fora.
+Venham nos encontrar quando
+terminarem os preparativos.
+[ENDBLOCK]
+Entendido!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x47><xDC><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x57><xE0><x00><x80>
+<x18><x65><x57><xE4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site<x00>
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x47><xC8><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Garoto S=rio
+[ENDBLOCK]
+Ei, a gente devia ir pra casa agora...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Garoto L\der
+[ENDBLOCK]
+Heh, admite logo, voc@ tem medo
+de deixar seu pai bravo!
+[ENDBLOCK]
+N-N;o tenho, n;o. Mas
+e ela?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Garota Fofa
+[ENDBLOCK]
+Ah, por mim tudo bem.
+[ENDBLOCK]
+Caaara, essa armadura = muito legal!!
+[ENDBLOCK]
+Acho meio assustadora...
+[ENDBLOCK]
+Hihi, que fofo,
+voc@ tem medo de armadura~.
+[ENDBLOCK]
+Nada disso! A armadura da
+minha casa = bem mais assustadora
+que essa coisa!!
+[ENDBLOCK]
+Credo, como voc@s conseguem
+ficar t;o calmos?
+[ENDBLOCK]
+Chega disso. Vamos fazer
+deste lugar a nossa base secreta!
+[ENDBLOCK]
+}, vamos!
+[ENDBLOCK]
+Ei, o que foi?
+[ENDBLOCK]
+N-Nem pensar! A gente n;o pode
+fazer isso! Meu pai me mata!
+[ENDBLOCK]
+T#, a gente vai sem voc@.
+[ENDBLOCK]
+Ei, ei! Vamos pegar alguma coisa
+pra esconder dentro da
+armadura como tesouro!
+[ENDBLOCK]
+Ei, me esperem!
+[ENDBLOCK]
+O que foi?
+[ENDBLOCK]
+...Nada. S^ lembrando de uma
+coisa que aconteceu um
+tempo atr#s. S^ isso...<x00>
+[ENDBLOCK]

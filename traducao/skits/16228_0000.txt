@@ -1,0 +1,60 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+O que houve?
+[ENDBLOCK]
+Eu tinha certeza de que s^ queria
+superar o <Hugo>, mas...
+[ENDBLOCK]
+Ultimamente tenho questionado
+o que eu quero de verdade...
+[ENDBLOCK]
+Ser# que todo esse tempo com o <Stahn> e
+os outros me deixou fraco...?
+[ENDBLOCK]
+De jeito nenhum. Pelo contr#rio.
+[ENDBLOCK]
+Voc@ ficou muito mais forte, jovem mestre.
+[ENDBLOCK]
+Ser# mesmo...?
+[ENDBLOCK]
+Ficou.
+[ENDBLOCK]
+Voc@ j# passou do ponto de se
+preocupar com o mestre <Hugo>.
+[ENDBLOCK]
+Voc@...
+[ENDBLOCK]
+...acha mesmo...?
+[ENDBLOCK]
+Tenho certeza de que quando o mestre <Hugo> vir o quanto
+voc@ ficou forte, at= ele vai dizer...
+[ENDBLOCK]
+"N;o sou p#reo pra voc@, <Lion>!"
+[ENDBLOCK]
+...ou algo assim.
+[ENDBLOCK]
+Acho que ele n;o diria algo assim...
+[ENDBLOCK]
+Ah! E a <Marian> vai ficar tipo...
+[ENDBLOCK]
+"Ah, Mestre <Lion>! Sem que eu percebesse, voc@
+virou um jovem t;o forte!"
+[ENDBLOCK]
+...Talvez? Quer dizer, com certeza!!
+[ENDBLOCK]
+N-N;o seja bobo!
+[ENDBLOCK]
+A <Marian> jamais...!
+[ENDBLOCK]
+Ent;o! Vamos terminar esta miss;o pra voc@
+voltar pra casa triunfante!
+[ENDBLOCK]
+Certo... Vamos!<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

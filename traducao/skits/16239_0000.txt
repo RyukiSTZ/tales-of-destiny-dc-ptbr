@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Olhando de perto, o logo da Companhia
+Oberon est# em quase todo lugar.
+[ENDBLOCK]
+Ent;o, ou seja...
+[ENDBLOCK]
+Este lugar deve ser um pr=dio
+da Companhia Oberon.
+[ENDBLOCK]
+} poss\vel.
+[ENDBLOCK]
+Al=m disso, a abertura no teto onde
+atracaram o Draconis agora h# pouco...
+[ENDBLOCK]
+O teto? O que tem ele?
+[ENDBLOCK]
+Sinto que o pr=dio que vimos da praia
+perto de Cresta tinha o mesmo teto...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

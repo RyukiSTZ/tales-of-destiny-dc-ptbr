@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Parece que vamos ter que usar g_ndolas
+pra andar por Moreau.
+[ENDBLOCK]
+Por mim, tudo bem. Vai ser
+uma experi@ncia nova!
+[ENDBLOCK]
+S^ pode ser brincadeira...
+Que cidadezinha miser#vel...
+[ENDBLOCK]
+Depois que jurei nunca mais entrar num
+barco a remo... me poupe...
+[ENDBLOCK]
+<Lion>? Voc@ parece bravo.
+[ENDBLOCK]
+Cala a boca...!<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

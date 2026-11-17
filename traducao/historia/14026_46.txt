@@ -1,0 +1,741 @@
+<x9A>
+[ENDBLOCK]
+<xD4>××<x9A>
+[ENDBLOCK]
+
+[ENDBLOCK]
+<xD4>××空開始××××××
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+周回：<x17><x66><x14><x3B><x70><x0C><xAB><x80>
+
+[ENDBLOCK]
+▼▼▼▼▼矢印描画開始
+
+[ENDBLOCK]
+マッチング：<x17><x66><x10><x0F><x70><x08><xAB><x80> == <TAG_033>
+
+[ENDBLOCK]
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><xE8><xD0><x0F><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+場所：<x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x00><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x04><xAA><x80>, <x1D><x66><x50><x14><x13><x64><x10><x6F><xAB><x44><x10><x0F><xAB><x21><x8B><xE8><xD0><x0F><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+ギミック：<x17><x66><x10><x0F><x70><x08><xAB><x80>
+
+[ENDBLOCK]
+この時点でのベクトル方向：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
+
+[ENDBLOCK]
+この時点での角度：<x17><x76><x0C><x80>
+
+[ENDBLOCK]
+この時点での正規化：<x1D><x76><x40><x14><x80>, <x1D><x76><x40><x18><x80>, <x1D><x76><x40><x1C><x80>
+
+[ENDBLOCK]
+ついでに長さも：<x1D><x76><x40><x10><x80>
+
+[ENDBLOCK]
+					スキップ判定
+
+[ENDBLOCK]
+移動停止！
+
+[ENDBLOCK]
+<x17><x66><x10><x5F><x70><x00><xAB><x80>が移動再開！のはず......
+
+[ENDBLOCK]
+ベクトルの大きさが０です
+
+[ENDBLOCK]
+ベクトルの大きさが０です(rget_vec_normal_3ds)
+
+[ENDBLOCK]
+●●概算メモリ消費：<TAG_031>バイト（実際はもっと減っています）●●
+
+[ENDBLOCK]
+●●残量メモリ消費：<TAG_031>バイト（実際はもっと減っています）●●
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Menino
+[ENDBLOCK]
+Voc@ parece um cara legal. Por que
+n;o me desafia, mano?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+T#, pode ser, mas...
+Quem = esse cara?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Velho
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sou um morador rico da
+cidade. Eu patrocino a corrida.
+[ENDBLOCK]
+Patrocina?
+O que = isso?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Bom, de forma simples... eu dou
+os pr@mios para o vencedor.
+[ENDBLOCK]
+Uau! Mas por qu@?
+[ENDBLOCK]
+Bom, quando se = rico, sobra
+muito tempo e dinheiro
+nas m;os.
+[ENDBLOCK]
+Vamos, vamos, j# chega.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Me avisa quando
+estiver pronto, mano.
+[ENDBLOCK]
+
+[ENDBLOCK]
+O percurso = complicado,
+ent;o preste aten|;o.
+[ENDBLOCK]
+Tem certeza de que quer
+correr, cara?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Tanto faz. Afinal, quem
+= esse cara?
+[ENDBLOCK]
+Patrocinador?
+[ENDBLOCK]
+Por que voc@ financia
+esse tipo de evento?
+[ENDBLOCK]
+Haha, n;o tenho motivo.
+S^ sou rico e entediado.
+[ENDBLOCK]
+Vamos, vamos,
+j# chega.
+[ENDBLOCK]
+
+[ENDBLOCK]
+O percurso, a rota. }
+igual ao de antes.
+[ENDBLOCK]
+}, entendi.
+[ENDBLOCK]
+Hoje estou falando s=rio.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Vamos, decide logo!
+[ENDBLOCK]
+Vamos come|ar?
+[ENDBLOCK]
+Hoje... eu tamb=m estou falando s=rio.
+[ENDBLOCK]
+	・Setting up course data
+[ENDBLOCK]
+			・Initialize the management of kake
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+	・Player initialization
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+	・Initializing Mach Boy
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+	・Wealth initialization
+
+[ENDBLOCK]
+	・Initialization of Balloon Girl
+
+[ENDBLOCK]
+	・Initialize balloons
+
+[ENDBLOCK]
+	・Initializing the townspeople
+
+[ENDBLOCK]
+	・Initialize the demo flag
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+Desistir
+Continuar
+
+[ENDBLOCK]
+Ei, ei! Vai desistir?
+[ENDBLOCK]
+Eu sabia que voc@ n;o
+ia me vencer, sabia!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Que foi, perdedor?
+Quer tentar de novo?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ainda vai jogar?
+[ENDBLOCK]
+Eu sou o cara mais
+r#pido da cidade!
+[ENDBLOCK]
+Ei, ei, ei! Quer apostar
+uma corrida comigo?
+[ENDBLOCK]
+Ei, quer correr de novo?
+[ENDBLOCK]
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ent;o me siga.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+
+[ENDBLOCK]
+Qu@@@? Que chato!
+[ENDBLOCK]
+Ah, n;o, ent;o tudo bem.
+[ENDBLOCK]
+Winner: <x17><x69><x44><x29><x80>
+[ENDBLOCK]
+Que comecem os jogos!
+Explica|;o do percurso
+Sair do jogo!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Que pena.
+[ENDBLOCK]
+Pff! Fugindo, =?
+[ENDBLOCK]
+A corrida tem duas voltas.
+[ENDBLOCK]
+Em suas marcas.
+[ENDBLOCK]
+JA!
+[ENDBLOCK]
+Chegada!
+[ENDBLOCK]
+□□かけっこレベル１＆勝利済み	アイテムラベル：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ venceu. Por favor, pegue isto.
+[ENDBLOCK]
+□□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ = r#pido demais, mano!
+[ENDBLOCK]
+□□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
+
+[ENDBLOCK]
+Eu... Eu perdi...?
+[ENDBLOCK]
+Mas voc@ tamb=m deu o seu melhor,
+mano. Te dou a vit^ria.
+[ENDBLOCK]
+□□かけっこレベル２＆初勝利！	アイテムラベル：eventItem_SS_21_03_01(<x09><xC5><x0B><x00><x00>)
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+Mas da pr^xima vez eu n;o perco!
+[ENDBLOCK]
+Volte para correr de novo!
+[ENDBLOCK]
+Chegada...
+[ENDBLOCK]
+Eba, eu ganhei!
+[ENDBLOCK]
+Voc@ perdeu!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Que me diz? Corro com voc@
+quantas vezes quiser.
+[ENDBLOCK]
+Eba, sou mais r#pido que voc@!
+[ENDBLOCK]
+Voc@ = lento demais, mano!
+[ENDBLOCK]
+----- 敗北 -----
+
+[ENDBLOCK]
+かけっこ管理----->
+
+[ENDBLOCK]
+最大周数：<x17><x66><x50><x1C><x43><x70><x08><xAB><x80>
+
+[ENDBLOCK]
+現在結果：<x17><x66><x50><x1C><x43><x70><x40><x1C><xAB><x80>
+
+[ENDBLOCK]
+勝利状態：<x17><x66><x50><x1C><x43><x70><x40><x28><xAB><x80>
+
+[ENDBLOCK]
+説明状態：<x17><x66><x50><x1C><x43><x70><x40><x24><xAB><x80>
+
+[ENDBLOCK]
+現レベル：<x17><x66><x50><x1C><x43><x70><x40><x20><xAB><x80>
+
+[ENDBLOCK]
+プレイヤー----->
+
+[ENDBLOCK]
+現在状態：<x17><x71><x80> <x15><x80><x01><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+現在周数：<x17><x71><x80>$<x80>
+
+[ENDBLOCK]
+現フラグ：<x17><x71><x80>(<x80>
+
+[ENDBLOCK]
+目標座標：<x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><x30><x15><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+マッハ少年----->
+
+[ENDBLOCK]
+現在状態：<x17><x71><x80><xCC><x80>
+
+[ENDBLOCK]
+現在周数：<x17><x71><x80><xD0><x80>
+
+[ENDBLOCK]
+現フラグ：<x17><x71><x80><xD4><x80>
+
+[ENDBLOCK]
+目標座標：<x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x00><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x04><xAA><x80>, <x1D><x65><x90><xF4><x14><x13><x64><x10><x6F><xAB><x78><x50><x20><x0F><xAB><x74><x08><xAA><x80>
+
+[ENDBLOCK]
+Vou explicar o percurso.
+[ENDBLOCK]
+Voc@ come|a aqui.
+[ENDBLOCK]
+Vou te mostrar o percurso uma
+vez. Preste aten|;o, hein!
+[ENDBLOCK]
+Come|amos do outro lado da fonte.
+[ENDBLOCK]
+Des|a esta escada.
+[ENDBLOCK]
+Daqui, v# em dire|;o $ fonte.
+[ENDBLOCK]
+Depois, contorne a fonte.
+[ENDBLOCK]
+Depois, volte pelo caminho
+por onde viemos.
+[ENDBLOCK]
+Desta vez, suba a escada antes
+de atravessar a fonte.
+[ENDBLOCK]
+E ent;o, de volta $ largada.
+Essa = a chegada.
+[ENDBLOCK]
+Nem pense em roubar,
+que eu vou saber!
+[ENDBLOCK]
+S;o 2 voltas. N;o esque|a!
+[ENDBLOCK]
+Course movement + turn
+
+[ENDBLOCK]
+Course movement
+
+[ENDBLOCK]
+All message playback
+has been completed.
+
+[ENDBLOCK]
+Message playback
+
+[ENDBLOCK]
+◆◆◆かけっこ開始
+
+[ENDBLOCK]
+座標：<x1D><x75><x80><xC4><x17><x80>, <x1D><x75><x80><xC8><x17><x80>, <x1D><x75><x80><xCC><x17><x80>	方向：<x1D><x76><x0C><x80>
+
+[ENDBLOCK]
+レベル２：<x17><x24><x82><x14><x2F><x80>
+
+[ENDBLOCK]
+勝利済み：<x17><x24><x84><x14><x2F><x80>
+
+[ENDBLOCK]
+敗北済み：<x17><x24><x83><x14><x2F><x80>
+
+[ENDBLOCK]
+説明済み：<x17><x24><x81><x14><x2F><x80>
+
+[ENDBLOCK]
+転送先：<x1D><x75><x80><xB4><x14><x80><x2C><x20><x1D>u<x80><xB8><x14><x80><x2C><x20><x1D>u<x80><xBC><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x80>衿<x80></color>が
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x90><xD0><x17><x00><x80><x18><x65><x90><xD4><x17><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x80><x18><x98><x80>
+[ENDBLOCK]
+<x18><x65><x90><x00><x18><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x80><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x80><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x90><xF8><x17><x00><x80>
+<x18><x65><x90><xFC><x17><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007><x19><x71><x80>衿<x80>'s Swordian device
+can now be used.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

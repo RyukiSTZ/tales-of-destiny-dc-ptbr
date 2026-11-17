@@ -1,0 +1,13 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Agora que temos o Berselium em m;os,
+vamos voltar ao Draconis.
+[ENDBLOCK]
+O Draconis est# perto de Darilsheid. Vamos
+para o sudeste saindo de Junkland.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

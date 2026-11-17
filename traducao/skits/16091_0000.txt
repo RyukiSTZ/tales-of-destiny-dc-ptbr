@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+N;o vou aceitar o mundo que o <Miktran> quer!
+[ENDBLOCK]
+N;o =, <Rutee>!?
+[ENDBLOCK]
+Claro! Vamos derrotar o <Miktran> com certeza!
+[ENDBLOCK]
+
+Pronta, <Philia>!
+[ENDBLOCK]
+Claro! Vamos devolver a paz ao mundo!
+[ENDBLOCK]
+N;o =, <Woodrow>!
+[ENDBLOCK]
+De fato!
+[ENDBLOCK]
+Vamos devolver a luz ao nosso mundo!
+[ENDBLOCK]
+Este = o ponto sem volta...
+[ENDBLOCK]
+Todos prontos!?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

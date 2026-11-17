@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Fiquei com fome depois de tanta luta.
+[ENDBLOCK]
+Bom trabalho, maninho, pessoal.
+Aqui est# a Bolsa de Comida.
+[ENDBLOCK]
+Obrigada.
+[ENDBLOCK]
+Hmm, hmm...
+[ENDBLOCK]
+Ah, que del\cia!
+[ENDBLOCK]
+Tem um gosto diferente do normal, n=?
+[ENDBLOCK]
+Voc@ percebeu? Peguei a receita e
+dei meu toque pessoal.
+[ENDBLOCK]
+Como esperado da <Lilith>. A comida
+vai ser ainda mais eficaz.
+[ENDBLOCK]
+Deixem a cozinha comigo!<x00><x00><x00><x00>
+[ENDBLOCK]

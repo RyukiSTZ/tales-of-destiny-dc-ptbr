@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+O que foi, <Mary>?
+[ENDBLOCK]
+Ah#! Eu estava fazendo algo, em algum lugar...!
+[ENDBLOCK]
+Bem, sou todo ouvidos. O que era?
+[ENDBLOCK]
+Acho que estou me lembrando de algo...!
+[ENDBLOCK]
+S=rio? Que ^timo, <Mary>!
+[ENDBLOCK]
+N;o, deixa pra l#. Esqueci de novo...
+[ENDBLOCK]
+...N;o nos d@ esperan|as assim.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

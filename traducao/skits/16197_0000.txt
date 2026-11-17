@@ -1,0 +1,31 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ei, <Stahn>?
+[ENDBLOCK]
+J# jogou "Tales of the Abyss"?
+[ENDBLOCK]
+Ah#! N;o caio nessa de novo!
+J# terminei esse!
+[ENDBLOCK]
+Qu@? N;o pode ser! E o que acontece, ent;o!?
+[ENDBLOCK]
+O protagonista = o Luke, que teve
+uma vida bem f#cil na inf&ncia.
+[ENDBLOCK]
+A\, uma certa coisa acontece com o Luke, e...
+[ENDBLOCK]
+T#, t#, j# entendi! "E pra saber o
+qu@, jogue voc@ mesmo", n=?
+[ENDBLOCK]
+Hehehe, isso!
+[ENDBLOCK]
+Ahh, credo! Agora fiquei curioso!!
+[ENDBLOCK]
+Aposto que muita gente est#! O aclamado
+"Tales of the Abyss"! J# $ venda!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

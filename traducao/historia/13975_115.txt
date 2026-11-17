@@ -1,0 +1,635 @@
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+H# uma lembran|a guardada
+nesta lente?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sacerdote
+[ENDBLOCK]
+...Entendo. Ent;o esta crian|a...
+[ENDBLOCK]
+Venha, n;o h#
+nada a temer.
+[ENDBLOCK]
+De hoje em diante,
+esta ser# a sua casa.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sacerdote Bravo
+[ENDBLOCK]
+J# estou farto de voc@!
+Vou fazer voc@ ser expulsa por isso!
+[ENDBLOCK]
+Espere! As travessuras desta crian|a
+s;o s^ um pedido de aten|;o!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ministro-Chefe
+[ENDBLOCK]
+Hmmm...
+[ENDBLOCK]
+Recebi muitas reclama|`es
+dela vindas da cidade!
+[ENDBLOCK]
+Ela est# desonrando o templo!
+Isso n;o pode ser tolerado.
+[ENDBLOCK]
+Hmm... Voc@ tem raz;o. Retire-a
+destes solos sagrados.
+[ENDBLOCK]
+M-Mas, Vossa Santidade!
+[ENDBLOCK]
+Eu j# falei. Voc@ discorda
+do meu julgamento?
+[ENDBLOCK]
+P-Por favor, me perdoe,
+Vossa Santidade!
+[ENDBLOCK]
+Desculpe...
+[ENDBLOCK]
+
+[ENDBLOCK]
+Crian|a
+[ENDBLOCK]
+Hehe, t# tudo bem. Afinal, eu sou o
+mal em pessoa. Tive o que mereci.
+[ENDBLOCK]
+N;o! N;o = verdade! Eu s^
+fui descuidada...
+[ENDBLOCK]
+Bom... At= mais.
+[ENDBLOCK]
+Me perdoe... <Batista>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Hmm, aquela crian|a,
+=? Hehehe.
+[ENDBLOCK]
+Gosto daquele olhar.
+Frio, cheio de ^dio...
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Quem era aquele agora?
+[ENDBLOCK]
+N;o sei?
+[ENDBLOCK]
+<TAG_005>Um livro de mistura de bombas.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+Ler?
+Sim
+N;o
+
+[ENDBLOCK]
+<TAG_005>    A mistura de bombas = uma rea|;o
+em cadeia entre subst&ncias.
+
+[ENDBLOCK]
+<TAG_005>Isso foi visto pela primeira
+ vez h# milhares de anos.
+
+[ENDBLOCK]
+<TAG_005>      Na =poca,
+eram principalmente sacerdotes
+    e cientistas.
+[ENDBLOCK]
+} dif\cil demais de ler.
+[ENDBLOCK]
+O que = isto? N;o fa|o ideia.
+[ENDBLOCK]
+Quase tenho o conhecimento
+pra ler, mas...
+[ENDBLOCK]
+Livros t=cnicos s;o
+dif\ceis demais pra mim.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+T@m certeza de que isso s;o letras?
+[ENDBLOCK]
+Hmm... N;o fa|o ideia.
+[ENDBLOCK]
+Tamb=m estou com dificuldade
+com este.
+[ENDBLOCK]
+N;o = $ toa que n;o consigo ler isso.
+[ENDBLOCK]
+N;o tenho o menor interesse.
+[ENDBLOCK]
+デフォルト
+[ENDBLOCK]
+<Leader>
+[ENDBLOCK]
+<TAG_005>   H# um livro infantil intitulado
+"O Anjo Gentil e o Dem_nio Vermelho".
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ler?
+Sim
+N;o
+[ENDBLOCK]
+<TAG_005>Era uma vez um anjo
+gentil que s^ queria
+fazer os outros felizes.
+[ENDBLOCK]
+<TAG_005>  Mas havia tamb=m um dem_nio
+vermelho, ego\sta e horrendo, que
+queria tomar a terra dos anjos.
+[ENDBLOCK]
+<TAG_005>O dem_nio vermelho disse ao anjo:
+[ENDBLOCK]
+<TAG_005><center>"Seu lar ser# meu."
+O dem_nio vermelho ent;o matou
+todos os outros anjos,
+um ap^s o outro.
+[ENDBLOCK]
+<TAG_005>  H# uma s=rie de livros campe;
+de vendas sobre Calvalese intitulada
+     "A Linhagem dos Reis".
+[ENDBLOCK]
+<TAG_005>Materiais mission#rios
+   enfileirados.
+[ENDBLOCK]
+<TAG_005>  H# um livro intitulado
+   Cidades Famosas do Mundo
+Junkland, a Cidade do Lixo
+[ENDBLOCK]
+<TAG_005>  A oeste de Calvalese fica a
+cidade mais pobre do mundo, Junkland.
+
+[ENDBLOCK]
+<TAG_005>O ano inteiro, um fedor de doer o nariz
+ enche o ar desta cidade. A maioria
+da popula|;o vive no meio do lixo.
+   A principal fonte de renda =...
+[ENDBLOCK]
+<TAG_005>  Eis um trecho do romance
+"Calend#rio das Estrelas Pt.2"
+[ENDBLOCK]
+<TAG_005><center>...Se minha irm; ainda estivesse aqui,
+ser# que seria como voc@?
+Deixei essas palavras escaparem.
+[ENDBLOCK]
+<TAG_005>  Ela virou o rosto, corada,
+    com os olhos cheios de l#grimas.
+Coloquei a palma em seu rosto.
+[ENDBLOCK]
+<TAG_005>Enxugando suas l#grimas,
+  pressionei meus l#bios...
+[ENDBLOCK]
+<TAG_005>Continua.
+[ENDBLOCK]
+<TAG_005><center>A s=rie "Calend#rio das Estrelas"
+ficar# em pausa por tempo
+indeterminado ap^s esta edi|;o.
+- Departamento Editorial
+[ENDBLOCK]
+<TAG_005><center>H# um artigo sobre a economia
+de Calvalese publicado pela
+Funda|;o <Baruk>.
+[ENDBLOCK]
+<TAG_005>H# uma publica|;o mensal chamada
+    "Quatro Segredos do Mundo".
+[ENDBLOCK]
+Ler?
+S^ o sum#rio
+N;o
+[ENDBLOCK]
+<TAG_005>O conte{do = em grande parte
+   experi@ncias bizarras
+  enviadas por leitores.
+[ENDBLOCK]
+<TAG_005>       A introdu|;o da publica|;o
+foi escrita por um estudioso chamado Frantz.
+[ENDBLOCK]
+<TAG_005>H# um livro para
+  estrangeiros intitulado
+"A Vida no Deserto".
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Pesquisador
+[ENDBLOCK]
+Um sacerdote mand;o me viu
+e n;o me deixou sair.
+[ENDBLOCK]
+Agora n;o vou conseguir
+chegar $ confer@ncia!
+[ENDBLOCK]
+O sacerdote grosso
+est# preso agora.
+[ENDBLOCK]
+Pesquiso como a {ltima
+Guerra de Aeth'er acabou.
+[ENDBLOCK]
+Talvez achemos uma pista de
+como vencer esta.
+[ENDBLOCK]
+Os calvalesianos s;o t;o fechados.
+} dif\cil fazer meu trabalho mission#rio.
+[ENDBLOCK]
+Por=m, superar esse fardo = a
+miss;o que nos foi dada pelos
+nossos antecessores.
+[ENDBLOCK]
+Alguns calvalesianos
+gostaram da confus;o.
+[ENDBLOCK]
+Os raios que ca\ram aqui perto
+deixaram muita gente com medo.
+[ENDBLOCK]
+Trabalhei junto com o povo
+da cidade para juntar as lentes.
+[ENDBLOCK]
+Espero que isso incentive a
+coopera|;o dos cidad;os.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+N;o sei como o <Greybum> fez,
+mas ele dominou os monstros
+com facilidade.
+[ENDBLOCK]
+Ele nem parecia sacerdote.
+[ENDBLOCK]
+Foram os calvalesianos que
+fizeram aquela transmiss;o?
+[ENDBLOCK]
+Eu sabia que eram eles,
+estavam todos t;o felizes.
+[ENDBLOCK]
+Quem construiu as Aer^poles?
+[ENDBLOCK]
+Ser# que vou morrer aqui, neste
+maldito pa\s...?
+[ENDBLOCK]
+O povo da cidade doou muitas
+lentes. No fim, eles s;o
+boas pessoas.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+O povo de Calvalese n;o liga
+para o templo. Eles t@m suas
+pr^prias cren|as.
+[ENDBLOCK]
+Por que n;o podemos simplesmente ir embora daqui?
+[ENDBLOCK]
+O que diabos est#
+acontecendo?
+[ENDBLOCK]
+Se destru\rem a Aetherosfera sem
+cuidado, isso n;o vai piorar as
+coisas na superf\cie?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xE8><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x57><xD8><x00><x80><x18><x65><x57><xDC><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x0C><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><x08><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x47><xFC><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x47><xFC><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x00><x00><x80>
+<x18><x65><x58><x04><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x47><xE8><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

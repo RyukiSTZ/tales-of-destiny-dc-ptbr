@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Hi hi hi... se este experimento der certo,
+teremos um poder de fogo impressionante.
+[ENDBLOCK]
+Talvez d@ pra destruir um castelo inteiro...
+[ENDBLOCK]
+<Clemente>, talvez voc@ deva deter sua mestra...
+[ENDBLOCK]
+J# passamos h# muito do ponto em que
+algo que eu diga v# det@-la.
+[ENDBLOCK]
+Mas, e o castelo...?
+[ENDBLOCK]
+N;o h# nada a fazer.
+[ENDBLOCK]
+Que irrespons#vel...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Parece que o Olho de Atamoni
+foi roubado de novo.
+[ENDBLOCK]
+Vamos a Darilsheid falar
+com o Rei de Seinegald.
+[ENDBLOCK]
+Se ao menos tiv=ssemos o Draconis,
+chegar\amos num instante...
+[ENDBLOCK]
+N;o h# nada a fazer quanto a isso, <Rutee>.
+[ENDBLOCK]
+Teremos que ir a oeste de Cresta
+contornando as montanhas.<x00>
+[ENDBLOCK]

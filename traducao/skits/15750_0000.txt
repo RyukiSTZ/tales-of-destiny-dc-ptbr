@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Vamos a Neustadt.
+[ENDBLOCK]
+Primeiro temos que voltar a Cherik. Vamos
+fretar um barco no porto.
+[ENDBLOCK]
+Espere s^, <Greybum>!
+[ENDBLOCK]
+Vendo voc@s dois trabalhando juntos,
+sinto que podemos superar qualquer obst#culo.
+[ENDBLOCK]
+N;o diga isso perto do <Lion>.
+Ele = bem c\nico.
+[ENDBLOCK]
+Haha... Acho que sim.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

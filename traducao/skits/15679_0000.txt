@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O <Hugo> falou dos "Sete Generais". Quem s;o eles?
+[ENDBLOCK]
+S;o os sete comandantes mais
+altos do Ex=rcito de Seinegald.
+[ENDBLOCK]
+O General <Dryden> tamb=m = um deles.
+[ENDBLOCK]
+Uau...
+[ENDBLOCK]
+Dada a for|a do meu mestre, pessoalmente acho que ele
+devia ser inclu\do como o Oitavo General.
+[ENDBLOCK]
+Seria o mais apropriado.
+[ENDBLOCK]
+Chega, Chal.
+[ENDBLOCK]
+Ah... D-Desculpe, perd;o.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ei, <Kongman>, voc@ tem um sonho?
+[ENDBLOCK]
+Claro. Ser campe;o eterno.
+Esse = meu sonho.
+[ENDBLOCK]
+Ah, entendi!
+[ENDBLOCK]
+Afinal, enquanto eu for campe;o,
+as crian|as v;o seguir seus sonhos tamb=m.
+[ENDBLOCK]
+Ent;o n;o posso perder.
+[ENDBLOCK]
+Que incr\vel! Estou impressionado!<x00>
+[ENDBLOCK]

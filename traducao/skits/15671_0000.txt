@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Stahn>, como = o <Dymlos>?
+[ENDBLOCK]
+Ah, =. A <Mary> n;o consegue ouvi-lo, n=?
+[ENDBLOCK]
+Bem, se eu tivesse que resumi-lo
+numa palavra, seria...
+[ENDBLOCK]
+"Mand;o."
+[ENDBLOCK]
+"Fa|a isso. Fa|a aquilo. N;o fa|a isso. N;o fa|a aquilo."
+[ENDBLOCK]
+Entendo. Ele = um bom homem, n;o =?
+[ENDBLOCK]
+Foi isso que voc@ entendeu?
+[ENDBLOCK]
+Pelo menos a <Mary> sabe o que faz um bom homem.
+[ENDBLOCK]
+Mas n^s somos espadas.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

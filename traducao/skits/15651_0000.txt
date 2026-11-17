@@ -1,0 +1,29 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Se a gente medir a dist&ncia
+daqui at= Harmentz...
+[ENDBLOCK]
+...Somar o custo das refei|`es...
+[ENDBLOCK]
+Argh, a conta n;o fecha!
+[ENDBLOCK]
+Por que a <Rutee> est# t;o agitada?
+[ENDBLOCK]
+Ela est# calculando o custo da viagem.
+[ENDBLOCK]
+Quando o assunto = dinheiro,
+pode deixar com ela.
+[ENDBLOCK]
+Acho que d# pra pular o almo|o hoje.
+[ENDBLOCK]
+Talvez s^ um acompanhamento e um
+pouco de mato aqui da regi;o...
+[ENDBLOCK]
+...Ser# que = mesmo uma boa
+ideia deixar isso com ela?<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

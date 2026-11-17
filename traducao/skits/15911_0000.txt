@@ -1,0 +1,16 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Antes de encontrar o Rei de
+Seinegald, vamos para Cresta.
+[ENDBLOCK]
+Vamos encontrar a <Rutee> l#.
+[ENDBLOCK]
+Ela talvez n;o fique muito feliz em me ver...
+[ENDBLOCK]
+Cresta fica a leste de Darilsheid.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

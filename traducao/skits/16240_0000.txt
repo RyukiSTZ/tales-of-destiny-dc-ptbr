@@ -1,0 +1,39 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O Chal se esfor|ou, mas... acho
+que vai pro lixo...
+[ENDBLOCK]
+Ah n;o! O <Lion> est# pensando em
+jogar o <Chaltier> fora!?
+[ENDBLOCK]
+O que foi, <Philia>?
+[ENDBLOCK]
+Acabei de ouvir o <Lion> falando em
+jogar o <Chaltier> no lixo!
+[ENDBLOCK]
+Opa, opa, isso j# = demais!
+[ENDBLOCK]
+Se voc@ n;o quer, eu fico
+com ele!
+[ENDBLOCK]
+Bem, eu tentava consertar esta arma quebrada
+fazendo o <Chaltier> refundi-la...
+[ENDBLOCK]
+...Mas se voc@ quer tanto esse
+lixo, ent;o tome, fique.
+[ENDBLOCK]
+...!
+[ENDBLOCK]
+...
+[ENDBLOCK]
+...Haha...
+[ENDBLOCK]
+...Hah, hahaha, AHAHAHA!!
+[ENDBLOCK]
+O que foi isso...?<x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,30 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Jovem mestreee~~~!
+[ENDBLOCK]
+O que deu em voc@? Por que est#
+falando desse jeito?
+[ENDBLOCK]
+Porqueee! Ouvi gente no castelo! Estavam
+falando das termaaas!
+[ENDBLOCK]
+Eu tamb=m quero ir $s termaaas!
+[ENDBLOCK]
+N;o temos tempo pra isso agora.
+Estamos indo pra pr^xima miss;o.
+[ENDBLOCK]
+M-m-m-mas!
+[ENDBLOCK]
+Argh, t# bom!
+[ENDBLOCK]
+Se tivermos uma folga, vamos a Frostheim.
+[ENDBLOCK]
+Ent;o pare de falar assim!
+[ENDBLOCK]
+S=rio? Uhuu!<x00><x00><x00><x00>
+[ENDBLOCK]

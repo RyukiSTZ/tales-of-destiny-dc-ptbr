@@ -1,0 +1,630 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Menino
+[ENDBLOCK]
+Ahh!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+!?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+<TAG_007>N;o tenho liga|;o com a fam\lia real.
+Algo errado, garoto?
+[ENDBLOCK]
+
+[ENDBLOCK]
+H;? S=rio?
+[ENDBLOCK]
+Isso mesmo.
+[ENDBLOCK]
+Puxa. Eu jurava que
+voc@ era o <Woodrow>.
+[ENDBLOCK]
+Enfim, cuidado. Voc@ se parece muito
+com ele. As pessoas podem fazer loucuras
+se acharem que voc@ = o <Woodrow>.
+[ENDBLOCK]
+Voc@ =... o <Woodrow>?
+O filho do Rei Isaac?
+[ENDBLOCK]
+...}.
+[ENDBLOCK]
+Sou.
+[ENDBLOCK]
+N;o tem medo de que
+descubram quem voc@ =?
+[ENDBLOCK]
+Se eu me escondesse ou
+fugisse da pergunta...
+[ENDBLOCK]
+N;o adianta mentir para
+os outros. } s^ isso.
+[ENDBLOCK]
+Nossa, voc@ = bem mais legal
+do que eu pensava, <Woodrow>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Velho
+[ENDBLOCK]
+H;, n;o pode ser...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Quem, eu?
+[ENDBLOCK]
+<TAG_007> Voc@ me parece familiar...
+Desculpe. N;o sei quem voc@ =.
+[ENDBLOCK]
+Voc@ parece bem, srta. <Mary>.
+[ENDBLOCK]
+} estranho. Lembro do seu rosto,
+mas n;o consigo lembrar
+de voc@...
+[ENDBLOCK]
+Hahaha. N;o se preocupe.
+[ENDBLOCK]
+Tem certeza...?
+[ENDBLOCK]
+Eu era s^ um simples
+mercen#rio, sabe.
+[ENDBLOCK]
+Trabalhei aqui um tempo
+atr#s e lembro de
+te ver por a\.
+[ENDBLOCK]
+Fico feliz que lembre de mim,
+mesmo que seja s^ o rosto.
+[ENDBLOCK]
+Voc@ ficou muito tempo
+fora. Eu estava quase
+desistindo de te ver.
+[ENDBLOCK]
+} mesmo...?
+[ENDBLOCK]
+N;o importa agora.
+} um bom dia para
+estar vivo.
+[ENDBLOCK]
+Se uma beldade como voc@
+morresse, n;o haveria muito
+pelo que esperar na vida.
+[ENDBLOCK]
+Nesse caso, eu ia querer
+que me levasse junto.
+[ENDBLOCK]
+D-Desculpe.
+[ENDBLOCK]
+N;o, n;o, n;o se preocupe.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Devemos conseguir sobreviver
+no mundo como ele est#.
+[ENDBLOCK]
+} tudo gra|as $ lideran|a
+do Rei de Phandaria.
+[ENDBLOCK]
+Ainda podemos viver neste
+mundo gra|as a ele.
+[ENDBLOCK]
+Que estranho... Achei que
+o povo odiava o rei.
+[ENDBLOCK]
+N;o =, <Woodrow>?
+[ENDBLOCK]
+Rei <Woodrow>! O-onde est;o
+meus modos...
+[ENDBLOCK]
+Suas palavras vieram do cora|;o.
+Fico feliz que as tenha dito.
+[ENDBLOCK]
+Por=m, n;o posso levar todo
+o cr=dito sozinho. Devemos
+agradecer $ <Mary> e ao <Dalis>.
+[ENDBLOCK]
+Fico t;o feliz em ouvir isso.
+[ENDBLOCK]
+Falando no <Dalis>, voc@
+vai v@-lo, <Mary>?
+[ENDBLOCK]
+Voc@s n;o se importam?
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+N;o.
+[ENDBLOCK]
+Pode ir.
+[ENDBLOCK]
+O capit;o <Dalis> = incr\vel.
+Nem dois anos numa cela
+conseguiram derrub#-lo.
+[ENDBLOCK]
+Espero que ele melhore logo.
+[ENDBLOCK]
+O que = a Guerra de Aeth'er...?
+[ENDBLOCK]
+Belcrant...?
+[ENDBLOCK]
+Ultimamente est# cada vez mais
+frio. Ser# porque o c=u est#
+escuro como breu?
+[ENDBLOCK]
+} a arma secreta de lentes que
+vai abrir buracos naquela coisa
+que cobre o c=u, n=?
+[ENDBLOCK]
+Vai, Rei <Woodrow>, vai!
+[ENDBLOCK]
+Voc@ consegue!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Velha
+[ENDBLOCK]
+Que bom que o capit;o
+<Dalis> ainda est# conosco.
+[ENDBLOCK]
+O capit;o <Dalis> sempre foi um
+homem bondoso e gentil, n;o
+do tipo que gosta de conflito.
+[ENDBLOCK]
+Em meio ao tumulto de dois anos
+atr#s, ele assumiu o fardo de
+liderar o seu povo.
+[ENDBLOCK]
+Agora, acho que todo mundo
+est# farto de guerra.
+[ENDBLOCK]
+Desse jeito, n;o s^ esta cidade,
+mas o pa\s inteiro vai ficar
+sufocado pelo gelo.
+[ENDBLOCK]
+Voc@s s^ recolhem lentes?
+E a comida?
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>? Voc@ est# viva!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Nunca vi voc@s
+antes.
+[ENDBLOCK]
+Se eu fosse a <Mary>, estaria com o
+capit;o <Dalis> nas termas de Frostheim.
+[ENDBLOCK]
+
+[ENDBLOCK]
+A <Mary> e o marido n;o
+podem ficar juntos...
+[ENDBLOCK]
+Com um la|o t;o forte, tenho
+certeza de que ficar;o bem.
+[ENDBLOCK]
+Quando ser# que vai chegar o
+dia em que teremos paz?
+[ENDBLOCK]
+Se o Belcrant atacasse nossa
+cidade direto... seria devastador.
+[ENDBLOCK]
+Ser# que = castigo pela
+nossa exist@ncia pecadora?
+[ENDBLOCK]
+<Mary>, se voc@ conseguiu aguentar,
+n^s tamb=m conseguiremos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+H# muitas lentes em Heidelberg.
+V;o l#. Recolham-nas.
+[ENDBLOCK]
+} seu dever garantir que a
+<Mary> volte com vida.
+[ENDBLOCK]
+Volte com vida, ouviu?
+[ENDBLOCK]
+O Lorde <Greybum> = o motivo
+de estarmos onde estamos.
+[ENDBLOCK]
+O <Greybum> s^ nos usou para
+subjugar o pa\s inteiro.
+[ENDBLOCK]
+Agora que nos reconciliamos com a
+fam\lia real... O que vem depois?
+[ENDBLOCK]
+De que adianta tirar neve se
+a cidade vai ser
+destru\da...?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Pretendo continuar fazendo o
+que posso para ajudar todos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x9C><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA0><x00><x80>
+<x18><x65><x58><xA4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x88><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

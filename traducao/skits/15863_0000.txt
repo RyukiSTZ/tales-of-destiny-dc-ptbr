@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Mary>, esta cidade te parece
+um pouco familiar?
+[ENDBLOCK]
+N;o sei... Talvez? Talvez n;o...?
+[ENDBLOCK]
+<Rutee>, n;o a pressione. } claro que ela
+est# com muita coisa na cabe|a.
+[ENDBLOCK]
+Entendo... Desculpe, <Mary>. S^ estou
+um pouco ansiosa, s^ isso.
+[ENDBLOCK]
+Tudo bem... Fico feliz que se preocupe comigo.
+[ENDBLOCK]
+Obrigada, <Rutee>.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

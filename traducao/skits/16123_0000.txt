@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Bom trabalho na batalha, pessoal.
+[ENDBLOCK]
+Pode n;o ser muito, mas vou preparar
+uns gels e garrafas da vida pra ajudar.
+[ENDBLOCK]
+Ajudam muito. Nunca = demais
+ter dessas coisas!
+[ENDBLOCK]
+Contamos com voc@, <Philia>.
+[ENDBLOCK]
+Certo!<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

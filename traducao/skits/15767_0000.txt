@@ -1,0 +1,12 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A entrada da Arena fica no
+fim norte da Rua Principal.
+[ENDBLOCK]
+O <Kongman> deve estar l#.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

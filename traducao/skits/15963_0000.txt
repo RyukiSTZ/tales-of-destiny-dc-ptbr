@@ -1,0 +1,27 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Voc@ parece muito s=rio. O que foi?
+Algo na cabe|a?
+[ENDBLOCK]
+} sobre o sr. <Baruk>...
+[ENDBLOCK]
+N;o havia mesmo outro jeito?
+[ENDBLOCK]
+As motiva|`es e os atos daquele homem
+s;o um mist=rio que s^ ele resolveria.
+[ENDBLOCK]
+Por=m, remoer isso n;o vai
+nos fazer avan|ar.
+[ENDBLOCK]
+Recomponha-se. N;o podemos
+ter voc@ no mundo da lua.
+[ENDBLOCK]
+}, eu sei.<x00><x00>
+[ENDBLOCK]

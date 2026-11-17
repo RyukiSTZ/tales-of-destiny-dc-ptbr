@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O <Greybum> tem andado pelo
+mundo todo... Por qu@?
+[ENDBLOCK]
+Quanto ser# que ele sabe do Olho de
+Atamoni? Eu mesmo ando pensando nisso...
+[ENDBLOCK]
+Ser# que ele est# procurando aquilo?
+[ENDBLOCK]
+} dif\cil dizer a esta altura.
+[ENDBLOCK]
+...Ali#s, <Chaltier>, voc@
+ainda est# no conv=s?
+[ENDBLOCK]
+Sim. O mestre <Lion> me levou com ele. As ondas
+n;o param de me molhar...
+[ENDBLOCK]
+...Voc@ n;o vai enferrujar?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

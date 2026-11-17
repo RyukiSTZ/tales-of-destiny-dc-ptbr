@@ -1,0 +1,13 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A <Philia> disse que destrancaria a porta
+dos fundos do templo pra n^s.
+[ENDBLOCK]
+N;o vamos deix#-la esperando. Vamos
+para a entrada dos fundos do templo.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

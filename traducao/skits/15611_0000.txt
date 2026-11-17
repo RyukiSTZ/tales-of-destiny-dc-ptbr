@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Sobre o que voc@ e a #rvore zelkova conversaram?
+Voc@ chorou por causa da dor dela?
+[ENDBLOCK]
+N;o, n;o = isso...
+[ENDBLOCK]
+Eu queria saber. N;o consigo falar
+com #rvores, ent;o fiquei curiosa.
+[ENDBLOCK]
+Ugh... Esses olhos inocentes est;o
+perfurando meu cora|;o... <x00><x00><x00><x00>
+[ENDBLOCK]

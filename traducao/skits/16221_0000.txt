@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Jovem mestre...
+[ENDBLOCK]
+N;o ligue pro que o rei disse.
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Vai ficar tudo bem! Sei muito bem
+o quanto voc@ = capaz.
+[ENDBLOCK]
+Voc@ vai ver! Quando concluir esta miss;o com perfei|;o,
+at= o rei vai ter que reconhecer seu talento!
+[ENDBLOCK]
+T#...
+[ENDBLOCK]
+Voc@... tem raz;o.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,267 @@
+###0
+【BGM   no=<TAG_031> - vol=<TAG_032>】
+###1
+<TAG_007><S06><yellow>Mira!!
+###2
+<S03><yellow>Alvos: <x17><x71><x46><xDC><x80>x
+###3
+<S06>A pedra voltou para
+a posição inicial.
+###4
+Aviso
+###5
+A taxa de lens deste continente
+subiu um nível.
+###6
+Parabéns!
+Você elevou a taxa de lens deste
+continente ao nível máximo!
+###7
+A taxa de lens deste continente
+subiu três níveis.
+###8
+<S03><yellow>[Rali das Pedras] Início!!
+###9
+<S03><yellow>Chegada!! (Lens no Máximo!)
+###10
+<S03><yellow>A Taxa de Lens Subiu!
+###11
+<S03><yellow>[Rali das Pedras] Chegada!!
+###12
+<S03><yellow>[Rali das Pedras] Chegada!!!
+###13
+<TAG_008><S06>Carregando...
+###14
+Escolha
+###15
+<TAG_007>Voltar a Darilsheid
+Entrar
+###16
+<TAG_007>Deseja entrar?
+Sim
+Não
+###17
+<TAG_007>Deseja ir para
+a Aetherosfera?
+Sim
+Não
+###18
+Placa
+###19
+Sudoeste - Harmentz
+Leste - Região de Armeida
+Sul - Região de Janos
+###20
+Norte - Região de Armeida
+Sudoeste - Região de Harmentz
+Sudeste - Região de Darilsheid
+###21
+Norte - Armeida
+Sul - Região de Harmentz
+Sudeste - Região de Darilsheid
+###22
+Leste - Darilsheid
+Oeste - Região de Harmentz
+Sul - Região de Cresta
+Norte - Região de Armeida
+###23
+Nordeste - Região de Darilsheid
+Noroeste - Região de Armeida・Harmentz
+Sul - Região de Cresta
+###24
+Leste - Região de Cresta
+Oeste - Região de Darilsheid
+###25
+Norte - Região de Lienea
+Sul - Região de Neustadt
+###26
+Oeste - Pousada do Viajante
+###27
+Norte - Região de Lienea
+Sudeste - Região de Neustadt
+###28
+Norte - Região de Lienea
+Sul - Região de Neustadt
+Oeste - Costa Oeste de Fitzgald
+###29
+Norte - Região da Caverna da Maré
+Sul - Região de Moreau
+###30
+Norte - Região de Shiden
+Sul - Região da Caverna da Maré
+###31
+Norte - Região de Calviola
+Sul - Região de Cherik
+###32
+Nordeste - Região de Calviola
+Sul - Região de Junkland
+###33
+Noroeste - Região de Junkland
+Leste - Região de Calviola
+###34
+Nordeste - Região de Heidelberg
+Noroeste - Região de Janos
+Sudeste - Região de Cyril
+###35
+Norte - Cyril
+Noroeste - Região de Heidelberg・Janos
+###36
+Norte - Região de Heidelberg・Janos
+Nordeste - Região de Cyril
+###37
+<TAG_009><Stahn>: Navio! Pela esquerda!
+###38
+<TAG_009>Capitão: Entendido, desviando!
+###39
+<TAG_009><Lion>: Cuidado, dois navios a estibordo!
+###40
+<TAG_009>Capitão: Deixe comigo!
+###41
+<x06><xD0><x00><x00><x40><TAG_009><center><Kongman>: Tem um grandão bem à frente! Deve ser
+a nau capitânia, aposto meu cinturão!
+###42
+<TAG_009><Stahn>: Isso! Hora de abordar!
+###43
+<x06><xC0><x00><x00><x40><TAG_009><Dymlos>: Rápido, antes que cheguem reforços.
+Nosso objetivo principal é derrubar o general!
+###44
+<TAG_009><Stahn>: Me aguarde, <Greybum>!!
+###45
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+###46
+Tutorial do Leviatã 1
+###47
+<TAG_007><Circle_ani> Avançar
+<Square_ani> Recuar
+<Left+Right_blink> ou <L1_ani><R1_ani> Virar
+<R_stick_Press> Mudar ângulo
+<Cross_ani> Desembarcar do Leviatã
+
+Chegue perto da praia, aponte a cabeça
+do Leviatã para onde quer desembarcar
+e então aperte <Cross_ani>.
+###48
+Tutorial do Leviatã 2
+###49
+<TAG_007><center>A velocidade máxima pode ser ajustada em
+[Velocidade do Veículo] no menu Personalizar.
+(Rápido) 1 ← (Padrão) → 8 (Lento)
+O padrão é 6 (Lento).
+###50
+Tutorial do Avitus Draconis 1
+###51
+<TAG_007><Circle_ani> Avançar
+<Square_ani> Recuar
+<Left+Right_blink> ou <L1_ani><R1_ani> Virar
+<R_stick_Press> Mudar altitude
+<Cross_ani> Desembarcar do Avitus Draconis
+
+[Não dá para desembarcar onde
+normalmente não se anda, como
+numa montanha ou no mar.]
+###52
+Tutorial do Avitus Draconis 2
+###53
+<TAG_007><S06><yellow>Mira !!
+###54
+<TAG_007>Deseja ir para
+a superfície da Terra?
+Sim
+Não
+###55
+Escolher Buraco
+###56
+<TAG_007>Buraco 01 (Par <x17><x71><x48><x38><x80>)
+Buraco 02 (Par <x17><x71><x48><x3C><x80>)
+###57
+<TAG_007>Buraco 01 (Par <x17><x71><x48><x38><x80>)
+Buraco 02 (Par <x17><x71><x48><x3C><x80>)
+Buraco 03 (Par <x17><x71><x48><x40><x80>)
+###58
+<TAG_007>Buraco 01 (Par <x17><x71><x48><x38><x80>)
+Buraco 02 (Par <x17><x71><x48><x3C><x80>)
+Buraco 03 (Par <x17><x71><x48><x40><x80>)
+Buraco 04 (Par <x17><x71><x48><x44><x80>)
+###59
+<TAG_007>Buraco 01 (Par <x17><x71><x48><x38><x80>)
+Buraco 02 (Par <x17><x71><x48><x3C><x80>)
+Buraco 03 (Par <x17><x71><x48><x40><x80>)
+Buraco 04 (Par <x17><x71><x48><x44><x80>)
+Buraco 05 (Par <x17><x71><x48><x48><x80>)
+###60
+<TAG_007><TAG_001><yellow>Buraco <x17><x71><x46><xF8><x80>
+ Par <x17><x71><x47><x08><x80>
+###61
+<TAG_007><TAG_001><yellow>Começar !!
+###62
+<TAG_007><TAG_001><yellow>CONCLUIDO!!
+###63
+<TAG_007><x06><x80><x02><x00><x00><yellow>Abaixo do par!!
+###64
+debug
+###65
+<TAG_007>Prêmio do Buraco 1!!
+###66
+<TAG_007>Prêmio do Buraco 2!!
+###67
+<TAG_007>Prêmio do Buraco 3!!
+###68
+<TAG_007>Prêmio do Buraco 4!!
+###69
+<TAG_007>Prêmio do Buraco 5!!
+###70
+<TAG_007>Um novo buraco foi liberado!!
+###71
+<TAG_007><x06><xE0><x01><x00><x00><yellow>Belo Tiro!!
+###72
+<TAG_007><x06><xE0><x01><x00><x00><red>Fora dos Limites...
+###73
+Menu Principal
+###74
+<TAG_007>Escolher jogador
+Mudar posição
+Recomeçar do início
+Voltar à escolha de buraco
+Sair do jogo
+###75
+<TAG_007><x06><xC0><x00><x00><x40>Jardas Jogador
+150 <Lilith>
+120 <Kongman>
+ 90 <Stahn>
+ 65 <Mary>
+ 45 <Woodrow>
+ 30 <Johnny>
+ 15 <Rutee>
+  7 <Chelsea>
+  3 <Philia>
+###76
+Repetir
+###77
+<TAG_007>Recomeçar o buraco atual
+do início?
+Sim
+Não
+###78
+<TAG_007>Não há outro buraco para escolher.
+###79
+Sair
+###80
+<TAG_007>Sair do minijogo?
+Sim
+Não
+###81
+Repetir
+###82
+Tutorial do Draconis 1
+###83
+<TAG_007><Circle_ani> Avançar
+<Square_ani> Recuar
+<Left+Right_blink> ou <L1_ani><R1_ani> Virar
+<R_stick_Press> Mudar altitude
+<Cross_ani> Desembarcar do Draconis
+
+[Não dá para desembarcar onde
+normalmente não se anda, como
+numa montanha ou no mar.]
+###84
+Tutorial do Draconis 2

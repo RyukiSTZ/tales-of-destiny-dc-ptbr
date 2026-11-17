@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Talvez eu deva cortar logo...
+[ENDBLOCK]
+Cortar o qu@?
+[ENDBLOCK]
+Meu cabelo. Olha, est# ficando bem comprido.
+[ENDBLOCK]
+S=rio? N;o est# do mesmo tamanho de sempre?
+[ENDBLOCK]
+Que nada, olha? Veja este lado, por exemplo...
+[ENDBLOCK]
+...N;o entendo nada.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

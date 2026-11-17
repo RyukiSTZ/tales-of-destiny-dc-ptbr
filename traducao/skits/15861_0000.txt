@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o isto = Phandaria... } mais
+frio do que eu esperava.
+[ENDBLOCK]
+O que foi, valent;o?
+N;o aguenta o frio?
+[ENDBLOCK]
+NAO = isso que estou dizendo!
+[ENDBLOCK]
+Tanto faz. Vamos sair desta
+floresta e ir para Cyril.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

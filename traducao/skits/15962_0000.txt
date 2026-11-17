@@ -1,0 +1,24 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Philia>, qual = o seu sonho?
+[ENDBLOCK]
+Mal posso esperar pra ouvir!
+[ENDBLOCK]
+Vejamos... o meu =...
+[ENDBLOCK]
+E ent;o, qual =?
+[ENDBLOCK]
+Qual = o sonho da <Philia>?
+[ENDBLOCK]
+Ugh... Hum, paz mundial sob Atamoni...
+[ENDBLOCK]
+Parem com isso, pessoal! Por que
+est;o implicando com a <Philia>?
+[ENDBLOCK]
+Voc@s a est;o deixando nervosa.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,27 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Rutee>, voc@ ficou bem surpresa quando ouviu que o <Hugo>
+era o presidente da Companhia Oberon.
+[ENDBLOCK]
+Claro que fiquei! Estamos falando
+DA Companhia Oberon, n=?
+[ENDBLOCK]
+A Companhia Oberon ficou famosa por
+fabricar produtos feitos de lentes.
+[ENDBLOCK]
+H# uma filial em cada na|;o, e dizem que
+o lucro deles se compara ao or|amento de um reino.
+[ENDBLOCK]
+Ou seja, o <Hugo> = podre de rico! Deve
+ser o homem mais rico do mundo!
+[ENDBLOCK]
+Ser# que eu podia ter arrancado
+mais dinheiro de algum jeito...
+[ENDBLOCK]
+} nisso que ela est# focada?<x00>
+[ENDBLOCK]

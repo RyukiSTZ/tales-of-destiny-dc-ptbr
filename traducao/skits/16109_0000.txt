@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+<Rutee>! Aguente firme, <Rutee>!
+[ENDBLOCK]
+Calma. } s^ usar uma Garrafa da Vida.
+[ENDBLOCK]
+}, tem raz;o. Certo!
+[ENDBLOCK]
+Tome, <Rutee>. Coma isto.
+[ENDBLOCK]
+Quem tira um Gel de Ma|; numa hora
+dessas!? Use uma GARRAFA DA VIDA!
+[ENDBLOCK]
+Embora eu aprecie a preocupa|;o, talvez ele devesse
+tirar um tempo pra se recompor...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

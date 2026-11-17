@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Com o <Woodrow> fazendo reconhecimento, quase
+n;o encontramos monstros!
+[ENDBLOCK]
+Morei sozinho nas montanhas por um bom tempo
+aperfei|oando minha habilidade com o arco.
+[ENDBLOCK]
+Por isso, tenho um senso de
+alerta mais agu|ado.
+[ENDBLOCK]
+Esse = o meu Lorde <Woodrow>! Sempre
+podemos contar com ele.
+[ENDBLOCK]
+Agradecemos sua ajuda constante!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

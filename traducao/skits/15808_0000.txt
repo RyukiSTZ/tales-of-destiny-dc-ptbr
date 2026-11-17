@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A cantoria do <Johnny> = demais!
+[ENDBLOCK]
+Aposto que ele treinou muito pra ficar t;o bom!
+[ENDBLOCK]
+Sim, ele deve ser bem mulherengo.
+[ENDBLOCK]
+H;...isso = bom?
+[ENDBLOCK]
+N;o, nunca = bom.
+[ENDBLOCK]
+} prov#vel que o <Johnny> n;o tenha
+uma reputa|;o muito boa em Shiden.
+[ENDBLOCK]
+Voc@ acha mesmo...?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

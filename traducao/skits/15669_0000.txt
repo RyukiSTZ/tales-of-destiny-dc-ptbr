@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Rutee>, voc@ j# esteve na vila
+de Harmentz?
+[ENDBLOCK]
+Bem, sim. Nasci em Seinegald.
+[ENDBLOCK]
+Ah, ent;o voc@ conhece bastante
+Darilsheid, n=?
+[ENDBLOCK]
+Eu ia gostar se voc@ pudesse
+me mostrar a cidade um dia.
+[ENDBLOCK]
+Posso, mas minha di#ria = cara.
+Acha que pode pagar?
+[ENDBLOCK]
+Desculpa, vou passar.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O t\tulo do <Lion>, "Cavaleiro Andante"...
+O que isso quer dizer?
+[ENDBLOCK]
+Quer dizer que, embora n;o seja oficialmente Cavaleiro
+do Reino, ele = tratado como um.
+[ENDBLOCK]
+Ent;o = tipo ser um oficial?
+[ENDBLOCK]
+Caaara, deve ser bom!
+[ENDBLOCK]
+Em vez de invejar a situa|;o dos outros,
+que tal focar em melhorar a sua?
+[ENDBLOCK]
+Eu sei, eu sei! Afinal, eu sou eu.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

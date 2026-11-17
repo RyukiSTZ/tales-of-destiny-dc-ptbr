@@ -1,0 +1,35 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ei, sabe aquela menina que voc@ salvou
+do monstro que apareceu no parque?
+[ENDBLOCK]
+Tenho certeza, ela est# caidinha por voc@!
+[ENDBLOCK]
+Q-Qu@!? De onde vem essa ideia idiota?
+[ENDBLOCK]
+Voc@ foi simplesmente deslumbrante
+l#, jovem mestre!
+[ENDBLOCK]
+Saltando em defesa dela, abatendo o monstro...
+[ENDBLOCK]
+...E depois saindo em sil@ncio sem
+dizer o nome...!
+[ENDBLOCK]
+N;o era nada essa minha inten|;o!
+[ENDBLOCK]
+Eu sei, eu sei...
+[ENDBLOCK]
+Mas tem que admitir, foi muito legal, n=?
+[ENDBLOCK]
+N;o tem como algu=m como o <Stahn>
+fazer uma coisa dessas!
+[ENDBLOCK]
+Esse = o meu jovem mestre!!
+[ENDBLOCK]
+...Pare com isso, Chal...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

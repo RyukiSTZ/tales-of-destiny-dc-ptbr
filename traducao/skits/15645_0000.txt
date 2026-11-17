@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o, por que voc@s duas viajam juntas?
+[ENDBLOCK]
+Achei ela vagando pelas ruas meio
+atordoada. Desde ent;o, somos insepar#veis!
+[ENDBLOCK]
+Voc@ disse que se aproximou de mim porque
+viu a espada curta que eu carregava.
+[ENDBLOCK]
+Nossa, que sorte!
+[ENDBLOCK]
+Mas espera, por que a espada curta te chamou a aten|;o?
+[ENDBLOCK]
+Bem, parecia que valia
+um MONTE de dinhei-
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Quer dizer, sei l#, s^ chamou!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

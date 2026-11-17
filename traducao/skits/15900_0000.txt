@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ah, achei uma lente!
+[ENDBLOCK]
+Ela viu aquela lente de t;o
+longe com tanta facilidade!
+[ENDBLOCK]
+De fato. Eu nem tinha visto.
+[ENDBLOCK]
+Ei, <Rutee>. Achei que voc@ n;o
+precisava mais de dinheiro.
+[ENDBLOCK]
+Pode-se dizer que = um reflexo. Meu
+corpo se move sozinho.
+[ENDBLOCK]
+D-Deve ser bem {til.
+[ENDBLOCK]
+Voc@ n;o precisa responder
+a tudo que ela diz.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

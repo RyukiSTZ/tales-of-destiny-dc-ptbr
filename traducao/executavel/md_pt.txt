@@ -1,0 +1,243 @@
+0|Mistério?[LINE][LINE]
+2|Cavaleiro Andante de Seinegald.[LINE]Mestre Swordian do Chaltier. Usa[LINE]muitas artes de espada e magias de terra.
+3|Campeão dos campeões e herói[LINE]da arena. Se bobear,[LINE]você vai sofrer muito!
+4|Parece brava com o irmão vadiando[LINE]na arena. Cuidado com as fintas dela.[LINE]O [Virar o Bife] dela é perigoso.
+5|Mestre espadachim do Qigong. Com[LINE]pouco HP, solta um ataque arrasador[LINE]chamado [Corta-Cabeça].
+6|Sacerdote sob o comando de [Greybum].[LINE]Suas garras rápidas sempre miram[LINE]quem está com pouco HP.
+7|Mestre espadachim com a espada[LINE]demoníaca da água. A lâmina é tão[LINE]afiada que um corte pode matar.
+8|Sua esgrima com espadão é bem[LINE]tradicional, mas ele não consegue[LINE]virar enquanto corre ou ataca.
+9|Com magias proibidas, ganhou o poder de[LINE]controlar insetos e criou uma armadura-casca.[LINE]Chama insetos chatos que não dá pra ignorar.
+10|Ataca com unidades remotas e se[LINE]defende com uma barreira, mas gasta[LINE]HP para criar mais unidades.
+11|Ao trocar da forma andante para a[LINE]voadora, você fica em desvantagem.[LINE]Ataquem juntos para derrubá-lo.
+12|Usa o Swordian da Luz e das Trevas,[LINE]Berselius. Cria barreiras ao conjurar.[LINE]Espalhem-se para não serem varridos.
+13|Usa o Berselius e ataques de luz e[LINE]trevas. Equipe resistências a[LINE]problemas de estado e atributos.
+14|Criatura estranha que engole inimigos[LINE]inteiros com a boca enorme.[LINE]Engolido, você fica paralisado.
+15|Sacerdotisa do Templo de Straylize.[LINE]Ataca e cura com magias.[LINE]Acha o Bispo só um acompanhante.
+16|Soldado a serviço de Seinegald.[LINE]Solta golpes poderosos[LINE]sem pontos cegos.
+17|Pirata que não rouba itens.[LINE]Prefere mirar nos[LINE]mais vulneráveis.
+18|Ave média da região de Seinegald.[LINE]Tem bico afiado e ataca[LINE]com as asas.
+19|Criatura gelatinosa das cavernas.[LINE]Atira pedaços de si em você.[LINE]Muito fraca contra magias.
+20|Abelha monstro com um ferrão[LINE]venenoso poderoso. Rápida, mira[LINE]os inimigos na retaguarda.
+21|Invadiu o Draconis com as[LINE]Wyverns. É rápido, mas observe,[LINE]defenda com [Square_copy] e ataque!
+22|Criatura estranha de muitos tentáculos[LINE]do mar de Seinegald.[LINE]Cuidado com o longo alcance!
+23|Forma monstro do coelho da neve[LINE]de Phandaria. As pernas fortes[LINE]dão chutes poderosíssimos!
+24|Urso monstro famoso pelas garras[LINE]enormes. É lento mas forte,[LINE]então defenda e depois ataque.
+25|Coelho com cauda de espinhos para[LINE]sobreviver ao deserto hostil.[LINE]Tem um forte ataque de cauda.
+26|Monstro tipo lula do mar profundo.[LINE]A tinta fica parada no lugar,[LINE]então cuidado ao atacar.
+27|Sacerdote do Templo de Straylize.[LINE]Hábil com o cajado.[LINE]É secretamente apaixonado pela Sacerdotisa...
+28|Invadiu o Draconis levando[LINE]lobos. Cospe fogo forte,[LINE]então cuidado ao atacar.
+29|Pequena ave monstro de Phandaria.[LINE]Sua investida é surpreendentemente[LINE]forte para o corpinho.
+30|Monstro formado pela poeira do ar,[LINE]quase sem corpo de verdade.[LINE]Ataques físicos não funcionam.
+31|Javali monstro de presas enormes.[LINE]Tem gênio forte e usa as presas[LINE]para atropelar quem estiver no caminho.
+32|Macaco da Floresta de Straylize. Sua[LINE]agressividade afasta os visitantes.[LINE]Talvez o povo tenha dado comida demais...
+33|Monstro cogumelo.[LINE]Os esporos que solta[LINE]têm veneno.
+34|Árvore que sofreu mutação. Suas magias[LINE]por trás incomodam. Como planta,[LINE]resiste à água mas queima fácil.
+35|Pedra que sela as portas do Templo de[LINE]Straylize. Ataca com magias e invoca[LINE]golems, então destrua-a primeiro!
+36|Boneco movido por uma força antiga.[LINE]Resiste a ataques físicos,[LINE]mas é fraco a objetos rombudos.
+37|Estrela-do-mar monstro bípede.[LINE]É fraca, mas bagunça sua[LINE]formação com movimentos ágeis.
+38|Seus tentáculos de água dão[LINE]trabalho ao [Stahn]. O nome vem[LINE]da cor dos tentáculos.
+39|Mosca grande do deserto.[LINE]Cospe fogo, então não[LINE]a enfrente sem cuidado!
+40|Cobra monstro de três cabeças.[LINE]O corpo venenoso pode envenenar[LINE]a cada ataque.
+41|Réptil de escamas duras.[LINE]Se olhar o olho escondido,[LINE]você fica paralisado.
+42|Monstro marinho que cospe água.[LINE]Ele bate a cara no chão antes[LINE]de cuspir, então cuidado.
+43|Lagarto monstro bípede.[LINE]Cuidado com a mordida rápida e[LINE]a resistência a artes de terra.
+44|Sanguessuga que se comprime[LINE]e se lança como ataque.[LINE]É fraca a ataques de trevas.
+45|Morcegos vivem em colônias nas[LINE]cavernas. Miram vários inimigos[LINE]com a ecolocalização.
+46|Ave grande de asas lindas.[LINE]Cresceu demais para voar,[LINE]mas corre rápido.
+47|Monstro de chifre longo e[LINE]extensível. Usa os chifres para[LINE]tirar tudo do caminho.
+48|Soldado a serviço de Moreau. O ataque[LINE]tem longo alcance. Cuidado para não[LINE]atingir os aliados atrás de você.
+49|Fera carnívora grande de Aquaveil.[LINE]É feroz mas esperta, e aparece[LINE]em shows de aberrações.
+50|Inseto de armadura dura.[LINE]A foice causa sono.[LINE]Vulnerável nos olhos ou...
+51|Massa de energia negativa juntada[LINE]em Heidelberg. É incorpórea e[LINE]por isso resiste a P. ATK.
+52|Ex-prisioneiro de Heidelberg que virou[LINE]morto-vivo. Não sente dor e avança[LINE]ignorando qualquer ataque.
+53|Esqueleto movido a lens. Sempre ataca[LINE]mirando seus pés. Conjura magias[LINE]que reduzem seu P. ATK.
+54|Vítima sob a influência da lens.[LINE]Costuma ficar aérea, mas pode[LINE]avançar do nada.
+55|Robô de vigilância que chama reforços.[LINE]Tem uma metralhadora que dispara[LINE]se o aviso não for obedecido.
+56|Robô interceptador contra[LINE]invasores. A cabeça dispara mísseis.[LINE]Pode enlouquecer...
+57|Pesquisador da Oberon com roupa de[LINE]proteção. A pistola tem vários usos.[LINE]Cuidado com o gás debilitante.
+58|Vida artificial criada com tecnologia[LINE]Aetheriana. Ataca com a espada da cauda.[LINE]Contra-ataca depois de defender.
+59|Ser criado com tecnologia Aeth'er.[LINE]Tem muita magia elemental.[LINE]Costuma contra-atacar após defender.
+60|Arma artificial criada para suporte.[LINE]Ataca de perto e de longe.[LINE]É rápida e bagunça sua formação!
+61|Ser artificial criado para suporte.[LINE]P. ATK baixo, usa mais magias[LINE]de Cura e Suporte.
+62|Robô de segurança que segue o Anthzoon.[LINE]Só chama reforços. Dá muito trabalho,[LINE]então derrote-o logo!
+63|Robô que guarda o Anthzoon. Dá suporte[LINE]de longe com torretas. Os tiros doem[LINE]mais quando acertam de perto.
+64|Aranha com muito veneno[LINE]nas costas. Dá para atravessar[LINE]correndo o líquido que ela solta.
+65|Planta gigante que come insetos.[LINE]As sementes reduzem o ataque.[LINE]Quando quebram, sugam você.
+66|Bioarma com um escudo enorme.[LINE]Ataca e também dá suporte.[LINE]Ataques fracos não a ferem.
+67|Torreta que dispara raios sonoros.[LINE]Os mísseis de trás envenenam.[LINE]Tem uma agulha escondida no pé.
+68|Arma Aetheriana feita para enfrentar[LINE]os Swordians. Mas, ao contrário[LINE]deles, age sozinha.
+69|Criatura aquática voadora.[LINE]Avança em você ao levar artes.
+70|Robô bípede gigante de patrulha.[LINE]Não tem armas especiais além dos[LINE]pés gigantes. Não leve um chute.
+71|Bioarma chamada [Exocet]. Como[LINE]o nome diz, ela explode.[LINE]Evite usar fogo.
+72|Planta carnívora terrível que protege[LINE]o Belcrant. Reage a atributos que[LINE]resiste e contra-ataca.
+73|Filhote de dragão[LINE]que cospe fogo.[LINE]Equipe resistência a fogo!
+74|Gás tóxico da Montanha de Lixo que[LINE]ganhou consciência pela Lens.[LINE]Os ataques causam [Fraqueza].
+75|Bioarma humanoide sem cabeça.[LINE]Ataca com os tentáculos.[LINE]Quando está com pouco HP...
+76|Criatura voadora misteriosa de um[LINE]olho. Teleporta para trás de você.[LINE]Também conjura magias de suporte.
+77|Dragão de corpo resistente.[LINE]Resiste à maioria dos ataques.[LINE]Blast Calibers funcionam bem.
+78|Cão de guarda da fábrica. É rápido[LINE]e chega por trás.[LINE]As mordidas causam fraqueza.
+79|Soldado veterano de Seinegald.[LINE]Comanda três soldados[LINE]que obedecem a cada ordem dele.
+80|Criatura aquática gigante. Difícil de[LINE]enfrentar pelo corpo escorregadio.[LINE]Desvia até 3 ataques.
+82|A mais nova bioarma Aetheriana. Dispara[LINE]lasers teleguiados que perfuram.[LINE]Nunca erra o alvo.
+83|Ataques e magias cruéis. Você vai sofrer[LINE]sem resistência a luz e trevas.[LINE]Faça de tudo para parar as magias dele.
+84|Mestre Swordian do Fogo. Suas artes[LINE]são esmagadoras. Só defender não basta.[LINE]Seja ousado e ataque na hora certa!
+85|Abelha de Fitzgald. Como a de[LINE]Seinegald, tem um veneno[LINE]forte no ferrão.
+86|Javali selvagem da região de[LINE]Fitzgald. Uma criatura selvagem[LINE]e meio feroz.
+87|Árvore de madeira dura de Fitzgald[LINE]que sofreu mutação pela lens.[LINE]Conjura magias de terra.
+88|Soldado rebelde que atacou o Castelo[LINE]de Heidelberg. Tropas regulares se[LINE]uniram aos rebeldes, bem organizados.
+89|Lula voadora que usa magias de luz.[LINE]Prende inimigos com os braços.
+90|Usar itens perto dele é perigoso.[LINE]Ele odeia itens nas lutas.[LINE]Mas você veio pelo desafio!
+91|Criatura que "parece" a fusão de[LINE]Tubarões da Caverna. Cada parte age[LINE]sozinha. Pode criar tubarões.
+92|Criatura que age independente da[LINE]Rainha da Caverna. Engole humanos[LINE]com facilidade.
+93|Inchaços nos ombros da Rainha da[LINE]Caverna. Conjura magias,[LINE]mas é fraco a magias.
+94|Abutre do deserto.[LINE]Assa viajantes perdidos com sua[LINE]bola de fogo característica.
+95|Sacerdotisa de alto escalão[LINE]do templo de Calvalese.[LINE]Usa magias avançadas.
+96|Sacerdote de alto escalão do templo[LINE]de Calvalese. Treinado no corpo[LINE]e na mente.
+97|Cristal de batalha.[LINE]Usa magias de terra e invoca[LINE]dois tipos de golem.
+98|Golem reforçado com atributos[LINE]e ataques melhorados.
+99|Criatura invocada pelo Baruk.[LINE]Voa rápido e se explode[LINE]com pouco HP, então cuidado.
+100|Criatura estranha de boca grande[LINE]que se esconde nas cavernas.
+101|Gosma que paralisa ao toque.[LINE]Resiste a ataques físicos e se[LINE]divide no aperto.
+102|Cogumelo que cresce nas cavernas.[LINE]Os esporos paralisam.[LINE]Conjura magias quando você se afasta.
+103|Mercenário contratado por Moreau.[LINE]Especialista em assassinar quem[LINE]ele paralisa com suas facas.
+104|Cão de guarda do Castelo de Moreau.[LINE]Tem alta evasão. Sua onda de[LINE]choque sempre paralisa.
+105|Inseto de escamas duras. Conjura[LINE]magias de vento e cospe fogo[LINE]venenoso.
+106|Descende de um dragão de corpo[LINE]forte. Usa Sopro de Fogo e[LINE]Bola de Fogo.
+107|Envenena os inimigos e os come.[LINE]Abre bem as nadadeiras e pula[LINE]girando.
+108|Soldado do Castelo de Terazzi.[LINE]Usa a estocada tripla[LINE]no aperto.
+109|Cristais de água flutuando no ar.[LINE]Aparecem em regiões ou[LINE]lugares frios.
+110|Morcego que vive sob Heidelberg.[LINE]Enfraquece inimigos com[LINE]ondas hipnóticas.
+111|Macaco travesso de Aquaveil.[LINE]Mas as pedradas dele[LINE]não são brincadeira.
+112|Inseto do fundo das florestas de[LINE]Phandaria. Tenta manter[LINE]distância dos outros.
+113|Bandido de aluguel. Pula e[LINE]atira facas que petrificam.
+114|Conjura magias com o poder do Olho de[LINE]Atamoni. Com [Firmeza], ganha[LINE]superarmadura por 4 ataques.
+115|Unidade remota que ataca sob o comando[LINE]da Irene. Você deve destruí-las[LINE]uma a uma, com cuidado.
+116|Coelho que sofreu mutação. Ficou[LINE]mais esperto e pode mirar certas[LINE]pessoas em grupo.
+117|Urso enlouquecido por alguma[LINE]influência. Cuidado com os braços,[LINE]o ataque deles tem grande alcance!
+118|Ave pequena de Phandaria.[LINE]Vive e ataca qualquer[LINE]inimigo em bando.
+119|Ave média de crista[LINE]marcante. As penas podem[LINE]reduzir sua precisão.
+120|Dália de Phandaria.[LINE]As frutinhas dão sono.[LINE]O [Stahn] não acorda se dormir...
+121|Criatura fofinha e peluda.[LINE]Na bolsa estão escritos [Destino],[LINE][Renascer] e [Eternidade].
+122|O Cavalheiro Luine não se preocupa nada em[LINE]não ouvir falar do tal guardião do pargo[LINE]chamado Mentai.
+123|O Cavalheiro Lester se orgulha de nunca[LINE]se frustrar com o estranho renascimento[LINE]da Tartaruga-Alga.
+124|O Cavalheiro Rhambling parece sonhar em[LINE]segredo que um dia não terá um ponto[LINE]fraco na sola dos pés.
+125|O Cavalheiro Valens visita a vizinhança de[LINE]um amigo teimoso que se recusa[LINE]a fazer a lendária ito-saw.
+126|Monstro modificado com tecnologia da[LINE]Oberon. Ficou instável pelo[LINE]reforço exagerado.
+127|Estrela-do-mar chata que corre por aí.[LINE]Tem atributo trevas.
+128|Ropers azuis se explodem com[LINE]pouco HP. Tente se mexer quando[LINE]estiverem para explodir.
+129|Monstro de atributos água e[LINE]fogo. O ataque de cauda[LINE]derruba!
+130|Guerreiro de armadura que protege a Chave R.[LINE]Usa uma espada para cada elemento e[LINE]técnicas elementais.
+131|Estátua que protege o templo.[LINE]Os disparos quebram sua defesa.
+132|Monstro de ataques de atributo[LINE]trevas. Ao ser atingido,[LINE]seu P. ATK cai muito.
+133|Inimigo incorpóreo do templo.[LINE]Conjura magia sombria e reduz[LINE]sua defesa ao acertar.
+135|Monstro enlouquecido pelo[LINE]bombardeio do Belcrant.[LINE]Especialista em magias de terra.
+136|Monstro enlouquecido pelo[LINE]bombardeio do Belcrant. Uma ferroada[LINE]da agulha poderosa e você morre.
+137|Monstro enlouquecido pelo bombardeio[LINE]do Belcrant. Fica furioso com pouco HP[LINE]ou quando é o último inimigo.
+138|Monstro enlouquecido pelo bombardeio[LINE]do Belcrant. Ataca com a cauda e[LINE]mira os inimigos mais fracos.
+139|Monstro deformado que vaga por[LINE]Anthzoon. Seus fluidos[LINE]selam você na hora.
+140|Cobra sombria de 3 cabeças.[LINE]Produz um líquido venenoso[LINE]que causa selo na mordida.
+141|Não costuma se mexer muito,[LINE]mas suga seu sangue e se cura,[LINE]então cuidado!
+142|Lula voadora que se adapta à[LINE]formação, cobrindo a vanguarda[LINE]ou usando magias.
+143|Macaco branco enlouquecido.[LINE]Atira pedras que desmaiam.[LINE]Furioso, ninguém o segura.
+144|Pavão selvagem enlouquecido.[LINE]Como não voa, ataca assim que[LINE]vê algo voando.
+145|Planta que vive em Cloudius.[LINE]Agressiva, conjura magias de vento.[LINE]De perto, pula e te pisoteia.
+146|Inseto que voa por Cloudius.[LINE]Cospe chamas. O Blast cobre[LINE]seu corpo de fogo.
+147|Monstro em forma de louva-a-deus.[LINE]Cortado pela lâmina, sua[LINE]precisão cai.
+148|Máquina feita para expulsar[LINE]estrangeiros. Dispara salvas de[LINE]mísseis que reduzem sua defesa.
+149|Bioarma que guarda Rodeon.[LINE]Fica mais forte com o tempo,[LINE]então resolva rápido!
+150|Bioarma que solta bombas[LINE]que reduzem o ataque.[LINE]Lança em intervalos.
+151|Árvore sombria gigante.[LINE]Solta um ataque poderoso[LINE]ao levar magias de trevas.
+152|Casca imortal que vaga sem fim[LINE]e ataca como louca quem[LINE]tem pouco HP.
+153|Esqueleto de um ser celestial.[LINE]Encurralado, fica[LINE]agressivo.
+154|Mariposa violenta do fundo[LINE]de Phandaria.[LINE]Espalha pó paralisante.
+155|Morcego veloz que solta[LINE]ondas hipnóticas. Tem técnicas[LINE]que reduzem o ataque.
+156|Bioarma especialista em magias de[LINE]fogo. Aumenta o M. ATK com o tempo.[LINE]Precisa de resistência a fogo!
+157|Bioarma que usa artes de cura.[LINE]Também conjura magias.
+158|Criatura que causa paralisia.[LINE]Muda o padrão conforme a distância.[LINE]Cospe ácido que reduz o P. DEF.
+159|Inimigo chato que corre e ataca por[LINE]trás. Causa pouco dano, mas[LINE]empurra e é rapidíssimo.
+160|Criatura aquática que conjura magias[LINE]de vento conforme a distância.[LINE]O cuspe tem atributos água e vento.
+161|Pequena ave evoluída. Com um bater[LINE]de asas, cria pequenos tornados[LINE]que arremessam os inimigos.
+162|Cobra que petrifica quem toca[LINE]seu fluido e sela quem[LINE]ela morde.
+163|Basilisco de escamas duras. Ataca[LINE]inimigos no ar com um giro.
+164|Forma evoluída do Tabby de Aquaveil.[LINE]Usa ataques fortes quando turbinado[LINE]pelo [Rugido Furioso].
+165|Robô de segurança que chama[LINE]reforços se te vir. Derrote-o[LINE]antes de ser cercado.
+166|Unidade interceptadora com mísseis.[LINE]Pode enlouquecer e avançar depois[LINE]de levar defesa.
+167|Funcionários da Oberon com o novo[LINE]HS, OBHS002. Corrigiram vários pontos[LINE]fracos, mas ainda enferruja...
+168|Torreta de suporte que anda.[LINE]A [Bala de Energia] dos pés[LINE]causa paralisia.
+169|Grande dragão de chifres. Cospe[LINE]fogo poderoso. Cuidado com[LINE]contra-ataques após defender.
+170|Mineral flutuante misterioso.[LINE]Contra-ataca se você pular perto[LINE]e usa artes de terra à distância.
+171|Bioarma móvel de defesa local.[LINE]Faz um contra-ataque poderoso[LINE]quando quebra.
+172|Criatura aquática que conjura magias[LINE]de fogo. Usa magias mais fortes[LINE]com o tempo, então seja rápido.
+173|Morcego de fogo que petrifica[LINE]com ondas sonoras.
+174|Ave de fogo. Fica mais forte se levar[LINE]ataques de fogo, aumentando muito[LINE]o seu P. ATK.
+175|Forma cristalina de gás e luz da[LINE]Montanha de Lixo. Todo ataque pode[LINE]paralisar. Divide-se com pouco HP.
+176|Sanguessuga que petrifica[LINE]a cada ataque.
+177|A encarnação do ódio.[LINE]Todos os ataques causam Selo.
+178|Restos de um caçador de tesouros que[LINE]buscava o butim da Montanha de Lixo.[LINE]Todo ataque causa [Veneno].
+179|Arma de segurança de Dycroft.[LINE]Ótima de perto e[LINE]dá cobertura com raios.
+180|Bioarma que guarda Dycroft.[LINE]Conjura magias elementais médias.[LINE]Melhor derrotar primeiro.
+181|A mais nova bioarma de bombas.[LINE]Os mísseis reduzem o M. ATK.
+182|Armadura possuída por um guerreiro sombrio.[LINE]Espadas de Fogo, Água, Terra e Vento[LINE]causam Petrificar, Fraqueza, Veneno, Sono.
+183|Torreta móvel de suporte.[LINE]Perigosa de perto e de longe.[LINE]Também ataca quem está atrás.
+184|Um explosivo com vontade própria.[LINE]Chega de fininho e explode.[LINE]Não use artes que ele resiste.
+185|Gente boa, mas durão. Cheio de[LINE]orgulho como campeão da arena.[LINE]Ataque desviando dos golpes.
+186|Ele é tão parecido com o [Kongman] que[LINE]ninguém sabe quem é quem![LINE]Nem eu vejo diferença!
+187|Polvo gigante que tomou um[LINE]navio afundado. É feroz, então use[LINE]problemas de estado para atacar.
+188|Havia um homem chamado "Deus[LINE]Demônio" que formou os Sete[LINE]Generais. Mas ele foi assassinado.
+189|Inseto de evolução anormal, capaz de[LINE]conjurar magias. Ataca o grupo[LINE]com magias fortes.
+190|Arma humanoide que parece[LINE]familiar. É impressão minha? Ela[LINE]dispara uma chuva chata de flechas.
+191|Parte da [Rune] que fornece energia[LINE]às outras partes e as[LINE]regenera.
+192|Parte da [Rune] focada em P. ATK.[LINE]Se te engolir, mastiga até você[LINE]ser digerido. Cuidado com a cabeça!
+193|Parte da [Rune] que conjura magias[LINE]avançadas. Interrompa com magias[LINE]de conjuração rápida.
+194|Monstro que faz ninho nas ruínas.[LINE]Use artes que quebram a defesa[LINE]contra ele!
+195|Objeto gelatinoso nascido da água.[LINE]Claro que tem ataques de água.
+196|Essas abelhas brincam com os inimigos.[LINE]Derrote-as quando estiverem[LINE]juntas.
+197|Quando esse lobo morde,[LINE]é difícil se soltar...
+198|Roper que usa magias de água e[LINE]ataques de trevas. Muda o jeito[LINE]conforme o HP que resta.
+199|Coelho que age em grupo.[LINE]O ATK sobe quando os amigos morrem.
+200|O urso mais mortal e feroz.[LINE]Cada golpe é perigoso, então explore[LINE]a fraqueza e mate rápido.
+201|Monstro de cabeça deformada.[LINE]A fumaça que cospe fica no ar[LINE]e reduz o ataque.
+202|Dragão que cospe fogo sem parar.[LINE]Defende e contra-ataca.[LINE]Não se apresse!
+203|Um orbe de luz vermelho-pálido.[LINE]Só é fraco à luz.
+204|Cogumelo entorpecente das ruínas.[LINE]Use artes que quebram a defesa!
+205|Estátua antiga de brasa movida a[LINE]energia mineral. Fica bem mais rápida[LINE]se houver inimigos à frente.
+206|Uma superestrela-do-mar.[LINE]Corre para trás de você e bate[LINE]com uma força monstruosa.
+207|Inimigo chato que te dá encontrões[LINE]de qualquer lugar. Quase não anda.[LINE]Usa a foice se você chegar perto.
+208|Criatura aquática que cospe água[LINE]com efeito de terra. O gêiser[LINE]te joga lá no alto.
+209|Lagarto de escamas duras.[LINE]Pode girar por trás[LINE]batendo a cauda.
+210|Morcegos que vivem em ruínas.[LINE]Atacam em massa quem tem muito HP.
+211|Fera de fogo das ruínas.[LINE]Ataca com o corpo inteiro.[LINE]Use artes que quebram a defesa!
+212|Fera venerada como sagrada.[LINE]Seus padrões mudam com o tempo.
+213|Trevas na direita e luz na esquerda.[LINE]Ironicamente, é fraco à luz...[LINE]Reforça magias conforme os inimigos.
+214|Máquina chata que vive chamando[LINE]os amigos. Destrua com água!
+215|Robô de segurança frágil.[LINE]Quando o HP cai, os ataques[LINE]saem de controle...
+216|Enviado do inferno. Ironicamente,[LINE]não resiste às trevas!
+217|Arma que domina todas as magias.[LINE]Usa a magia avançada de cada[LINE]elemento.
+218|Ataca em grupo com bombas.[LINE]Derrote-os primeiro.
+219|Torreta móvel de suporte a longa[LINE]distância. A pisada afasta[LINE]quem luta de perto.
+220|Monstro chato que solta ácido[LINE]por todo lado. Olhe onde pisa.
+221|Planta perigosa devoradora de gente.[LINE]Suga você mesmo a uma[LINE]curta distância.
+222|Arma inexpugnável de várias magias.[LINE]Muda as magias conforme os[LINE]inimigos que restam.
+223|Inimigo chato que atira da[LINE]retaguarda. Acompanha sua posição.
+224|Espada malévola mágica.[LINE]Todo ataque reduz seu M. ATK.[LINE]
+225|Máquina bípede gigante.[LINE]Cuidado com os pulos e pisadas,[LINE]que causam dano enorme.
+226|Monstro apelidado de Doom. Não leve[LINE]as explosões. Tem defesa excelente,[LINE]use artes que quebram a defesa!
+227|Filho de um dragão encantado[LINE]pelas trevas. Por isso cospe[LINE]fogo e água.[LINE]
+228|Arma humanoide com tentáculos.[LINE]Tem um ataque enorme que[LINE]aumenta com pouco HP.
+229|Monstro de olhos demoníacos.[LINE]Usa magia que reduz todos os atributos.
+230|Dragão de escamas negras.[LINE]Cuidado com o ataque de quebra[LINE]quando só restar 1!
+231|Arma feita com tecnologia avançada.[LINE]Ataca de qualquer distância.
+232|Criatura fofinha e peluda. Na bolsa[LINE]da barriga está escrito [Herói?].
+233|Esta armadura resiste a todos os atributos,[LINE]menos a ataques sem atributo.
+234|Monstro raro de ataques sem[LINE]elemento. Responda defendendo e[LINE]desviando.
+235|Demônio do mar que controla a morte.[LINE]Enterra os oponentes num golpe...
+236|Lutador do mar profundo.[LINE]Luta limpo,[LINE]mirando o mais forte.
+237|Monstro do mar profundo.[LINE]Cospe água que causa[LINE][Selo].
+238|Inimigo aquático voador de casco duro.[LINE]Costuma ser passivo, mas revida[LINE]se for atacado.
+239|Nova bioarma Aetheriana.[LINE]Ótima no corpo a corpo um contra um.
+240|Nova arma Aetheriana.[LINE]Domina várias magias poderosas.
+241|Criatura nascida de matéria orgânica.[LINE]Voa (mais ou menos) e machuca[LINE]mais que o necessário (desconhecido).
+242|Arma gigante misteriosa.[LINE]Usa magias avançadas em qualquer brecha.
+243|Monstro divino que fala a língua[LINE]humana. Qual será seu propósito...
+244|[Cross_ani]Voltar [Square_ani]Info [L1_ani][R1_ani]Ordenar [L3_ani][R3_ani]Trocar
+245|[Cross_ani]Voltar [Square_ani]Info [L1_ani][R1_ani]Ordenar

@@ -1,0 +1,630 @@
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+reset_camera_homing!!!   <x17><x75><x48><x54><x75><x48><x58><x8C><x80>
+
+[ENDBLOCK]
+init_camera_homing!!!
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Prefeito
+[ENDBLOCK]
+Quem s;o voc@s!?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Elena
+[ENDBLOCK]
+Ah, voc@s n;o s;o de
+Calvalese, s;o?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+N;o, como voc@ sabe?
+[ENDBLOCK]
+D# pra ver de longe.
+[ENDBLOCK]
+Malditos estrangeiros!
+Saiam da minha casa!
+[ENDBLOCK]
+J# n;o basta estarem na minha
+cidade, agora querem levar
+a Elena embora!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+H;, o que est# acontecendo?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Esposa do Prefeito
+[ENDBLOCK]
+Desculpe se ofendemos voc@s,
+mas agora n;o = uma boa hora...
+[ENDBLOCK]
+Eles = que deviam
+pedir desculpas!
+[ENDBLOCK]
+Vov^, vov_, parem com isso!
+[ENDBLOCK]
+Se essas pessoas n;o
+podem ficar aqui, ent;o
+e eu...?
+[ENDBLOCK]
+T# bom! Que seja! Fa|am
+o que quiserem!!
+[ENDBLOCK]
+H;, com licen|a,
+mas o que foi
+aquilo...?
+[ENDBLOCK]
+Sabe, metade do meu sangue
+= igual ao de voc@s.
+[ENDBLOCK]
+Minha m;e era de Calvalese e
+meu pai, de Seinegald.
+[ENDBLOCK]
+Agora entendi. E onde
+est;o seus pais?
+[ENDBLOCK]
+Minha m;e morreu de doen|a h#
+muito tempo. Meu pai...
+[ENDBLOCK]
+} mesmo! Sei que = de repente,
+mas preciso de um favor de voc@s.
+[ENDBLOCK]
+Acho que meu pai ainda est# vivo
+e provavelmente em Seinegald.
+[ENDBLOCK]
+Se algum dia o encontrarem,
+digam isto a ele.
+[ENDBLOCK]
+Digam que a filha dele, Elena,
+quer morar com ele.
+[ENDBLOCK]
+H;? Bom, claro.
+Podemos fazer isso.
+[ENDBLOCK]
+Estou cansada disso. Odeio
+os meus av^s!
+[ENDBLOCK]
+Eles s^ sabem dizer que quem tem
+sangue estrangeiro n;o = confi#vel.
+[ENDBLOCK]
+Sempre que o vov_ v@ algu=m de
+Seinegald, ele s^ enxerga meu
+pai, que ele odeia!
+[ENDBLOCK]
+Ele tamb=m culpa meu pai pela morte
+da minha m;e... mesmo n;o tendo
+sido culpa dele...
+[ENDBLOCK]
+Ser parente daqueles dois
+me d# nojo!
+[ENDBLOCK]
+Voc@ sente isso
+mesmo...?
+[ENDBLOCK]
+Desculpem. Sei que isso
+n;o = problema de voc@s.
+[ENDBLOCK]
+Mas, se algum dia encontrarem meu pai,
+por favor, lembrem do que eu disse.
+[ENDBLOCK]
+O nome dele = Nash.
+[ENDBLOCK]
+Nash...! O que VOCE est# fazendo aqui!?
+[ENDBLOCK]
+Papai!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Nash
+[ENDBLOCK]
+
+[ENDBLOCK]
+Elena...
+[ENDBLOCK]
+Eu sabia que voc@ ia vir! Me leva
+de volta pra Seinegald com-
+[ENDBLOCK]
+Elena... N;o posso fazer isso.
+[ENDBLOCK]
+...O qu@?
+[ENDBLOCK]
+Elena, voc@ n;o vai
+ser feliz comigo.
+[ENDBLOCK]
+O-O qu@? Papai... voc@ tamb=m se culpa
+pela mam;e, n;o =?
+[ENDBLOCK]
+} a verdade.
+[ENDBLOCK]
+N;o, n;o =! Voc@ n;o teve
+nada a ver com-
+[ENDBLOCK]
+Ser casada com algu=m de Seinegald
+fez sua m;e ser tratada
+de um jeito horr\vel...
+[ENDBLOCK]
+Ent;o, se voc@ vier morar comigo, temo
+que receba o mesmo tratamento.
+[ENDBLOCK]
+Ent;o, se eu for para Seinegald...
+[ENDBLOCK]
+Se n^s, calvalesianos, f_ssemos,
+ter\amos um destino muito pior.
+[ENDBLOCK]
+Vov_...?
+[ENDBLOCK]
+Sinto muito, sogro.
+S^ causei sofrimento
+a voc@s dois.
+[ENDBLOCK]
+N;o se preocupe com isso.
+Fiz tudo por ela.
+[ENDBLOCK]
+Tudo por... mim?
+[ENDBLOCK]
+Para que voc@ fosse feliz...
+tinha que odiar os de Seinegald.
+[ENDBLOCK]
+Ent;o... tudo at= agora...
+[ENDBLOCK]
+...Bom, eu posso dizer
+que esse plano falhou.
+[ENDBLOCK]
+} bobagem odiar a pr^pria
+fam\lia s^ por causa
+de onde eles v@m!
+[ENDBLOCK]
+Eu gosto tanto dos calvalesianos
+quanto dos de Seinegald.
+[ENDBLOCK]
+Eu n;o conseguiria deixar
+este pa\s sem voc@s.
+[ENDBLOCK]
+Consegui, de algum jeito, um emprego
+na filial da Oberon em Cherik.
+[ENDBLOCK]
+Voc@ ainda n;o pode morar comigo, mas
+eu ficaria feliz de vir te ver
+de vez em quando, se tudo bem.
+[ENDBLOCK]
+Claro que sim.
+N=, querido?
+[ENDBLOCK]
+Claro. Voc@ = meu filho, mesmo que
+tecnicamente seja meu genro...
+[ENDBLOCK]
+Obrigado... muito obrigado.
+[ENDBLOCK]
+Eu tamb=m vou te visitar. Com
+a vov^ e o vov_, t#?
+[ENDBLOCK]
+Talvez seja melhor irmos agora.
+[ENDBLOCK]
+Sim, vamos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_005><center>Est# cheio de trajes
+tradicionais e objetos rituais.
+[ENDBLOCK]
+Sou o prefeito desta cidade.
+[ENDBLOCK]
+Minha miss;o = livrar a cidade
+de todos esses malditos estrangeiros!
+[ENDBLOCK]
+} bem coisa de Seinegald entrar na
+casa de um homem t;o tarde da noite!
+[ENDBLOCK]
+Voc@s n;o t@m nada a fazer aqui.
+Saiam j# daqui!
+[ENDBLOCK]
+Voc@ se veste como... um estrangeiro!
+Nem ouse entrar na minha casa!
+[ENDBLOCK]
+Os verdadeiramente dotados, os escolhidos...
+} isso que n^s, o povo de
+Calvalese, somos!
+[ENDBLOCK]
+Depois de mil anos de trabalho
+duro, nossa hora finalmente chegou!
+[ENDBLOCK]
+Est# dizendo que n;o podemos ser
+habitantes do novo mundo...?
+[ENDBLOCK]
+Caso n;o tenham percebido, eu
+detesto estrangeiros.
+[ENDBLOCK]
+Podem levar as lentes.
+Quando terminarem, saiam
+j# daqui.
+[ENDBLOCK]
+O povo deste pa\s = pobre,
+mas todos se ajudam a seguir em frente.
+[ENDBLOCK]
+} uma virtude de Calvalese ser
+compassivo com o pr^ximo.
+[ENDBLOCK]
+Vamos, = melhor voc@s
+sa\rem daqui.
+[ENDBLOCK]
+O que aconteceu com Seinegald?
+O que = o Belcrant?
+[ENDBLOCK]
+} verdade o boato de que
+Junkland desapareceu?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+A verdade = que era meu marido o mais
+animado em juntar lentes.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x84><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x74><x00><x80><x18><x65><x58><x78><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xA8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x98><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x98><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x9C><x00><x80>
+<x18><x65><x58><xA0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x84><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

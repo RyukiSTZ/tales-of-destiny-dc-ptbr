@@ -1,0 +1,36 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Finalmente completamos o Livro de Descobertas.
+Este = o fruto do nosso trabalho...
+[ENDBLOCK]
+Vimos mesmo muita coisa. }
+quase demais pra lembrar.
+[ENDBLOCK]
+Olhando pra tr#s, havia tantas coisas
+neste mundo que nem conhec\amos.
+[ENDBLOCK]
+} verdade. Achava que j# tinha visto de tudo.
+Claramente havia muito mais pra ver.
+[ENDBLOCK]
+O mundo = t;o vasto.
+[ENDBLOCK]
+Aprendi muito sobre este mundo nos livros,
+mas seus mist=rios devem ser vividos pessoalmente.
+[ENDBLOCK]
+Sou grato por esta oportunidade. Um bom governante
+deve ter amplo conhecimento do mundo.
+[ENDBLOCK]
+Queria que aquelas crian|as vivessem isto...
+[ENDBLOCK]
+Ainda n;o terminamos.
+[ENDBLOCK]
+Deve haver muitas coisas novas pra
+descobrir e gente nova pra conhecer.
+[ENDBLOCK]
+Uma nova jornada de descobertas come|a!<x00><x00><x00><x00><x00>
+[ENDBLOCK]

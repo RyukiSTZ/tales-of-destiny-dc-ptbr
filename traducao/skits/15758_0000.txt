@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Voc@ tem uma irm; mais nova, n=, <Stahn>?
+[ENDBLOCK]
+Tenho! Ela se chama <Lilith>. }
+dois anos mais nova.
+[ENDBLOCK]
+Ah, =? Ela deve ser ador#vel.
+[ENDBLOCK]
+Em casa, eu achava que ela s^
+ficava brava e mandava em mim...
+[ENDBLOCK]
+Mas tenho que admitir, fico meio
+sozinho sem ela.
+[ENDBLOCK]
+Mesmo se sentindo s^, fico com um pouco de inveja.
+Nem lembro se tenho fam\lia.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

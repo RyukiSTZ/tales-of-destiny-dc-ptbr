@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Precisamos reanimar a <Chelsea>.
+Vamos usar uma Garrafa da Vida.
+[ENDBLOCK]
+Sim.
+[ENDBLOCK]
+Pensar que deixei isso
+acontecer sob minha guarda...
+[ENDBLOCK]
+Voc@ n;o = o {nico respons#vel, <Woodrow>.
+Todos temos culpa.<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

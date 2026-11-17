@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Enfim, precisamos deter o Arco Draconis.
+[ENDBLOCK]
+Sim, exatamente. Primeiro, precisamos sair de Radisrol.
+[ENDBLOCK]
+Podemos sair pela mesma entrada por onde viemos.
+[ENDBLOCK]
+L# fora, devemos ir
+para Ignasea, n=?
+[ENDBLOCK]
+Isso mesmo. Mas primeiro vamos sair.<x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,688 @@
+0|Preciso de uma Arma, Já!
+1|De Onde o [Stahn] Vem?
+2|A Gente se Acostuma
+3|Usos Inesperados
+4|Sobre o Mestre [Alba]
+5|O Herói Lendário?
+6|Finanças Apertadas
+7|Quem Atacou o Draconis?
+8|O Mato Fica do Outro Lado
+9|Inocência?
+10|Um Dia, Eu Também...
+11|É Segredo!
+12|Sede de Sangue?
+13|Qual é o Trabalho Dele?
+14|Swordians Dormem?
+15|A [Chelsea] Está no Mato
+16|Procure a Árvore Zelkova do Mato
+17|Volte à Cabana da Montanha
+18|Vamos Voltar
+19|Vamos Entrar
+20|Janos Fica a Sudoeste da Cabana do [Alba]
+21|Janos Fica a Sudoeste da Floresta
+22|Janos Está Logo Ali
+23|Janos Fica do Outro Lado
+24|Seinegald Está Perto
+25|A Bondade de um Estranho
+26|De Onde a [Mary] Vem?
+27|Já nos Conhecemos?
+28|Duvidando de Si Mesmo?
+29|Apesar das Aparências...
+30|Portão Norte para Seinegald
+31|Portão Leste para Ajudar Meu Amigo
+32|Portão Leste para as Ruínas
+33|Chegue ao Templo pela Mata
+34|Passagem Secreta do Templo na Mata
+35|No Portão Norte?
+36|Vá para o Portão Leste
+37|Isso e Aquilo
+38|Como Consigo um Passe?
+39|Que Coincidência
+40|Distraído Fácil
+41|Uma Passagem Secreta Leva ao Templo
+42|Passagem Secreta para o Templo
+43|Como nos Conhecemos
+44|Falando em Templos?
+45|Que Vergonha
+46|O Trabalho do [Stahn]
+47|Meu Tão Esperado Passe
+48|É o Meu Jeito
+49|Controle Total de Gastos
+50|Movida a Gald
+51|Não Sou Como Eles
+52|O Sol Está Gostoso
+53|Mais Fundo no Templo
+54|Vamos Sair do Templo
+55|Saia pela Frente
+56|Cidade ao Sul da Floresta
+57|A Cidade Fica ao Sul da Floresta
+58|A Taverna da Pousada
+59|Mau Presságio?
+60|O Portão Norte para Seinegald
+61|Harmentz Fica ao Norte de Janos
+62|Harmentz Fica a Noroeste de Janos
+63|Janos Fica na Outra Direção
+64|Rápido para a Taverna
+65|Vamos para o Portão Norte
+66|Não se Perca
+67|De Onde a Rutee Vem?
+68|Sensação de Maravilha
+69|Como é o [Dymlos]?
+70|A Casa do Walt É a Maior da Cidade
+71|Temos que Sair Daqui!
+72|Vamos sair daqui!
+73|Vamos à Casa do Walt
+74|Tiara Bonita[MUSIC]
+75|Primeira Vez no Castelo de Seinegald
+76|A Fortuna do [Hugo]
+77|Os Sete Generais
+78|Quem Era Aquela Mulher na Mansão?
+79|Quanto Tempo
+80|O Nome de [Lion]
+81|Um Lugar Adequado
+82|O que é um Cavaleiro Andante?
+83|Formalidades de Família
+84|Swordians Sentem?
+85|O Sofrimento de [Lion]
+86|A Mansão do [Hugo] É a Maior Casa
+87|Vamos à Maior Mansão da Cidade
+88|O Templo Fica ao Norte de Darilsheid
+89|De Armeida até o Templo
+90|O Templo Fica a Leste
+91|O Templo Fica a Leste de Armeida
+92|Pela Estrada Leste até Armeida
+93|Pela Floresta até o Templo
+94|A Mansão do [Hugo] Fica na Cidade
+95|Beleza Imaculada
+96|Quem Controla as Pedras-Barreira?
+97|O [Stahn] É Tarado?
+98|Apresentações
+99|Aula de Hierarquia Religiosa
+100|Quem Era o Mestre Swordian Anterior?
+101|O que Houve com o Templo?
+102|Vamos Olhar Dentro do Templo
+103|Destrua as Pedras-Barreira!
+104|Procure as Pedras-Barreira
+105|Rumo à Catedral
+106|Rápido para a Catedral
+107|Passagem Secreta
+108|Darilsheid Fica ao Sul do Templo
+109|Volte a Darilsheid
+110|O Porto de Darilsheid Fica no Leste
+111|O Porto Fica no Leste da Cidade
+112|Não Abre
+113|Abra a Porta!
+114|Por que Radisrol Está Aqui?
+115|Velha Radisrol
+116|O Leviathan É Incrível!
+117|Bomba Philia?
+118|Reencontro
+119|O [Clemente] Está em Radisrol
+120|O [Clemente] Está Mais pra Dentro
+121|Vamos Sair de Radisrol
+122|Que Calor!
+123|A Misteriosa [Mary]
+124|Vida Dura em Calvalese
+125|[Baruk], o Filantropo
+126|Em Busca da Amizade
+127|Manutenção de Swordian
+128|A Internacional Oberon
+129|A Fundação Baruk Fica na Cidade
+130|Calviola Fica ao Norte de Cherik
+131|Para Calviola, ao Norte de Cherik
+132|A Religião de Calvalese
+133|Empolgação?
+134|O Gelo Está Derretendo?
+135|Como é o [Clemente]?
+136|Os Óculos da [Philia]
+137|A Caça aos Óculos Continua
+138|A Mesma Coisa de Sempre
+139|O Templo Fica na Cidade
+140|Esperando na Pousada
+141|Meta: Porta dos Fundos do Templo
+142|Vamos Rumo à Catedral
+143|Vamos à Catedral
+144|Para o Porão...
+145|Entre no Porão
+146|Não Esqueça de Vasculhar o Templo
+147|Lembre de Vasculhar o Templo
+148|Cherik Fica ao Sul de Calviola
+149|Rápido para Cherik
+150|Sem Tempo para Vagar à Toa
+151|Vamos ao Templo
+152|Impressionante, Sem Dúvida
+153|Somos do Mesmo País
+154|Neustadt É Bem Animada
+155|Escrevendo uma Carta - 1
+156|Saudade da Minha Irmã...
+157|A [Mary] Sempre Sabe Cozinhar?
+158|Domador de [Lion]
+159|Aonde Você Vai?
+160|Onde a [Ilene] Mora
+161|Vamos Achar a Mansão da [Ilene]
+162|A Barraca de Softy Kreem Fica ao Norte
+163|Conferindo a Barraca de Softy Kreem
+164|A Arena Fica no Norte da Cidade
+165|A Arena no Fim da Rua Principal
+166|Monstros na Cidade!?
+167|Siga a [Ilene] até a Arena
+168|Esmague a Armada!
+169|Rumo ao Porto
+170|A Barraca de Softy Kreem da Praça
+171|Ao Sair da Arena
+172|Vamos ao Porto
+173|Vamos Nessa!
+174|Um Vazio no Coração da [Mary]
+175|O Desejo da [Mary]
+176|Como é o [Chaltier]?
+177|Lá Vou Eu, [Greybum]
+178|Atrás do [Batista]
+179|De Barco para Aquaveil
+180|Para o Porto, Certo?
+181|Chegando em Aquaveil
+182|Viajante do Mundo
+183|Quem São Eles de Verdade?
+184|Falando de Isolacionismo
+185|Escrevendo uma Carta - 2
+186|A Curiosidade da [Mary]
+187|Vamos para a Cidade
+188|A Caverna Fica ao Sul de Shiden
+189|A Caverna Está ao Sul de Shiden
+190|Pare de Ficar Vagando!
+191|Um Oceano Sobre Nossas Cabeças
+192|Tenha um Pouco de Tato
+193|Guarde Isso pra Você
+194|Swordians Sentem Fome?
+195|A Relação de [Dymlos] e [Atwight]
+196|O Maior Ponto Fraco de um Swordian
+197|Para Moreau pela Caverna da Maré
+198|Vamos Chegar a Moreau
+199|Para Moreau
+200|Moreau: A Cidade Flutuante
+201|Reforços?
+202|Um Conhecido Seu?
+203|O Hobby do Clemente
+204|Que Fim Levou a Tiara?
+205|Um Criminoso Procurado
+206|Um Galanteador
+207|Buscando Informações em Moreau
+208|Vamos Ver o Porto
+209|Vamos Falar com o [Johnny]
+210|Para o Castelo de Moreau, de Gôndola
+211|Pegue uma Gôndola até o Castelo
+212|Não Vamos ao Porto?
+213|Devíamos Falar com o [Johnny]
+214|Qual o Nome do Bando?
+215|Fizemos a Coisa Certa
+216|A Aula de Canto do [Johnny]
+217|A Família do [Johnny]
+218|[Johnny] e [Fayte]
+219|Canções: Uma Janela para a Alma
+220|Fique Frio
+221|Primeiro, a Prisão
+222|Resgatando o [Fayte]
+223|Vamos Achar o Batista
+224|Rápido, Ache o Batista
+225|Saia do Castelo e Vá ao Porto
+226|O Navio Cruz Negra para Terazzi
+227|Do Porto para Terazzi
+228|Sem Pressa
+229|Cidade Fantasma?
+230|O [Fayte] É Teimoso
+231|Rumo ao Castelo de Terazzi
+232|Vá ao Castelo de Terazzi
+233|As Docas Ficam no Centro
+234|Vamos ao Castelo de Terazzi Agora
+235|O [Fayte] Também É Incrível
+236|O Futuro de Aquaveil
+237|Material para Nova Canção
+238|Conselho dos Swordians?
+239|Batalha pelo Castelo de Terazzi
+240|Volta Triunfal
+241|Atrás do [Greybum] até Phandaria
+242|Do Porto para Phandaria
+243|[Greybum] e o Olho de Atamoni
+244|É o Destino?
+245|Guerra Civil!?
+246|Mestre Arqueiro
+247|Compatriotas
+248|Meio Otimista
+249|Escrevendo uma Carta - 3
+250|Vamos Ver a Cidade
+251|Vamos à Cidade
+252|Vamos Ajudar o [Woodrow] na Floresta
+253|Pela Floresta Tilso até Heidelberg
+254|Tilso Fica a Oeste de Frostheim
+255|Credenciais de Mestre
+256|Ainda Criança?
+257|Fúria Justa?
+258|Com Frio? Ache uma Fonte Termal
+259|Pela Floresta até Cyril
+260|Chegue a Cyril pela Floresta
+261|A Paisagem de Cyril
+262|Tensão
+263|Pode Ser Perigoso
+264|A Casa da [Mary] Fica a Oeste
+265|Heidelberg Fica ao Norte de Cyril
+266|Ao Norte de Cyril
+267|Impressões de Heidelberg
+268|Mesmo Sendo Rebeldes
+269|A Entrada da Rota de Fuga
+270|Passagem Secreta ao Castelo
+271|Descanso no Fim da Passagem
+272|Pela Passagem até o Castelo
+273|Laços de Família
+274|Duelo na Torre do Relógio
+275|Para a Torre do Relógio
+276|Não Dá pra Sair Ainda
+277|Espera Aí!
+278|Cadê a [Rutee]?
+279|É Bom Ter uma Família
+280|Relatório
+281|Meio Cabeça-Dura
+282|Quem Ocupa a Mente Dele
+283|Vamos Comprar o Jantar
+284|Vamos pra Casa
+285|Neustadt Fica a Sudeste de Lienea
+286|A Sudeste de Lienea Fica Neustadt
+287|Embarque no Navio para Phandaria
+288|Preciso Comprar o Jantar
+289|Que Romântico
+290|[Kongman], Não Está com Frio?
+291|O Mesmo Nível?
+292|De Bom Humor?
+293|Um Pressentimento?
+294|[Kongman], Não Tem Vergonha?
+295|O Sonho da [Rutee]
+296|Como é a [Atwight]?
+297|Meu Cabelo Cresceu?
+298|O Jeito da [Rutee]
+299|Estamos com Você!
+300|A [Mary] Mudou?
+301|Rumo a Heidelberg
+302|Vamos Ver o [Woodrow]
+303|Heidelberg Fica ao Norte da Floresta
+304|Saia da Floresta pelo Norte
+305|Encontre o [Woodrow] no Castelo
+306|O [Woodrow] no Trono
+307|Vamos Rumo a Seinegald
+308|Vamos a Seinegald
+309|Cresta Fica a Leste de Darilsheid
+310|Vamos Ver a [Rutee] em Cresta
+311|A [Rutee] Está em Casa?
+312|Vamos nos Encontrar na Praça
+313|Darilsheid Fica a Oeste de Cresta
+314|A Oeste de Cresta
+315|Vamos Falar com o Rei
+316|Precisamos de Barco até a Fábrica
+317|De Navio até a Fábrica da Oberon
+318|O que Você Acha?
+319|Por que Abandonaram Este Lugar?
+320|Vamos Vasculhar a Fábrica
+321|De Volta à Fábrica da Oberon
+322|Onde Está o Olho de Atamoni?
+323|Vamos Voltar a Darilsheid
+324|Como é a [Ritora]?
+325|Os que Ficaram para Trás - 1
+326|Os que Ficaram para Trás - 2
+327|Os que Ficaram para Trás - 3
+328|Os Sentimentos Deles
+329|Radisrol Fica a Leste de Calvalese
+330|Radisrol Está a Leste de Calvalese
+331|Vá a Radisrol Já
+332|A [Ritora] Está no Centro de Radisrol
+333|Ruínas Perto de Lienea
+334|As Ruínas da Baía de Lienea
+335|História de Fantasma?
+336|O Selo Está Seguro
+337|Qual o Sonho do [Kongman]?
+338|Pegue a Chave R
+339|A Chave R Está no Fundo
+340|Saia do Templo
+342|Vamos Voltar a Radisrol
+343|Mulheres São Mais Sábias?
+344|O Ataque Aeth'er
+345|Seu Cabelo Não Incomoda?
+346|Mesma Sintonia
+347|A Rotina do [Kongman]
+348|Rápido para a Área Central
+349|Vamos Ver Como a [Rutee] Está
+350|Rumo a Ignasea
+351|Indo para Ignasea
+352|Entre em Ignasea pela Aetherosfera
+353|Melhor Não Sair Agora
+354|Observadora
+355|O que é um Transportador?
+356|O Experimento da [Philia]
+357|Fazer Bombas É Perigoso
+358|Proteja o Transportador
+359|Que Escuro Aqui Dentro
+360|O Sonho da [Philia]?
+361|Um Olhar Sério?
+362|De Deimos para Cloudius
+363|Juntando Unidades de Energia
+364|Recupere a Unidade de Energia
+365|Pegue Aquele Rato!
+366|Rápido ao Sistema Principal
+367|Temos que Sair de Deimos
+368|Rápido para Cloudius
+369|Pare o Arco Draconis!
+370|Cloudius Tem a Chave
+371|Para Ignasea via Deimos
+372|De Deimos para Ignasea
+373|Não Esqueça a Missão
+374|Para Helraios via Rodeon
+375|De Rodeon para Helraios
+376|Ainda Não Abre
+377|O que Acha dos Aetherianos?
+378|Aula de História
+379|Mulheres São Complicadas
+380|As Reais Intenções da [Ilene]?
+381|Criadora Envergonhada
+382|Como é o Igtenos?
+383|Requisitos de um Mestre Swordian?
+384|A Dor do Igtenos
+385|Por Rodeon até Helraios
+386|Viajando até Helraios
+387|A Pé até Helraios
+388|Atacando Helraios
+389|A [Ilene] Por Trás de Tudo?
+390|Vá para a Área Central
+391|Vamos Voltar para os Outros
+392|Vamos para Radisrol
+393|Volte a Radisrol
+394|Rápido até a [Ritora]
+395|Para Mikheil via Josaia
+396|De Josaia para Mikheil
+397|Espere
+398|Avaliando a Situação
+399|Experimentos Ardentes
+400|Passe por Josaia até Mikheil
+401|Saia de Josaia rumo a Mikheil
+402|Pela Aetherosfera até Mikheil
+403|Achando um Cruzador Aeth'er
+404|As Profundezas de Mikheil
+405|Os Reais Motivos do [Hugo]?
+406|Mire o Topo do Belcrant
+407|Ao Topo do Belcrant
+408|Detendo o Plano do [Hugo]
+409|Pelos Vivos
+410|O Menestrel Volta
+411|Surge uma Rivalidade?
+412|Rápido para Cresta
+414|A Força de Phandaria
+415|Rápido, ao Orfanato
+416|Darilsheid Sitiada
+417|Temos que Voltar a Darilsheid
+418|Proteja Darilsheid dos Monstros
+419|Vá à Pousada
+420|Ao Laboratório do [Reynolds]
+421|O Lab. do [Reynolds] Fica no Castelo
+422|O Treino do [Kongman]
+423|Como é Falar com uma Espada?
+424|Rápido à Sala do Trono
+425|Montando o Dragão
+426|De Dragão ao Lab. de P&D Swordian
+427|O Lab. Fica a Oeste de Darilsheid
+428|O Lab. Fica Perto de Darilsheid
+429|Uma Nova Canção?
+430|Os Sentimentos da [Chelsea]
+431|Conversa a Sós
+432|Aguente Firme, [Chelsea]
+433|Cadê o Equipamento do Lab.?
+434|Meta: As Profundezas
+435|O Teste Final
+436|Junkland Fica a Oeste de Calvalese
+437|A Oeste de Calvalese Fica Junkland
+438|Do Jeito que Você É
+439|O Sonho do [Woodrow]?
+440|O Sonho do [Johnny]?
+441|De Quem Você Gosta? (Garotas)
+442|De Quem Você Gosta? (Garotos)
+443|[Chelsea] Empolgada
+444|Vá à Montanha de Lixo
+445|Achando Berselium
+446|Procure Berselium
+447|Vamos Sair Daqui
+448|Darilsheid Fica a Sudeste de Junkland
+449|O Draconis Está Perto de Darilsheid
+450|Vamos Ver o [Reynolds] em Seinegald
+451|O Sonho da [Chelsea]?
+452|A Musa do [Johnny]
+453|Encontro do Destino
+454|Canções São Mágicas
+455|Ela Nunca Desiste
+456|Junte Lens pelo Mundo
+457|Juntando Lens em Neustadt
+458|Juntando Lens em Heidelberg
+459|Juntando Lens em Calviola
+460|Juntando Lens em Terazzi
+461|Entregando as Lens ao [Reynolds]
+462|Mudança na Imagem da [Philia]
+463|Falando de Darilsheid
+464|Prepare-se para Amanhã na Pousada
+465|Precisa Descansar? Vá à Pousada
+466|O que Eu Preciso Fazer Agora
+467|Volte para os Outros
+468|Indo ao Canhão de Lens
+469|Para o Canhão de Lens
+470|Vamos a Dycroft!
+471|Para Dycroft!
+472|Vamos Ficar na Cidade
+473|Procure em Outro Lugar
+474|Aonde Você Vai?
+475|Tudo Termina Amanhã
+476|Vamos Derrubar o [Miktran]!
+477|Vamos Vencer o [Miktran]!
+478|Continuem Avançando!
+479|Custe o que Custar!
+480|Rápido!
+481|Com Todas as Forças!
+482|Derrube-o!
+483|Acabe com Ele!
+484|Vamos Derrubá-lo!
+485|Vou Mandá-lo pelos Ares
+487|Quartel Inimigo
+488|Detendo uma Ambição Centenária
+489|Devolvendo a Luz ao Mundo
+490|Sua Coragem Inspira
+491|Ode ao Leviathan
+492|Dura Realidade
+493|Estou Meio Nervosa
+494|Olhar Ardente
+495|Olhar Ardente EX
+496|Você É o Futuro Campeão!?
+497|Guerra das Mulheres?
+498|A Chave da Força
+499|Campeão Lendário
+500|Amizade Feminina?
+501|Fantasmas do Passado
+502|Brilho Fascinante
+503|A Vida de Caçadora de Lens
+504|Odeio Isso!
+505|Estou Cheio!
+506|Você Precisa se Recuperar
+507|Não se Confunda!
+508|Bom Senso
+509|Um Pedido de Desculpas
+510|Possível Substituto?
+511|Responsabilidade Pessoal
+512|Palavras Positivas e Negativas
+513|Esquecemos Alguma Coisa?
+514|Sei Como Você Se Sente
+515|Os Sentimentos do Irmão Mais Velho
+516|Obrigada, Pessoal!
+517|O Sonho da [Mary]
+518|Eles Perderam o Nome?
+519|Adoro Dormir
+520|Procurando Gald
+521|Pode Contar Comigo
+522|Intuição no Campo?
+523|Bom de Comando, Quem Diria
+524|Estou Gostando Disso
+525|Plantar Sementes É Divertido
+526|Prós e Contras
+527|O Segredo da Vitória É o Esforço
+528|A Diversão Depois da Batalha
+529|Para o Olho de Atamoni
+530|Acima da Aetherosfera
+531|Vamos Atrás Dele
+532|Temos que Parar o [Hugo]
+533|Nós Vamos Te Parar!
+534|Volte, Agora
+535|Não por Aqui
+537|Vamos Depressa
+538|Pare de Brincadeira
+539|Não por Ali
+540|Temos Outras Coisas a Fazer
+541|Ainda Temos Trabalho
+542|Veja o que Está Acontecendo
+543|Vamos Ouvir o que Dizem
+544|Pelo Menos Ouça o que Dizem
+545|Coisas Mais Importantes a Fazer
+547|Fale com o Povo da Cidade
+548|Vasculhe Bem a Área
+549|Vamos Partir
+550|Fique Mais um Pouco
+551|Para o Norte
+552|Para o Nordeste
+553|Para o Leste
+554|Para o Sudeste
+555|Para o Sul
+556|Para o Sudoeste
+557|Para o Oeste
+558|Para o Noroeste
+559|Vamos Embarcar no Leviathan
+560|Embarque no Leviathan!
+561|Vamos Embarcar no Draconis
+562|Embarque no Draconis!
+563|Para o Porto
+564|Para o Castelo
+565|Descanso
+567|Primeiro o [Igtenos]
+568|Pegue o Aparelho em Radisrol
+569|Prioridade: Cruzador Aeth'er
+570|Nada a Fazer Nesta Cidade
+571|O Segredo da Mana!
+572|Corrida - 1
+573|Corrida - 2
+574|Pergunta!
+575|Prontos!
+576|Certíssimo!
+577|Ainda Treinando
+578|Expedição [Stahn]
+579|Sorte - 1
+580|Sorte - 2
+581|Sorte - 3
+582|Sorte - 4
+583|Sorte - 5
+584|Sorte - 6
+585|Sorte - 7
+586|"Bomba [Batista]"
+587|O que a [Philia] Sente de Verdade
+588|Hora de Sonhar
+589|Ele Sou Eu, Eu Sou Ele, Então Ele...
+590|O Talento do [Rembrandt]
+591|Erro de Gravação 1
+592|Erro de Gravação 2
+593|Extra: Bastidores
+594|Phantasia
+595|The Abyss
+596|A Série "Tales of"
+597|Tales of Destiny
+598|O [Reynolds] É Útil
+599|O Holograma da [Ritora] É Incrível!
+600|Sempre Estivemos Juntos
+612|Outro Swordian
+613|Por que num Lugar Desses?
+614|A Lição da [Marian]
+615|Três Contra Um
+616|[Hugo] e [Rutee]
+617|Não São [Dymlos] e [Atwight]
+618|O Calculista [Hugo]
+619|O Discurso Motivador do Chal
+620|[Atwight], o Oásis
+621|Nós Dois
+622|Softy Kreem!
+623|Que Elegante!
+624|[Lion] Irritado
+625|Sempre Juntos!?
+626|O que o [Lion] Quer de Verdade?
+627|O [Lion] Precisa de Óculos
+628|Vontade e Trabalho
+629|[Chaltier] Chorão
+630|Nada Importante. Só Matando Tempo
+631|Um Lugar Bem Bacana?
+632|Sobre a Mãe do [Lion]
+633|Mestre Gentil o [Lion] Não É!
+634|A Praia
+635|Um Prédio Visível Naquela Ilha
+636|Lei do Silêncio
+637|Onde Estamos?
+638|Jogando Ele Fora!?
+639|Os Óculos da [Philia] - 2
+640|Que Sede
+641|O Xampu da [Philia]
+642|Martelo Pow!
+643|Morte por Onigiri
+644|Hambúrguer
+645|Para a Vila de Harmentz
+646|Harmentz Fica a Oeste de Darilsheid
+647|Nada a Fazer no Castelo
+648|Para Harmentz Sem Demora
+650|Darilsheid Fica a Leste de Harmentz
+651|Ao Rei no Castelo de Seinegald
+652|À Masmorra do Castelo de Seinegald
+653|Vamos Voltar à Mansão
+654|À Mansão Falar com o Hugo
+655|O Templo Fica ao Norte de Darilsheid
+656|Vamos Logo Entrar no Templo
+657|Para a Catedral
+658|Mais Fundo na Passagem Secreta
+659|Para Darilsheid
+661|Rápido ao Porto
+662|Convencendo Sua Majestade
+663|Relatório a Sua Majestade
+664|Despeça-se Dela
+665|Para Onde a [Marian] Está...
+667|Para a Pousada, por Ora
+668|Vamos Dar uma Volta na Cidade
+669|Perigoso Demais Ir Sozinho
+670|Vamos Voltar à Pousada Logo
+671|Vá à Porta dos Fundos do Templo!
+672|Atrás do [Greybum]
+673|Para a Porta da Frente
+674|Atrás da Barraca de Softy Kreem
+675|Sem Motivo para Sair
+676|Do Porto para a Armada
+677|Mire no [Greybum]
+678|Volte a Shiden
+679|Retorne a Shiden
+680|Ache uma Corda
+681|Vasculhe Moreau
+682|Para o Castelo de Seinegald
+683|Rumo a Harmentz
+684|Harmentz Fica a Oeste da Capital
+685|Para o Templo de Straylize
+686|Volte à Mansão
+687|Rápido para a Mansão
+688|Relatório ao Rei no Castelo
+689|Para Cresta, a Leste de Darilsheid
+691|Ache o Soldado em Cresta
+692|Tente Procurar o Orfanato
+693|Ache a Praia ao Norte de Cresta
+694|Vamos Relatar a Missão
+696|Vamos Voltar Rápido à Mansão
+697|Temos que Achar a [Marian]
+698|O Draconis Deve Estar no Castelo
+699|Não Há Escolha a Não Ser Obedecer
+700|Invadindo a Instalação Selada
+701|Tem que Estar Aqui
+702|Para as Profundezas
+703|Hugo e os Outros?
+704|O Anel do Feiticeiro Explode
+705|Ainda Há Lugares para Destruir
+707|Nada de Enrolar!
+708|Não É Hora
+709|Vamos Depressa!
+710|Lugares Mais Importantes para Ir

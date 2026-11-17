@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pensando bem, temos uma longa
+hist^ria com aquele homem...
+[ENDBLOCK]
+...Vamos p_r um fim nisso hoje.
+[ENDBLOCK]
+Sim, tenho certeza de que teremos sucesso...
+[ENDBLOCK]
+Junto com nossos jovens e
+bravos mestres, conseguimos.
+[ENDBLOCK]
+Vamos, o <Miktran> espera l# dentro! A ambi|;o de mil
+anos dele termina hoje!<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

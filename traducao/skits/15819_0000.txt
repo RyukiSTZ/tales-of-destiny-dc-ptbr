@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Como ser# a sua fam\lia, <Johnny>?
+[ENDBLOCK]
+Meu pai se chama Arthur Shiden, Rei de
+Shiden. Tamb=m tenho dois irm;os mais velhos.
+[ENDBLOCK]
+Voc@ tem dois irm;os? Eu s^ tenho uma irm;, ent;o...
+[ENDBLOCK]
+Fico meio com inveja.
+[ENDBLOCK]
+}ramos uns pestinhas que viviam brigando.
+Acho que toda fam\lia = igual.<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

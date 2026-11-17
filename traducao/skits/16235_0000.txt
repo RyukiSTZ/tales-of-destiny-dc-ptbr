@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Jovem mestre, voc@ come|ou a ser
+bem gentil com as pessoas, hein?
+[ENDBLOCK]
+N;o muito, n;o.
+[ENDBLOCK]
+Mas... a pr^pria <Marian> disse. Disse
+que voc@ tinha mudado!
+[ENDBLOCK]
+S^ porque ela disse isso n;o quer
+dizer que estou amolecendo.
+[ENDBLOCK]
+Ah, t#! Acho que n;o!
+[ENDBLOCK]
+Mas = t;o importante ser gentil
+com todos que se conhece...
+[ENDBLOCK]
+Por que est# me dando bronca, Chal?<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

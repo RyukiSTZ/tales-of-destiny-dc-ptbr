@@ -1,0 +1,658 @@
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Viajante
+[ENDBLOCK]
+
+[ENDBLOCK]
+Hahaha, deve ser dif\cil
+viajar com uma crian|a.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Que grosseria.
+A <Chelsea> = bem madura.
+[ENDBLOCK]
+N;o =, <Chelsea>?
+[ENDBLOCK]
+<Chelsea>...?
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+<Stahn>...
+Eu quero ir pra casa...
+[ENDBLOCK]
+O que foi, <Chelsea>?
+[ENDBLOCK]
+Eu vou pra casa!
+[ENDBLOCK]
+Espera, <Chelsea>!
+[ENDBLOCK]
+Hahaha. Voc@s viajam
+com uma crian|a dessas?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Hoteleiro
+[ENDBLOCK]
+Bem-vindos. Nossas acomoda|`es
+s;o bem quentinhas.
+[ENDBLOCK]
+Bem-vindos. Nosso estabelecimento
+est# sempre aberto.
+[ENDBLOCK]
+Gostariam de passar a noite?
+[ENDBLOCK]
+ Gald.
+Tudo bem?
+[ENDBLOCK]
+Tenham uma boa estadia.
+[ENDBLOCK]
+Voltem sempre.
+[ENDBLOCK]
+Tenham um bom dia.
+[ENDBLOCK]
+Voc@s n;o t@m Gald suficiente.
+[ENDBLOCK]
+Tem um templo perto da cidade.
+Dizem que est# cheio de tesouros.
+[ENDBLOCK]
+Ouvi dizer que um figur;o de
+Seinegald quer o que est# no
+templo.
+[ENDBLOCK]
+O nome dele era Malt... ou algo assim.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Tem um templo perto da cidade.
+Dizem que esconde um segredo incr\vel.
+[ENDBLOCK]
+Adoraria dar uma olhada, mas pode
+ser perigoso se eu n;o tomar cuidado...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Merceeiro
+[ENDBLOCK]
+Mil desculpas, ainda
+estamos nos preparando.
+[ENDBLOCK]
+Por favor, voltem mais tarde.
+[ENDBLOCK]
+J# reabasteceram
+a comida?
+[ENDBLOCK]
+Bem-vindos.
+
+[ENDBLOCK]
+Preciso reabastecer meu Saco de Comida.
+
+[ENDBLOCK]
+Um reabastecimento do Saco de Comida,
+saindo agora mesmo!
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Deixa que eu pago. Te devo
+uma por me ajudar.
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+Sua Comida foi reabastecida.
+[ENDBLOCK]
+Quer trocar as Fichas de Comida?
+
+[ENDBLOCK]
+Fichas de Comida?
+
+[ENDBLOCK]
+Trocando as Fichas de Comida, voc@
+muda a comida que vai cozinhar.
+
+[ENDBLOCK]
+Receitas diferentes t@m
+efeitos diferentes.
+
+[ENDBLOCK]
+Voc@ pode organizar suas Fichas
+de Comida em qualquer mercado.
+[ENDBLOCK]
+Pode trocar e reabastecer sua
+Comida quando quiser.
+
+[ENDBLOCK]
+Beleza!
+
+[ENDBLOCK]
+Certo. Agora podemos ir
+para o templo de novo.
+
+[ENDBLOCK]
+Certo. Vamos para aquele templo.
+
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC8><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x57><xB8><x00><x80><x18><x65><x57><xBC><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xEC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x47><xDC><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x47><xDC><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x57><xE0><x00><x80>
+<x18><x65><x57><xE4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x47><xC8><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+Ol#, meu nome = <TAG_053>. Cuido
+do com=rcio aqui em <TAG_054>.
+[ENDBLOCK]
+Ainda n;o terminaram? Por favor,
+n;o me digam que v;o desistir.
+[ENDBLOCK]
+Se n;o estiverem muito ocupados,
+talvez possam me ajudar no trabalho.
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+<TAG_007>Aceitar um servi|o
+N;o tenho tempo pra isso
+Que tipo de servi|o?
+
+[ENDBLOCK]
+Consiga e entregue <TAG_035> <x1A><x71><x44><x34><x80>
+para <x18><x66><x50><x28><x00><x80> em <x18><x66><x50><x2C><x00><x80>.
+[ENDBLOCK]
+A recompensa = <TAG_032> Gald.
+} um servi|o f#cil.
+
+[ENDBLOCK]
+Servi|o
+[ENDBLOCK]
+<TAG_007>Leve <TAG_035> <x1A><x71><x44><x34><x80> para
+<x18><x66><x50><x28><x00><x80> em <x18><x66><x50><x2C><x00><x80>.
+Recompensa: <TAG_032> Gald
+Aceita o servi|o?
+Aceitar
+Recusar
+[ENDBLOCK]
+Enquanto isso, vou adiantar
+uma parte da recompensa.
+
+[ENDBLOCK]
+<TAG_007>Voc@ recebeu <TAG_032> Gald
+como adiantamento.
+
+[ENDBLOCK]
+Conto com voc@s!
+[ENDBLOCK]
+Que pena. Quem sabe
+da pr^xima vez.
+[ENDBLOCK]
+Bem, at= a pr^xima.
+[ENDBLOCK]
+Vamos, = um servi|o f#cil.
+
+[ENDBLOCK]
+} s^ conseguir os itens certos
+e levar para o meu s^cio
+em outra cidade!
+[ENDBLOCK]
+Quer dizer, tem dinheiro na jogada.
+Nem precisa pensar, n=?
+[ENDBLOCK]
+Pelo menos me
+deem uma resposta.
+[ENDBLOCK]
+Vejo que voc@s aceitaram um servi|o
+de <TAG_055> em <x18><x66><x50><x20><x00><x80>.
+[ENDBLOCK]
+O pedido = de <TAG_035> <x1A><x72><x0C><x80>.
+
+[ENDBLOCK]
+Prometo que n;o vou tomar
+muito do seu tempo.
+
+[ENDBLOCK]
+<x18><x66><x50><x20><x00><x80> fica na
+cidade de <x18><x66><x50><x24><x00><x80>.
+
+[ENDBLOCK]
+Por favor, consigam <TAG_035> <x1A><x72><x0C><x80>
+e entreguem assim que
+puderem.
+
+[ENDBLOCK]
+Bom trabalho, trouxeram o que eu precisava!
+
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x2C><x00><x80>Voc@ recebeu <TAG_077> Gald
+depois de descontar o
+adiantamento.
+
+[ENDBLOCK]
+Voc@s n;o t@m a quantidade
+necess#ria de itens...
+
+[ENDBLOCK]
+Por favor, me tragam <TAG_075> <x1A><x72><x40><x10><x80>.
+[ENDBLOCK]
+Se desistirem e n;o terminarem um
+servi|o, v;o ter que pagar multa
+por quebra de contrato.
+[ENDBLOCK]
+Se desistirem agora e n;o terminarem
+este servi|o, v;o ter que pagar multa
+por quebra de contrato.
+[ENDBLOCK]
+Foi um prazer trabalhar com voc@s.
+[ENDBLOCK]
+Bem, boa sorte.
+[ENDBLOCK]
+N;o pode ser. Voc@s n;o est;o
+pensando em desistir, est;o?
+[ENDBLOCK]
+Devo dizer que estou um
+pouco decepcionado...
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Vou cobrar uma taxa
+[ENDBLOCK]
+
+[ENDBLOCK]
+Multa por Quebra de Contrato
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><x18><x66><x50><x28><x00><x80>
+de cancelamento de <TAG_076> Gald.
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O contrato n;o pode ser cancelado at=
+a multa por quebra de contrato ser paga.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Enquanto isso, vou pedir que
+me paguem o dinheiro que t@m
+como taxa de aborrecimento.
+[ENDBLOCK]
+<TAG_007>Cobrei <TAG_075> Gald
+pelo inc_modo.
+
+[ENDBLOCK]
+Voc@s n;o t@m dinheiro suficiente.
+Voltem quando tiverem.
+[ENDBLOCK]
+Foi um prazer trabalhar com voc@s.
+
+[ENDBLOCK]
+S=rio mesmo? Esta =
+sua {ltima chance.
+[ENDBLOCK]
+Que chatice...
+
+[ENDBLOCK]
+<TAG_007>Cobrei <TAG_075> Gald
+pelo cancelamento.
+
+[ENDBLOCK]
+Juntem o Gald e
+depois voltem.
+[ENDBLOCK]
+Bem, boa sorte.
+
+[ENDBLOCK]
+<TAG_007>Continuar o Servi|o
+Ver Detalhes
+Desistir do Servi|o
+
+[ENDBLOCK]
+Janos
+[ENDBLOCK]
+Harmentz
+[ENDBLOCK]
+Armeida
+[ENDBLOCK]
+Darilsheid
+[ENDBLOCK]
+Cresta
+[ENDBLOCK]
+Cherik
+[ENDBLOCK]
+Calviola
+[ENDBLOCK]
+Junkland
+[ENDBLOCK]
+Neustadt
+[ENDBLOCK]
+Lienea
+[ENDBLOCK]
+Frostheim
+[ENDBLOCK]
+Shiden
+[ENDBLOCK]
+Moreau
+[ENDBLOCK]
+Terazzi
+[ENDBLOCK]
+Cyril
+[ENDBLOCK]
+Heidelberg
+[ENDBLOCK]
+Vila Katz
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Genera
+[ENDBLOCK]
+Honeywell
+[ENDBLOCK]
+Amex
+[ENDBLOCK]
+Siti
+[ENDBLOCK]
+DuPont
+[ENDBLOCK]
+Tapira
+[ENDBLOCK]
+Alcoa
+[ENDBLOCK]
+Johnson
+[ENDBLOCK]
+Pfizer
+[ENDBLOCK]
+Philip
+[ENDBLOCK]
+Verizon
+[ENDBLOCK]
+Exxon
+[ENDBLOCK]
+Morgan
+[ENDBLOCK]
+Ivy
+[ENDBLOCK]
+Packard
+[ENDBLOCK]
+Merick
+[ENDBLOCK]
+Depot
+[ENDBLOCK]
+???
+[ENDBLOCK]

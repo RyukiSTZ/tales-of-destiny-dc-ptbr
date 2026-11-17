@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Com certeza vamos ganhar uma ^tima recompensa
+por salvar o Pr\ncipe de Phandaria!
+[ENDBLOCK]
+Se Phandaria for destru\da, nada
+disso vai dar em nada.
+[ENDBLOCK]
+N;o vou deixar isso acontecer! Vamos esmagar o <Greybum>
+e retomar Phandaria!
+[ENDBLOCK]
+E depois, nossa recompensa!!
+[ENDBLOCK]
+S^ por garantia, lembro que nosso
+objetivo principal = o Olho de Atamoni.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,30 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Mesmo este deserto severo n;o vai ser
+problema, j# que a <Atwight> est# conosco.
+[ENDBLOCK]
+Por qu@?
+[ENDBLOCK]
+Sabe, ela = especialista em artes de #gua...
+[ENDBLOCK]
+Ent;o se voc@ ficar com sede, ela
+pode te dar #gua!
+[ENDBLOCK]
+Entendo...
+[ENDBLOCK]
+...E quando = que suas Artes de Terra
+v;o ser t;o {teis, Chal?
+[ENDBLOCK]
+Urk...!
+[ENDBLOCK]
+<S04>Ah, j# sei!
+[ENDBLOCK]
+Isso depende da criatividade do Mestre!
+[ENDBLOCK]
+Gah...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

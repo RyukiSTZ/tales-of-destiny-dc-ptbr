@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Tive um sonho estranho outra noite.
+Eu cuidava de duas crian|as.
+[ENDBLOCK]
+Uma tinha cabelo prateado e era louca por
+garotas. A outra era loira e cheia de energia.
+[ENDBLOCK]
+Nunca se sabe! Esse sonho
+pode se realizar um dia!
+[ENDBLOCK]
+Qu@!? N-Nem pensar!<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

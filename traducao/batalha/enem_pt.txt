@@ -1,0 +1,440 @@
+2 Combo|Combo 2
+3 Combo|Combo 3
+Absorption|Absorção
+Acidic Spray|Jato Ácido
+Acorn Machine Gun|Metralhadora de Bolota
+Acorn Toss|Arremesso de Bolota
+Aerial Counter|Contra-Ataque Aéreo
+Aerial Energy Ball|Bola de Energia Aérea
+Aerial Laser|Laser Aéreo
+Aerial Missile Launcher|Lança-Mísseis Aéreo
+Aerial Missile Pod|Mísseis Aéreos
+Aerial Vertical Slash|Corte Vertical Aéreo
+Air Boost|Impulso Aéreo
+Alarm|Alarme
+All-out Bombing|Bombardeio Total
+Ancient Ray|Raio Antigo
+Area Cannon|Canhão de Área
+Arena Entrance Form|Pose de Entrada
+Arm Thrust|Estocada de Braço
+Assault|Investida
+Aura|Aura
+Back Fist|Soco de Costas
+Back Kick|Coice
+Back Toss|Arremesso p/ Trás
+Back Whip|Chicote p/ Trás
+Battle Cry|Grito de Guerra
+Beam|Raio
+Bear Claw|Garra de Urso
+Bear Slash|Corte de Urso
+Bear Special|Especial do Urso
+Beast Bite|Mordida da Fera
+Beast Saber|Sabre da Fera
+Binary Fission|Fissão Binária
+Binding Throw|Arremesso Preso
+Bite|Mordida
+Bite Body|Mordida no Corpo
+Bite Right Hand |Morde Mão Direita
+Black Box|Caixa Preta
+Blast Caliber|Blast Caliber
+Blast Strike|Golpe Blast
+Blaze|Labareda
+Body Blow|Golpe no Corpo
+Body Press|Prensa Corporal
+Boisterous Ring|Anel Barulhento
+Bolt Thrust|Estocada Raio
+Bomb Barrage|Chuva de Bombas
+Bombardment|Bombardeio
+Boost One|Impulso
+Bounce|Quique
+Bring it on!|Pode vir!
+Burst Dash|Arrancada
+Burst Sword|Espada Explosiva
+Byuriho Jump|Pulo Byuriho
+Celebrate|Comemorar
+Center Bite|Mordida Central
+Central Head Maul|Cabeçada Central
+Chain Knuckle|Soco em Cadeia
+Chaos Flare|Chama do Caos
+Charge|Carga
+Charge Power|Carregar Força
+Cheap Eliminate|Eliminação Barata
+Circling Assault|Investida Circular
+Clamp-on|Agarrão
+Clenched Fist|Punho Cerrado
+Cloud Voice|Voz da Nuvem
+Collision|Colisão
+Com Eins|Com Eins
+Com Feiern|Com Feiern
+Com Leben|Com Leben
+Com Zwei|Com Zwei
+Combination|Combinação
+Combo|Combo
+Combo 1|Combo 1
+Combo 2|Combo 2
+Combo 3|Combo 3
+Combo Tail Sweep|Combo de Cauda
+Concentrated Strike|Golpe Concentrado
+Concentration|Concentração
+Continual Thrust|Estocadas Seguidas
+Counter|Contra
+Counter Feather|Pena de Contra
+Counter Roll|Rolada de Contra
+Counter Tackle|Encontrão de Contra
+Counter Wing|Asa de Contra
+Counter-Air Turn|Giro Antiaéreo
+Counterattack|Contra-Ataque
+Counterspin|Contragiro
+Crazy Claw|Garra Louca
+Cross Slash|Corte em Cruz
+Cutting Wave|Onda Cortante
+Dark Point|Ponto Sombrio
+Dark Slaughter|Massacre Sombrio
+Dark Thrust|Estocada Sombria
+Dash Fang|Presa em Corrida
+Dash Scratch|Arranhão em Corrida
+Dash Upper Thrust|Estocada Alta Corrida
+Dashing Claw|Garra em Corrida
+Dashing Snap|Bote em Corrida
+Dashing Two-handed Blow|Golpe Duplo Corrido
+Death Abyss|Abismo da Morte
+Death Line|Linha da Morte
+Deca-Thrust|Deca-Estocada
+Decapitate Boulder|Rocha Decapitadora
+Deep Grudge|Rancor Profundo
+Delirium|Delírio
+Demonic Blaze|Chama Demoníaca
+Destruction Ray|Raio Destruidor
+Determined Walk|Passo Decidido
+Dispersion|Dispersão
+Disserver|Disserver
+Divine Pressure|Pressão Divina
+Dominate Flame|Domínio da Chama
+Double Bite|Mordida Dupla
+Double Blow|Golpe Duplo
+Double Pound|Pancada Dupla
+Double Side|Lado Duplo
+Double Slash|Corte Duplo
+Double Thrust|Estocada Dupla
+Dragonfang Cleave|Corte Presa Dragão
+Draw-in|Puxão
+Drill Attack|Ataque Broca
+Drop Kick|Voadora
+Earth Artes Slash|Corte de Terra
+Earth Slash|Corte de Terra
+Echoing Wall|Muro do Eco
+Edge|Gume
+Elbow Cutter|Cotovelada Cortante
+Elimination Ball|Bola Eliminadora
+Energy Bullet|Bala de Energia
+Engulf|Engolir
+Entangle|Enredar
+Eternal Darkness|Trevas Eternas
+Evil Charge|Carga Maligna
+Evil Grave|Túmulo Maligno
+Fall Combo|Combo de Queda
+Fang|Presa
+Fang (Dash)|Presa (Corrida)
+Fierce Tackle|Encontrão Feroz
+Finality|Fim
+Fire Artes Slash|Corte de Fogo
+Fire Breath|Sopro de Fogo
+Fire Slash|Corte de Fogo
+Fire Water Attack|Ataque Fogo e Água
+Fire Water Mix|Mistura Fogo e Água
+Fireball|Bola de Fogo
+Five-Fold Attack|Ataque Quíntuplo
+Flame Breath|Sopro de Chamas
+Flamethrower|Lança-Chamas
+Flash Seal|Selo Relâmpago
+Fly Swatter|Mata-Moscas
+Foot Stomp|Pisão
+Force Blade|Lâmina de Força
+Four Element Mix|Mistura de 4 Elementos
+Front Fist|Soco Frontal
+Frontal Attack|Ataque Frontal
+Frontal Fire Ball|Bola de Fogo Frontal
+Frontal Fire Breath|Sopro de Fogo Frontal
+Frontal Firing|Disparo Frontal
+Frontal Thrust|Estocada Frontal
+Furious Roar|Rugido Furioso
+Gale Cutter|Corte Vendaval
+Gas|Gás
+Genocide Edict|Decreto Genocida
+Glide|Planar
+Glimmer Dragon Combo|Combo Dragão Cintilante
+Grand Break|Grande Quebra
+Grinding Maw|Mandíbula Trituradora
+Guided Laser|Laser Guiado
+Gust|Rajada
+Gust Slash|Corte de Rajada
+HAX Buster|HAX Buster
+Harvest Strike|Golpe da Colheita
+Head Butt|Cabeçada
+Head Cutter|Corta-Cabeça
+Heavenly Toss|Arremesso Celeste
+Heel Drop|Calcanhar
+Height Thief|Ladrão de Altura
+Hell Slicer|Fatiador Infernal
+Hellfire|Fogo Infernal
+Hello|Olá
+Helm Split|Racha-Elmo
+High Boost|Super Impulso
+High Jump|Pulo Alto
+Hook|Gancho
+Horizontal Dive|Mergulho Horizontal
+Hypno Wave|Onda Hipnótica
+I'm Tired|Tô Cansado
+I'm Tired!|Tô Cansado!
+I've Fallen|Caí
+Ice Artes Slash|Corte de Gelo
+Ice Slash|Corte de Gelo
+Impact Wave|Onda de Impacto
+Impale|Empalar
+Incineration Wave|Onda Incineradora
+Incubation|Incubação
+Ink Spit|Jato de Tinta
+Invoke Power|Invocar Poder
+Iron Stance|Firmeza
+Jump Attack|Ataque Saltando
+Jumping Slash|Corte Saltando
+Kesagiri|Kesagiri
+Knife Throw|Lançar Faca
+Landing|Pouso
+Laser|Laser
+Lazer Eye|Olho Laser
+Leech|Sugar
+Left Bite|Mordida Esquerda
+Left Claw|Garra Esquerda
+Left Head Maul|Cabeçada Esquerda
+Left Scratch|Arranhão Esquerdo
+Lens Beam|Raio de Lens
+Let's Throw Mud|Vamos Jogar Lama
+Light Bite|Mordida Leve
+Light Ray|Raio de Luz
+Lotus Vulcan|Lótus Vulcan
+Low Attack|Ataque Baixo
+Low Cross Raid|Ataque Cruzado Baixo
+Low Swing|Golpe Baixo
+Low Swing (Dash)|Golpe Baixo (Corrida)
+Low Tsuki|Tsuki Baixo
+Lower Thrust|Estocada Baixa
+Lunging Thrust|Estocada Avançada
+Machine Gun|Metralhadora
+Machine Gun Firing|Rajada de Metralhadora
+Magic Counter|Contra Mágico
+Meteor Swarm|Enxame de Meteoros
+Missile|Míssil
+Missile Launcher|Lança-Mísseis
+Missile Pod|Mísseis
+Moon Glare Combo|Combo Brilho Lunar
+Mow Down|Ceifar
+Multi-pronged Assault|Investida Múltipla
+Mystic Dragon|Dragão Místico
+Napalm Bullet|Bala de Napalm
+Napalm Fire|Fogo de Napalm
+Needle|Agulha
+Needle Machine Gun|Metralhadora Agulha
+Needle Spray|Chuva de Agulhas
+Nice Hook|Belo Gancho
+Nice Uppercut|Belo Uppercut
+Oblique Body Slam|Pancada Oblíqua
+Oblique Fire Ball|Bola de Fogo Oblíqua
+Oblique Fire Breath|Sopro de Fogo Oblíquo
+One-two Punch|Um-Dois
+Onyx Flare|Chama Ônix
+Palm Strike|Golpe de Palma
+Paralyze Powder|Pó Paralisante
+Part Attack|Ataque Parcial
+Peck|Bicada
+Personify|Personificar
+Petrifying  Shell|Casca Petrificante
+Phantom Edge Combo|Combo Lâmina Fantasma
+Phosphorous Dust|Pó de Fósforo
+Phosphorous Spit|Cuspe de Fósforo
+Pick Step|Passo Bicado
+Pile Bunker|Bate-Estaca
+Poison Blaster|Canhão Venenoso
+Poison Canister|Lata de Veneno
+Poison Gas|Gás Venenoso
+Poison Wave|Onda Venenosa
+Poisonic|Venenoso
+Press|Prensa
+Prismatic Attack|Ataque Prismático
+Prismatic Strike|Golpe Prismático
+Punch|Soco
+Pushout|Empurrão
+Qigong Blast|Rajada Qigong
+Radiation Cannon|Canhão de Radiação
+Rampage|Fúria
+Rapid Counter-Air|Antiaéreo Rápido
+Rapid Punch|Soco Rápido
+Rapid Seed Skipping|Sementes Rápidas
+Refine|Refinar
+Regret Rose|Rosa do Remorso
+Relentless Whip|Chicote Implacável
+Repetitive Scratch|Arranhões Seguidos
+Requesting Backup|Pedindo Reforços
+Reverse Back Fist|Soco Reverso
+Revitalizing Wind|Vento Revigorante
+Right Claw|Garra Direita
+Right Head Maul|Cabeçada Direita
+Right Scratch|Arranhão Direito
+Rise Up|Levantar
+Rise Up (Dash)|Levantar (Corrida)
+Rising Dragon|Dragão Ascendente
+Rising Slash|Corte Ascendente
+Rock Toss|Pedrada
+Roll Attack|Ataque Rolando
+Roll Fist|Soco Rolando
+Rolling Pain|Dor Rolante
+Rolling Slash|Corte Rolando
+Rupturing Thrust|Estocada Rompedora
+Rush|Investida
+Sand Dash|Corrida na Areia
+Scary When Angered|Bravo dá Medo
+Scratch|Arranhão
+Scratch Combo|Combo de Arranhões
+Scythe|Foice
+Seal Poison|Veneno Selador
+Seed Skipping|Sementes
+Seizured|Convulsão
+Self-Confident NEET|NEET Confiante
+Self-Destruct|Autodestruição
+Seraphic Feather|Pena Seráfica
+Serpent Combo|Combo Lâmina Serpente
+Severing Wing Combo|Combo Vento Cortante
+Shadow Stock|Estoque Sombrio
+Shelling|Bombardeio
+Shockwave|Onda de Choque
+Shouting|Gritando
+Shroud|Mortalha
+Sickle Boomerang|Foice Bumerangue
+Side-strike|Golpe Lateral
+Simultaneous Maul|Ataque Simultâneo
+Skip Run Run|Corre Corre Pula
+Slanting Dive|Mergulho Inclinado
+Slash (Dash)|Corte (Corrida)
+Sleepy Fruit|Fruta do Sono
+Sleepy Fruit Dance|Dança da Fruta do Sono
+Smash|Esmagar
+Snap|Bote
+Snapping Maw|Bocada
+Snarling Gnash|Rosnado Feroz
+Soaring Bone-Chill Blade|Lâmina Gélida Alada
+Soaring Slash|Corte Alado
+Sorry|Desculpa
+Spark Cutter|Corte Faísca
+Spark Web|Teia de Faíscas
+Spell Break|Quebra-Magia
+Spike|Espinho
+Spike Needle|Agulha Espinho
+Spin|Giro
+Spin Cutter|Corte Giratório
+Spinning Kick|Chute Giratório
+Spinning Movement|Movimento Giratório
+Spiraling|Espiral
+Splash Stream|Jato d'Água
+Splasher|Espirro
+Spore Attack|Ataque de Esporos
+Stake Flare Combo|Combo Bife Flamejante
+Standing Blaze|Chama de Pé
+Standing Thrust|Estocada de Pé
+Star Kick|Chute Estrela
+Step-through|Passo Atravessado
+Stomp|Pisotear
+Strafing|Metralhar
+Straight|Direto
+Straight Shot|Tiro Reto
+Straight Thrust|Estocada Reta
+Strain Needle|Agulha Forçada
+Strange Ray|Raio Estranho
+Suicide Thrust|Estocada Suicida
+Summon|Invocar
+Summon High Bishop|Invocar Sumo Bispo
+Super Straight|Superdireto
+Suppress Armor|Suprimir Armadura
+Suppress Aura|Suprimir Aura
+Suppress Mind|Suprimir Mente
+Suppress Weapon|Suprimir Arma
+Sweep|Varredura
+Sweeping Slash|Corte Varredor
+Swell|Inchar
+Swipe|Patada
+Swoop|Rasante
+Swoop Slash|Corte Rasante
+Tackle|Encontrão
+Tackle (Dash)|Encontrão (Corrida)
+Tail Slam|Pancada de Cauda
+Tail Slap|Tapa de Cauda
+Tail Smash|Esmagada de Cauda
+Tail Spike|Espinho de Cauda
+Tail Sweep|Varrida de Cauda
+Talon|Garra
+Talon Scratch|Arranhão de Garra
+Ten-fold Aerial Combo|Combo Aéreo Décuplo
+Tentacular|Tentacular
+Tera Burst|Tera Explosão
+Three-Fold Attack|Ataque Triplo
+Three-fold Aerial Combo|Combo Aéreo Triplo
+Three-step Murder|Morte em 3 Passos
+Throw Over|Arremessar
+Thrust|Estocada
+Thrust Rain|Chuva de Estocadas
+Tiger Blade Combo|Combo Lâmina do Tigre
+Tiger's Sweet Tooth|Dente Doce do Tigre
+Top Attack|Ataque do Alto
+Top Slice|Corte do Alto
+Toxic Mist|Névoa Tóxica
+Trample|Atropelar
+Trample Through|Atropelamento
+Transience Combo|Combo Efemeridade
+Triple Bite|Mordida Tripla
+Triple Peck|Bicada Tripla
+Triple Slash|Corte Triplo
+Triple Thrust|Estocada Tripla
+Try To Listen|Tente Ouvir
+Turbulence|Turbulência
+Twin Slasher|Corte Gêmeo
+Twin Smite|Golpe Gêmeo
+Two-Fold Attack|Ataque Duplo
+Two-fold Attack|Ataque Duplo
+Two-handed Blow|Golpe com 2 Mãos
+Ultrasonic|Ultrassom
+Up Down Combo|Combo Sobe e Desce
+Upper Knife|Faca Ascendente
+Upper Slash|Corte Ascendente
+Upper Thrust|Estocada Ascendente
+Upper Wing|Asa Ascendente
+Uppercut|Uppercut
+Valiant|Valente
+Vanisher|Sumidor
+Vertical Slash|Corte Vertical
+Violent|Violento
+Violent Pain|Dor Violenta
+Void Sword Combo|Combo Espada do Vácuo
+Vomit Spew|Vômito
+Vulcanize|Vulcanizar
+Wail|Lamento
+Wailing Combo|Combo Lamento
+Wall Jump|Pulo na Parede
+Water Artes Slash|Corte de Água
+Water Gun|Jato d'Água
+Water Gun (immobile)|Jato d'Água (parado)
+Water Slash|Corte de Água
+Wave Bomb|Bomba de Onda
+Wave Cannon|Canhão de Onda
+Weak Gas|Gás Fraco
+Whip|Chicote
+Whip Barrage|Chuva de Chicotadas
+Whip Needle|Agulha Chicote
+Whipping|Chicotada
+Wild Tackle|Encontrão Selvagem
+Wind Slash|Corte de Vento
+Wing Combo|Combo de Asa
+Wing Crush|Esmagada de Asa
+Wing Cutter|Asa Cortante
+Wing Flap|Bater de Asas
+Wing Thrust|Estocada de Asa
+World Destroyer|Destruidor de Mundos
+Zero Gravity|Gravidade Zero

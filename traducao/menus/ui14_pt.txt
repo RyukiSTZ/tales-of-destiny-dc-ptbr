@@ -1,0 +1,23 @@
+7c|Ache o Orfanato
+95|Praia ao Norte de Cresta
+b4|Relatar a Missão
+ce|Nada a Fazer Fora
+e2|Volte Logo para a Mansão
+100|Ache a [Marian]
+116|O Draconis Está no Castelo
+134|Ouvir as Ordens de Hugo
+14d|Entrar na Instalação Selada por Trás
+17a|Vá à Instalação Selada
+192|Profundezas
+1a0|Onde Estão Hugo e os Outros?
+1bd|Anel do Bruxo Explode
+1d7|Ainda Há Lugares para Destruir
+1fb|Não por Aqui
+208|Não Dá para Perder Tempo!
+223|Agora Não, Melhor Não..
+23b|Vamos
+244|Tenho Outro Lugar para Ir
+261|Tenho Outro Lugar para Ir
+284|Agora Não, Melhor Não..
+29c|Vamos
+2a5|Tenho Outro Lugar para Ir

@@ -1,0 +1,766 @@
+<x9A>
+[ENDBLOCK]
+<xD4>×××××空開始××××××
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Se ao menos eu achasse um
+homem com um f\sico perfeito
+e sem camisa!
+[ENDBLOCK]
+Ah! Voc@! Ningu=m
+al=m de voc@ serve!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+H;? T# falando comigo?
+[ENDBLOCK]
+Sei que = de repente, mas eu
+me apaixonei pelos seus m{sculos!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ha, ha, ha...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Cada um com seu gosto. Fico feliz
+por voc@, <Kongman>.
+[ENDBLOCK]
+Voc@ tamb=m n;o, <Philia>!
+[ENDBLOCK]
+Droga, eu n;o sou assim!
+[ENDBLOCK]
+Ah, n;o, senhor. Por favor, n;o
+me entenda mal.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Diretor Novato
+[ENDBLOCK]
+Sou diretor de teatro.
+[ENDBLOCK]
+Nosso ator principal est# doente,
+ent;o precisamos de um substituto!
+[ENDBLOCK]
+Ent;o voc@ quer o <Kongman>
+como substituto?
+[ENDBLOCK]
+Sim, isso mesmo.
+[ENDBLOCK]
+Que demais,
+<Kongman>!
+[ENDBLOCK]
+T# de brincadeira! Eu sou o
+Campe;o, n;o o substituto de
+nenhum astro mimado!
+[ENDBLOCK]
+Por favor! Meu futuro
+como diretor de teatro
+est# em jogo.
+[ENDBLOCK]
+<Kongman>, n;o = ^timo? Eu adoro
+apresenta|`es de teatro.
+[ENDBLOCK]
+B-Bom, se a <Philia> quer tanto
+me ver atuar, ent;o
+que seja!
+[ENDBLOCK]
+Eu... n;o iria t;o longe...
+[ENDBLOCK]
+S=rio!? Muito
+obrigado!
+[ENDBLOCK]
+Bom, vamos l#!
+[ENDBLOCK]
+O qu@, vai ser agora?
+[ENDBLOCK]
+Sim! O p{blico j#
+est# esperando!
+[ENDBLOCK]
+T# de brincadeira...
+[ENDBLOCK]
+N;o se preocupe, n;o tem
+falas. } s^ atuar como eu mandar.
+[ENDBLOCK]
+Certo, depressa! A pe|a
+vai come|ar!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+Atue conforme as instru|`es
+do diretor.
+[ENDBLOCK]
+Depois que o Diretor der as instru|`es,
+aperte o bot;o de atua|;o certo enquanto
+o rel^gio corre, e voc@ vai conseguir.
+[ENDBLOCK]
+A atua|;o funciona assim.
+[ENDBLOCK]
+<Triangle_ani> Pedido de casamento
+<Circle_ani> Pose triunfante
+<Cross_ani> Rir
+<Square_ani> Chorar
+[ENDBLOCK]
+} s^ isso. Quer ver a
+explica|;o de novo?
+[ENDBLOCK]
+Escolher
+[ENDBLOCK]
+Sim
+N;o
+[ENDBLOCK]
+Assim que voc@ entrar l#,
+a pe|a vai come|ar.
+[ENDBLOCK]
+Vou te dirigir daqui.
+[ENDBLOCK]
+} s^ seguir minhas
+instru|`es. Entendeu?
+[ENDBLOCK]
+O qu@? Tudo bem. Sei
+que voc@ consegue.
+[ENDBLOCK]
+Certo, = a sua vez!
+[ENDBLOCK]
+Arrasa!
+[ENDBLOCK]
+Boa sorte!
+[ENDBLOCK]
+ret <x17><x66><x14><x03><xE8><x80><x80>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Atriz
+[ENDBLOCK]
+Oh, pobre de mim, aprisionada
+nesta torre medonha!
+[ENDBLOCK]
+Quando, oh, quando meu Pr\ncipe
+Encantado vir# me levar
+para uma vida melhor?
+[ENDBLOCK]
+Oh! Quem seria voc@?
+[ENDBLOCK]
+Certo, de joelhos!
+Fa|a ela se apaixonar por voc@!
+[ENDBLOCK]
+Ser#? }s tu o meu pr\ncipe, que
+vieste me salvar do cativeiro?
+[ENDBLOCK]
+Agora! Mostre a ela como
+voc@ = forte!
+[ENDBLOCK]
+Aah! Que maravilha!
+[ENDBLOCK]
+Depressa, leva-me
+para longe daqui!
+[ENDBLOCK]
+Certo, de novo! Pose de gal;!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Ator
+[ENDBLOCK]
+Tu a\! N;o ouses tocar
+nela nem com um dedo!
+[ENDBLOCK]
+Q-Quem =s tu...?
+[ENDBLOCK]
+Sou apenas um homem perdidamente
+apaixonado por ti, embora seja
+um mero filho de lavrador.
+[ENDBLOCK]
+Minha raz;o sabe que jamais
+poder\amos ficar juntos, mas meu
+cora|;o n;o te deixa partir!
+[ENDBLOCK]
+Tens mesmo tanto amor
+no cora|;o por mim?
+[ENDBLOCK]
+Ent;o deixemos de lado o que a
+sociedade pensa! O que temos
+juntos = amor verdadeiro!
+[ENDBLOCK]
+Por favor, salva-me,
+de corpo e alma!
+[ENDBLOCK]
+Hei de proteger-te
+com minha vida, senhora!
+[ENDBLOCK]
+...Sim!
+[ENDBLOCK]
+Numa hora dessas, s^
+resta dar risada!
+[ENDBLOCK]
+Mas a\ a realidade bate, e
+voc@ n;o aguenta!
+[ENDBLOCK]
+Uau! Foi espl@ndido!
+[ENDBLOCK]
+Aposto que voc@ pode ser ator
+principal um dia! Uma estrela!
+[ENDBLOCK]
+Bom, para uma primeira
+apresenta|;o, at=
+que foi bom.
+[ENDBLOCK]
+Por favor, volte a se juntar a n^s.
+[ENDBLOCK]
+Gostaria de subir ao
+palco de novo?
+Sim
+N;o
+[ENDBLOCK]
+Ent;o vou explicar
+de novo.
+[ENDBLOCK]
+Vou ficar esperando.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Viajante
+[ENDBLOCK]
+Opa, quanto tempo!
+Como foi em Seinegald?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Acho que voc@ me confundiu
+com outra pessoa.
+[ENDBLOCK]
+Qual =, para de brincadeira. Quero
+saber das suas viagens.
+[ENDBLOCK]
+Voc@ n;o = ele
+mesmo, n=?
+[ENDBLOCK]
+Desculpa...
+[ENDBLOCK]
+Tudo bem. N;o foi nada.
+[ENDBLOCK]
+Eu sou mesmo t;o parecida
+com esse cavalheiro que voc@ conhece?
+[ENDBLOCK]
+}, parecem g@meos.
+[ENDBLOCK]
+Se algu=m que conhecia ele te
+visse, ia levar um baita
+susto.
+[ENDBLOCK]
+Mas da {ltima vez que o vi, ele
+saiu da cidade com muita pressa...
+[ENDBLOCK]
+Se quiser saber mais sobre
+ele, procure os amigos dele.
+[ENDBLOCK]
+Aposto que eles iam te confundir
+com ele, que nem eu.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Guarda
+[ENDBLOCK]
+Aquela jovem doutora n;o est# com
+voc@s? Droga, sou f; daquela mo|a.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Ei, acharam a irm; daquele
+cara cheio de energia?
+[ENDBLOCK]
+Adoro caras apaixonados
+assim, sabia!
+[ENDBLOCK]
+Entreguem este presente a ele, t#~
+[ENDBLOCK]
+Bem-vindos $ arena, o templo
+do entretenimento. Aqui, voc@s v;o
+curtir batalhas de ferver o sangue!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Vi fuma|a saindo do parque
+da cidade. O que est#
+acontecendo?
+[ENDBLOCK]
+O que eram aqueles
+monstros?
+[ENDBLOCK]
+O-O que est#
+acontecendo?
+[ENDBLOCK]
+Nosso campe;o! Vamos manter a
+arena funcionando, custe o que custar!
+[ENDBLOCK]
+At= o campe;o voltar, a arena
+vai continuar sendo um farol de luz!
+[ENDBLOCK]
+Se quer assistir ou
+participar, voc@ decide.
+[ENDBLOCK]
+O que est# acontecendo...?
+[ENDBLOCK]
+N;o = comum monstros
+atacarem uma
+cidade.
+[ENDBLOCK]
+Est;o atacando
+pelo c=u!
+Isso = trapa|a!
+[ENDBLOCK]
+Ainda estamos abertos, mas
+n;o sei quanto tempo vamos aguentar...
+[ENDBLOCK]
+Mal posso esperar pelo dia
+em que o campe;o far#
+seu retorno triunfal!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem de Armadura
+[ENDBLOCK]
+E-Eu vim do interior pra
+fazer meu nome.
+[ENDBLOCK]
+Mas, n-na hora H, fico
+a-apavorado demais pra entrar.
+[ENDBLOCK]
+A-Achei que ouvi algu=m gritar...
+Espero que tenha sido s-s^ impress;o!
+[ENDBLOCK]
+E-Eu tamb=m ajudei na
+retirada do povo!
+[ENDBLOCK]
+O-O campe;o! Posso
+pegar um aut^grafo?
+[ENDBLOCK]
+}-}! D-Desta vez eu
+entro, c-com certeza!
+[ENDBLOCK]
+Ser# que o c=u est# assim
+em todo lugar agora...
+[ENDBLOCK]
+Que tipo de pessoa vai $
+arena numa hora dessas?
+[ENDBLOCK]
+Como sempre, estou s^ vadiando
+aqui, sem fazer nada.
+[ENDBLOCK]
+Estou come|ando a achar que nunca mais
+vou poder competir na arena.
+[ENDBLOCK]
+N;o ligo se for s^
+torcedor! Mighty,
+Mighty, Mighty!
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x47><xD8><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x57><xDC><x00><x80>
+<x18><x65><x57><xE0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x47><xC4><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

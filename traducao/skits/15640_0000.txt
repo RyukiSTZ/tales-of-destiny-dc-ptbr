@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Mary>, voc@ tem passaporte?
+[ENDBLOCK]
+N;o tenho. Por que pergunta?
+[ENDBLOCK]
+Ah, que pena. Se tivesse, eu queria
+perguntar como conseguiu.
+[ENDBLOCK]
+N;o entendi bem, mas
+desculpe n;o poder ajudar.
+[ENDBLOCK]
+Ah, n;o se preocupe!
+N;o = culpa sua.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

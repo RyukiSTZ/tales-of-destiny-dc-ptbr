@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+T#, voc@ me chama de crian|a, mas
+quantos anos voc@ tem, <Lion>?
+[ENDBLOCK]
+I'm 16.
+[ENDBLOCK]
+Bom, eu tenho 14. N;o = muita
+diferen|a, =?
+[ENDBLOCK]
+Al=m disso, a gente tem quase a mesma altura!
+[ENDBLOCK]
+Somos completamente diferentes!
+N;o me coloque junto com voc@!
+[ENDBLOCK]
+A <Chelsea> mal disse algo a ele e j#
+atraiu toda a f{ria do <Lion>...
+[ENDBLOCK]
+<Chelsea>, voc@ n;o tem medo de nada...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Precisamos ir a Mikheil e
+pegar o Cruzador Aeth'er.
+[ENDBLOCK]
+Primeiro vamos a Ignasea e
+depois a Josaia, n=?
+[ENDBLOCK]
+Temos que garantir que configuramos
+o transportador direito.
+[ENDBLOCK]
+Isso mesmo. Se errar, vamos
+parar num lugar qualquer.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

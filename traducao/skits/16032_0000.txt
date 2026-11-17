@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+S=rio, qual = o seu problema?
+[ENDBLOCK]
+L# vamos n^s de novo...
+[ENDBLOCK]
+Sempre temos que te acordar! Pense
+em como isso nos faz sentir.
+[ENDBLOCK]
+D-Desculpe...
+[ENDBLOCK]
+Esses dois s;o bem pr^ximos, n=?
+[ENDBLOCK]
+Voc@ = bem madura, <Chelsea>. Entende
+as sutilezas das emo|`es humanas.
+[ENDBLOCK]
+Mal posso esperar pra declarar meus
+verdadeiros sentimentos ao Lorde <Woodrow>.
+[ENDBLOCK]
+Que objetivo admir#vel! Estou torcendo por voc@.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

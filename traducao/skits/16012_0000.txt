@@ -1,0 +1,16 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+} reconfortante saber que voc@ vai
+lutar com a gente, <Johnny>.
+[ENDBLOCK]
+Eu devia ter me juntado antes.
+[ENDBLOCK]
+Bem, conto com voc@.
+[ENDBLOCK]
+Igualmente.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

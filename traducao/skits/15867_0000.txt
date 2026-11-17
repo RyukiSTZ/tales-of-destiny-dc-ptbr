@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Vamos a Heidelberg.
+[ENDBLOCK]
+} o {nico jeito de acabar com isso,
+de p_r fim a esse sofrimento!
+[ENDBLOCK]
+Tem raz;o.
+[ENDBLOCK]
+Heidelberg fica ao norte de Cyril.
+[ENDBLOCK]
+Ah, que bom. Ent;o n;o vamos nos perder!
+[ENDBLOCK]
+Mesmo assim, todo cuidado = pouco. Nunca
+se sabe o que pode acontecer no caminho.
+[ENDBLOCK]
+Eu sei, eu sei!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

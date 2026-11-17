@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Parece que o <Greybum> est#
+num lugar chamado Moreau.
+[ENDBLOCK]
+Que bom que achamos um jeito de chegar l#.
+[ENDBLOCK]
+Certo, rumo a Moreau!
+[ENDBLOCK]
+A entrada da caverna fica logo
+ao sul da cidade, n=?<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

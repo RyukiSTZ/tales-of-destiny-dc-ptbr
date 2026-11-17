@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O Templo tem um monte de cargos,
+n=? "Sumo Sacerdote", "Bispo"...
+[ENDBLOCK]
+O topo da hierarquia = o Arcebispo,
+abaixo vem o Bispo, depois o Sumo Sacerdote.
+[ENDBLOCK]
+E voc@, <Philia>?
+[ENDBLOCK]
+Ainda sou Sacerdotisa.
+[ENDBLOCK]
+Entendi, ent;o voc@ vai de Sacerdotisa a Suma
+Sacerdotisa, e depois vai ser Bispa!
+[ENDBLOCK]
+De jeito nenhum! Ainda falta muito pra eu sequer
+pensar em pregar para as pessoas!<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

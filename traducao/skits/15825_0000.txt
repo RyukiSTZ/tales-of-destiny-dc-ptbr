@@ -1,0 +1,16 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+De agora em diante, procuramos a <Batista>.
+[ENDBLOCK]
+O <Fayte> vai ficar bem?
+[ENDBLOCK]
+Vai ser bem mais r#pido conseguir a informa|;o
+que precisamos daquela desgra|ada.
+[ENDBLOCK]
+Certo, vamos achar a <Batista>.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

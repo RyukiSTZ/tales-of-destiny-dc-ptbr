@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+    Deixei meu lar pra tr#s, rumo ao c=u~ ♪
+O vento me guia, no alto e no breu~ ♪
+[ENDBLOCK]
+Ooh, m{sica nova do <Johnny>!
+[ENDBLOCK]
+L# no alto, apontando pro c=u!
+De p=, forte e afiado!♪
+[ENDBLOCK]
+Sobre quem ser# a m{sica desta vez?
+[ENDBLOCK]
+Sou espetado, yeah~!♪ Mais afiado
+que um prego, oh yeaaaah~♪
+[ENDBLOCK]
+Acho que j# sei sobre quem
+= a m{sica.
+[ENDBLOCK]
+<Johnny>, N{mero 30:
+"Uma Cabe|a Afiada."
+[ENDBLOCK]
+...H;?<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

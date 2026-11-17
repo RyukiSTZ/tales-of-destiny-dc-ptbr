@@ -1,0 +1,24 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Preciso de uma musa se vou escrever
+minha pr^xima grande can|;o de amor...
+[ENDBLOCK]
+Por favor, cante pelo mundo sobre
+o amor entre mim e a <Philia>!
+[ENDBLOCK]
+Essa = boa, <Kongman>. Voc@s dois
+t@m algu=m de quem gostam?
+[ENDBLOCK]
+Meus deveres como rei s;o minha prioridade.
+Tenho pouco tempo pra pensar em amor.
+[ENDBLOCK]
+Eu gosto de todo mundo aqui, acho?
+[ENDBLOCK]
+Boa, <Stahn>. Fico radiante em
+fazer parte do seu amor eterno.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,29 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Como esperado, jovem mestre, voc@
+n;o = p#reo para a <Marian>.
+[ENDBLOCK]
+Mesmo assim... N;o sou mais crian|a...
+[ENDBLOCK]
+Isso mesmo! Acho que ela anda
+se empolgando demais!
+[ENDBLOCK]
+Quando acabarmos esta miss;o,
+acho que dev\amos dar uma bronca nela!
+[ENDBLOCK]
+Isso vai mostrar a ela!
+[ENDBLOCK]
+Chal...
+[ENDBLOCK]
+Se chegasse a esse ponto, de que lado acha
+que eu ficaria? Do seu? Ou da <Marian>?
+[ENDBLOCK]
+...Iih!
+[ENDBLOCK]
+Brincadeira. N;o leve a s=rio.<x00><x00><x00>
+[ENDBLOCK]

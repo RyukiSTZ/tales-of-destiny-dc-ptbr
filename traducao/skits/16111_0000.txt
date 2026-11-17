@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Lorde <Woodrow>! Lorde <Woodrow>!
+Por favor, diga alguma coisa!
+[ENDBLOCK]
+Por favor, acalme-se, <Chelsea>.
+Vamos usar uma Garrafa da Vida.
+[ENDBLOCK]
+Ah... Lorde <Woodrow>. Me perdoe.
+Voc@ sofre assim por minha causa.
+[ENDBLOCK]
+} justo que eu tenha o mesmo destino...
+[ENDBLOCK]
+Espera, n;o fa|a isso! Assim vamos gastar
+uma Garrafa da Vida a mais.<x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,1525 @@
+
+[ENDBLOCK]
+<x00>
+[ENDBLOCK]
+
+[ENDBLOCK]
+U
+[ENDBLOCK]
+se s
+[ENDBLOCK]
+
+[ENDBLOCK]
+eus poderes de idiota
+pra dar um jeito nisso.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Certo, deixa comigo.
+[ENDBLOCK]
+<ITEM_149> deve abrir, n=?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+Voc@ for|ou a porta com a picareta.
+[ENDBLOCK]
+N;o abre. Parece que vai
+precisar de uma ferramenta pra for|ar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Ent;o o <Hugo> =, na verdade,
+o pai da <Rutee>...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+A <Rutee> est# sozinha
+h# um bom tempo...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+<Stahn>... por favor, ajude a <Rutee>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+F-Foi alguma coisa
+que eu disse...?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+*Funga*
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Ritora>
+[ENDBLOCK]
+A Chave R que precisamos para melhorar
+Radisrol deve estar no templo
+a sudoeste daqui.
+[ENDBLOCK]
+Conto com todos voc@s.
+[ENDBLOCK]
+Precisamos impedir que a Aetherosfera
+seja conclu\da. Conto com
+voc@s.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Reynolds>
+[ENDBLOCK]
+A tecnologia daqui =
+simplesmente incr\vel!
+[ENDBLOCK]
+Com certeza fiz a escolha certa
+seguindo voc@s at= aqui!
+[ENDBLOCK]
+Minha pesquisa indica que os
+Er'thers eram bombardeados
+com frequ@ncia por armas
+muito poderosas.
+[ENDBLOCK]
+Por=m, parece haver algo aqui
+que permitiu que eles
+resistissem a esses ataques.
+[ENDBLOCK]
+Mantenham o foco, pessoal!
+[ENDBLOCK]
+Tenho muito orgulho de poder
+ajudar voc@s assim!
+[ENDBLOCK]
+Ah, = mesmo. Esqueci
+de contar.
+[ENDBLOCK]
+Parece que agora h# mais
+lojas aqui.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Para encontr#-las, saiam desta sala
+e entrem na porta mais $ direita
+das tr@s.
+[ENDBLOCK]
+N;o v;o esquecer, n=?
+[ENDBLOCK]
+Sugiro que voc@s
+deem uma olhada!
+[ENDBLOCK]
+H;? Tem uma espada!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+Aquele = o <Clemente>.
+[ENDBLOCK]
+???
+[ENDBLOCK]
+Her^is escolhidos, voc@s foram
+bem em chegar at= aqui.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+O qu@? Quem voc@ est#
+chamando de her^i?
+[ENDBLOCK]
+H;? Est# mesmo falando
+de mim?
+[ENDBLOCK]
+O velho <Clemente> aqui gosta
+de pregar pe|as nos outros.
+[ENDBLOCK]
+Pe|as...?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Clemente>
+[ENDBLOCK]
+Ora, ora... Quanto tempo, <Dymlos>.
+Teimoso como sempre.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Atwight>
+[ENDBLOCK]
+Voc@ nunca escreveu, <Clemente>.
+Mas parece estar bem.
+[ENDBLOCK]
+Ah, <Atwight>. Doce como sempre.
+Ent;o voc@ tamb=m virou espada.
+[ENDBLOCK]
+Se tiveram todo esse trabalho para
+vir me encontrar aqui, ent;o
+algo deve estar acontecendo.
+[ENDBLOCK]
+A verdade = que... o Olho
+de Atamoni foi roubado.
+[ENDBLOCK]
+Ent;o era verdade...
+Eu tive um mau pressentimento...
+[ENDBLOCK]
+N;o = hora de eu ficar
+curtindo a aposentadoria.
+[ENDBLOCK]
+Voc@ vem com a gente? Seria
+um al\vio ter voc@.
+[ENDBLOCK]
+Conto com voc@s para me dar um trato
+e p_r estes ossos velhos em forma. Hehehe.
+[ENDBLOCK]
+N;o vou deixar voc@ fazer
+nada estranho com a
+<Atwight>.
+[ENDBLOCK]
+Trato?
+[ENDBLOCK]
+Ah, entendi, tipo polir e afiar.
+Porque voc@ = uma espada.
+[ENDBLOCK]
+N;o, n;o bem assim. Algo mais
+cheio de romance, talvez.
+[ENDBLOCK]
+<Dymlos>. Parece que o seu mestre
+= um garoto de cora|;o bem puro.
+[ENDBLOCK]
+
+[ENDBLOCK]
+...
+[ENDBLOCK]
+Enfim, como vamos arrumar
+um mestre pro <Clemente>?
+[ENDBLOCK]
+Vamos ter que pensar nisso depois.
+Ningu=m aqui tem aptid;o para
+empunhar um Swordian.
+[ENDBLOCK]
+Minha mestra j# est# aqui.
+[ENDBLOCK]
+Ela deve chegar em breve... <Philia>.
+[ENDBLOCK]
+<Philia>!?
+[ENDBLOCK]
+Pessoal...
+[ENDBLOCK]
+Como voc@ conseguiu chegar aqui?
+[ENDBLOCK]
+Escutei a voz na minha
+cabe|a. Ela me guiou at= aqui.
+[ENDBLOCK]
+Voc@ ouviu uma voz...?
+Era mesmo o <Clemente>?
+[ENDBLOCK]
+Sim, era eu.
+[ENDBLOCK]
+Foi voc@ quem me chamou.
+[ENDBLOCK]
+Foi a sua vontade que me desejou.
+Seu desejo sincero e sua determina|;o
+de ficar mais forte.
+[ENDBLOCK]
+Por isso voc@ ouviu minha voz.
+Posso lhe dar esse poder.
+[ENDBLOCK]
+S^ falta sua decis;o final.
+O que me diz, <Philia> Felice?
+[ENDBLOCK]
+<Philia>...
+[ENDBLOCK]
+Tenho que recuperar o Olho de Atamoni
+do Sumo Sacerdote... N;o,
+do <Greybum>.
+[ENDBLOCK]
+Custe o que custar. Essa = a minha
+responsabilidade. O meu dever!
+[ENDBLOCK]
+Vou lutar junto com voc@.
+Conceda-me o seu poder,
+<Clemente>!
+[ENDBLOCK]
+Isso a\, <Philia>!
+[ENDBLOCK]
+} gra|as ao seu
+incentivo, <Stahn>!
+[ENDBLOCK]
+<Lion>...
+[ENDBLOCK]
+<Lion>, mais uma vez pe|o que
+me deixe lutar ao seu lado.
+[ENDBLOCK]
+Que = isso? Voc@ ainda n;o
+reconhece a <Philia>?
+[ENDBLOCK]
+Hunf. S^ n;o atrapalhe.
+[ENDBLOCK]
+Sim! <Lion>, muito obrigada.
+[ENDBLOCK]
+<Philia>, voc@ ainda = novata.
+Isso quer dizer que = fraca.
+[ENDBLOCK]
+Por=m, o que lhe falta em habilidade,
+voc@ compensa com sua sinceridade.
+[ENDBLOCK]
+Tenho grandes expectativas para voc@.
+[ENDBLOCK]
+Por favor, nos oriente,
+<Clemente>.
+[ENDBLOCK]
+Digo o mesmo. Prazer em
+reencontr#-lo!
+[ENDBLOCK]
+Bom ter voc@ com a gente.
+[ENDBLOCK]
+Isso, isso.
+[ENDBLOCK]
+Acabou sendo uma coisa
+bem conveniente.
+[ENDBLOCK]
+Uhum. Com isso, podemos
+ficar mais tranquilos.
+[ENDBLOCK]
+Enfim, se eu tinha que arrumar um
+novo mestre, que bom que = uma
+mocinha cheia de vida.
+[ENDBLOCK]
+<Clemente>...
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Bom, pessoal. Vamos
+voltar para o navio?
+[ENDBLOCK]
+}, pode ser.
+[ENDBLOCK]
+<TAG_007>Como voc@ tem 5 pessoas no grupo,
+agora pode usar [<turquoise>Talento de Apoio</color>].
+[ENDBLOCK]
+Voc@ pode trocar quem est#
+no seu [Grupo Ativo de Batalha]
+apertando <Triangle_ani> no menu
+principal sobre
+um personagem.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+<TAG_007>Personagens fora da
+batalha n;o participam, mas
+podem fornecer v#rias
+habilidades.
+[ENDBLOCK]
+Esta n;o = a sala onde
+achamos o <Clemente>?
+[ENDBLOCK]
+}, sim.
+[ENDBLOCK]
+Bem-vinda, Equipe Swordian!
+[ENDBLOCK]
+Depois de tantos anos, fico muito feliz
+em poder me reunir com todos
+assim mais uma vez.
+[ENDBLOCK]
+Aquele = o <Ritora>?
+[ENDBLOCK]
+} uma imagem hologr#fica.
+[ENDBLOCK]
+Como novos mestres, ainda h# muitas
+coisas que voc@s podem n;o entender.
+[ENDBLOCK]
+Vou esclarecer as d{vidas que restarem.
+Depois, precisamos decidir as
+contramedidas adequadas.
+[ENDBLOCK]
+Ent;o eu queria perguntar
+uma coisa logo de cara.
+[ENDBLOCK]
+O que exatamente o
+<Hugo> est# tentando fazer?
+[ENDBLOCK]
+Dar forma $ Aetherosfera,
+por meio de terraforma|;o.
+[ENDBLOCK]
+Terra...forma|;o...?
+[ENDBLOCK]
+Os peda|os de terra quebrados pelo
+Belcrant s;o puxados para o c=u
+para criar uma nova camada.
+[ENDBLOCK]
+Essa = a forma|;o de uma
+Aetherosfera em volta
+da Terra.
+[ENDBLOCK]
+O que se espalha no c=u como hera
+ = a pr^pria Aetherosfera rec=m-formada.
+[ENDBLOCK]
+No momento, ela est# cerca de
+25 por cento conclu\da.
+[ENDBLOCK]
+Estimo que, se o Belcrant disparar
+mais tr@s vezes, o c=u vai ficar
+completamente coberto.
+[ENDBLOCK]
+Se isso acontecer, a nossa Terra vai...?
+[ENDBLOCK]
+Vai virar um mundo de escurid;o
+total, e toda a vida vai morrer.
+[ENDBLOCK]
+N;o...!
+[ENDBLOCK]
+Ent;o temos que impedir antes
+disso. N;o podemos deixar o
+nosso mundo terreno ser destru\do.
+[ENDBLOCK]
+O que precisamos fazer?
+[ENDBLOCK]
+Vamos usar a mesma
+estrat=gia de ataque
+rel&mpago da {ltima guerra.
+[ENDBLOCK]
+Vamos erguer Radisrol at=
+a superf\cie e faz@-la pousar
+direto em Dycroft.
+[ENDBLOCK]
+A superf\cie? Radisrol sempre
+conseguiu fazer isso?
+[ENDBLOCK]
+Sim. Depois de posicionada, voc@s
+e os outros Mestres Swordian
+v;o invadir Dycroft.
+[ENDBLOCK]
+} o mesmo que tent#vamos
+fazer com o Draconis.
+[ENDBLOCK]
+<center>} igualzinho ao que aconteceu
+mil anos atr#s...
+[ENDBLOCK]
+Acha que Radisrol consegue alcan|ar
+altitudes que o Draconis n;o conseguiu?
+[ENDBLOCK]
+Correto.
+[ENDBLOCK]
+Beleza!
+[ENDBLOCK]
+O objetivo = derrotar o <Hugo> e
+recuperar o Olho de Atamoni.
+[ENDBLOCK]
+N;o = tarde demais. Agora, antes
+que a Aetherosfera fique pronta.
+[ENDBLOCK]
+Vai ser uma corrida
+contra o tempo.
+[ENDBLOCK]
+De fato. Precisamos lan|ar
+a opera|;o o quanto
+antes e resolver
+isso de uma vez!
+[ENDBLOCK]
+Deixa com a gente! E de quebra
+vamos vingar o <Lion>!
+[ENDBLOCK]
+<Stahn>, sobre isso...
+[ENDBLOCK]
+Hum?
+[ENDBLOCK]
+<center>...N;o, n;o = nada.
+N;o se preocupe.
+[ENDBLOCK]
+...? Que cara esquisito...
+[ENDBLOCK]
+Antes da miss;o, h# um lugar
+aonde quero que voc@s v;o.
+[ENDBLOCK]
+N;o fica longe da Vila de Lienea.
+[ENDBLOCK]
+} mesmo? Eu nunca soube
+que tinha isso l#!
+[ENDBLOCK]
+Enquanto voc@s buscam a Chave R,
+vou continuar analisando a
+situa|;o atual.
+[ENDBLOCK]
+Para garantir que daremos conta
+de qualquer coisa que surgir.
+[ENDBLOCK]
+Por favor, me deixem ajudar!
+[ENDBLOCK]
+Voc@ =...?
+[ENDBLOCK]
+Este = um problema que deve ser
+enfrentado por todos os seres
+humanos da Terra.
+[ENDBLOCK]
+Eu tamb=m quero participar da
+miss;o como representante de
+Seinegald!
+[ENDBLOCK]
+Como este homem entrou aqui?
+[ENDBLOCK]
+<center>Parece que ele nos seguiu
+e embarcou no Leviathan.
+[ENDBLOCK]
+Isto = incr\vel! N;o acredito que
+existia uma tecnologia t;o avan|ada
+nos tempos antigos!
+[ENDBLOCK]
+Por favor, por favor, me deixem fazer isso.
+Fa|o o que for preciso!
+[ENDBLOCK]
+N;o seria dif\cil voc@ se
+adaptar $ tecnologia?
+[ENDBLOCK]
+N;o temos muito tempo.
+Vou coloc#-lo para trabalhar.
+[ENDBLOCK]
+Otimo, ent;o vamos
+buscar a Chave R.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Pois =.
+[ENDBLOCK]
+Fica a sudoeste de Radisrol.
+[ENDBLOCK]
+Pessoal, que bom ver que todos
+voltaram inteiros.
+[ENDBLOCK]
+<Igtenos>
+[ENDBLOCK]
+<center>Sem tempo para cumprimentos. Vamos come|ar
+o dispositivo neutralizador.
+[ENDBLOCK]
+Aqui est#...
+[ENDBLOCK]
+Uhum. Conecte o dispositivo
+ao Swordian para neutralizar
+a barreira especular.
+[ENDBLOCK]
+} assim que vamos chegar
+perto de Dycroft.
+[ENDBLOCK]
+Agora s^ falta achar um
+ve\culo que possamos usar
+para entrar em Dycroft.
+[ENDBLOCK]
+<center>Certo. Vamos passar por Josaia
+para chegar a Mikheil.
+[ENDBLOCK]
+Para buscar um Cruzador Aeth'er.
+[ENDBLOCK]
+Certo, vamos andando!
+[ENDBLOCK]
+Obrigado, Equipe Swordian, pelo
+esfor|o em conseguir a Chave R.
+[ENDBLOCK]
+Agora vamos come|ar os preparativos
+do nosso lado para a emers;o
+de Radisrol.
+[ENDBLOCK]
+Quero que todos se preparem para
+a batalha que vem e mantenham
+a cabe|a no lugar.
+[ENDBLOCK]
+Fui designado assistente do Comandante
+<Ritora>. Conto com
+todos voc@s!
+[ENDBLOCK]
+Quanto tempo vai levar para
+terminar os preparativos?
+[ENDBLOCK]
+Por favor, esperem mais um pouco.
+Aviso assim que
+terminar.
+[ENDBLOCK]
+Vai ser dif\cil manter a calma
+se ficarmos parados sem fazer nada.
+[ENDBLOCK]
+Tudo aconteceu t;o r#pido
+nesses {ltimos dias.
+[ENDBLOCK]
+Tudo o que aconteceu at=
+agora parece um sonho.
+[ENDBLOCK]
+Perder o <Lion> n;o foi sonho.
+Com certeza vou ving#-lo.
+[ENDBLOCK]
+<Rutee>, deixa isso comigo.
+Vou matar aquele desgra|ado do <Hugo>!
+[ENDBLOCK]
+<Kongman>, n;o!
+[ENDBLOCK]
+Por que n;o? O que tem
+de errado nisso?
+[ENDBLOCK]
+O que foi? Eu disse algo
+que n;o devia?
+[ENDBLOCK]
+N;o.
+[ENDBLOCK]
+Na verdade, o <Hugo> e o <Lion>...
+S;o pai e filho...
+[ENDBLOCK]
+Isso quer dizer que...!
+[ENDBLOCK]
+}. Pelo jeito, o <Hugo> =
+meu pai tamb=m.
+[ENDBLOCK]
+Isso... Eu n;o fazia ideia!
+[ENDBLOCK]
+Ah, e da\? N;o se preocupe
+com isso, t#?
+[ENDBLOCK]
+S^ o vi umas duas vezes. N;o =
+como se ele tivesse me criado, sabe?
+[ENDBLOCK]
+Mas...
+[ENDBLOCK]
+Ei, n;o fiquem t;o abatidos.
+N;o = nada pra se preocupar.
+[ENDBLOCK]
+S^ porque o <Lion> disse
+n;o quer dizer que = verdade.
+[ENDBLOCK]
+Depois do que ele fez, = poss\vel
+que estivesse s^ mentindo.
+[ENDBLOCK]
+N;o, n;o diga isso! Eu sinto
+tanto pelo <Lion>...
+[ENDBLOCK]
+Ah, =? Ent;o me diga, o que voc@
+faria se estivesse no meu lugar!?
+[ENDBLOCK]
+*Snif* *Snif*
+[ENDBLOCK]
+Vou estar por a\. Me
+chamem quando estiverem prontos.
+[ENDBLOCK]
+<Rutee>!
+[ENDBLOCK]
+Pessoal... Desculpem por antes.
+[ENDBLOCK]
+Voc@ est# bem?
+[ENDBLOCK]
+Estou bem. <Chelsea>,
+por favor, me perdoe.
+[ENDBLOCK]
+Tudo bem. A culpa foi minha.
+Desculpa por ser t;o direta.
+[ENDBLOCK]
+Eu tamb=m preciso pedir
+desculpas a todos.
+[ENDBLOCK]
+Eu s^ conseguia pensar em
+vingar o <Lion>.
+[ENDBLOCK]
+Mesmo que minha boca dissesse
+outras coisas, no fim era s^ nisso
+que eu conseguia pensar.
+[ENDBLOCK]
+Mas... isso n;o basta.
+[ENDBLOCK]
+A primeira coisa em que precisamos pensar
+agora = como vamos lidar com isso.
+[ENDBLOCK]
+S^ percebi isso depois de
+conversar com a <Rutee>.
+[ENDBLOCK]
+<Stahn>, j# organizou
+seus pensamentos?
+[ENDBLOCK]
+Ainda h# coisas que preciso
+pensar. Mas, agora,
+mais do que tudo...
+[ENDBLOCK]
+Acho que tenho que cumprir minhas
+responsabilidades como mestre.
+[ENDBLOCK]
+}, concordo com o
+que o <Stahn> disse.
+[ENDBLOCK]
+N;o se esque|am de n^s! Esta n;o =
+s^ a luta dos Mestres Swordian.
+[ENDBLOCK]
+Claro. Todo mundo aqui =
+um amigo importante.
+[ENDBLOCK]
+Ent;o vamos trabalhar juntos para
+acabar com esta guerra custe o que custar!
+[ENDBLOCK]
+Certo.
+[ENDBLOCK]
+Certo.
+[ENDBLOCK]
+Uhum.
+[ENDBLOCK]
+Beleza!
+[ENDBLOCK]
+Isso!
+[ENDBLOCK]
+<center>Equipe Swordian, estamos
+prontos para partir!
+[ENDBLOCK]
+Assim que emergirmos, =
+uma caminhada curta at= Dycroft.
+[ENDBLOCK]
+Pessoal, est;o prontos?
+[ENDBLOCK]
+Com certeza!
+[ENDBLOCK]
+<center>Vamos iniciar a sequ@ncia.
+Motor principal, igni|;o!
+[ENDBLOCK]
+Motor principal acionado.
+[ENDBLOCK]
+Radisrol, erga-se!
+[ENDBLOCK]
+Ai... O que acabou
+de acontecer?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Seus tolos da Terra! Por que
+tentariam o mesmo plano duas vezes?
+[ENDBLOCK]
+Eu j# estava preparado para
+voc@s tentarem de novo.
+[ENDBLOCK]
+O Arco Draconis est# circulando acima.
+Est#vamos bem preparados para voc@s.
+[ENDBLOCK]
+Que tal?
+Voc@s n;o t@m mais chance!
+[ENDBLOCK]
+<center>Voc@s ser;o sacrificados ao Drag;o Guardi;o
+e virar;o p^ para a Aetherosfera!
+[ENDBLOCK]
+Aah!
+[ENDBLOCK]
+Ei, voc@s est;o bem?
+[ENDBLOCK]
+Estamos usando a maior parte da energia
+que resta para erguer um escudo.
+[ENDBLOCK]
+Aguentamos mais um pouco.
+[ENDBLOCK]
+Entendo...
+[ENDBLOCK]
+Al=m do Arco Draconis, h#
+outro assunto preocupante.
+[ENDBLOCK]
+<Reynolds>, mostre a nossa
+imagem de Dycroft.
+[ENDBLOCK]
+Pelo jeito, h# algo cobrindo
+a #rea em volta de Dycroft.
+[ENDBLOCK]
+Uma barreira espelhada est#
+erguida por todos os lados.
+[ENDBLOCK]
+} quase imposs\vel atravess#-la
+atacando de frente.
+[ENDBLOCK]
+<center>Mesmo cuidando do Drag;o Guardi;o,
+ainda temos que lidar com a barreira.
+[ENDBLOCK]
+Isso = rid\culo. Como o
+<Hugo> consegue fazer tanto?
+[ENDBLOCK]
+<center>Como ele sabe tanto sobre as
+Aer^poles e a Guerra de Aeth'er?
+[ENDBLOCK]
+<center>Ele sabe detalhes demais, mesmo que a
+informa|;o n;o tenha sido toda escondida.
+[ENDBLOCK]
+<center>} dif\cil acreditar que esse
+conhecimento venha s^ de pesquisar
+registros hist^ricos.
+[ENDBLOCK]
+...N;o me importa isso!
+[ENDBLOCK]
+N;o importa o que o <Hugo>
+aprendeu ou o que ele planeja!
+N^s n;o vamos perder!
+[ENDBLOCK]
+H# algo que voc@
+possa fazer, <Ritora>?
+[ENDBLOCK]
+Analisamos todas as informa|`es
+dispon\veis e consideramos todos
+os planos de opera|;o poss\veis.
+[ENDBLOCK]
+Temos uma contramedida. Mas as
+chances de sucesso s;o pequenas...
+[ENDBLOCK]
+Gostaria de ouvir mais detalhes.
+[ENDBLOCK]
+...Muito bem.
+[ENDBLOCK]
+Primeiro, vamos nos concentrar em criar
+um dispositivo para neutralizar a barreira.
+[ENDBLOCK]
+Durante o tempo que levarmos para
+termin#-lo, quero que voc@s
+ocupem as outras Aer^poles.
+[ENDBLOCK]
+<Reynolds>, situa|;o atual.
+[ENDBLOCK]
+Quando voc@s chegarem a Mikheil,
+o dispositivo neutralizador
+vai estar pronto.
+[ENDBLOCK]
+Se coordenarmos uns com os
+outros, podemos chegar a Dycroft.
+[ENDBLOCK]
+Vai ser um caminho dif\cil,
+Equipe Swordian,
+mas voc@s aceitam?
+[ENDBLOCK]
+Claro! Mesmo que seja imposs\vel,
+vou arriscar.
+[ENDBLOCK]
+N;o =, pessoal?
+[ENDBLOCK]
+Bom, =. Se n;o temos escolha,
+s^ nos resta fazer, n=?
+[ENDBLOCK]
+Nem precisa perguntar de novo.
+[ENDBLOCK]
+Vamos fazer tudo o que pudermos para ajudar.
+[ENDBLOCK]
+Quero acabar com esta guerra custe o que custar.
+Tem que ser por n^s, pelas nossas m;os!
+[ENDBLOCK]
+Vamos nessa!
+[ENDBLOCK]
+Eu tamb=m vou dar o meu melhor!
+[ENDBLOCK]
+Bem dito! Muito bem.
+Vamos ao trabalho.
+[ENDBLOCK]
+Para come|ar, naveguem at= o
+primeiro destino, Ignasea.
+[ENDBLOCK]
+Entendido!
+[ENDBLOCK]
+Espere.
+[ENDBLOCK]
+Por favor, leve isto.
+[ENDBLOCK]
+Com isto, voc@s podem chamar
+o Leviathan a qualquer momento.
+[ENDBLOCK]
+Use perto de uma costa. S^ d#
+para entrar e sair dele de l#.
+[ENDBLOCK]
+Essa = a {nica condi|;o para
+invocar o Leviathan.
+[ENDBLOCK]
+N;o se esque|a.
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x49><x64><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x59><x54><x00><x80><x18><x65><x59><x58><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x49><x88><x98><x80>
+[ENDBLOCK]
+<x18><x65><x59><x84><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x49><x78><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x49><x78><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x59><x7C><x00><x80>
+<x18><x65><x59><x80><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x49><x64><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

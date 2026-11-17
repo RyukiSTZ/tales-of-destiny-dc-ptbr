@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ufa! Estou cheio!
+[ENDBLOCK]
+Cara, essa Bolsa de Comida = uma b@n|;o!
+[ENDBLOCK]
+Uma Bolsa de Comida = essencial numa jornada assim.
+N;o consigo imaginar viajar sem ela.
+[ENDBLOCK]
+Nem me fale!
+[ENDBLOCK]
+Certo! Vamos experimentar todo tipo de
+prato novo daqui pra frente!
+[ENDBLOCK]
+...S^ n;o esque|am o verdadeiro
+prop^sito da nossa jornada, t#?<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

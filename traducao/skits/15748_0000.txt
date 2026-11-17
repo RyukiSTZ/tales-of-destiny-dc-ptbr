@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O que est;o fazendo? Quem disse
+que pod\amos sair do templo?
+[ENDBLOCK]
+S^ precisamos descansar um pouco. Se
+voc@ nos for|ar demais... N=?
+[ENDBLOCK]
+Ela tem raz;o. } importante fazer pausas.
+[ENDBLOCK]
+...T#. N;o vou impedir. S^ n;o esque|am
+que precisamos vasculhar o templo inteiro.
+[ENDBLOCK]
+Afinal, o <Greybum> pode estar l# em algum lugar.<x00><x00><x00>
+[ENDBLOCK]

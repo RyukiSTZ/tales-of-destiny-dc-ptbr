@@ -1,0 +1,35 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A praia l# no norte, =...
+[ENDBLOCK]
+Isso mesmo.
+[ENDBLOCK]
+Que tal, se n;o houver nada l#, darmos um
+mergulho no mar antes de voltar?
+[ENDBLOCK]
+Por que haveria um monstro desconhecido l#...?
+[ENDBLOCK]
+Ah, mas espera, o mestre <Lion> deixou
+a sunga em casa...
+[ENDBLOCK]
+Hmm, isso = um problema...
+[ENDBLOCK]
+Talvez eu possa jogar o Chal no
+mar e ir embora...
+[ENDBLOCK]
+Ah, ^tima ideia!
+[ENDBLOCK]
+...Espera, n;o =, n;o!
+[ENDBLOCK]
+Ah, qual =! N;o brinque assim!
+[ENDBLOCK]
+Quem disse que estou brincando? Estou tentando me concentrar!
+[ENDBLOCK]
+Credo, mestre <Lion>... Voc@ precisa
+relaxar s^ um pouquinho...<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

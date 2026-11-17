@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Lembra exatamente pra onde vamos?
+[ENDBLOCK]
+Templo Straylize, n=? Mas vamos
+parar em Armeida primeiro.
+[ENDBLOCK]
+Isso mesmo. Armeida fica ao norte
+de Darilsheid, ao que parece.
+[ENDBLOCK]
+Certo! Vou dar tudo de mim!<x00><x00><x00><x00><x00>
+[ENDBLOCK]

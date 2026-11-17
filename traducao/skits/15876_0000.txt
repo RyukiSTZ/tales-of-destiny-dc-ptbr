@@ -1,0 +1,15 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+N;o vacilarei mais. Cumprirei meu dever
+como rei e derrubarei o <Greybum>!
+[ENDBLOCK]
+<Greybum>...! Desta vez voc@ n;o escapa!
+[ENDBLOCK]
+Vamos encontr#-lo na torre do rel^gio
+do Castelo de Heidelberg.<x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

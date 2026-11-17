@@ -1,0 +1,765 @@
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+<TAG_005><center>Bem-vindo $s Termas de Frostheim,
+indicadas pelo Turismo de Phandaria.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Recep|;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Gostaria de usar
+as termas?
+Sim
+N;o
+
+[ENDBLOCK]
+Estamos preparando o local
+para os soldados feridos.
+[ENDBLOCK]
+Ainda estamos nos preparando.
+Volte mais tarde, por favor.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x00><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x57><xF0><x00><x80><x18><x65><x57><xF4><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><x24><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><x20><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x14><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x14><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><x18><x00><x80>
+<x18><x65><x58><x1C><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x00><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Johnny>
+[ENDBLOCK]
+Ahh... Termas no meio da
+neve... Que po=tico.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Kongman>
+[ENDBLOCK]
+Isso mesmo! } assim
+que guerreiro relaxa!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Aah... De fato, = bom
+descansar de vez em quando.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ser# que a <Rutee> e as outras
+tamb=m est;o curtindo?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Nossa, <Mary>, voc@ = demais.
+O que voc@ come pra ficar assim?
+[ENDBLOCK]
+E = t;o flex\vel tamb=m...
+Vai, qual = o segredo?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Mary>
+[ENDBLOCK]
+Eu... acho que
+est# no sangue.
+[ENDBLOCK]
+Que inveja! Bom, pelo menos
+ganho da <Chelsea>. Nenhuma
+surpresa, n=?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chelsea>
+[ENDBLOCK]
+O-O qu@!?
+[ENDBLOCK]
+N;o me provoque, srta. <Rutee>!
+Eu ainda estou crescendo!
+[ENDBLOCK]
+Ali#s, aposto que voc@ n;o diria
+isso se tivesse 14 tamb=m, hehe~!
+[ENDBLOCK]
+Ah, voc@~!
+[ENDBLOCK]
+Ei, <Philia>, aonde voc@
+pensa que vai!?
+[ENDBLOCK]
+<Philia>, por favor, n;o corra!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+N-N;o, por favor, paaara!
+[ENDBLOCK]
+Argh! N;o aguento
+mais!
+[ENDBLOCK]
+O-O que foi?
+[ENDBLOCK]
+<Stahn>, meu rapaz. Sabe por
+que os homens escalam montanhas?
+[ENDBLOCK]
+Mulheres n;o
+escalam tamb=m?
+[ENDBLOCK]
+Porque a montanha est# na
+frente deles! Por isso, n=!?
+[ENDBLOCK]
+H;...
+Acho que sim...?
+[ENDBLOCK]
+Vai, voc@ tamb=m
+= homem, n;o =?
+[ENDBLOCK]
+Ent;o vamos escalar
+essa montanha juntos!
+[ENDBLOCK]
+T#...?
+[ENDBLOCK]
+Como sou o veterano aqui,
+vou primeiro. Tente me seguir!
+[ENDBLOCK]
+Vamos, vai dar tudo certo!
+[ENDBLOCK]
+Mesmo se nos separarmos, com
+certeza nos vemos no topo!
+[ENDBLOCK]
+Agora, rumo
+ao cume!
+[ENDBLOCK]
+O cume fica do outro lado desta
+parede. D# pra ver por esta
+fresta bem aqui!
+[ENDBLOCK]
+K-<Kongman>, isso = horr\vel!
+[ENDBLOCK]
+H;?
+[ENDBLOCK]
+Oooops, desculpaaa~!
+[ENDBLOCK]
+A <Atwight> escorregou da minha
+m;o e passou bem pela fresta~!
+[ENDBLOCK]
+GYAAAAAAAA!!
+[ENDBLOCK]
+Achou que estava sendo discreto,
+falando seu plano daquele jeito?
+[ENDBLOCK]
+Mas n;o precisava enfiar
+uma espada na minha cabe|a!
+[ENDBLOCK]
+O lado masculino = $ esquerda,
+o feminino = $ direita.
+Bem, vamos?
+[ENDBLOCK]
+Certo!!
+[ENDBLOCK]
+Ei, <Stahn>, nada de espiar~!
+[ENDBLOCK]
+E-Eu n;o vou, prometo!
+[ENDBLOCK]
+N;o precisa avisar!
+A gente j# vai saber que
+voc@ est# no banho... hehehe...
+[ENDBLOCK]
+O-O qu@!? Que olhar
+sinistro = esse...?
+[ENDBLOCK]
+Gahahahaha!
+[ENDBLOCK]
+...N;o sei por qu@, mas
+estou com o est_mago ruim.
+[ENDBLOCK]
+Ora, ora, n;o precisa
+disso, <Kongman>.
+[ENDBLOCK]
+Voc@ tamb=m, <Rutee>.
+Vamos logo para o banho.
+[ENDBLOCK]
+Muito bem, vamos.
+[ENDBLOCK]
+Haah... Que del\cia.
+[ENDBLOCK]
+Ufa~! E faz t;o bem
+para a pele!
+[ENDBLOCK]
+Uhum, e pros meus
+ossos cansados tamb=m!
+[ENDBLOCK]
+<Chelsea>, voc@ fala
+igual um velhinho, hehe.
+[ENDBLOCK]
+N;o ouso mostrar esse
+lado ao Rei <Woodrow>!
+[ENDBLOCK]
+Gyah! G-Gelado!!
+[ENDBLOCK]
+Gaahahaha! Que tal minha
+Bola de Neve Poderosa!?
+[ENDBLOCK]
+AI! <Johnny>!!
+Foi voc@!?
+[ENDBLOCK]
+<Kongman>, nem ouse
+mirar isso em mim!
+[ENDBLOCK]
+Esses caras n;o
+passam de crian|as...
+[ENDBLOCK]
+O Rei <Woodrow> tamb=m
+est# se divertindo. Que fofo!
+[ENDBLOCK]
+Por que ser# que os homens
+agem como crian|as $s vezes?
+[ENDBLOCK]
+} um verdadeiro mist=rio...
+[ENDBLOCK]
+Uaau! <Kongman>,
+que grande!!
+[ENDBLOCK]
+Gahahah! Isso mesmo,
+<Stahn>! Afinal, eu
+sou o Campe;o!
+[ENDBLOCK]
+Haha, mesmo assim, o do
+<Stahn> = pequeno e fofo.
+[ENDBLOCK]
+Ora, ora. E o do
+<Woodrow>...?
+[ENDBLOCK]
+UAUU, = ENORMEEE!!
+[ENDBLOCK]
+C-Como eu pude perder...?
+[ENDBLOCK]
+Nunca vi um t;o grande
+na minha vida inteira!
+[ENDBLOCK]
+Ahh, que revigorante.
+[ENDBLOCK]
+Talvez eu deva convidar
+o <Darzen> da pr^xima vez...
+[ENDBLOCK]
+O que foi? Por que
+todo mundo est#
+me olhando assim?
+[ENDBLOCK]
+} o mesmo olhar que o <Kongman>
+fez antes de entrar...
+[ENDBLOCK]
+Ah, n-nada, n;o = nada!
+[ENDBLOCK]
+N;o = nada mesmo!
+[ENDBLOCK]
+N;o se preocupe!
+[ENDBLOCK]
+O que deu neles
+de repente?
+[ENDBLOCK]
+Sei l#.
+[ENDBLOCK]
+Desculpe, o banho masculino est#
+em manuten|;o. Se estiver s^, pode
+usar o banho feminino, por=m.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+} mesmo?
+Muito bem.
+[ENDBLOCK]
+Ah, = verdade. Tenho
+um recado pra fazer...
+[ENDBLOCK]
+Mas...
+[ENDBLOCK]
+Bem, se n;o vier mais
+nenhum cliente, acho que
+posso sair um pouquinho...
+[ENDBLOCK]
+Aaah... Que maravilha...
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+Nem me fale...
+[ENDBLOCK]
+Parece at= uma
+reserva particular...
+[ENDBLOCK]
+Melhor assim. Acho que n;o
+relaxaria com outras pessoas aqui.
+[ENDBLOCK]
+Pois =...
+[ENDBLOCK]
+H;? O que = isso?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mocinha
+[ENDBLOCK]
+Ei... ser# que pode mesmo?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Vai dar tudo certo. Eu
+venho aqui sempre!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Garota
+[ENDBLOCK]
+Termas♪ Termas♪
+[ENDBLOCK]
+Chal... Isso n;o = ruim?
+[ENDBLOCK]
+Mas a recepcionista
+disse que podia!
+[ENDBLOCK]
+Se elas entrarem, v;o me
+chamar de tarado!
+O que eu fa|o, Chal!?
+[ENDBLOCK]
+V-Voc@ pergunta pra mim!?
+[ENDBLOCK]
+Certo! Vamos entrar!!
+[ENDBLOCK]
+Ebaaa!
+[ENDBLOCK]
+Ah, esperem!
+[ENDBLOCK]
+Ah n;o, elas est;o
+chegando...!
+[ENDBLOCK]
+<center>Ah! Tive uma ideia! Mestre <Lion>,
+e se voc@ subisse a toalha, e...
+[ENDBLOCK]
+Aaah, foi maravilhoso.
+[ENDBLOCK]
+Dev\amos voltar
+logo de novo.
+[ENDBLOCK]
+}, tamb=m acho.
+[ENDBLOCK]
+Por qu@...? Me diga por qu@, Chal!!
+[ENDBLOCK]
+Por que isso
+funcionou t;o bem!?
+[ENDBLOCK]

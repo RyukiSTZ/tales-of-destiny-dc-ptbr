@@ -1,0 +1,374 @@
+0|[Circle_ani2] Ataques normais!
+1|[Circle_ani2]Ataque normal[LINE]Use [L+U+R+D] para fazer combos.
+2|[Cross_ani2] Artes!
+3|[Cross_ani2]:Artes[LINE]Solte ataques poderosos[LINE]definidos no menu de Artes [Triangle_ani2][LINE]
+4|[Circle_ani2]Ataques normais e [Cross_ani2]Artes
+5|CC: Chain Capacity[LINE]Com o CC você liga qualquer ação![LINE]Dá até para ligar Presa D.+Presa D.!
+6|[Square_copy] para Defender!
+7|[Square_copy]Defesa[LINE]Reduz o P. ATK e evita ser empurrado.
+8|[R1_copy][L+U+R+D] para trocar de alvo!
+9|[R1_copy]Mira[LINE]Veja fraquezas e resistências do inimigo![LINE]Aperte rápido para mirar o alvo mais perto.[LINE]
+10|[L1_Press2]Blast Caliber ao atacar!
+11|[L1_Press2]Blast Caliber[LINE]Use a barra Blast para golpes poderosos![LINE]
+12|(virado à direita) [Square_copy][Left]para Recuar!
+13|[Square_copy][Left]Recuo[LINE]Use para desviar de ataques de perto.[LINE]Pode usar depois de atacar!
+14|[Square_copy][Down]para Carregar!
+15|[Square_copy][Down]Carga[LINE]Protege de magias e recupera ACC.[LINE]O próximo ataque quebra a defesa inimiga.[LINE]
+16|O que é Chain Capacity?
+17|O [yellow]Chain Capacity (CC) [/color]permite agir.
+18|Ele deixa você [turquoise]ligar quase todos os ataques.[/color]
+19|O CC volta rápido depois de cada ação, então
+20|tente fazer várias em sequência.
+21|CC Variável
+22|Atributo da Arma: CC 2~5
+23|O CC varia assim: [turquoise]2→3→4→5→2→[/color]
+24|Evoluir o [yellow]Dispositivo Swordian[/color] também aumenta
+25|o CC mín. e máx. Para quem não usa Swordian,
+26|ache a arma que combina com seu estilo.
+27|Bônus
+28|Vencendo inimigos fortes numa dificuldade alta,
+29|você ganha bônus de [yellow]Pontos de Dispositivo[/color]. O bônus
+30|de Experiência por Hits Máx. também [turquoise]sobe[/color], então
+31|leve as batalhas a sério!
+32|Explorando Fraquezas
+33|Se você acertar o ponto fraco do inimigo...
+34|O dano aumenta [turquoise]1,5x![/color]
+35|A precisão [turquoise]aumenta 4x![/color]
+36|A taxa de crítico [turquoise]aumenta 4x![/color]
+37|Veja as fraquezas do inimigo com [R1_copy]
+38|e explore os pontos fracos.
+39|Fraquezas e Sequências
+40|Ao explorar a [yellow]fraqueza[/color] do inimigo, todos os ataques
+41|do combo contam como fraqueza, [turquoise]mesmo os que[/color]
+42|[turquoise]ele normalmente resistiria[/color]. Depois de
+43|acertar a fraqueza, continue com a arte que quiser!
+44|Críticos Doem!
+45|CRT alto às vezes gera [yellow]golpes críticos[/color].
+46|Eles causam o [turquoise]dobro[/color] de dano e também [turquoise]atordoam[/color].
+47|Você também [turquoise]recupera 2CC[/color] e liga
+48|mais artes! Dá para evitar críticos
+49|aumentando sua EVA.
+50|Blast Caliber!
+51|A barra Blast sobe com ataques, dano etc.
+52|[turquoise]O personagem brilha em azul[/color] quando a barra
+53|enche. Aperte [L1_Press2] ao atacar para usar o Blast
+54|Caliber! Use no aperto ou para emendar
+55|ataques!
+56|Enchendo a Barra Blast
+57|A [yellow]barra Blast[/color] sobe conforme [turquoise]combos mais
+58|[turquoise]longos e o dano causado[/color]. Para encher
+59|a barra, aumente o combo com ataques normais [Circle_ani2]
+60|e artes fortes [Cross_ani2].
+62|Menos Dano no Aperto
+63|A [yellow]barra Blast[/color] tem uma função secreta.
+64|Ao levar dano, segure [Down] e aperte [L1_Press2] [yellow]várias vezes[/color]
+65|para sair do atordoamento e
+66|[turquoise]recuperar um pouco de HP![/color]
+67|Isso [turquoise]gasta 50% da barra Blast.[/color]
+68|Melhor lutar até o fim do que perder!
+69|Trocando de Personagem
+70|O protagonista é o [Stahn], mas [turquoise]qualquer membro do
+71|grupo na luta[/color] pode ser controlado. No menu do grupo,
+72|organize com [Triangle_ani] e ponha quem quer controlar
+73|no topo. Troque na luta com [L1_Press2] no
+74|Menu [Triangle_ani].
+76|Reabastecendo Comida
+77|Dá para reabastecer os sacos nas cidades.
+78|Então, na cidade, procure sempre as mercearias.
+79|Com o uso, sua [turquoise]capacidade máxima[/color] aumenta,
+80|então use sempre!
+81|Porções de Comida
+82|Os sacos de comida crescem com o uso.
+83|Economizar atrapalha a longo prazo, então use!
+84|Vários efeitos bons podem ativar conforme
+85|suas porções, como cura periódica ou
+86|reviver na batalha.
+87|Combinação!
+88|Um milagre que junta a cura de HP de duas
+89|porções bem usadas pelo preço
+90|da mais barata!
+91|E ainda aumenta um atributo de um aliado!
+92|As combinações são fixas,
+93|então confira o [yellow]Livro de Comidas.[/color]
+94|Críticos com Artes
+95|Ligue várias artes para [turquoise]dobrar[/color] a taxa de crítico!
+96|Se acertar um ponto fraco, as artes seguintes
+97|também contam como ponto fraco, então teste
+98|combinações diferentes!
+99|Petrificação
+100|[yellow]Petrificado[/color], você não se mexe por um
+101|tempo e leva 1,5x mais dano.
+102|Ela passa mais rápido que outros problemas,
+103|mas ficar vulnerável tanto tempo é arriscado.
+105|Sono
+106|Com [yellow]Sono[/color], você não age até levar um golpe,
+107|e quase sempre leva um crítico.
+108|Não ache que dá para aguentar esse golpe!
+109|E o [Stahn] [red]nunca acorda[/color] se dormir...
+111|Veneno
+112|O [yellow]Veneno[/color] tira seu HP rapidinho.
+113|O melhor jeito de evitar veneno é
+114|equipar [yellow]Gemas[/color]. Use Rerise em materiais ou
+115|compre na cidade.
+117|Fraqueza
+118|Com [yellow]Fraqueza,[/color]
+119|seus movimentos ficam lentos e
+120|o CC volta bem devagar.
+121|Nos inimigos, reduz a frequência dos
+122|ataques, então use nos rápidos.
+123|Paralisia
+124|A [yellow]Paralisia[/color] pode te atordoar ao
+125|fazer qualquer ação. É chata e pode
+126|te deixar em desvantagem se não curar.
+127|[yellow]Usar itens[/color] funciona, então use uma [yellow]Garrafa Panaceia.[/color]
+129|Selo
+130|Com [yellow]Selo,[/color] você não consegue
+131|usar nenhuma arte. Só ataque normal não
+132|tem graça, então cure rápido. Nos inimigos,
+133|impede a arte Blast deles,
+134|então use nos que são vulneráveis.
+135|Atributos Principais e Artes
+136|Um resumo dos Atributos Principais.
+137|[yellow]P. ATK:[/color] Afeta ataques normais e Artes [Sign_4]・[Sign_5]
+138|[yellow]P. DEF:[/color] Reduz o dano de P. ATK
+139|[yellow]M. ATK:[/color] Afeta Artes [Sign_5]・[Sign_6]
+140|[yellow]M. DEF:[/color] Reduz o dano de M. ATK
+141|Use Rerise para fortalecer seus personagens.
+142|Atributos Secundários e Segredos
+143|Vamos ver os Atributos Secundários.
+144|[yellow]ACC:[/color] Reduz a chance de ataques serem bloqueados
+145|[yellow]CRT:[/color] Aumenta a chance de acertar críticos
+146|[yellow]EVA:[/color] Reduz a chance de levar críticos
+147|[yellow]VIT:[/color] Aumenta o HP máximo
+148|Será que os Principais e Secundários se ligam?
+149|[Rutee]: Cura e Achar Gald
+150|Para caçadores de tesouro, [yellow]Achar Gald[/color] é a
+151|razão de viver.
+152|...Por isso as artes de cura dela
+153|ficam mais eficazes depois de [turquoise]Achar Gald.[/color]
+154|Misturar ações pode ser mais eficaz
+155|do que só repetir artes de cura.
+156|[Philia]: Magias em Sequência
+157|Parece que o tempo de conjurar anula o CC,
+158|mas [turquoise]ligando magias,[/color] a conjuração fica
+159|bem [turquoise]mais rápida.[/color] Na terceira
+160|magia, o tempo [turquoise]cai pela metade![/color]
+161|Melhor começar com magias de CC baixo.
+162|Woodrow: Mestre da Distância
+163|Ele troca arco e espada conforme a
+164|distância do inimigo. Exige muita
+165|habilidade, mas tem potencial para
+166|ser ótimo em tudo. Tente atirar depois
+167|de um recuo.
+168|[Lion]: Artes de Espada em Sequência
+169|Ligando a mesma arte duas vezes, como
+170|Presa Demoníaca→Presa Demoníaca, a segunda
+171|muda: Presa Demoníaca→[yellow]Presa Dupla[/color]
+172|As outras artes de espada fazem igual.
+173|Varie as artes para pressionar os inimigos!
+174|Mary: Ataques Imparáveis
+175|Várias artes dela dão
+176|[yellow]Firmeza,[/color] que impede que ela seja
+177|atordoada durante a arte, mesmo levando golpe.
+178|Fique de olho no HP e parta para cima!
+179|Chelsea: Tiros no Ar
+180|Ela é uma arqueira habilidosa.
+181|Tem várias artes de arco
+182|que [turquoise]podem ser usadas no ar.[/color]
+183|Use o [yellow]pulo duplo[/color] e atire
+184|de onde os inimigos não alcançam!
+185|[Johnny]: Canções de Suporte
+186|Não subestime as artes de canto dele.
+187|São eficazes usadas em conjunto!
+188|Elas também dão 1 CC aos aliados, então
+189|com mais uma... é um baita suporte!
+190|Use as artes dele contra inimigos fracos a [Sign_Sonic].
+191|[Kongman]: Se For Homem, Levante
+192|Suas artes marciais usam o corpo enorme. No
+193|ar, as artes mudam muito, e ele é confiável
+194|tanto no chão quanto no ar.
+195|Use as artes que [turquoise]forçam inimigos caídos a[/color]
+196|[turquoise]levantar[/color] e faça combos com os aliados!
+197|Só não conte com ele para [yellow]ataques mágicos[/color].
+198|[Lilith]: É Mais ou Menos Isso
+199|As artes dela podem ou não ser fáceis, mas
+200|o CC baixo permite várias combinações.
+201|Têm vários atributos, então se você gosta de
+202|[turquoise]mirar fraquezas,[/color] são bem úteis.
+203|Dominando o Dispositivo
+204|Ao equipar um [yellow]Dispositivo Swordian [/color]e lutar,
+205|você ganha [yellow]proficiência[/color] até [yellow]dominá-lo.[/color]
+206|O custo em pontos cai [turquoise]20%.[/color]
+207|Tente equipar vários dispositivos.
+208|Liberando Dispositivos
+209|Um dispositivo bloqueado é liberado
+210|dominando os vizinhos dele no
+211|círculo interno.
+212|Focar em aumentar atributos?
+213|Focar na evolução?
+214|[turquoise]Avalie os inimigos[/color] e decida.
+215|Golpes Certeiros!
+216|O[yellow] Golpe Certeiro[/color] é uma [turquoise]sequência específica[/color]
+217|que [turquoise]cada personagem[/color] faz contra um inimigo.
+218|Use [R1_copy]＋[Circle_ani2] para ver os detalhes na luta.
+219|Quando estiver pronto, solte essa
+220|sequência de ataques!
+221|...Só não chore se o grupo estragar.
+222|Por que usar o Golpe Certeiro
+223|O [yellow]Golpe Certeiro...[/color]
+224|・[turquoise]Sempre[/color] atordoa o inimigo!
+225|・[turquoise]Dobra[/color] a chance de itens!
+226|Só funciona [turquoise]uma vez[/color] em inimigos de mesmo
+227|nome, então guarde para o último de pé.
+228|Golpes Certeiros Parte 2
+229|O [yellow]Golpe Certeiro[/color] de alguns inimigos
+230|não funciona só com os ataques da lista.
+231|Ligue [turquoise]outros ataques entre[/color]
+232|os da lista enquanto o inimigo ainda está
+233|[turquoise]atordoado[/color] para completar!
+234|Golpes Certeiros Parte 3
+235|Tente dominar o [yellow]Golpe Certeiro.[/color]
+236|Forte demais para combos?
+237|Se quer treinar combos mas não consegue porque
+238|[turquoise]o grupo está forte demais,[/color] use um [yellow]Divide-Tudo[/color]
+239|ou itens de batalha para [turquoise]dificultar as lutas.[/color]
+241|Front Step em Todo Lugar
+242|No [yellow]Modo Manual,[/color] use [Up_blink]pulo (pulo duplo) ou
+243|[Square_Press]＋[Right_blink] front step (virado à direita) para chegar[/color]
+244|nos inimigos no ar.
+245|Use [Right_blink][Right_blink] ou [Left_blink][Left_blink] para correr. Dá
+246|até para usar no combo e seguir inimigos no ar!
+248|O Caminho dos Combos
+249|Se você [yellow]mantiver o combo[/color], dá para derrubar
+250|inimigos sem levar dano! Você
+251|também ganha experiência bônus, então
+252|vale a pena. Dominando as sequências com CC,
+253|você faz combos com os amigos!
+254|Uma Barreira aos Combos
+255|Com um combo rolando, aparece
+256|um número abaixo da contagem de Hits...
+257|Se o [yellow]BLAST[/color] chegar a [turquoise]100%,[/color] o inimigo revida!
+258|O inimigo [turquoise]brilha em vermelho,[/color] então recue e
+259|desvie do ataque!
+260|Mantendo o Combo
+261|Como fazer o BLAST do inimigo subir devagar:
+262|・Reduza a EVA do inimigo
+263|・Aumente a ACC com a carga
+264|・Ataque o inimigo no ar
+265|...etc. [yellow]Críticos[/color] também ajudam!
+266|Dificuldade Hard!
+267|Você é bem ousado de tentar o HARD!
+268|・ATK e HP dos inimigos aumentam
+269|・Fraquezas doem o [turquoise]dobro[/color]
+270|・Críticos recuperam [turquoise]3 CC[/color]
+271|・Vencer fortes dá [turquoise]Pontos de Dispositivo Bônus[/color]
+272|...Se está confiante, não vou te impedir.
+273|Dificuldade Evil!
+274|Você é bem ousado de tentar o [yellow]Evil![/color]
+275|・ATK e HP dos inimigos [turquoise]aumentam ainda mais[/color]
+276|・Fraquezas e críticos causam [turquoise]mais dano[/color]
+277|・O bônus de EXP aumenta ainda mais
+278|・O BLAST do inimigo [turquoise]sobe mais devagar[/color]
+279|...Se quer dominar os combos, não vou te impedir.
+280|PAUSA
+284| Fugiu
+285|Derrotado...
+286|DEFESA
+287|RESERVA
+288|DE NOVO?
+289|[Circle_ani2]Sim　[Cross_ani2]Não
+290|NOME
+292|FRACO
+293|RESISTE
+296|Soldado
+297|PONTO FRACO
+299|BARRA DE FUGA
+300|SEM FUGA
+301|FUGIU
+328|%d GALD
+329|ITEM OBTIDO!
+330|VAZIO
+331|ERROU
+333|CAIU!
+335|CARGA
+336|Espiral
+337|INIMIGO À VISTA!
+339|USUÁRIO
+340|ALVO
+343|FORÇA
+344|Fraco a P. ATK
+345|Fraco a M. ATK
+346|[Circle_ani]Detalhes
+347|[R1_ani]Câmera: [TAG_015]
+348|Alvo
+349|Grupo
+350|Inimigo
+351|Todos
+352|[L1_ani]Trocar Personagem
+354|Petrificar
+358|Paralisia
+360|Encolher
+361|Parada
+362|Evita Tudo
+365|Firmeza
+375|PEDRA
+377|VENENO
+378|SONO
+379|PARALISIA
+380|SELO
+381|ENCOLHE
+382|PARADA
+399|BLOQUEIO
+400|CRÍTICO
+401|LIMPO
+402|NÃO PODE USAR ITEM
+403|ITEM RESERVADO
+404|NÃO EQUIPÁVEL
+405|GOLPE EM CADEIA!
+406|GOLPE CERTEIRO!!
+407|DE NOVO...
+408|EXP BÔNUS
+409|[Circle_copy]ESPERAR
+410|[Cross_copy]PULAR
+411|Itens Obtidos
+413|Novo Nível
+427|Aprendeu [yellow][TAG_015][/color]
+428|Aprendeu [TAG_015] artes
+429|Disp. Swordian
+430|Dominou [TAG_015] Dispositivos
+431|Novo Dispositivo Despertou
+432|Bônus de Rank!
+433|Pontos de dispositivo +[TAG_015]!
+434|Indignação
+435|Saco de Comida
+437|O grupo preparou [TAG_016][TAG_015].
+438|[TAG_015] sobe para [yellow][TAG_016][/color]!
+439|TENTE ISSO!
+441|[Cross_ani2]:Pular
+442|PERFURAR
+443|DESCANSO
+444|A cabeça cresceu de novo!
+445|Os ombros cresceram de novo!
+446|VITÓRIA %s!
+447|ARRASADORA
+448|INSTANTÂNEA
+449|IMEDIATA
+450|PREGUIÇOSA
+451|INTACTA
+452|SUPREMA
+453|HABILIDOSA
+454|CONSUMISTA
+455|EXCELENTE
+456|MARAVILHOSA
+457|MILAGROSA
+458|TRÁGICA
+459|VALIOSA
+460|MAJESTOSA
+461|MORIBUNDA
+462|ELEGANTE
+463|ENCANTADORA
+464|ABENÇOADA
+465|DIGNA
+466|ENTEDIANTE
+467|MUNDANA
+468|Foco

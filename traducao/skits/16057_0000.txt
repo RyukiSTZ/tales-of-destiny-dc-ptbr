@@ -1,0 +1,27 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Rei <Woodrow>, o que pretende
+fazer depois desta batalha?
+[ENDBLOCK]
+Vou voltar a Phandaria e
+cumprir meus deveres de rei.
+[ENDBLOCK]
+J# pensou em quem ser# sua rainha?
+[ENDBLOCK]
+Claro. Como rei, = meu dever.
+[ENDBLOCK]
+Vou me candidatar ao cargo na hora!
+[ENDBLOCK]
+O mestre <Alba> com certeza vai me
+dar trabalho se isso acontecer.
+[ENDBLOCK]
+O <Woodrow> = muito esperto. Ele sempre
+desvia das investidas dela com gentileza.
+[ENDBLOCK]
+Ele = t;o magn&nimo...<x00><x00><x00><x00><x00>
+[ENDBLOCK]

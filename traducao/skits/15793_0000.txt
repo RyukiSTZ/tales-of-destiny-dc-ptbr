@@ -1,0 +1,20 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+H# um oceano acima desta caverna.
+[ENDBLOCK]
+Se o teto desabar, estamos encrencados.
+[ENDBLOCK]
+N;o diga coisas agourentas.
+Vai dar azar!
+[ENDBLOCK]
+Estou come|ando a me sentir meio sufocado...
+[ENDBLOCK]
+...!
+[ENDBLOCK]
+D-Desculpe.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

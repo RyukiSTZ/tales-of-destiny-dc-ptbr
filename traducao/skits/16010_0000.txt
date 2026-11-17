@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ei, <Dymlos>.
+[ENDBLOCK]
+Agora estamos dentro daquela coisa
+grande em forma de espada, n=?
+[ENDBLOCK]
+Isso mesmo.
+[ENDBLOCK]
+N;o fa|o ideia do que aconteceria se o
+Belcrant disparasse com a gente dentro.
+[ENDBLOCK]
+Chegamos at= aqui. N;o podemos deixar isso acontecer.
+[ENDBLOCK]
+Vamos achar o <Hugo> antes que ele termine
+de carregar a arma!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

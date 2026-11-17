@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Hmm. Parece que o Livro de Receitas est# completo.
+[ENDBLOCK]
+Estou t;o feliz. Todo nosso esfor|o valeu a pena!
+[ENDBLOCK]
+Gra|as a juntar todas essas receitas,
+aprendi muito sobre culin#ria.
+[ENDBLOCK]
+<Mary>, j# que voc@ ama tanto cozinhar,
+por que n;o abre um restaurante?
+[ENDBLOCK]
+Hmm... n;o = m# ideia.
+[ENDBLOCK]
+Quando tudo acabar e a paz voltar,
+vou conversar com o <Dalis> sobre isso.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

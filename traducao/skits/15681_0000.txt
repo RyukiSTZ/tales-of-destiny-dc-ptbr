@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Quanto tempo, voc@s dois. Imagino
+que estejam bem?
+[ENDBLOCK]
+Voc@ ficou totalmente calado em Harmentz.
+AGORA quer falar?
+[ENDBLOCK]
+N;o tive como evitar!
+[ENDBLOCK]
+O mestre <Lion> teria brigado comigo se
+eu abrisse a boca l#.
+[ENDBLOCK]
+<Chaltier>, voc@... Voc@ mudou
+bastante, n;o foi?
+[ENDBLOCK]
+Foi bem dif\cil pra mim, com certeza.
+[ENDBLOCK]
+Isso n;o = nada t\pico de uma Swordian.<x00><x00>
+[ENDBLOCK]

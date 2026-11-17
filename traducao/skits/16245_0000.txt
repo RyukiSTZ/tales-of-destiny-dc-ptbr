@@ -1,0 +1,29 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Hoje tentei fazer onigiri!
+[ENDBLOCK]
+Uau! Parece bom! Vou provar um.
+[ENDBLOCK]
+E ent;o? Que gosto tem?
+[ENDBLOCK]
+Deixei de molho num produto qu\mico especial.
+Espero que esteja bom!
+[ENDBLOCK]
+ACK! *Cof* *Pfff* *GHK!*
+[ENDBLOCK]
+...N;o gostou?
+[ENDBLOCK]
+"Espero que esteja bom!?" Credo!
+[ENDBLOCK]
+Voc@ nem provou, n=!?
+[ENDBLOCK]
+D-Desculpa!!
+[ENDBLOCK]
+H# coisas mais importantes
+com que se preocupar agora.<x00><x00>
+[ENDBLOCK]

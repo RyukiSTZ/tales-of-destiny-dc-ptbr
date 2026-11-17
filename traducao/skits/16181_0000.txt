@@ -1,0 +1,14 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ei, <Stahn>. O que voc@ perguntou
+$ Vidente das Lentes?
+[ENDBLOCK]
+Pedi pela seguran|a da <Lilith> e do vov_.
+[ENDBLOCK]
+Isso n;o =... ler a sorte...<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

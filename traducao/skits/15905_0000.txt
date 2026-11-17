@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Precisamos ir ao castelo do <Woodrow>.
+[ENDBLOCK]
+Lembram como chegar a Heidelberg?
+[ENDBLOCK]
+Primeiro, passamos pela Floresta Tilso,
+que fica a oeste de Frostheim.
+[ENDBLOCK]
+}, e saindo da floresta, vamos pro norte.
+Podemos parar em Cyril pra descansar se precisar.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

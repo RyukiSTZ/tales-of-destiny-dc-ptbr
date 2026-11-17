@@ -1,0 +1,13 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+O Templo Straylize fica no fim da
+estrada que segue para o leste de Armeida.
+[ENDBLOCK]
+R#pido. Devemos garantir o Olho
+de Atamoni o quanto antes.<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

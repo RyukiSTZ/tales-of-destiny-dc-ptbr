@@ -1,0 +1,738 @@
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Ufa... estou de barriga cheia.
+Vamos voltar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Apostador
+[ENDBLOCK]
+Como v;o voc@s esta noite?
+Que tal uma divers;o
+depois do jantar?
+[ENDBLOCK]
+Quem = voc@?
+[ENDBLOCK]
+Ah, desculpe! Que falta de educa|;o. Sou s^
+um apostador errante, de cidade em
+cidade, numa jornada sem fim!
+[ENDBLOCK]
+Legal! N;o sabia que existia gente
+como voc@! E o que voc@ quer dizer
+com "divers;o"?
+[ENDBLOCK]
+} um jogo simples. Jogo tr@s
+dados, e voc@ tenta adivinhar
+quanto d# a soma!
+[ENDBLOCK]
+Se acertar, recebe seu gald de
+volta e mais um tanto conforme
+o n{mero apostado!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Hmm... E quais s;o
+as cota|`es?
+[ENDBLOCK]
+Bem, por exemplo, se apostar no 10 e der
+10, recebe 7 vezes seu gald de volta.
+Se apostar no 18 e der 18, recebe
+200 vezes seu gald de volta.
+[ENDBLOCK]
+Certo, espera um pouco!
+[ENDBLOCK]
+...Certo, se ele joga tr@s dados,
+a chance de a soma
+dar 10 =...12%!
+[ENDBLOCK]
+...e 18 =...0,46%?
+[ENDBLOCK]
+Ei, espera a\! Essas chances
+s;o muito a seu favor,
+n;o s;o?
+[ENDBLOCK]
+Ei, qual =. S^ estou
+oferecendo um pouco
+de divers;o aqui.
+[ENDBLOCK]
+N;o pense tanto nisso.
+} s^ um jogo, afinal.
+[ENDBLOCK]
+Mesmo assim, n;o acho que a
+chance de ganhar seja TAO ruim...
+[ENDBLOCK]
+Isso = in{til. N;o vou
+desperdi|ar nosso gald nisso.
+[ENDBLOCK]
+Ah, vai, <Rutee>, n;o posso
+tentar pelo menos uma vez?
+[ENDBLOCK]
+Argh, voc@ n;o tem jeito.
+T#, toma...
+[ENDBLOCK]
+Qu-!? Um Gald!?
+[ENDBLOCK]
+D@-se por feliz que te dei TUDO
+isso pra jogar fora!
+[ENDBLOCK]
+Ent;o, qual = sua aposta, senhor?
+[ENDBLOCK]
+Hm... J# sei! Um Gald
+no 18, por favor!
+[ENDBLOCK]
+Espera, <Stahn>! Sabe que teria que
+jogar 200 vezes pra talvez dar
+18 uma {nica vez, n=?
+[ENDBLOCK]
+S^ quero testar minha
+sorte, s^ isso!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Bem, vamos l#?
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+N;o pode ser...
+[ENDBLOCK]
+Parab=ns, senhor!
+Voc@ ganhou 200 gald.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Uhuu!
+[ENDBLOCK]
+Argh! Por que apostou s^
+um gald, seu bobo!?
+[ENDBLOCK]
+Bobo!? <Rutee>,
+voc@ s^ me deu-
+[ENDBLOCK]
+Sem desculpas!!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Deseja continuar?
+Qual = seu pr^ximo palpite?
+[ENDBLOCK]
+Tudo no 18!!
+[ENDBLOCK]
+PENSA um pouco, <Stahn>! N;o
+vai dar 18 de novo!
+[ENDBLOCK]
+Mas = meu n{mero
+da sorte...
+[ENDBLOCK]
+Parab=ns, senhor! Seu palpite
+certeiro lhe rendeu um pr@mio
+de 40.000 Gald!
+[ENDBLOCK]
+Eu... eu estou sonhando...?
+[ENDBLOCK]
+Tudo no 18!
+[ENDBLOCK]
+<Stahn>! J# entendi!
+Voc@ tem sorte!
+[ENDBLOCK]
+Mas por favor, POR FAVOR, pare! N;o
+tem como os dados darem 18 uma
+TERCEIRA vez!!
+[ENDBLOCK]
+Qual =, <Rutee>! N;o conhece
+o ditado "N;o h# duas sem
+tr@s"?
+[ENDBLOCK]
+Parab=ns! Com isso,
+seus ganhos somam...
+[ENDBLOCK]
+Oito Milh`es de Gald!
+[ENDBLOCK]
+Imposs\vel...!
+[ENDBLOCK]
+Nossa, que sorte a minha hoje.
+Acho que vou parar por aq-
+[ENDBLOCK]
+Ai! <Rutee>, o que foi!?
+[ENDBLOCK]
+Continua! Tudo no 18!
+[ENDBLOCK]
+<Rutee>, j# ganhamos o bastante.
+N;o dev\amos parar?
+[ENDBLOCK]
+Nem pensar, idiota! } seu dia
+de sorte, n=? Vamos continuar!
+[ENDBLOCK]
+Quer jogar
+de novo?
+[ENDBLOCK]
+Sim, claro!
+[ENDBLOCK]
+Muito bem. Vamos l#?
+[ENDBLOCK]
+P-Parab=ns, mo|a.
+Is-Isso leva seus ganhos
+a um total de...
+[ENDBLOCK]
+U-U-Um bilh;o e seiscentos milh`es de Gald...
+[ENDBLOCK]
+Mais! Mais! Tudo no 18, claro!
+[ENDBLOCK]
+R-<Rutee>, tem certeza?
+Talvez a gente deva parar...
+[ENDBLOCK]
+Cala a boca!
+[ENDBLOCK]
+M-Muito bem, v-vamos l#?
+[ENDBLOCK]
+P-P-P-Parab=ns,
+i-isso quer dizer que ganhou...
+[ENDBLOCK]
+T-Trezentos e vinte
+bilh`es de G-Gald...
+[ENDBLOCK]
+Continua! Tudo no 18!
+[ENDBLOCK]
+Vamos, anda logo e
+joga esses dados!
+[ENDBLOCK]
+B-Bem, l-l# vai..
+[ENDBLOCK]
+...N;o pode ser...!
+[ENDBLOCK]
+Ooh, que pena. Deu 17. Voc@ perde
+todos os seus ganhos.
+[ENDBLOCK]
+Trapaceiro! Voc@ trapaceou!!
+[ENDBLOCK]
+Qu@!? Que absurdo!
+Voc@s podiam ter parado
+enquanto ganhavam!
+[ENDBLOCK]
+Ahh n;;;o...
+N;o, n;o, n;o...!
+[ENDBLOCK]
+<Rutee>, desista logo.
+Foi azar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Philia>
+[ENDBLOCK]
+Ah, voc@s parecem
+animados com algo.
+[ENDBLOCK]
+Voc@s est;o aqui
+faz um bom tempo...
+[ENDBLOCK]
+<Rutee>, voc@ est# p#lida! O que
+foi? Aconteceu alguma coisa?
+[ENDBLOCK]
+<Woodrow>
+[ENDBLOCK]
+Sim. Uma grande perda.
+Perdemos um gald inteiro.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+Voc@ agora tem um gald a menos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Taverneiro
+[ENDBLOCK]
+
+[ENDBLOCK]
+Os rebeldes v@m muito aqui
+tamb=m. Melhor tomar cuidado
+com o que diz perto deles.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Bem-vindos.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Majestade! } uma honra receb@-lo
+no meu estabelecimento!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Vamos ficar bem.
+Acabe com eles, Majestade!
+[ENDBLOCK]
+
+[ENDBLOCK]
+Sobrevivemos $ Rebeli;o do <Greybum>.
+Nada mais nos assusta!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Oper#rio
+[ENDBLOCK]
+Desde que paguem a conta, n;o
+me importo de servir rebeldes.
+[ENDBLOCK]
+N;o tenho nada contra o povo de
+Cyril. E d;o boas gorjetas!
+[ENDBLOCK]
+Ei, voc@ me lembra um pouco
+o rei, sabia? Aposto que
+te dizem isso sempre!
+[ENDBLOCK]
+Seu amigo a\ parece um pouco
+o nosso rei. Aposto que
+dizem isso a ele sempre!
+[ENDBLOCK]
+Seinegald foi atacada, n=? Quando
+ser# a vez do nosso pa\s...?
+[ENDBLOCK]
+Tenho tanto medo de que
+aquele raio caia de novo...
+[ENDBLOCK]
+M-Majestade!
+Era mesmo o senhor!
+[ENDBLOCK]
+Desculpe!
+Mil desculpas!
+[ENDBLOCK]
+Deem o seu melhor, pessoal!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Cliente
+[ENDBLOCK]
+M-Maldito <Greybum>...
+V-Voc@ n;o vai se safar
+dessa... *HIC*
+[ENDBLOCK]
+Tr@s vivas pro nosso novo
+Rei <Woodrow>! *HIC*
+[ENDBLOCK]
+O que = Belcrant? N;o sei
+nada disso... *HIC*
+[ENDBLOCK]
+Ugh... por que... ainda = noite?
+O que houve l# fora? *HIC*
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x47><xC4><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x57><xB4><x00><x80><x18><x65><x57><xB8><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x47><xE8><x98><x80>
+[ENDBLOCK]
+<x18><x65><x57><xE4><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x47><xD8><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x47><xD8><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x57><xDC><x00><x80>
+<x18><x65><x57><xE0><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x47><xC4><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...<x00>
+[ENDBLOCK]

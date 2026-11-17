@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Somos contra tr@s pessoas...
+Isso pode ser dif\cil.
+[ENDBLOCK]
+Jovem mestre, est# preocupado?
+[ENDBLOCK]
+N;o seja tolo. N;o h# motivo
+nenhum pra achar que estou preocupado.
+[ENDBLOCK]
+Isso mesmo!
+[ENDBLOCK]
+Ningu=m supera voc@, jovem mestre, ainda
+mais quando se trata de usar uma Swordian!
+[ENDBLOCK]
+Claro!
+[ENDBLOCK]
+Vamos mostrar a esses ladr`es como um mestre luta!
+[ENDBLOCK]
+Vamos, Chal.
+[ENDBLOCK]
+Beleza!<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

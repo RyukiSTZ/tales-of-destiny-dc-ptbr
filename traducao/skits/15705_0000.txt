@@ -1,0 +1,15 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Temos que ajudar quem est#
+trancado l# dentro!
+[ENDBLOCK]
+Mestre <Lion>, deve haver Pedras de Barreira por perto.
+Destrua-as e a porta vai abrir.
+[ENDBLOCK]
+Entendido.<x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

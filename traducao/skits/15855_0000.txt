@@ -1,0 +1,25 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Vamos a Heidelberg recuperar
+o Olho de Atamoni!
+[ENDBLOCK]
+Temos que passar pela floresta onde
+conhecemos o <Woodrow> e os outros.
+[ENDBLOCK]
+Sim. } a Floresta Tilso.
+[ENDBLOCK]
+Floresta... Tilso...
+[ENDBLOCK]
+O que foi, <Mary>? Voc@
+conhece esse lugar?
+[ENDBLOCK]
+N;o... acho que n;o...
+[ENDBLOCK]
+Hmm? Bem, a Floresta Tilso fica a
+oeste, saindo de Frostheim.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

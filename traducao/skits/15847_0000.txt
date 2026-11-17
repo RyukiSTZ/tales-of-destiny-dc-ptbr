@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ele disse que Phandaria caiu...!
+O que est# acontecendo!?
+[ENDBLOCK]
+Calma, <Stahn>. Em emerg@ncias, as pessoas
+tendem a espalhar boatos e fofocas sem base.
+[ENDBLOCK]
+Saiba discernir o que = verdade.
+[ENDBLOCK]
+}, entendi.<x00><x00><x00><x00>
+[ENDBLOCK]

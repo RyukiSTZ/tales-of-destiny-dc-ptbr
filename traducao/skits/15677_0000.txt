@@ -1,0 +1,17 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Finalmente! Que bom que pude ver o Castelo de Seinegald!
+[ENDBLOCK]
+Voc@ parece bem contente, <Stahn>!
+[ENDBLOCK]
+  Ouvi tudo sobre este lugar do vov_!
+Estou muito empolgado por v@-lo pessoalmente!
+[ENDBLOCK]
+Considerando que voc@ foi trazido acorrentado,
+n;o achei que estaria t;o alegre.<x00><x00><x00><x00><x00>
+[ENDBLOCK]

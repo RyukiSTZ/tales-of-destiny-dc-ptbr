@@ -1,0 +1,28 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Ent;o s^ quem = escolhido consegue
+ouvir a voz das Swordians, n=?
+[ENDBLOCK]
+} um jeito de ver as coisas.
+[ENDBLOCK]
+Hehe, isso parece bem legal.
+} como se eu fosse um her^i lend#rio.
+[ENDBLOCK]
+N;o se precipite. Falta a voc@
+a for|a necess-
+[ENDBLOCK]
+<S04>Eu sou o maior her^i! Eis
+<S04>o incr\vel <Stahn>!
+[ENDBLOCK]
+<S08>Homens, sigam-me!
+[ENDBLOCK]
+<S11>UOOOOOAAAAAAAAA!!!!!
+[ENDBLOCK]
+Estou seriamente arrependido de ter
+escolhido voc@ como meu mestre...<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,30 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Pergunta!
+[ENDBLOCK]
+Pronto!
+[ENDBLOCK]
+A ponte $ sua frente tem uma placa: "Ningu=m
+pode cruzar esta ponte." O que voc@ faz?
+[ENDBLOCK]
+Essa = dif\cil...
+[ENDBLOCK]
+...Hmm, j# sei.
+[ENDBLOCK]
+Eu construiria uma ponte nova, que pudesse
+ser usada igualmente por todos.
+[ENDBLOCK]
+Hum, isto = uma charada...
+[ENDBLOCK]
+Que resposta gentil. N;o admira...
+Governantes tamb=m pensam diferente.
+[ENDBLOCK]
+Como esperado do Rei <Woodrow>♪
+[ENDBLOCK]
+...N;o d# pra simplesmente passar por baixo?
+[ENDBLOCK]

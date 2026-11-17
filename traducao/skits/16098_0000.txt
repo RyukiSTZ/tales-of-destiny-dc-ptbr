@@ -1,0 +1,18 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Se um dia eu me aposentar, deixo a
+arena pra voc@, garota.
+[ENDBLOCK]
+Qu@~! N;o posso. Tenho que
+cuidar da casa.
+[ENDBLOCK]
+N;o vem com essa. N;o h# ningu=m mais
+digno de ser a futura campe;.
+[ENDBLOCK]
+Eu - N;o - Quero!<x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

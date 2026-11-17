@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Minha amiga caiu numa armadilha no
+templo. Temos que correr pra ajudar!
+[ENDBLOCK]
+Passei por esta floresta antes,
+mas nunca notei templo nenhum...
+[ENDBLOCK]
+} porque ele fica escondido entre as #rvores.
+N;o admira que n;o tenha notado.
+[ENDBLOCK]
+Se continuarmos, devemos achar uma passagem
+secreta que leva pra dentro do templo.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

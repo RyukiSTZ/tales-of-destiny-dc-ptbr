@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Stahn>, voc@ cozinha?
+[ENDBLOCK]
+Minha irm; cuida da maior parte da
+casa, ent;o n;o muito...
+[ENDBLOCK]
+...Ah, espera! Uma vez o vov_ e a mana
+dormiram demais e eu fiz mingau pra eles!
+[ENDBLOCK]
+Que gentil! Eles devem ter
+ficado encantados!
+[ENDBLOCK]
+}, ficaram bem felizes, mas me
+disseram pra nunca mais fazer.
+[ENDBLOCK]
+"Se fizer de novo, vamos temer pela vida", eles
+disseram. Deviam estar exagerando.
+[ENDBLOCK]
+...Algo me diz que n;o estavam.<x00><x00><x00>
+[ENDBLOCK]

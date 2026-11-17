@@ -1,0 +1,531 @@
+0|MARY> Muito bem, vamos andando!
+1|JOHNNY> Iupi! A vitória é nossa!
+2|KONGMAN> Gwahahahaha!
+3|MARY> {CHELSEA}? O que houve?
+4|CHELSEA> Queria estar no time do {WOODROW}...
+5|STAHN> Haaaaaaah!
+6|STAHN> Espada da chama eterna... Liberte seu poder!
+7|STAHN> Queime meus inimigos até a alma!
+8|STAHN> Liberte!
+9|STAHN> Golpe ardente!
+10|STAHN> Apocalipse Ardente!
+11|STAHN> Não vou cair sem lutar!
+12|STAHN> Fênix Real!
+13|STAHN> Fênix Ardente!
+14|STAHN> Acabou, {MIKTRAN}!
+15|STAHN> Com esta espada, abrirei o caminho do futuro!
+16|STAHN> Agora!
+17|STAHN> Perfure!
+18|STAHN> Estocada Celeste!
+19|STAHN> QUEIME!
+20|STAHN> Fúria Final!
+21|STAHN> Deixa comigo!
+22|DYMLOS> Agora! Vamos!
+23|STAHN> Quem é o próximo!?
+24|STAHN> Vou te mostrar...
+25|STAHN> ...meu poder devastador!
+26|STAHN> Este é o seu fim!
+27|STAHN> Vire cinzas!
+28|STAHN> O inimigo!
+29|STAHN> Vamos!
+30|STAHN> Vamos, pessoal!
+31|STAHN> Atrás de nós!
+32|STAHN> Isso é ruim!
+33|STAHN> Vamos sair daqui!
+34|RUTEE> Vamos acabar logo com isso!
+35|RUTEE> Isso fica comigo!
+36|RUTEE> Estão atrás de nós!?
+37|RUTEE> Estão... dos dois lados?
+38|RUTEE> Isso vai ser divertido!
+39|RUTEE> Você vai pagar!
+40|RUTEE> Hora de falar sério!
+41|RUTEE> Vou me exibir um pouco!
+42|RUTEE> Você não vai escapar!
+43|RUTEE> Isso fica comigo!
+44|RUTEE> Guie-nos ao abraço que cura...
+45|RUTEE> Do mar eterno!
+46|RUTEE> Descarga de Vida!
+47|RUTEE> À deriva na névoa gélida!
+48|RUTEE> Preso num rio congelado!
+49|RUTEE> Afunde já no seu abraço frio!
+50|RUTEE> Abraço Final!
+51|ATWIGHT> Precisamos de um milagre...
+52|ATWIGHT> Engula-os!
+53|ATWIGHT> Faça-os pagar!
+54|RUTEE> Deixa comigo!
+55|RUTEE> Perfure!
+56|RUTEE> Tome isso!
+57|RUTEE> Tudo volta ao nada!
+58|ATWIGHT> Eu lhe darei meu poder.
+59|RUTEE> Milagre da Vida!
+60|ATWIGHT> Perfure!
+61|PHILIA> Vamos dar o nosso melhor.
+62|PHILIA> Uma ameaça...
+63|PHILIA> Ataque inimigo!
+64|PHILIA> Vêm dos dois lados!
+65|PHILIA> Atamoni...
+66|PHILIA> Temos que fugir, rápido!
+67|PHILIA> Imperdoável!
+68|PHILIA> Juízo divino para uma alma má!
+69|PHILIA> Culpa Sagrada!
+70|PHILIA> Lá vou eu, com tudo!
+71|PHILIA> Uive, ó fogo purificador!
+72|PHILIA> Dance, ó gelo humilde!
+73|PHILIA> Açoite, ó vento punidor!
+74|PHILIA> Arrependa-se! Poder Divino!
+75|PHILIA> Venha, ó raio da vida!
+76|PHILIA> Ruja, ó terra da criação!
+77|PHILIA> Cruzado Renascido!
+78|PHILIA> Punição Divina!
+79|CLEMENTE> A vontade de Atamoni!
+80|CLEMENTE> Contemplem o julgamento dela!
+81|PHILIA> O que eu faço...?
+82|CLEMENTE> Derrote seus inimigos!
+83|PHILIA> Dê-me força, {CLEMENTE}!
+84|CLEMENTE> Liberte a vontade dela!
+85|PHILIA> Arrependa-se!
+86|CLEMENTE> Ó terra trovejante!
+87|PHILIA> Ó torrente de água!
+88|CLEMENTE> Ó ventos cortantes!
+89|PHILIA> Ó pira furiosa!
+90|CLEMENTE> Ó gelo perfurante!
+91|PHILIA> Ó luz ofuscante!
+92|PHILIA> O poder de Atamoni...!
+93|LEON> Vamos começar?
+94|LEON> Agora, vamos!
+95|LEON> Ah, esse é o plano deles?
+96|LEON> Parece que estamos presos.
+97|LEON> Não se contenham!
+98|LEON> Hora de falar sério!
+99|LEON> Vamos reagrupar.
+100|LEON> Saiba o seu lugar!
+101|LEON> Hora de varrer esse lixo!
+102|LEON> Suma!
+103|LEON> Inferno Purificador!
+104|LEON> Seja consumido pelas chamas das trevas!
+105|LEON> Seu estorvo!
+106|LEON> Suma...
+107|LEON> ...da minha frente!!
+108|LEON> Desapareça!
+109|LEON> Desapareça!
+110|LEON> Sofrimento Infernal!
+111|LEON> Você não entende nada!
+112|LEON> Já fez as pazes?
+113|LEON> Presa Infernal!
+114|LEON> Vou me libertar do meu passado!
+115|LEON> Acabo com isso num golpe!
+116|CHALTIER> Esmague-os!
+117|LEON> Vamos falar sério?
+118|CHALTIER> Espero que esteja pronto!
+119|CHALTIER> Suma da nossa frente!
+120|LEON> Lembre deste momento para sempre!
+121|WOODROW> Eles vieram.
+122|WOODROW> Parecem hostis.
+123|WOODROW> Emboscada, cuidado!
+124|WOODROW> Cercados! Às posições!
+125|WOODROW> Temos que ficar atentos!
+126|WOODROW> Recuar!
+127|WOODROW> Disparar!
+128|WOODROW> Permita que eu mostre!
+129|WOODROW> Ainda não acabei com você!
+130|WOODROW> Estocada! Onda Celeste!
+131|WOODROW> Vendaval eterno, dê-me poder!
+132|WOODROW> Tempestade dançante!
+133|WOODROW> Vórtice Radiante!
+134|WOODROW> Não vou me segurar!
+135|WOODROW> Agora é com você...
+136|WOODROW> Confie isso a mim!
+137|IGTENOS> Vamos acabar com isso!
+138|WOODROW> Você é meu!
+139|IGTENOS> Um golpe veloz!
+140|WOODROW> Não vou ceder!
+141|WOODROW> Em guarda!
+142|MARY> Não parecem dar trabalho.
+143|MARY> Bem, vamos andando.
+144|MARY> Lá vêm eles!
+145|MARY> Estamos cercados!
+146|MARY> Hora de dar tudo!
+147|MARY> Vou mostrar do que sou capaz!
+148|MARY> Vamos vazar!
+149|MARY> Que insistentes!
+150|MARY> Vou te derrubar!
+151|MARY> Fúria de Gaia!
+152|MARY> Não vou mais me segurar!
+153|MARY> Suma!
+154|MARY> Vamos lá!
+155|MARY> Tome isso!
+156|MARY> E isso!
+157|MARY> Fracote!
+158|MARY> Você não é nada!
+159|KONGMAN> Vou te nocautear!
+160|KONGMAN> Quem quer apanhar?
+161|KONGMAN> Lute limpo!
+162|KONGMAN> Encaro vocês de qualquer lado!
+163|KONGMAN> NUNCA subestime um CAMPEÃO!
+164|KONGMAN> NUNCA subestime um CAMPEÃO!
+165|KONGMAN> Vamos sair daqui!
+166|KONGMAN> Agora!
+167|KONGMAN> Hiyah!
+168|KONGMAN> Espírito de Luta!
+169|KONGMAN> Mais um!
+170|KONGMAN> Meu golpe final!
+171|KONGMAN> Uyah!
+172|KONGMAN> Quadril Tres Bien!
+173|KONGMAN> Meus músculos pulsam!
+174|KONGMAN> Isso acaba agora!
+175|KONGMAN> Vem que tem!
+176|KONGMAN> MÚSCULOS LIBERTOS!
+177|KONGMAN> Some daqui!
+178|KONGMAN> Ainda de pé?
+179|KONGMAN> Então chegou a isso...
+180|KONGMAN> Olha só isso!
+181|JOHNNY> Vamos nessa!
+182|JOHNNY> Vamos dançar?
+183|JOHNNY> Chegaram os arruaceiros!
+184|JOHNNY> O que fazemos?
+185|JOHNNY> Vem! Estou indo atrás de você!
+186|JOHNNY> VAMOS! Vamos fazer a festa!
+187|JOHNNY> Corram por suas vidas!
+188|JOHNNY> Agora esquentou!
+189|JOHNNY> Ficou animado, baby!
+190|JOHNNY> Isso!
+191|JOHNNY> Está pronto?
+192|JOHNNY> Qual é o seu problema!?
+193|JOHNNY> Não quer festa?
+194|JOHNNY> Então caia fora!
+195|JOHNNY> Deixa comigo!
+196|JOHNNY> Ouça a glória da minha voz!
+197|JOHNNY> Tudo certo!
+198|JOHNNY> Ouça minha canção gloriosa!
+199|JOHNNY> TURNÊ DE VOLTA!
+200|JOHNNY> Foi demais!
+201|CHELSEA> Vou dar o meu melhor!
+202|CHELSEA> Eu cubro a retaguarda.
+203|CHELSEA> Quê? Quando eles...
+204|CHELSEA> Estamos totalmente cercados!
+205|CHELSEA> Não perderemos para vocês!
+206|CHELSEA> Essa foi por pouco...
+207|CHELSEA> Que tal isso!
+208|CHELSEA> Experimente isto!
+209|CHELSEA> Lá vem coisa boa!
+210|CHELSEA> Lá vem o grandão!
+211|CHELSEA> Deixa comigo!
+212|CHELSEA> Pétala Gélida!
+213|CHELSEA> Eyah!
+214|CHELSEA> Gansos Selvagens!
+215|CHELSEA> É isso!
+216|CHELSEA> Ataque em onda!
+217|CHELSEA> Toma!
+218|CHELSEA> Vamos nessa!
+219|CHELSEA> Chova lá de cima!
+220|CHELSEA> Asas livres, voem aos céus!
+221|LILITH> Vamos lá!
+222|LILITH> Vamos?
+223|LILITH> Parecem estar atrás de nós.
+224|LILITH> Estamos presos.
+225|LILITH> Você é tão forte assim?
+226|LILITH> Recuar. Recuar!
+227|LILITH> Chega!
+228|LILITH> Veja minha técnica supersecreta!
+229|LILITH> Espada Trovão!
+230|LILITH> Brincadeira!
+231|LILITH> Só pode ser brincadeira!
+232|LILITH> O que eu faço com você!?
+233|LILITH> Sai da frente!
+234|LILITH> Foi mal...
+235|LILITH> Tome isso!
+236|LILITH> Até mais!
+237|LILITH> Fora daqui!
+238|LILITH> DING!
+239|STAHN> Viva!
+240|STAHN> Iupi!
+241|STAHN> Isso, vencemos!
+242|STAHN> Somos imbatíveis!
+243|STAHN> Foi moleza.
+244|STAHN> Essa foi inesperada.
+245|STAHN> Eles eram bem fortes.
+246|STAHN> Isso me deixou empolgado!
+247|RUTEE> Ok!
+248|RUTEE> Conseguimos!
+249|RUTEE> Foi perfeito!
+250|RUTEE> Nossa, que perda de tempo!
+251|RUTEE> Esse fracote nem valeu a lens.
+252|RUTEE> Pare de brincadeira!
+253|RUTEE> Zero de lucro.
+254|RUTEE> Quanto mais pega emprestado, mais paga!
+255|Não sou eu que faço as regras!
+256|PHILIA> Ufa, conseguimos...
+257|PHILIA> Doeu? Peço desculpas.
+258|PHILIA> Atamoni nos protegeu!
+259|PHILIA> Estou fazendo o meu melhor!
+260|PHILIA> Fui útil?
+261|PHILIA> Isso também é treino.
+262|PHILIA> Ó Atamoni, era um teste?
+263|PHILIA> Reflita sobre seus pecados e se salve!
+264|LEON> O resultado sempre será o mesmo!
+265|LEON> Foram tolos de me enfrentar.
+266|LEON> Nem vale palavras.
+267|LEON> Duvido que veremos gente como você de novo.
+268|LEON> Nunca mais veremos sua cara!
+269|LEON> Peixe pequeno devia ficar no lago.
+270|LEON> Que perda de tempo...
+271|LEON> Não esperava essa... Estou ficando descuidado.
+272|LEON> Achou mesmo que ia vencer!?
+273|WOODROW> Um esforço inútil...
+274|WOODROW> Você deu azar.
+275|WOODROW> Que pena.
+276|WOODROW> Sem piedade para quem fica no meu caminho!
+277|WOODROW> Obstáculos não merecem piedade!
+278|WOODROW> Ótimo. Vamos continuar assim.
+279|WOODROW> Cuidado com quem você ataca da próxima vez.
+280|WOODROW> Essa batalha pareceu uma guerra...
+281|WOODROW> Que inimigo feroz... Temos que ter cuidado.
+282|WOODROW> Tenho um motivo para não perder!
+283|WOODROW> Outros dependem do meu sucesso.
+284|MARY> Hahaha!
+285|MARY> Hahaha!
+286|MARY> Foi bem divertido!
+287|MARY> Hã? Já acabou?
+288|MARY> Pareciam tão durões, né?
+289|MARY> Nada pode te salvar agora.
+290|MARY> Isso demorou demais...
+291|MARY> Essa foi por pouco...
+292|MARY> Exagero? Não. Acabei com o sofrimento dele.
+293|KONGMAN> EU SOU O CAMPEÃO!!!
+294|KONGMAN> Sem problema!
+295|KONGMAN> Agora! Jure pelo meu bíceps que nunca mais fará o mal!
+296|KONGMAN> Contemplem meus gloriosos MÚSCULOS!!!
+297|KONGMAN> K.O. no primeiro round! É assim que se faz!
+298|KONGMAN> Essa foi longa...
+299|KONGMAN> Ufa, até me machucaram. Nada mal!
+300|KONGMAN> Este é meu CIRCO DE MÚSCULOS!
+301|JOHNNY> Já se apaixonou por mim?
+302|JOHNNY> Fique hipnotizado!
+303|JOHNNY> Era para eles serem fortes?
+304|JOHNNY> Talvez tenha sido demais pra você...
+305|JOHNNY> Já é hora de voltar?
+306|JOHNNY> Tsc tsc, bem fraquinho.
+307|JOHNNY> Desculpe, não faço bis.
+308|JOHNNY> Talvez tenha esquentado demais...
+309|JOHNNY> Não gostou? Vamos nos ver de novo?
+310|CHELSEA> Todos os bandidos detidos.
+311|CHELSEA> Justiça cármica!
+312|CHELSEA> Amor mais amizade é igual a vitória!
+313|CHELSEA> Que bobos, achando que nos venceriam.
+314|CHELSEA> Bom trabalho, pessoal!
+315|CHELSEA> Essa foi meio difícil...
+316|CHELSEA> Uhuu! Conseguimos!
+317|CHELSEA> Sou uma guerreira poderosa!
+318|LILITH> Eles tinham péssimo gosto.
+319|LILITH> Ufa... bom trabalho.
+320|LILITH> Que bagunça para limpar.
+321|LILITH> Boa viagem.
+322|LILITH> Faltou um tempo no forno.
+323|LILITH> Não foi uma luta fácil.
+324|LILITH> Hum, até que eram bons...
+325|LILITH> Tome mais juízo, tá?
+326|LILITH> Para mim chega!
+327|STAHN> Zzzz...
+328|RUTEE> Ei, não é hora de dormir!
+329|LEON> Esqueça, deixe ele.
+330|LEON> Nem encostaram em mim!
+331|JOHNNY> Não é justo. Alguns nem têm dedos!
+332|STAHN> Já sou um lutador bem forte.
+333|DYMLOS> Errado, você ainda é novato!
+334|RUTEE> Hã? Já acabou?
+335|ATWIGHT> Foi você quem deu o golpe final...
+336|PHILIA> Então este é o poder de uma swordian...
+337|CLEMENTE> A força de uma swordian depende do mestre.
+338|WOODROW> Esta lâmina acerta em cheio.
+339|IGTENOS> Seus golpes velozes sempre acertam.
+340|LEON> Patético! Nem valeu o esforço.
+341|CHALTIER> Você é incrível, Jovem Mestre!
+342|CHELSEA> Vencemos! Viu isso, Lorde - Ei! Você não é o {WOODROW}!
+343|RUTEE> Eu estava aqui o tempo todo!
+344|MARY> Eram tão fortes que soltei minha fera interior.
+345|RUTEE> Acho que você sempre luta assim...
+346|JOHNNY> Meu canto não foi hipnotizante?
+347|KONGMAN> Eu não chamaria isso de canção...
+348|LILITH> Que descuidado, maninho!
+349|STAHN> *suspiro* Não tenho nada a dizer...
+350|JOHNNY> Como luta tão bem com essa roupa?
+351|LILITH> Olha quem fala, {JOHNNY}...
+352|KONGMAN> Coma mais carne! Está magro demais!
+353|CHELSEA> Eles já são só ossos...
+354|STAHN> Foi difícil... Não aguentaríamos outro round.
+355|RUTEE> Nunca mais quero cruzar com ele.
+356|KONGMAN> Armas são o mal! Não precisamos delas! Gyahahaha!
+357|DYMLOS> Ele não está falando de mim, né...?
+358|STAHN> {CHELSEA}, o que aquela árvore disse agora?
+359|CHELSEA> Quê!? N-nada de especial...?
+360|MARY> Morcegos têm voz forte ou fraca?
+361|JOHNNY> Por que me pergunta isso...?
+362|CHELSEA> As aves de rapina atacam de novo!
+363|PHILIA> ...Fala de nós ou deles?
+364|PHILIA> Como posso dizer? SAIAM DA FRENTE!
+365|RUTEE> Sério...
+366|KONGMAN> Meu corpo é perfeito! O frio não é nada!
+367|RUTEE> Olhar pra ele não te dá mais frio?
+368|CHELSEA> {RUTEE}, por que diz isso?
+369|KONGMAN> A mente vence a matéria, garota.
+370|LEON> Você está procurando gald EM PLENA BATALHA?!
+371|RUTEE> Se não, como chego a um milhão?
+372|STAHN> O que nós somos?
+373|{COLOR_START}Todos{COLOR_END}: IMBATÍVEIS!
+374|WOODROW> Muito bem, pessoal.
+375|CHELSEA> Até eu, Lorde {WOODROW}?
+376|CHELSEA> Amor!
+377|STAHN> Amizade!
+378|KONGMAN> VITÓRIA!
+379|CHELSEA> Isso!!
+380|KONGMAN> Sou VITORIOSO... mas por que me sinto vazio?
+381|STAHN> É assim que se faz!
+382|LEON> Bem, é assim que VOCÊ faz.
+383|RUTEE> Sério, isso é tudo você...
+384|STAHN> ...
+385|PHILIA> Que vitória satisfatória.
+386|RUTEE> Menos uma pessoa.
+387|PHILIA> Sim, nos perdoe, {STAHN}.
+388|LILITH> Maninho, vencemos!
+389|STAHN> Ei... Até quando vai me seguir por aí?
+390|LILITH> Até quando você vai voltar para casa!?
+391|MARY> Acabou!
+392|CHELSEA> O poder das garotas venceu!
+393|RUTEE> Hum, talvez não precisemos dos rapazes?
+394|PHILIA> Bem...
+395|STAHN> Somos invencíveis!
+396|KONGMAN> Nada resiste aos nossos músculos!
+397|JOHNNY> Esta equipe é macha demais pra mim...
+398|WOODROW> ...
+399|RUTEE> Fica bem quieto sem o {STAHN}.
+400|CHELSEA> Sem o Lorde {WOODROW}, acho que não venço...
+401|KONGMAN> Meus músculos doem sem a {PHILIA}.
+402|RUTEE> Do que vocês dois estão falando?
+403|WOODROW> O que foi, {STAHN}?
+404|STAHN> Sinto que estou andando em círculos.
+405|WOODROW> Já me senti assim antes...
+406|STAHN> O que será que causa isso...
+407|WOODROW> A ampulheta é bem eficaz.
+408|STAHN> Com isso eu dormiria o quanto quisesse.
+409|JOHNNY> Seria o pior uso possível dela.
+410|CHELSEA> Amor!
+411|STAHN> Amizade!
+412|LILITH> Culinária!
+413|CHELSEA> Isso! Espera, quê?
+414|LEON> Saia da frente se quiser viver!
+415|LEON> Não abuse da sorte, fracote!
+416|LEON> Corto quem ficar no meu caminho.
+417|LEON> Que moleza.
+418|CHALTIER> Seria bom se todos fossem assim.
+419|CHALTIER> Incrível como sempre, Jovem Mestre!
+420|LEON> Nem exigiu muito esforço.
+421|{COLOR_START}Barbatos{COLOR_END}: A fera interior grita!
+422|{COLOR_START}Barbatos{COLOR_END}: TODOS VOCÊS VÃO MORRER!
+423|{COLOR_START}Barbatos{COLOR_END}: Absurdo! Isso é impossível. Impossível!
+424|{COLOR_START}Barbatos{COLOR_END}: Hehehe, meus parabéns!
+425|{COLOR_START}Barbatos{COLOR_END}: Vocês não merecem viver!
+426|{COLOR_START}Barbatos{COLOR_END}: NÃO!
+427|{COLOR_START}Barbatos{COLOR_END}: ITENS!
+428|{COLOR_START}Barbatos{COLOR_END}: NUNCA!!!
+429|{COLOR_START}Soldado de Seinegald{COLOR_END}: Peguem-nos!
+430|{COLOR_START}Soldado{COLOR_END}: Peguem-nos!
+431|{COLOR_START}Soldado{COLOR_END}: Capturem-nos a qualquer custo!
+432|STAHN> Que diabos está acontecendo!?
+433|RUTEE> Sem tempo pra perguntas! Temos que nos defender!
+434|STAHN> Droga! Não aguentamos muito mais disso!
+435|RUTEE> Vou tirar esse sorriso da sua cara!
+436|Vai se arrepender de brigar com a gente!
+437|LEON> Agora, vejam o verdadeiro poder das Swordians.
+438|PHILIA> Esses monstros...! Foram eles que me
+439|transformaram em pedra!
+440|STAHN> Não importa a situação, não vamos perder!
+441|BATISTA> Malditos pirralhos!
+442|BATISTA> Chega!
+443|BATISTA> Que fracos. Acabar com vocês foi piedade!
+444|BATISTA> Malditos!
+445|LEON> Será este o monstro?
+446|STAHN> Viemos longe demais pra desistir! Vamos lá!
+447|STAHN> O que É essa coisa?! Um polvo!?
+448|DYMLOS> Um Kraken! Temido como o demônio do mar!
+449|TIBERIUS> Eu sou o rei de Aquaveil!
+450|TIBERIUS> Ajoelhem, ou eu os corto!
+451|TIBERIUS> Ugh, impossível...
+452|TIBERIUS> Vejo sua fraqueza!
+453|TIBERIUS> Faltam 100 anos pra você!
+454|DALIS> Já que chegaram até aqui, não haverá piedade!
+455|DALIS> Acaba agora!
+456|GREYBUM> Hahahaha. Tremam de desespero
+457|enquanto lhes dou uma morte horrível!
+458|GREYBUM> Vocês não vão me derrubar!
+459|STAHN> Pare, Leon! Por que está fazendo isso!?
+460|LEON> Vocês não vão passar daqui!
+461|BARUK> De agora em diante, saberão o que é guerra!
+462|BARUK> Ataquem!
+463|BARUK> Este será o seu fim!
+464|BARUK> No fim, eu continuo vitorioso!
+465|BARUK> Vão pagar pela sua arrogância!
+466|BARUK> Então essa é sua verdadeira força...
+467|ILENE> Não vou deixar VOCÊ me impedir!
+468|ILENE> Hora de falar sério!
+469|ILENE> Por favor, me perdoem...
+470|ILENE> Kyaaah!
+471|REMBRANDT> Contemplem o auge da inovação!
+472|REMBRANDT> Preparem-se para seu terrível poder!
+473|REMBRANDT> Não avancem!
+474|REMBRANDT> Mestre Hugo!
+475|REMBRANDT> Adeus!
+476|HUGO> Saiba o seu lugar!
+477|HUGO> É... aqui que termina?
+478|HUGO> Acabou! Afunde no nada...
+479|DYMLOS> Você se deixou aberto!
+480|DYMLOS> Não seja tão confiante!
+481|DYMLOS> Foi bem... por me vencer...
+482|DYMLOS> Esperava um desfecho diferente...
+483|DYMLOS> O fogo parece funcionar bem!
+484|DYMLOS> O fogo não os afeta!
+485|ATWIGHT> Artes de água são bem eficazes!
+486|ATWIGHT> Parece que a água não é eficaz.
+487|CLEMENTE> Artes de água são eficazes!
+488|CLEMENTE> Artes de terra são eficazes!
+489|CLEMENTE> Artes de vento são eficazes!
+490|CLEMENTE> Artes de fogo são eficazes!
+491|CLEMENTE> Artes de luz são eficazes!
+492|CLEMENTE> Artes das trevas são eficazes!
+493|CLEMENTE> Hum, isso não funcionou.
+494|CHALTIER> Magia é inútil contra eles!
+495|CHALTIER> Sua lâmina nem os arranhou!
+496|CHALTIER> São fracos contra sua lâmina!
+497|CHALTIER> São fracos contra sua magia!
+498|IGTENOS> Golpes de vento não funcionam neles.
+499|IGTENOS> São vulneráveis ao seu arco!
+500|IGTENOS> São vulneráveis à sua espada!
+501|IGTENOS> São fracos contra artes de vento!
+502|MIKTRAN> Insetos como vocês não são páreo para um deus!
+503|MIKTRAN> Saibam o seu lugar!
+504|MIKTRAN> Eu calculei mal!?
+505|MIKTRAN> Como esperado, não eram dignos.
+506|DYMLOS> Ele não é deus, só um fantasma de mil anos
+507|enlouquecido pela ilusão!
+508|DYMLOS> Por nossas mãos, isso vai acabar!
+509|STAHN> Isso!
+510|MIKTRAN> Heh heh heh!
+511|MIKTRAN> Heh heh heh!
+512|MIKTRAN> Afoguem-se no desespero!
+513|MIKTRAN> E afundem no desespero!
+514|MIKTRAN> Sumam no abismo entre luz e trevas!
+515|MIKTRAN> Sejam consumidos pela morte!
+516|MIKTRAN> É o seu fim!
+517|MIKTRAN> Sumam!
+518|MIKTRAN> Sumam!
+519|MIKTRAN> A brincadeira acabou!
+520|MIKTRAN> A brincadeira acabou!
+521|MIKTRAN> Isso é impossível!
+522|MIKTRAN> MORRAM! MORRAM! MORRAM! MORRAM!!!
+523|MIKTRAN> MORRAM! MORRAM! MORRAM! MORRAM!!!
+524|MIKTRAN> Seu estorvo!
+525|MIKTRAN> Caiam em ruína!
+526|MIKTRAN> Rastejem diante de um deus...
+527|MIKTRAN> No vazio do seu próprio desespero...
+528|MIKTRAN> Sua carne em pedaços!
+529|MIKTRAN> Cansei de vocês, pirralhos!
+530|MIKTRAN> Contemplem! A erradicação de tudo!

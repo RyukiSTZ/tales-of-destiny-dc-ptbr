@@ -1,0 +1,19 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Vamos sair e recolher as lentes pra alimentar
+o Canh;o de Lentes Integrado.
+[ENDBLOCK]
+Temos que viajar a Neustadt, Heidelberg,
+Calviola e Terazzi.
+[ENDBLOCK]
+Quando tivermos o necess#rio,
+voltamos ao Castelo de Seinegald.
+[ENDBLOCK]
+Quando terminarmos, quantas
+lentes ser# que vamos ter?<x00><x00><x00><x00><x00>
+[ENDBLOCK]

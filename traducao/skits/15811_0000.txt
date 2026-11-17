@@ -1,0 +1,12 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+A {nica pessoa com quem podemos
+contar agora = aquele tal de <Johnny>.
+[ENDBLOCK]
+Vamos ouvir os detalhes.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

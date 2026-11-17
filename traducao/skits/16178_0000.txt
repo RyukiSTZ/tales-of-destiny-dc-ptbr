@@ -1,0 +1,29 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Foi um belo desafio.
+[ENDBLOCK]
+De fato. Que bom ter acertado todas as perguntas.
+Sinto que meu estudo di#rio valeu a pena.
+[ENDBLOCK]
+Ali#s, como v;o decidir o
+presidente do clube do quiz?
+[ENDBLOCK]
+Quem seria mais adequado,
+a <Philia> ou o <Woodrow>?
+[ENDBLOCK]
+Hmm. As respostas de todas as perguntas foram
+conquistadas com o esfor|o de todos, ent;o...
+[ENDBLOCK]
+Por que n;o dividimos em clube masculino e
+feminino? E cada um faz do seu jeito.
+[ENDBLOCK]
+Heh, boa ideia!
+[ENDBLOCK]
+Ent;o o <Woodrow> lidera o clube masculino e
+a <Philia> lidera o clube feminino!<x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]

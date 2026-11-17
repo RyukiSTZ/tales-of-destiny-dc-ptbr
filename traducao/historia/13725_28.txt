@@ -1,0 +1,673 @@
+××××××空開始××××××
+
+[ENDBLOCK]
+××××××空終了××××××
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻開始◆◆◆◆◆◆
+
+[ENDBLOCK]
+◆◆◆◆◆◆外殻終了◆◆◆◆◆◆
+
+[ENDBLOCK]
+●●●●●●雲開始●●●●●●
+
+[ENDBLOCK]
+●●●●●●雲終了●●●●●●
+
+[ENDBLOCK]
+ mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Mulher
+[ENDBLOCK]
+Voc@ tem entrado e sa\do
+bastante da mans;o.
+Voc@ mora l#?
+[ENDBLOCK]
+
+[ENDBLOCK]
+Faz tempo que n;o vejo o chefe
+da Oberon nem o mordomo dele.
+[ENDBLOCK]
+Esta = a mans;o do chefe da
+Oberon. N;o = magn\fica?
+[ENDBLOCK]
+A mon... A montanha sumiu!
+[ENDBLOCK]
+Quer dizer que o chefe da Oberon
+= o mentor por tr#s disso?
+S^ pode ser brincadeira!
+[ENDBLOCK]
+Se a Oberon = mesmo respons#vel,
+a empresa inteira devia
+ser fechada.
+[ENDBLOCK]
+} verdade que a arma secreta
+que est;o construindo no castelo
+usa muitas lentes?
+[ENDBLOCK]
+Sempre que ou|o a palavra "lente",
+n;o consigo deixar de pensar
+na Companhia Oberon.
+[ENDBLOCK]
+A arma secreta de lentes n;o
+tem nada a ver com a Oberon, tem?
+[ENDBLOCK]
+Todos est;o contando com voc@s!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Guarda
+[ENDBLOCK]
+N;o foi divulgado ao p{blico que o
+Mestre <Lion> = filho do presidente.
+[ENDBLOCK]
+Fiquem atentos e informem sobre
+qualquer pessoa suspeita.
+[ENDBLOCK]
+Sempre que ou|o falar dos feitos do
+Mestre <Lion>, me d# vontade de
+me gabar dele para algu=m.
+[ENDBLOCK]
+O Sr. <Hugo> agora = um bem importante
+para o nosso pa\s. Estou aqui para
+garantir a seguran|a dele.
+[ENDBLOCK]
+Fui dispensado da guarda da
+mans;o do <Hugo>. } uma ordem
+direta dos meus superiores.
+[ENDBLOCK]
+E, mesmo assim, por costume,
+continuo aqui.
+[ENDBLOCK]
+Era o Sr. <Hugo> quem estava
+transmitindo. Assim que
+ouvi a voz dele, eu soube.
+[ENDBLOCK]
+Trair o pr^prio pa\s = um crime
+grave. Nunca vou perdoar o <Hugo>.
+[ENDBLOCK]
+Recebi ordens de vigiar a
+propriedade. Por isso, n;o
+vou sair deste posto.
+[ENDBLOCK]
+
+[ENDBLOCK]
+A <Marian>, que trabalha na
+mans;o, est# esperando
+algu=m voltar para casa.
+[ENDBLOCK]
+N;o acho que haja algu=m
+que voltaria para esta
+mans;o agora.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Homem
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Uma vida livre da influ@ncia
+das lentes. Nem consigo imaginar.
+[ENDBLOCK]
+
+[ENDBLOCK]
+O chefe da Oberon, <Hugo>,
+tem tantas conquistas
+magn\ficas.
+[ENDBLOCK]
+
+[ENDBLOCK]
+Antes de o Sr. <Rembrandt> me
+encontrar, eu era ca|ador de lentes.
+[ENDBLOCK]
+N;o fui escolhido para subir aos
+c=us. Ent;o n;o sou digno.
+[ENDBLOCK]
+Quando eu era ca|ador de lentes,
+vivia correndo perigo.
+[ENDBLOCK]
+A Aetherosfera tapando o c=u
+n;o me assusta nem um pouco.
+[ENDBLOCK]
+Conto com voc@, bruxa gananciosa!
+[ENDBLOCK]
+Conto com voc@s!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aprendiz
+[ENDBLOCK]
+Bom dia!
+[ENDBLOCK]
+Ainda sou aprendiz,
+mas estou ansiosa para ajudar.
+[ENDBLOCK]
+Ai. Ainda sou aprendiz...
+[ENDBLOCK]
+Ficou sabendo da {ltima fofoca?
+Parece que o Mestre <Lion> =,
+na verdade, desta mans;o o...
+[ENDBLOCK]
+D-Desculpe! N;o = nada.
+Esque|a o que eu disse!
+[ENDBLOCK]
+Nem cochichar nos deixam
+na mans;o. Essas regras
+s;o sufocantes...
+[ENDBLOCK]
+Vi uma luz caindo l# do
+alto do c=u.
+[ENDBLOCK]
+Uma luz t;o incr\vel, nunca
+vi nada parecido.
+[ENDBLOCK]
+Agora que o patr;o e o mordomo se
+foram, a resid@ncia est# largada.
+[ENDBLOCK]
+Tenho certeza de que nem vou receber
+por todo o trabalho que fiz...
+[ENDBLOCK]
+A <Marian> voltou, mas tem
+algo diferente nela.
+[ENDBLOCK]
+A <Marian> insistiu que eu ajudasse
+a levar lentes para o castelo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+Bem-vindo de volta, Mestre <Lion>.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Stahn>
+[ENDBLOCK]
+Certo, estou animado! Vamos
+correndo para o Templo de Hayrise!
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Dymlos>
+[ENDBLOCK]
+<center>} "Straylize"! Pelo menos
+lembre o nome!
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Lion>
+[ENDBLOCK]
+Acabei de lembrar de uma coisa.
+Esperem aqui um segundo.
+[ENDBLOCK]
+Isso demorou demais!
+[ENDBLOCK]
+Certo. Vamos andando.
+[ENDBLOCK]
+<Rutee>
+[ENDBLOCK]
+Nem vai pedir desculpa por
+fazer a gente esperar?
+[ENDBLOCK]
+Voc@s t@m um Amuleto Antiveneno?
+V;o precisar dele daqui pra frente.
+[ENDBLOCK]
+...Chal. Explique a eles.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Chaltier>
+[ENDBLOCK]
+<center>D# pra criar joias
+com materiais via Rerise.
+[ENDBLOCK]
+<center>Elas n;o s^ previnem males, como
+tamb=m aumentam seus atributos,
+e algumas t@m outras habilidades.
+[ENDBLOCK]
+<center>E d# pra usar Rerise numa gema v#rias vezes,
+aumentando o efeito dela nos atributos.
+[ENDBLOCK]
+Ent;o os materiais viram gemas, e
+d# pra fortalecer elas, n=?
+[ENDBLOCK]
+Veja voc@ mesmo. Tome.
+[ENDBLOCK]
+Consegui!
+[ENDBLOCK]
+<center>} uma boa ideia usar Rerise
+nos materiais com frequ@ncia.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<Hugo>
+[ENDBLOCK]
+Espere um momento, <Lion>.
+[ENDBLOCK]
+Quase esqueci de lhe dar
+a sua mesada.
+Tome, pegue isto.
+[ENDBLOCK]
+...Obrigado, senhor.
+[ENDBLOCK]
+Certamente.
+[ENDBLOCK]
+Ele = t;o educado com o pai.
+Na minha fam\lia =
+bem diferente...
+[ENDBLOCK]
+...Cheguei, <Marian>.
+[ENDBLOCK]
+Bem-vindo de volta, Emilio.
+[ENDBLOCK]
+Emilio, voc@ vai sair?
+[ENDBLOCK]
+N;o pretendo demorar.
+[ENDBLOCK]
+Ent;o vou deixar o jantar
+pronto pra voc@.<x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00><x00>
+[ENDBLOCK]
+Certo, j# vou indo.
+[ENDBLOCK]
+Emilio, espere um momento, por favor.
+[ENDBLOCK]
+...O que foi, <Marian>?
+[ENDBLOCK]
+Ei, Emilio, tem uma coisa
+me incomodando, se n;o se
+importa que eu fale.
+[ENDBLOCK]
+C-Claro...
+[ENDBLOCK]
+O jeito como voc@ falou com
+aquele soldado agora h# pouco
+n;o foi muito adequado.
+[ENDBLOCK]
+Mesmo que voc@ tenha posto maior,
+ele ainda era mais velho que voc@.
+[ENDBLOCK]
+Ningu=m vai querer seguir suas
+ordens se continuar assim.
+[ENDBLOCK]
+Eu... mas = que... ele estava...!
+[ENDBLOCK]
+Ele estava o qu@, exatamente?
+[ENDBLOCK]
+Voc@ precisa lembrar o que se
+espera de algu=m da sua
+posi|;o.
+[ENDBLOCK]
+Eu... entendo. Vou
+tomar mais cuidado.
+[ENDBLOCK]
+Bom, se voc@ entendeu,
+fico feliz de ter falado.
+[ENDBLOCK]
+Certo, = s^ isso. Por favor,
+tome cuidado e volte
+em seguran|a.
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Aviso
+[ENDBLOCK]
+<TAG_007>Gald atual: <TAG_033> Gald
+[ENDBLOCK]
+<TAG_007><x17><x66><x10><x2B><x70><x04><xAB><x80><x18><x66><x10><x2B><x44><x1C><x03><xAB><x21><x8B><xE8><x28><x80>
+Sim
+N;o
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007><S03><turquoise><x19><x71><x48><x88><x80></color> 
+[ENDBLOCK]
+entrou para o grupo.
+[ENDBLOCK]
+agora = um membro
+ativo do grupo.
+[ENDBLOCK]
+pode entrar na batalha.
+[ENDBLOCK]
+vai seguir o seu grupo.
+[ENDBLOCK]
+voltou para o grupo.
+[ENDBLOCK]
+
+[ENDBLOCK]
+<x18><x65><x58><x78><x00><x80><x18><x65><x58><x7C><x00><x80>
+[ENDBLOCK]
+saiu do grupo.
+[ENDBLOCK]
+[<center><turquoise><x1A><x2C><x00><x00><x05><x00><x71><x48><xAC><x98><x80>
+[ENDBLOCK]
+<x18><x65><x58><xA8><x00><x80></color>]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+O grupo de <x19><x69><x48><x9C><x80> recebeu os
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Com=rcio
+[ENDBLOCK]
+[<center><turquoise>T\tulos das Termas
+[ENDBLOCK]
+[<center><turquoise>T\tulos Livres
+[ENDBLOCK]
+[<center><turquoise>T\tulos NatuRanger
+[ENDBLOCK]
+[<center><turquoise>T\tulos de Corrida
+[ENDBLOCK]
+[<center><turquoise>T\tulos dos Mais Fortes
+[ENDBLOCK]
+[<center><turquoise>T\tulos do Quiz
+[ENDBLOCK]
+<x19><x69><x48><x9C><x80> recebeu o t\tulo:
+[ENDBLOCK]
+<TAG_007><x18><x65><x58><xA0><x00><x80>
+<x18><x65><x58><xA4><x00><x80>
+[ENDBLOCK]
+camtgt -><TAG_075>/<x09><x10><x27><x00><x00>
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+Voc@ j# possui
+o item [<x1A><x20><x72><x0C><x98><x80>].
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+
+[ENDBLOCK]
+<TAG_007>site
+[ENDBLOCK]
+<TAG_007>詳しくは下記のURLでご確認ください。
+<x0E><x01><x01><x00><x80>http://www.to-destiny.jp<x0E><x01><x01><x00><x40>
+[ENDBLOCK]
+<TAG_007>連動IDは<turquoise><x0E><x01><x01><x00><x80><x0C><x00><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>ゲームパスワードは<turquoise><x0E><x01><x01><x00><x80><x0C><x01><x00><x07><x00><x0E><x01><x01><x00><x40>
+</color>です。
+[ENDBLOCK]
+外殻なしの輝度設定は(RGBA)=(128, 128, 128, 128)です
+
+[ENDBLOCK]
+第一段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+第二段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+第三段階の輝度設定は(RGBA)=(<TAG_077>, <TAG_076>, <TAG_075>, <TAG_035>)です
+
+[ENDBLOCK]
+最終段階の輝度設定は(RGBA)=(<TAG_034>, <TAG_033>, <TAG_032>, <TAG_031>)です
+
+[ENDBLOCK]
+設定がなされません！（tod=<TAG_059>）
+
+[ENDBLOCK]
+Dispositivo n;o ativado.
+[ENDBLOCK]
+Dispositivo de teleporte ativado.
+[ENDBLOCK]
+<x18><x66><x10><x00><x80>
+[ENDBLOCK]
+<TAG_007>O dispositivo Swordian de <x19><x71><x48><x88><x80>
+j# pode ser usado.
+[ENDBLOCK]
+<TAG_007>[Sobre os T\tulos]
+Os t\tulos s;o um dos par&metros
+do personagem que podem ser definidos.
+Veja abaixo como fazer.
+[ENDBLOCK]
+<TAG_007>Ao abrir o menu principal, o
+status do personagem = exibido.
+Nessa tela, aperte <Square_ani> para
+trocar o status do personagem.
+
+[ENDBLOCK]
+<TAG_007>No topo dessa tela fica a op|;o
+[T\tulos]. Aperte <Triangle_ani> para escolher
+entre todos os t\tulos obtidos.
+
+[ENDBLOCK]
+<TAG_007>Os t\tulos t@m duas fun|`es:
+A primeira = [mudar os di#logos
+ao conversar com NPCs].
+[ENDBLOCK]
+<TAG_007>Com certos t\tulos, alguns NPCs se
+interessam por voc@. Falando v#rias vezes
+com eles, as respostas podem mudar.
+Troque o t\tulo e tente falar de novo.
+[ENDBLOCK]
+<TAG_007>Dica: ao falar com certos NPCs, um [?]
+aparece sobre a cabe|a do personagem.
+Quando isso acontecer, use um t\tulo que
+combine com a conversa e fale de novo.
+Algo divertido pode acontecer.
+[ENDBLOCK]
+<TAG_007>A segunda fun|;o dos t\tulos =...
+deixar sua tela de status estilosa!
+Colecionando t\tulos, voc@ pode
+achar um de que goste e coloc#-lo
+no status para dar um charme!
+[ENDBLOCK]
+<TAG_007>[Rali da Pedra] = um jogo em que
+voc@ chuta pedras pelo mapa para
+cumprir certos objetivos.
+
+[ENDBLOCK]
+<TAG_007><x0E><x01><x00><x00><x00>Estas s;o as regras b#sicas.
+1: Chutar uma pedra fora da
+	cidade inicia o jogo.
+2: As batalhas n;o afetam o
+	objetivo do Rali da Pedra.
+3: A pedra volta ao lugar de
+	origem quando voc@ entra ou sai
+	de uma cidade ou masmorra.
+
+[ENDBLOCK]
+【BGM : no=<TAG_031> - vol=<TAG_032>】
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]
+<TAG_008><S06>Carregando...
+[ENDBLOCK]

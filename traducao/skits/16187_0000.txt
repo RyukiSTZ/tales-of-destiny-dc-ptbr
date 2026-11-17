@@ -1,0 +1,32 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Algu=m importante pro <Stahn>... Aah...
+[ENDBLOCK]
+<Stahn>!
+[ENDBLOCK]
+O que foi, <Mary>?
+[ENDBLOCK]
+<Stahn>, responda com sinceridade. O que
+voc@ perguntou $quela Vidente das Lentes?
+[ENDBLOCK]
+E-Eu tamb=m preciso saber!!
+[ENDBLOCK]
+S^ pela seguran|a da minha fam\lia, sabe?
+[ENDBLOCK]
+Qu@...? H;...?
+[ENDBLOCK]
+U=, acabei de dizer. Pedi pra
+minha fam\lia ficar segura.
+[ENDBLOCK]
+<Stahn>, isso = um desejo, n;o uma leitura da sorte...
+[ENDBLOCK]
+<Woodrow>!
+<Rutee>!
+[ENDBLOCK]
+...?<x00><x00><x00>
+[ENDBLOCK]

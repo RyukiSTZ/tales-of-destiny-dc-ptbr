@@ -1,0 +1,22 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Cresta...
+[ENDBLOCK]
+N;o costumamos ouvir falar de
+problemas naquela cidade.
+[ENDBLOCK]
+}, tem raz;o.
+[ENDBLOCK]
+At= agora, nunca tive motivo
+pra ir pra aqueles lados.
+[ENDBLOCK]
+Tenho quase certeza de que d# pra chegar a Cresta
+pelas montanhas a leste de Darilsheid.
+[ENDBLOCK]
+Certo. Vamos logo a Cresta.<x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,21 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+Sair da minha terra foi mesmo a decis;o
+certa. Novas descobertas todo dia.
+[ENDBLOCK]
+}. Cada vez que vivo algo novo,
+sinto um novo encanto.
+[ENDBLOCK]
+Voc@s parecem estar se divertindo.
+[ENDBLOCK]
+  Algo errado, <Rutee>?
+Voc@ n;o parece voc@ mesma.
+[ENDBLOCK]
+Nada. S^ sinto que estou perdendo algo
+por n;o ter essas experi@ncias. <x00><x00><x00>
+[ENDBLOCK]

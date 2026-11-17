@@ -1,0 +1,23 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Woodrow>? O que foi?
+[ENDBLOCK]
+<Mary>. Lembra daqueles
+sequestradores que enfrentamos?
+[ENDBLOCK]
+Como esquecer? Quase nos meteram em
+encrenca. Eram a esc^ria.
+[ENDBLOCK]
+Por que fala deles?
+[ENDBLOCK]
+Fica entre n^s, mas... o <Stahn>
+pode estar em contato com eles.
+[ENDBLOCK]
+O qu@!? O <Stahn>!? Ser# que...?
+Aquela Vidente das Lentes!<x00><x00><x00><x00><x00>
+[ENDBLOCK]

@@ -1,0 +1,26 @@
+
+おまけ
+
+[ENDBLOCK]
+get_chat_time=><x17><x15><xC5><x24><x02><x89><x80>
+
+[ENDBLOCK]
+<Stahn>, voc@ = mais resistente que eu, ent;o quero
+que voc@ v# na frente nas batalhas.
+[ENDBLOCK]
+Entendido. Deixa comigo!
+[ENDBLOCK]
+<Stahn>, voc@ est# bem com isso? Tem certeza
+de que o <Lion> n;o est# s^ te usando?
+[ENDBLOCK]
+N;o, n;o = nada disso. Eu seguro o inimigo
+e o <Lion> acaba com ele!
+[ENDBLOCK]
+N;o =?
+[ENDBLOCK]
+Certo. } uma estrat=gia b#sica, mas
+tamb=m muito importante.
+[ENDBLOCK]
+} meio estranho ver esses
+dois conversando assim...
+[ENDBLOCK]

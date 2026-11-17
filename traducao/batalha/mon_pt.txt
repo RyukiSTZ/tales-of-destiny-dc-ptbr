@@ -1,0 +1,145 @@
+Shadow Stahn|Sombra Stahn
+Shadow Woodrow|Sombra Woodrow
+Cave Shark|Tubarão da Caverna
+Priestess|Sacerdotisa
+Seinegald Soldier|Soldado de Seinegald
+Pirate|Pirata
+Vulture|Abutre
+Slime|Gosma
+Bee|Abelha
+Wolf|Lobo
+Green Roper|Roper Verde
+Snow Bunny|Coelho da Neve
+Claw Bear|Urso Garra
+Sand Rabbit|Coelho da Areia
+Cuttlefish|Siba
+Bishop|Bispo
+Boar|Javali
+Rock Baboon|Babuíno Rochoso
+Mushroom|Cogumelo
+Crystal|Cristal
+Starfish|Estrela-do-Mar
+Yellow Roper|Roper Amarelo
+Desert Fly|Mosca do Deserto
+Snake|Cobra
+Basilisk|Basilisco
+Lizard|Lagarto
+Leech|Sanguessuga
+Bat|Morcego
+Peacock|Pavão
+Moreau Soldier|Soldado de Moreau
+Shade|Sombra
+Zombie|Zumbi
+Skeleton|Esqueleto
+Mummy|Múmia
+Vigilance|Vigilância
+Sweeper|Varredor
+Oberon Employee|Funcionário Oberon
+Battler|Combatente
+Dark Mage|Mago Sombrio
+Healer|Curandeiro
+Wariness|Cautela
+Artillery|Artilharia
+Cockroach|Barata
+Insect Plant|Planta Inseto
+Bite Plant|Planta Mordedora
+Gas Cloud|Nuvem de Gás
+Gazer|Observador
+Elite Seinegald Soldier|Soldado Elite Seinegald
+Hornet|Vespa
+Tract Boar|Javali Trator
+Wild Wood|Árvore Selvagem
+Rebel Soldier|Soldado Rebelde
+Drillfish|Peixe-Broca
+Cave Queen|Rainha da Caverna
+Cave Head|Cabeça da Caverna
+Cave Swell|Inchaço da Caverna
+High Priestess|Suma Sacerdotisa
+High Bishop|Sumo Bispo
+Bug|Inseto
+Cave Baby|Bebê da Caverna
+Paralyslime|Paraligosma
+Fungus|Fungo
+Bandit|Bandido
+Wolf Hound|Cão-Lobo
+Dragonfly|Libélula
+Terazzi Soldier|Soldado de Terazzi
+Diamond Dust|Pó de Diamante
+Evil Bat|Morcego Maligno
+Moth|Mariposa
+Thief|Ladrão
+Fidelity|Fidelidade
+Hare|Lebre
+Ogre Bear|Urso Ogro
+Great Oak|Grande Carvalho
+Fluffy|Fofinho
+Gentleman Luine|Cavalheiro Luine
+Gentleman Lester|Cavalheiro Lester
+Gentleman Rhambling|Cavalheiro Rhambling
+Gentleman Valens|Cavalheiro Valens
+Evil Star|Estrela Maligna
+Blue Roper|Roper Azul
+Mad Eel|Enguia Louca
+Force Armor|Armadura de Força
+Ward|Guarda
+Fog|Névoa
+Beat Vulture|Abutre Batedor
+Rapid Bee|Abelha Veloz
+Assault Boar|Javali de Assalto
+Rampage Lizard|Lagarto Furioso
+Gloom Shark|Tubarão Sombrio
+Seal Snake|Cobra Seladora
+Muzzle Leech|Sanguessuga Boca
+King Baboon|Babuíno Rei
+Erde Fly|Mosca Erde
+Living Dead|Morto-Vivo
+Ripe Sorcerer|Feiticeiro Maduro
+Healer Knight|Cavaleiro Curandeiro
+Deep Shark|Tubarão Abissal
+Fingerfish|Peixe-Dedo
+Serpent|Serpente
+Basilisk King|Rei Basilisco
+Saber Tabby|Tabby Sabre
+Oberon Employee X|Funcionário Oberon X
+Fawn Viper|Víbora Fawn
+Red Roper|Roper Vermelho
+Infrared|Infravermelho
+Torch|Tocha
+Vile Leech|Sanguessuga Vil
+Corpse|Cadáver
+Illegal|Ilegal
+Wizard|Mago
+Darkness Armor|Armadura Sombria
+Bruiser Kongman|Kongman Brigão
+Poser Kongman|Kongman Falso
+Tentacle|Tentáculo
+Empire Beetle|Besouro Imperial
+Cupid|Cupido
+Rune Hearts|Coração Rune
+Rune Teeth|Dentes Rune
+Rune Lip|Lábio Rune
+Rune Shark|Tubarão Rune
+Purple Roper|Roper Roxo
+Fiercest Bear|Urso Mais Feroz
+Drake|Draco
+Toadstool|Cogumelo Venenoso
+Fiend|Demônio
+Super Star|Superestrela
+Bleed Fly|Mosca Sangrenta
+Nocturne|Noturno
+Savage|Selvagem
+Scent|Aroma
+Hell Battler|Combatente Infernal
+Master Wizard|Mestre Mago
+Carnival Plant|Planta Carnaval
+Imposter|Impostor
+Defeat|Derrota
+Catastrophe|Catástrofe
+Progress|Progresso
+Imperial Armor|Armadura Imperial
+Pink Roper|Roper Rosa
+Devil Fish|Peixe-Diabo
+Deep Star|Estrela Abissal
+Duelist|Duelista
+Sorcery|Feitiçaria
+Astral Demon|Demônio Astral
